@@ -21,3 +21,4 @@
 
 Fires an intense beam of cold. If a 6 is rolled on the damage dice, the target loses their next action.
 
+

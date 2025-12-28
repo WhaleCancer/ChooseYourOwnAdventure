@@ -26,3 +26,4 @@
 
 An advanced axe incorporating cryptotech technology discovered by Viking factions. Enhanced with freezing technology that can immobilize enemies on powerful strikes. Higher damage than traditional Viking weapons while maintaining the brutal effectiveness of an axe. Combines ancient Viking design with advanced spacer technology.
 
+

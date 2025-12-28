@@ -26,3 +26,4 @@ A wide-brimmed hat providing shade and minimal protection. Offers excellent prot
 
 
 
+

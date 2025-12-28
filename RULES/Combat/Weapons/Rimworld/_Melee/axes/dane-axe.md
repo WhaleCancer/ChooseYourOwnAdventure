@@ -30,3 +30,4 @@ This weapon has a chance to deal a critical strike, stunning the opponent.
 Based on the Dane axe (also known as Danish axe or Viking axe), a large two-handed axe used by Viking warriors and later by Anglo-Saxon housecarls. The distinctive "bearded" design featured a long cutting edge that extended below the haft, with "horns" at the top and bottom of the blade. The Dane axe was capable of devastating cuts that could cleave through armor and bone, making it one of the most feared weapons of the Viking Age and early medieval period. Wielded by elite warriors, it required great strength and skill to use effectively.
 
 
+

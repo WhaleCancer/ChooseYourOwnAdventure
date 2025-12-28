@@ -25,3 +25,4 @@ A beautiful long cone hat for a dame.
 Based on hennins and other tall, conical headdresses worn by noblewomen in medieval Europe, particularly during the 14th and 15th centuries. These elegant headdresses featured tall, pointed or truncated cone shapes, often decorated with veils, jewels, or fabric coverings. The hennin was a symbol of high status and fashion among noblewomen, representing wealth and social standing. While primarily fashionable rather than protective, the structure could provide some protection from the elements. These headdresses were elaborate displays of status and fashion in medieval courts.
 
 
+

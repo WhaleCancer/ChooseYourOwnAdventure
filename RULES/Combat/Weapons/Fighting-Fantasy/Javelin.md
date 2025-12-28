@@ -14,3 +14,4 @@
 
 A light spear designed to be thrown. It can be used in hand-to-hand combat at a stretch, and requires only one hand.
 
+

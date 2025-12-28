@@ -25,3 +25,4 @@ A sleek, feathered cap worn by skilled archers and woodland hunters. Its lightwe
 Based on caps and hats worn by archers, hunters, and foresters in medieval Europe. These practical head coverings featured feathers (particularly from game birds) and were designed for outdoor activities. The lightweight construction and unobstructed vision made them ideal for archery and hunting, where clear sight and peripheral awareness were essential. Archers' caps were practical and functional, allowing for maximum visibility while providing protection from sun and weather. The feather decoration often indicated skill level or success in hunting.
 
 
+

@@ -25,3 +25,4 @@
 A suit of heavy powered armor, built for increased protection while still maintaining mobility. Heavy layered plasteel-weave plates paired with a built-in energy shield emitter stop most attacks. Neuro-memetic assistors allow a human to wear this armor without immobilizing them entirely.\n\nArmor like this is often used by imperial stormtroopers and glitterworld peacekeepers.
 
 
+

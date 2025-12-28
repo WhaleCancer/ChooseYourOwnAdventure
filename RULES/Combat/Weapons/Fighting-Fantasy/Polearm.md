@@ -14,3 +14,4 @@
 
 A long shaft (up to 10' in length) with a blade, axe, or spear head. Popular with guards, but inconvenient for adventurers due to its length.
 
+

@@ -21,3 +21,4 @@
 
 A larger and heavier version of the fusion pistol, requiring two hands to use.
 
+

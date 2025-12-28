@@ -27,3 +27,4 @@
 
 Commonly used across the battlefield to dig trenches, this small portable shovel is an excellent close range weapon.
 
+

@@ -19,3 +19,4 @@
 
 Originally a tool for felling trees, adapted as a weapon of war by violent individuals. Its fast-moving chain slices through armor and flesh.
 
+

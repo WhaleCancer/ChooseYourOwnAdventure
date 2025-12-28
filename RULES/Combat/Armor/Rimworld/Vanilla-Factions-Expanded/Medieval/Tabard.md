@@ -25,3 +25,4 @@ A sleeveless cloth overgarment worn over armor or clothing, designed to display 
 Based on tabards worn by knights and soldiers throughout medieval Europe. These sleeveless surcoats were worn over armor, displaying the wearer's heraldic colors, symbols, and devices. Tabards served both practical and symbolic purposes: they protected armor from sun and weather while making identification possible on the battlefield. In an era before uniforms, tabards allowed commanders and allies to identify friendly forces and distinguished knights. The heraldic display reinforced social hierarchy and loyalty, with each knight's or lord's colors serving as a symbol of allegiance and identity.
 
 
+

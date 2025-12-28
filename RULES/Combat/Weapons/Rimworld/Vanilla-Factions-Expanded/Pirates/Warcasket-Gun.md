@@ -27,3 +27,4 @@
 
 A mounted firearm integrated into a warcasket combat suit. This huge weapon enables the wearer to engage enemies at range without needing handheld weapons. Too large for normal pawns to operate - only warcasket users can handle these massive weapons. Provides vehicle-scale firepower.
 
+

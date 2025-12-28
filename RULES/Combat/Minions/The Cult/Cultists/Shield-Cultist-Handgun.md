@@ -114,3 +114,4 @@ Shield Cultists (Handgun) serve as:
 - They can fire handguns while holding shields, but suffer accuracy penalties
 
 
+

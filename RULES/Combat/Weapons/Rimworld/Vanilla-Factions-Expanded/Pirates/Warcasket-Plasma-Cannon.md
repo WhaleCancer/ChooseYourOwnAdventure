@@ -27,3 +27,4 @@
 
 A devastating energy weapon integrated into a warcasket combat suit. This huge weapon fires superheated plasma bolts that cause vehicle-scale damage with significant area-of-effect impact. Too large for normal pawns to operate - only warcasket users can handle these massive weapons. Ideal for dealing with clustered enemies and causing widespread destruction.
 
+

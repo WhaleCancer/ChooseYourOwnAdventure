@@ -27,3 +27,4 @@
 
 An ultratech ranged weapon firing superheated plasma projectiles. High damage with excellent range and armor penetration. Used by advanced Hive units. The plasma bolts can pierce through multiple enemies and obstacles. Devastating ranged weapon for the Hive faction.
 
+

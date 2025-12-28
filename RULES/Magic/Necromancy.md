@@ -197,3 +197,4 @@ Necromancy has its own Oops table that is referred to if the casting roll is a d
 
 
 
+

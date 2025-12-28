@@ -25,3 +25,4 @@ This armor is made much more carefully and tightly out of processed leathers, sa
 Based on leather armor used throughout medieval Europe, particularly by Vikings and other warrior cultures. Well-crafted leather armor consisted of multiple layers of hardened and boiled leather, providing effective protection against cuts and some protection against arrows. Leather armor was lighter and more flexible than metal armor, allowing for greater mobility while still offering substantial protection. It was often worn in combination with shields and helmets, creating a balanced defensive system. Leather armor was more affordable than plate armor and could be worn over padded garments for additional protection.
 
 
+

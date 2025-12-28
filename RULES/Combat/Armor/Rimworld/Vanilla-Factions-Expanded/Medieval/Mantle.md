@@ -25,3 +25,4 @@ A light cloak covering shoulders and neck, providing some protection from the el
 Based on mantles and cloaks worn throughout medieval Europe by all social classes. These versatile garments consisted of a simple piece of fabric worn over the shoulders, providing protection from wind, rain, and cold. Mantles ranged from simple woolen cloaks worn by commoners to elaborate fur-lined or embroidered mantles worn by nobility. The practical design allowed for easy movement while providing essential weather protection. Mantles were essential garments in medieval life, serving both practical and social functions, with the quality and decoration indicating the wearer's social status.
 
 
+

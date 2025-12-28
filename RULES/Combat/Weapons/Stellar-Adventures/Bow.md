@@ -21,3 +21,4 @@
 
 One of the oldest weapons, this wooden (or advanced material) curve propels arrows. Some more advanced bows have counterweights and sights. This weapon can be loaded and fired in the same round.
 
+

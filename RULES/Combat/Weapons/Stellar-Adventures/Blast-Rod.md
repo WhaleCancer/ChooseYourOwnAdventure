@@ -19,3 +19,4 @@
 
 An upgraded and larger, two-handed version of the Stun Rod. When struck, all adjacent targets (friend or foe) take the same damage with no chance to avoid. On a fumble, the wielder takes a normal damage roll on themselves without armor.
 
+

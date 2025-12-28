@@ -27,3 +27,4 @@
 
 A massive autocannon integrated into a warcasket combat suit. This huge weapon fires large-caliber rounds at high rate of fire, delivering vehicle-scale damage. Too large for normal pawns to operate - only warcasket users can handle these massive weapons. Excellent for sustained fire against multiple targets or vehicles. High ammunition consumption but devastating firepower.
 
+

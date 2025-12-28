@@ -25,3 +25,4 @@ Overlapping solid plates of armor covering the entire body from neck to feet. Th
 Based on full plate armor of the late medieval period (15th-16th centuries), representing the pinnacle of personal armor protection. These suits consisted of interlocking steel plates covering the entire body, providing exceptional protection against all forms of attack. The reinforced construction and overlapping plates made heavy plate armor nearly impervious to arrows, swords, and most melee weapons. However, the weight (40-60+ pounds) and restriction significantly reduced mobility and required extensive training to wear effectively. Heavy plate armor was reserved for elite knights, nobles, and professional soldiers who could afford both the armor and the training to use it effectively.
 
 
+

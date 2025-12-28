@@ -21,3 +21,4 @@
 
 Fires a stream of super-heated plasma. It does not have a long range, and the gaseous plasma is not stopped by armor unless the armor is fully sealed (non-sealed armor offers no protection against plasma).
 
+

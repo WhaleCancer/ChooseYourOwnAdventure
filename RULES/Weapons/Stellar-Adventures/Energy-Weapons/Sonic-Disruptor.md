@@ -32,3 +32,4 @@ Ignores armour. On a damage roll of 6+ causes temporary deafness.
 
 
 
+

@@ -25,3 +25,4 @@ A beautiful metal crown. The wearer becomes very influential, but at the same ti
 Based on medieval royal crowns worn by kings and queens throughout Europe. These ornate metal crowns, often made of gold and set with precious gems, served as symbols of royal authority and divine right to rule. Crowns were central to medieval coronation ceremonies and represented the monarch's legitimacy and power. While providing minimal physical protection, crowns carried immense symbolic and political weight. The wearing of a crown was restricted to royalty and signaled the highest level of social and political authority in medieval society.
 
 
+

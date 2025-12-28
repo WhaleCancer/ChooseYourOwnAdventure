@@ -21,3 +21,4 @@
 
 Fires small plastic projectiles that fragment, inflicting major damage to unprotected targets. These fragments do not damage starship or vehicle interiors, making it a popular choice for security officers.
 
+

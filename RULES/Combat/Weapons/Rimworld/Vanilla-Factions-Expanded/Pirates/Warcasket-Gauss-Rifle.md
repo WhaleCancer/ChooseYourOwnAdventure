@@ -27,3 +27,4 @@
 
 An advanced rifle integrated into a warcasket combat suit. This huge weapon utilizes electromagnetic coils to fire projectiles at extreme velocities, delivering vehicle-scale damage with exceptional armor penetration. Too large for normal pawns to operate - only warcasket users can handle these massive weapons. Effective against heavily armored targets.
 
+

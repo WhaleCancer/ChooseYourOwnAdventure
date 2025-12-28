@@ -17,3 +17,4 @@ This Talent requires a Hero to devote their life to a Deity like a Priest, grant
 
 
 
+

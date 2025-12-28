@@ -25,3 +25,4 @@ A piece of armor covering the torso, typically made of metal plates. Provides su
 
 
 
+

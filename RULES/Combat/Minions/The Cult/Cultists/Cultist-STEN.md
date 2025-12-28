@@ -44,3 +44,4 @@ At the start of combat, roll 1d6: on a 5-6, the cultist gains +1 to SKILL for th
 STEN Cultists serve as close to medium-range threats, using their Sten SMGs to unleash rapid fire at opponents. They're fanatical fighters who will not surrender.
 
 
+

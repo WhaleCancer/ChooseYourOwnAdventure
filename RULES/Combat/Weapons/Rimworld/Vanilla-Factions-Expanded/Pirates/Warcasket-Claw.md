@@ -26,3 +26,4 @@
 
 A massive claw integrated into a warcasket combat suit. This huge weapon is designed for close-quarters combat, delivering vehicle-scale damage. Too large for normal pawns to use - only warcasket users can operate these massive weapons. Excellent at tearing through armor and enemies.
 
+

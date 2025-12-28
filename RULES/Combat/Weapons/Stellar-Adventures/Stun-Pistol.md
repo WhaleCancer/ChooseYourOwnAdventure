@@ -21,3 +21,4 @@
 
 Fires a beam that interferes with the nervous system. Damage is recovered after 10 minutes of rest. It cannot kill (target is unconscious at 0 STAMINA). A critical success doubles damage instead of other critical effects.
 
+

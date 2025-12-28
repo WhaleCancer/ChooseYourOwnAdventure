@@ -28,3 +28,4 @@ Almost all Shard Field Troopers are issued with one of these pistols as a standa
 
 
 
+

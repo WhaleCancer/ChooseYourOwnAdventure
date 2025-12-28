@@ -21,3 +21,4 @@
 
 A specially constructed, well balanced blade for throwing. This weapon can also be used in hand to hand combat. This weapon has no reload time.
 
+

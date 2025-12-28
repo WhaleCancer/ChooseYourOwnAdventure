@@ -21,3 +21,4 @@
 
 A primitive weapon, this weapon fires bolts from a metal bow on a wood or metal stock. This weapon can be loaded and fired in the same round.
 
+

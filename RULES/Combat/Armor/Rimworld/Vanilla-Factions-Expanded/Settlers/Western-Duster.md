@@ -25,3 +25,4 @@ A long coat worn by frontier settlers. Provides moderate protection and excellen
 
 
 
+

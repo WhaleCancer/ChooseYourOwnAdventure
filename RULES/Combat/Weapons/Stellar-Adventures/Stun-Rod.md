@@ -19,3 +19,4 @@
 
 A 3-foot long baton with copper caps. When activated, a strike causes a short-circuit in the target's nerves. Damage is recovered after 10 minutes of rest, and the weapon cannot kill (target becomes unconscious at 0 STAMINA). A critical success doubles the damage instead of normal critical effects.
 
+

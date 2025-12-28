@@ -26,3 +26,4 @@
 
 Natural attacks can be used for bite or claw attacks, as well as tail bashes, stingers, horns and other natural weapons.
 
+

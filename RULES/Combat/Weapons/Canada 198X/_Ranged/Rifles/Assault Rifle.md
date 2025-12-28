@@ -2,22 +2,19 @@
 
 **Variant of:** [Stellar Adventures Assault Rifle](../Stellar-Adventures/Assault-Rifle.md)
 
-## Damage Track
-
-| Roll | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Damage | 3 | 4 | 4 | 4 | 5 | 5 | 6 |
-
-## Weapon Skill Requirement
-
-Rifles skill (Skill Level: 2)
-
 ## Statistics
 
 - **Ammo:** 10
 - **Ammo/Slot:** 4
 - **Range:** Medium
 - **Hands Required:** 2
+- **Weapon Skill Requirement:** [Rifles](../../../../../Skills/PHYSICAL/Ranged-Weapons/Firearms-Light/Rifles.md) skill (Skill Level: 2)
+
+### Damage Track
+
+| Roll | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Damage | 3 | 4 | 4 | 4 | 5 | 5 | 6 |
 
 ## Combat Options
 
@@ -28,14 +25,14 @@ Rifles skill (Skill Level: 2)
 
 A standard-issue automatic rifle with good balance between range, power, and accuracy. Effective at medium to long ranges with high rate of fire.
 
-### C198X
+At the start of the game in 1985 British Columbia, the C7 (adopted by the Canadian Armed Forces in 1984) is newly introduced and increasingly common among Canadian military personnel as it replaces the older [Automatic Rifle](Automatic Rifle.md) C2A1. The C7 is a Canadian adaptation of the M16A1E1, chambered in 5.56×45mm NATO with a heavy barrel and improved sights. Also encountered are the M16A1 (adopted by the U.S. military in 1964), standard service rifle for U.S. and many allied forces, and the AK-47/AKM (adopted by the Soviet Union in 1959), the most widely produced assault rifle in the world. These select-fire rifles fire intermediate-power cartridges, allowing for both semi-automatic precision fire and automatic suppressive fire, balancing firepower, accuracy, and portability as the primary infantry weapon for modern military forces.
 
-A standard-issue automatic rifle with good balance between range, power, and accuracy. Effective at medium to long ranges with high rate of fire. At the start of the game in 1985 British Columbia, the C2A1 is the current standard service rifle for the Canadian Armed Forces, being replaced by the newly introduced C7 (adopted by the Canadian Armed Forces in 1984). The C2A1 is the automatic rifle variant of the C1A1 battle rifle, chambered in 7.62×51mm NATO. The C7 is a Canadian adaptation of the M16A1E1, chambered in 5.56×45mm NATO with a heavy barrel and improved sights, and is increasingly common among Canadian military personnel as it replaces the older C2A1. Also encountered are the M16A1 (adopted by the U.S. military in 1964), standard service rifle for U.S. and many allied forces, and the AK-47/AKM (adopted by the Soviet Union in 1959), the most widely produced assault rifle in the world. These select-fire rifles fire intermediate-power cartridges, allowing for both semi-automatic precision fire and automatic suppressive fire, balancing firepower, accuracy, and portability as the primary infantry weapon for modern military forces.
+Burst-fire variants are also encountered, such as the M16A2 (adopted by the U.S. military in 1982), which replaced full-automatic capability with a 3-round burst mechanism. These burst-fire only rifles prioritize reliability and simplicity, reducing ammunition consumption compared to fully automatic fire while maintaining suppressive capability. Burst-fire rifles are commonly used by militia forces, mercenaries, and irregular forces, emphasizing durability and ease of maintenance over cutting-edge technology. Various militia-grade assault rifles may also be encountered, designed for widespread issue to paramilitary organizations and less-trained personnel.
 
 ---
 
 ## Video References
 
-| | | |
-|:---:|:---:|:---:|
-| [![Video](https://img.youtube.com/vi/eL1G5hlF8wc/mqdefault.jpg)](https://www.youtube.com/watch?v=eL1G5hlF8wc) | [![Video](https://img.youtube.com/vi/UJO-bgYqH48/mqdefault.jpg)](https://www.youtube.com/watch?v=UJO-bgYqH48) | [![Video](https://img.youtube.com/vi/R6npGYgI3eE/mqdefault.jpg)](https://www.youtube.com/watch?v=R6npGYgI3eE) |
+| | |
+|:---:|:---:|
+| [![Video](https://img.youtube.com/vi/UJO-bgYqH48/mqdefault.jpg)](https://www.youtube.com/watch?v=UJO-bgYqH48) | [![Video](https://img.youtube.com/vi/R6npGYgI3eE/mqdefault.jpg)](https://www.youtube.com/watch?v=R6npGYgI3eE) |

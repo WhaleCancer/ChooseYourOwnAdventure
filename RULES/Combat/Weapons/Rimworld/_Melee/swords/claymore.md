@@ -30,3 +30,4 @@ This weapon has a chance to deal a critical strike, stunning the opponent.
 Based on the Scottish claymore, a large two-handed sword used from the late medieval period through the Renaissance. The claymore featured a distinctive cross-hilt with forward-angled quillons and was designed for devastating slashing attacks. These massive swords were wielded by elite Scottish warriors and highland clansmen, capable of cleaving through multiple opponents in a single swing. The claymore required exceptional strength and skill to wield effectively, but in the hands of a master, it was one of the most devastating melee weapons on the battlefield.
 
 
+

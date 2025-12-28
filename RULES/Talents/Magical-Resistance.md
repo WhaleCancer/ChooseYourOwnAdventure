@@ -17,3 +17,4 @@ Grants resistance to most lesser Magic (good or bad). A Hero with this Talent is
 
 
 
+

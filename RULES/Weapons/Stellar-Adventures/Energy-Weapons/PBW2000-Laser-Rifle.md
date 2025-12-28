@@ -28,3 +28,4 @@ This hip-fired laser rifle has no stock and a double power pack mounting for ext
 
 
 
+

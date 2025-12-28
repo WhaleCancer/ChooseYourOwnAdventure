@@ -14,3 +14,4 @@
 
 One of the most popular and common weapons. Simply a small bladed head on a wooden shaft. Easy to make, repair and maintain. Stockpiled in villages, guard towers and garrisons.
 
+

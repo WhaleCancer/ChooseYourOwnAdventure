@@ -19,3 +19,4 @@
 
 A light whip made of advanced composites with a heavy handle. When activated, sparks crackle along its length. On a strike, energy discharges into the target. If the attack hits and either of the attack dice is a 6, the whip wraps around the target, causing automatic damage each round until the target spends a round freeing themselves, even if the wielder loses the combat round.
 
+

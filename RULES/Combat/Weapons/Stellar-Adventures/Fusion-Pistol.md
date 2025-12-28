@@ -21,3 +21,4 @@
 
 Emits a beam of energy causing small-scale nuclear fusion. Armor provides some reduction of effect. Damage rolls against unarmored targets gain a +2 bonus.
 
+

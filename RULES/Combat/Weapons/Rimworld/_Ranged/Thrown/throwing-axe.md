@@ -27,3 +27,4 @@ A single-handed axe made for throwing. Light enough to be thrown accurately at m
 Based on throwing axes used by Viking warriors and medieval combatants, such as the francisca or other single-bladed throwing axes. These weapons combined melee and ranged capability, allowing warriors to throw their weapon at enemies before closing to melee combat. The balanced design allows for accurate throws while maintaining effectiveness as a hand weapon.
 
 
+

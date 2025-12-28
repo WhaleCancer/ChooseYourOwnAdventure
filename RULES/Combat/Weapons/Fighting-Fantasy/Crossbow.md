@@ -14,3 +14,4 @@
 
 A short, stout bolt for crossbows. Bolts are usually carried in a wooden case of 20 bolts.
 
+

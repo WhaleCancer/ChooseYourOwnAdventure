@@ -24,3 +24,4 @@ A long, unwieldy polearm with a sharp edge and a sharp point. The simple, ancien
 Based on halberds used throughout medieval Europe from the 14th through 16th centuries. The halberd combined an axe blade, a spear point, and often a hook or spike on the back, making it a versatile polearm. The long shaft allowed infantry to engage enemies at extended range, while the combination of axe and spear capabilities made it effective against both armored and unarmored opponents. Halberds were the signature weapon of Swiss mercenaries and became standard equipment for European infantry formations. The extended reach (approximately 2.8 meters) allowed halberdiers to engage enemies before they could close to sword range.
 
 
+

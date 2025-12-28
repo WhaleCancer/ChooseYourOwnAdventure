@@ -25,3 +25,4 @@ A strong medieval helmet that provides full-head coverage. While it offers fanta
 Based on heavy leather helmets used by Viking and Norse warriors, providing comprehensive head protection. These helmets featured full-face coverage with vision slits, similar to metal great helms but constructed from multiple layers of hardened leather. Heavy leather helmets offered good protection against most attacks while being lighter and more affordable than metal equivalents. The restricted vision required significant skill to use effectively in combat. These helmets were particularly favored by warriors in harsh climates where metal helmets could become dangerously cold.
 
 
+

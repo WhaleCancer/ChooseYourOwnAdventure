@@ -19,3 +19,4 @@
 
 Appears and functions as a standard metal sword when unpowered. When powered, a yellow corona forms along the cutting edges, and an energy field significantly increases damage on a successful hit.
 
+

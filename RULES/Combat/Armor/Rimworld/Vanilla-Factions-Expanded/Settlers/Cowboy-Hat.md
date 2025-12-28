@@ -25,3 +25,4 @@ A wide-brimmed hat typical of frontier settlers. Provides minimal protection but
 
 
 
+

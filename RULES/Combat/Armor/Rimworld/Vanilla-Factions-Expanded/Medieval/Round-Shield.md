@@ -26,3 +26,4 @@ A wooden shield held together with a metal band. A leather strap and metal handl
 Based on round shields used by Viking warriors and throughout medieval Europe. These circular shields were constructed from planks of wood (often linden or other light, strong woods) held together with metal bands or a central boss. The characteristic metal boss in the center protected the hand grip and added structural strength. Round shields were lighter and more maneuverable than larger heater shields, making them ideal for aggressive, mobile fighting styles. The all-round design provided good protection from all angles, and the relatively light weight allowed warriors to quickly reposition the shield for defense or use it actively in combat. Round shields were favored by Viking warriors and remained popular throughout the medieval period for their versatility and effectiveness.
 
 
+

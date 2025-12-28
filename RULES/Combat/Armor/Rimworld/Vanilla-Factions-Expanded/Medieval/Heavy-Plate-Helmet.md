@@ -25,3 +25,4 @@ A bulky medieval helmet that provides full-head coverage. Offers a considerable 
 Based on great helms and bascinets used by medieval knights, providing comprehensive head protection at the cost of visibility and hearing. These heavy plate helmets featured full-face coverage with vision slits, offering excellent protection against melee and ranged attacks. The restricted vision required significant training to use effectively, as knights needed to rely on peripheral vision and positioning. Heavy plate helmets were the pinnacle of medieval head protection, worn by elite knights and heavy cavalry.
 
 
+

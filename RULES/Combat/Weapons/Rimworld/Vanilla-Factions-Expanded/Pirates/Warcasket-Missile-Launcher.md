@@ -27,3 +27,4 @@
 
 A massive missile launcher integrated into a warcasket combat suit. This huge weapon fires large missiles that deliver vehicle-scale damage with massive area of effect. Too large for normal pawns to operate - only warcasket users can handle these massive weapons. Devastating against groups and structures. Long reload time but extremely powerful.
 
+

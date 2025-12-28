@@ -27,3 +27,4 @@ A powerful, long variant of the greatbow. While it doesn't excel at hitting near
 Based on English longbows and other powerful war bows used throughout medieval Europe. These longbows, typically made from yew or other flexible woods, required significant strength to draw but could launch arrows in high-arching trajectories over obstacles and fortifications. The warbow was a weapon of professional archers, capable of devastating volleys that could penetrate armor and strike enemies behind cover. The trajectory allows for indirect fire, making it effective for siege warfare and massed archer formations.
 
 
+

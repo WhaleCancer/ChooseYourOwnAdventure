@@ -28,3 +28,4 @@ Created by Frost Armaments as a concealed weapon for those who need to be armed 
 
 
 
+

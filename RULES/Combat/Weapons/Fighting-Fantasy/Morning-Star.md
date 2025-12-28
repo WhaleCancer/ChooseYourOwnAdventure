@@ -14,3 +14,4 @@
 
 A heavy spiked ball connected by a short chain to a wooden handle. Capable of lots of damage but difficult to use, incurring a -2 modifier to the wielder's attack total.
 
+

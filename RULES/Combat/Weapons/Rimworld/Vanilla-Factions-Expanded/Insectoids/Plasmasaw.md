@@ -26,3 +26,4 @@
 
 An ultratech melee weapon with a rotating plasma blade. Higher damage than a plasmacutter due to the sawing action. Extremely effective against organic targets. Used by elite Hive units. The rotating blade creates devastating wounds and can cut through armor effectively.
 
+

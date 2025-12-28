@@ -25,3 +25,4 @@ A simple leather helmet designed to not block ones communication during combat. 
 Based on simple leather caps and helmets used by medieval infantry throughout Europe. These lightweight helmets provided basic head protection while maintaining full vision and hearing, essential for shield-wielding infantry who needed to communicate and coordinate in battle. Leather helmets were affordable and practical, offering protection against glancing blows and some protection against arrows. They were often combined with shields and body armor for comprehensive protection, allowing soldiers to maintain mobility and awareness while still being protected.
 
 
+

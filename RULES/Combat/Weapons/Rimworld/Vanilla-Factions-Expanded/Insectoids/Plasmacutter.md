@@ -26,3 +26,4 @@
 
 An ultratech melee weapon using plasma technology. Creates a blade of superheated plasma that can cut through almost any material. High damage with excellent armor penetration. Used by the Hive faction and their advanced insectoid units. Devastating in close combat.
 
+

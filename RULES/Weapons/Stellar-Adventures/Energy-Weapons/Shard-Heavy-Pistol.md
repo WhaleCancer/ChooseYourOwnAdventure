@@ -28,3 +28,4 @@ Developed as an an alternative sidearm for those troopers who need to pack more 
 
 
 
+

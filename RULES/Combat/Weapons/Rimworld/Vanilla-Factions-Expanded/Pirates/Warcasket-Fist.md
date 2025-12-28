@@ -26,3 +26,4 @@
 
 A massive, reinforced gauntlet built into a warcasket combat suit. This huge weapon allows the wearer to deliver devastating vehicle-scale punches. Too large for normal pawns to use - only warcasket users can operate these massive weapons. Delivers crushing close-quarters damage.
 
+
