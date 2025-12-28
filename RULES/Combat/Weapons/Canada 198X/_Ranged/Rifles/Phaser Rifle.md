@@ -20,15 +20,12 @@
 
 - **Energy Weapon:** Uses focused nadion particle beams instead of projectiles, providing instant hit capability
 - **Stun:** Can be set to stun mode, dealing temporary damage that renders targets unconscious without causing lethal damage. See [Stun](../../../../Combat-Options/Stun.md) for details.
-- **Warm-up Boost:** Advanced battery cells allow the weapon to warm up, boosting firing speed with each consecutive shot when standing still
 
 ## Description
 
 A Starfleet-issue energy rifle from the 23rd century, capable of emitting a concentrated nadion particle beam with enough power to deal considerable damage over long distances. The phaser rifle offers superior range and damage compared to the compact [Phaser](../../Handguns/Pistols/Phaser.md) hand phasers, making it ideal for long-range engagements and extended combat situations.
 
 Phaser rifles can be set to multiple power levels, from light stun to heavy stun to kill settings, making them versatile tools for both combat and non-lethal incapacitation. The stun setting is particularly useful when dealing with unknown life forms or situations where lethal force is not appropriate, allowing Starfleet personnel to neutralize threats without causing permanent harm.
-
-Advanced battery cells power the weapon, with some models featuring warm-up systems that boost firing speed with consecutive shots when the operator remains stationary. The phaser rifle is the standard long-range energy weapon for Starfleet security teams and away teams operating in potentially hostile environments.
 
 ---
 

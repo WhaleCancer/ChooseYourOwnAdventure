@@ -64,6 +64,12 @@ Additional combat options specific to shotguns.
 
 - [Spread Shot](./Combat-Options/Spread-Shot.md) - Attack two adjacent targets (roll separately) OR target one enemy with +2 to hit (cannot use if target has adjacent allies)
 
+## Energy Weapon Combat Options
+
+Additional combat options specific to energy weapons.
+
+- [Stun](./Combat-Options/Stun.md) - Non-lethal attack mode that renders targets unconscious without causing lethal damage (temporary damage; doesn't kill even if target drops below 0 or -4)
+
 ---
 
 ## Combat Options System

@@ -6,7 +6,7 @@
 
 - **Ammo:** 6/9
 - **Ammo/Slot:** 5
-- **Range:** Short/Medium
+- **Range:** Short
 - **Hands Required:** 2 (cinematic license - can be fired one-handed with reduced accuracy)
 - **Weapon Skill Requirement:** [SMGs](../../../../../../Skills/PHYSICAL/Ranged-Weapons/Firearms-Light/SMGs.md) skill (Skill Level: 2)
 
@@ -25,7 +25,7 @@
 
 ## Description
 
-A compact automatic weapon with very high rate of fire. Excellent for its size but limited range and accuracy. Effective at close range for suppressing fire. These extremely lightweight weapons use an open-bolt design that provides natural cooling during operation, allowing for sustained bursts without overheating, though this extreme compactness comes at the cost of controllability and accuracy due to the extremely high rate of fire.
+A compact automatic weapon with very high rate of fire. Excellent for its size but limited range and accuracy. Effective at close range for suppressing fire. These extremely lightweight weapons use an open-bolt design that provides natural cooling during operation, allowing for sustained bursts without overheating, though this extreme compactness comes at the cost of controllability and accuracy due to the extremely high rate of fire. More compact and concealable than [Light SMG](../SMGs/Light SMG.md)s, but shorter range and less accurate. Similar in function to light SMGs but in a more compact, pistol-sized package.
 
 The most commonly encountered machine pistol is the MAC-10 (introduced 1970) or MAC-11, ultra-compact open-bolt submachine guns that function as machine pistols. The MAC-10's minimal weight and compact dimensions make it one of the smallest automatic weapons available. These weapons are most commonly used by biker gangs, who favor them for their concealability and devastating close-range firepower. Chambered in .45 ACP or 9mm, these weapons are capable of full-automatic operation with a rate of fire of approximately 1,100-1,200 rounds per minute, making them devastating in close-quarters combat despite their limited range and accuracy. Officers encountering these weapons should exercise extreme caution, as they represent a significant threat in close-range engagements due to their high rate of fire and compact size, which makes them easily concealable.
 

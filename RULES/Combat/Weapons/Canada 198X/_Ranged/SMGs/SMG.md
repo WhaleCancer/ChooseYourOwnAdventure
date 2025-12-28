@@ -14,7 +14,7 @@
 
 | Roll | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Damage | 2 | 3 | 3 | 4 | 4 | 4 | 5 |
+| Damage | 2 | 3 | 4 | 4 | 4 | 5 | 5 |
 
 ## Combat Options
 
@@ -24,7 +24,7 @@
 
 ## Description
 
-A compact submachine gun with excellent accuracy and controllability. The roller-delayed blowback system provides superior controllability and accuracy compared to simple blowback SMGs, balancing portability with effective close-to-medium range firepower and offering excellent accuracy and reliability for tactical operations. More compact and controllable than [Heavy SMG](Heavy SMG.md)s, but less powerful and shorter range. More substantial and accurate than [Light SMG](Light SMG.md)s, offering better accuracy, reliability, and effective range.
+A compact submachine gun with excellent accuracy and controllability. The roller-delayed blowback system provides superior controllability and accuracy compared to simple blowback SMGs, balancing portability with effective close-to-medium range firepower and offering excellent accuracy and reliability for tactical operations. More compact and controllable than [Heavy SMG](Heavy SMG.md)s, but less powerful and shorter range. More substantial, accurate, and powerful than [Light SMG](Light SMG.md)s, offering better accuracy, reliability, effective range, and damage. More powerful and longer range than [Machine Pistol](../Handguns/Pistols/Machine Pistol.md)s, but less concealable.
 
 The most commonly encountered standard SMG is the Heckler & Koch MP5 (introduced 1964), a German-designed submachine gun that became widely adopted by specialized police units and military forces worldwide during the 1980s. Known for its compact design, reliability, and accuracy, the MP5 is used by RCMP Emergency Response Team (ERT) units for tactical operations. The MP5's professional-grade design and proven performance make it the preferred choice for specialized police tactical teams, offering excellent accuracy and reliability for close-quarters combat situations. Officers encountering these weapons should be aware that the MP5 represents state-of-the-art submachine gun technology for law enforcement tactical use, with superior controllability compared to older SMG designs.
 

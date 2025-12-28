@@ -23,7 +23,7 @@
 
 ## Description
 
-A compact semi-automatic pistol with a high rate of fire, capable of firing multiple shots quickly. While it doesn't hit as hard as a [Service Revolver](../Revolvers/Service Revolver.md), it makes up for it with rapid fire capability and easy concealment, making it effective for close-range combat. Smaller and more concealable than full-size [Combat Handgun](Combat Handgun.md)s, the autopistol prioritizes portability and concealability over maximum firepower.
+A compact semi-automatic pistol with a high rate of fire, capable of firing multiple shots quickly. While it doesn't hit as hard as a [Service Revolver](../Revolvers/Service Revolver.md), it makes up for it with rapid fire capability and easy concealment, making it effective for close-range combat. Smaller and more concealable than full-size [Combat Handgun](Combat Handgun.md)s, the autopistol prioritizes portability and concealability over maximum firepower. Less powerful than [SMG](../SMGs/SMG.md)s but more concealable and easier to use one-handed.
 
 The most commonly encountered autopistols are the Walther PP (introduced 1929) and PPK (introduced 1931). The PPK is the smaller, more concealable variant, while the PP has a slightly larger grip and capacity. Both are used by some law enforcement agencies and civilians who need a compact sidearm. However, they've also developed a problematic reputation among certain groups. Cultists favor them because of the weapons' connection to Nazi Germany—it's well known that the Nazis dabbled in the occult, and some cults see these German pistols as having symbolic power. When encountering these weapons in the field, officers should be aware of these associations and the potential for encountering organized groups using them.
 
