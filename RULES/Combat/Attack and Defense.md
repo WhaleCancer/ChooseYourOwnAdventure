@@ -1,28 +1,16 @@
 # Attack and Defense
 
-In combat, **players roll all dice**. When a player attacks, they roll to hit using their own ability. When a player is attacked, they roll to defend using the opponent's ability. Players roll **2D6** and must roll **under** the appropriate value, modified by the opponent's skill and any [combat modifiers](Combat%20Modifiers.md). This system applies to both melee and ranged combat.
+In combat, **players roll all dice**. When a player attacks, they roll to hit using their own ability. When a player is attacked, they roll to defend using the opponent's ability. Players roll **2D6** and must roll **under** the appropriate value, modified by [combat modifiers](Combat%20Modifiers.md). The key difference between melee and ranged combat is that for melee attacks, the defender's skill level reduces the attacker's roll, while for ranged attacks, the defender's weapon skill does not affect the attacker's roll. This system applies to both melee and ranged combat.
 
 ## When a Player Attacks
 
-The player rolls **2D6** and must roll **under** their **PHYSICAL rating** plus their appropriate Skill (see Attacker Skills below), minus any [combat modifiers](Combat%20Modifiers.md) that apply. The exact formula depends on whether the attack is melee or ranged.
+The player rolls **2D6** and must roll **under** their **PHYSICAL rating** plus their appropriate Skill (see the skill lists below for each attack type), minus any [combat modifiers](Combat%20Modifiers.md) that apply. The exact formula depends on whether the attack is melee or ranged.
 
 ### Melee Attacks
 
 For melee attacks, the defender's skill level reduces the attacker's roll.
 
 **Formula:** Roll 2D6 under (Character's PHYSICAL + Character's Skill - Opponent's Skill - Combat Modifiers)
-
-### Ranged Attacks
-
-For ranged attacks, the defender's weapon skill does not reduce the attacker's roll. However, the defender may use Dodge or Armor (with shield) to defend, and the Director may provide other modifiers.
-
-**Formula:** Roll 2D6 under (Character's PHYSICAL + Character's Skill - Combat Modifiers)
-
-> **Note:** The Player provides their Character's PHYSICAL rating, their Character's skill level, and any applicable combat modifiers. The Director provides the opponent's skill level (if any) or any modifiers not accounted for (such as special abilities).
-
-**Special Results:** If you roll double 6, the attack automatically hits and inflicts a critical hit. If you roll double 1, the attack automatically misses and the Character fumbles. See [Critical Hits](Critical%20Hits.md) and [Fumbles](Fumbles.md) for details.
-
-### Melee Attacker Skills
 
 The attacker uses one of the following skills when making a melee attack:
 
@@ -35,7 +23,11 @@ The attacker uses one of the following skills when making a melee attack:
   - [Swords](../../Skills/PHYSICAL/Melee-Combat/Melee%20Weapons/Swords.md)
 - **[Martial Arts](../../Skills/PHYSICAL/Martial-Arts.md)** - For unarmed combat using martial arts techniques
 
-### Ranged Attacker Skills
+### Ranged Attacks
+
+For ranged attacks, the defender's weapon skill does not reduce the attacker's roll. However, the defender may use Dodge or Armor (with shield) to defend, and the Director may provide other modifiers.
+
+**Formula:** Roll 2D6 under (Character's PHYSICAL + Character's Skill - Combat Modifiers)
 
 The attacker uses one of the following skills when making a ranged attack:
 
@@ -51,6 +43,10 @@ The attacker uses one of the following skills when making a ranged attack:
 - **[Missile Weapons](../../Skills/PHYSICAL/Ranged-Weapons/Missile-Weapons.md)** - For bows, thrown weapons, and other missile weapons
   - [Bows](../../Skills/PHYSICAL/Ranged-Weapons/Missile%20Weapons/Bows.md)
   - [Thrown](../../Skills/PHYSICAL/Ranged-Weapons/Missile%20Weapons/Thrown.md)
+
+> **At the Table:** The Player provides their Character's PHYSICAL rating, their Character's skill level, and any applicable combat modifiers. The Director provides the opponent's skill level (if any) or any modifiers not accounted for (such as special abilities).
+
+**Special Results:** If you roll double 6, the attack automatically hits and inflicts a critical hit. If you roll double 1, the attack automatically misses and the Character fumbles. See [Critical Hits](Critical%20Hits.md) and [Fumbles](Fumbles.md) for details.
 
 ## When a Player is Attacked
 
