@@ -12,11 +12,11 @@ The attacker uses one of the following skills when making a melee attack:
 
 - **[Brawling](../../Skills/PHYSICAL/Melee-Combat/Brawling.md)** - For unarmed combat, knives, or improvised weapons
 - **[Melee Weapons](../../Skills/PHYSICAL/Melee-Combat/Melee-Weapons.md)** - For swords, axes, clubs, staves, polearms, and other traditional melee weapons
-  - [Axes](../../Skills/PHYSICAL/Melee-Combat/Melee Weapons/Axes.md)
-  - [Clubs](../../Skills/PHYSICAL/Melee-Combat/Melee Weapons/Clubs.md)
-  - [Polearms](../../Skills/PHYSICAL/Melee-Combat/Melee Weapons/Polearms.md)
-  - [Staves](../../Skills/PHYSICAL/Melee-Combat/Melee Weapons/Staves.md)
-  - [Swords](../../Skills/PHYSICAL/Melee-Combat/Melee Weapons/Swords.md)
+  - [Axes](../../Skills/PHYSICAL/Melee-Combat/Melee%20Weapons/Axes.md)
+  - [Clubs](../../Skills/PHYSICAL/Melee-Combat/Melee%20Weapons/Clubs.md)
+  - [Polearms](../../Skills/PHYSICAL/Melee-Combat/Melee%20Weapons/Polearms.md)
+  - [Staves](../../Skills/PHYSICAL/Melee-Combat/Melee%20Weapons/Staves.md)
+  - [Swords](../../Skills/PHYSICAL/Melee-Combat/Melee%20Weapons/Swords.md)
 - **[Martial Arts](../../Skills/PHYSICAL/Martial-Arts.md)** - For unarmed combat using martial arts techniques
 
 ## The Target Number and Defender
