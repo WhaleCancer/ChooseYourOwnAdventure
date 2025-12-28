@@ -11,8 +11,7 @@ As in most other RPG's, combat is split into rounds, each of which is about 10 s
 ## Combat Structure
 
 - **[Order Of Actions](./Order-of-Actions.md)** - How actions are resolved in a round
-- **[Melee Combat](./Melee-Combat.md)** - Melee combat rules
-- **[Ranged Combat](./#Ranged Combat.md)** - Firearms and ranged weapon rules
+- **[Attack and Defense](./Attack%20and%20Defense.md)** - Melee and ranged combat rules
 - **[Critical Hits](./Critical-Hits.md)** - Extraordinary successes
 - **[Fumbles](./Fumbles.md)** - Catastrophic failures
 - **[Powerful Attacks](./#Powerful Attacks.md)** - Overwhelming strikes
@@ -22,13 +21,9 @@ As in most other RPG's, combat is split into rounds, each of which is about 10 s
 
 See **[Order Of Actions](./Order-of-Actions.md)** for detailed rules on how actions are resolved in combat rounds, including delaying actions and early actions.
 
-## Hand-to-Hand Combat
+## Combat Resolution
 
-See **[Melee Combat](./Melee-Combat.md)** for detailed rules on hand-to-hand combat, including combat totals, damage, and armor.
-
-## Ranged Combat
-
-Two enemies shooting at each other with ranged weapons should each attempt to beat a fixed target number of 15 with their attack total. The attack total is calculated by rolling 2D6 and adding the result to MENTAL plus an appropriate Special Skill (typically Firearms or Heavy Weapons). Doing so will result in the attack hitting and damage being inflicted, with a lower total resulting in a miss. This target number is modified for cover, range, light, and so forth.
+See **[Attack and Defense](./Attack%20and%20Defense.md)** for detailed rules on melee and ranged combat, including attack and defense rolls, damage, and armor.
 
 ## Critical Hits
 
