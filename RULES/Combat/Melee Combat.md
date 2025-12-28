@@ -1,10 +1,16 @@
 # Melee Combat
 
-When two enemies fight each other in hand-to-hand combat, the attacker makes an attack roll against a target number. The target number is modified by the defender's skill level.
+In melee combat, **players roll all dice**. When a player attacks, they roll to hit using their own ability. When a player is attacked, they roll to defend using the opponent's ability. Players roll **2D6** and must roll **under** the appropriate value, modified by the opponent's skill and any [combat modifiers](Combat%20Modifiers.md).
 
-## The Attacker
+## When a Player Attacks
 
-The attacker rolls **2D6** and adds their **PHYSICAL rating** plus an appropriate Skill (see Attacker Skills below).
+The player rolls **2D6** and must roll **under** their **PHYSICAL rating** plus their appropriate Skill (see Attacker Skills below), minus the defender's skill level, minus any [combat modifiers](Combat%20Modifiers.md) that apply.
+
+**Formula:** Roll 2D6 under (Character's PHYSICAL + Character's Skill - Opponent's Skill - Combat Modifiers)
+
+The Player provides their Character's PHYSICAL rating, their Character's skill level, and any applicable combat modifiers, while the Director provides the opponent's skill level.
+
+**Special Results:** If you roll double 6, the attack automatically hits and inflicts a critical hit. If you roll double 1, the attack automatically misses and the Character fumbles. See [Critical Hits](Critical%20Hits.md) and [Fumbles](Fumbles.md) for details.
 
 ### Attacker Skills
 
@@ -19,23 +25,37 @@ The attacker uses one of the following skills when making a melee attack:
   - [Swords](../../Skills/PHYSICAL/Melee-Combat/Melee%20Weapons/Swords.md)
 - **[Martial Arts](../../Skills/PHYSICAL/Martial-Arts.md)** - For unarmed combat using martial arts techniques
 
-## The Target Number and Defender
+## When a Player is Attacked
 
-The base target number is **14**. The defender adds their skill level to this target number. The defender typically uses their weapon skill (from the Attacker Skills list above), but may use alternative skills in certain situations.
+When a player is attacked, they roll **2D6** and must roll **under** the attacker's **PHYSICAL rating** plus the attacker's skill level, minus the player's appropriate Skill (see Defender Skills below), minus any [combat modifiers](Combat%20Modifiers.md) that apply. If the player's defense roll is under this modified value, they avoid the attack. If the roll equals or exceeds this value, they are hit.
+
+**Formula:** Roll 2D6 under (Opponent's PHYSICAL + Opponent's Skill - Character's Skill - Combat Modifiers)
+
+The Director provides the opponent's PHYSICAL rating and skill level (the base target number), while the Player provides the Character's skill level and any applicable combat modifiers to subtract from the target number.
+
+**Special Results:** If you roll double 6, the attacker fumbles their attack and the Character automatically avoids the attack regardless of the roll result. If you roll double 1, the attacker scores a critical hit and the Character automatically fails to defend, being hit with a critical hit. See [Fumbles](Fumbles.md) and [Critical Hits](Critical%20Hits.md) for details.
 
 ### Defender Skills
 
-The defender adds their skill level to the target number using one of the following options:
+The player uses one of the following skills when defending against a melee attack. The player's skill level is **subtracted** from the opponent's ability (opponent's PHYSICAL + opponent's skill), making it easier to defend:
 
-- **Weapon Skill** (default) - The defender adds their weapon skill level (from the Attacker Skills list above) to the target number. [Brawling](../../Skills/PHYSICAL/Melee-Combat/Brawling.md) cannot be used as a defender skill against [Melee Weapons](../../Skills/PHYSICAL/Melee-Combat/Melee-Weapons.md) or [Martial Arts](../../Skills/PHYSICAL/Martial-Arts.md), except when the attacker is using a melee weapon but has insufficient skill to wield it properly. In that case, the defender may use Brawling.
-- **[Armor](../../Skills/PHYSICAL/Armor%20(Special%20Skill).md)** - Used by defenders wielding a shield; the defender may add either their Armor skill level or their weapon skill level to the target number.
-- **[Dodge](../../Skills/PHYSICAL/Dodge.md)** - Used by defenders who are not wearing armor; the defender may use their Dodge skill level instead of their weapon skill, adding it to the target number.
+- **Weapon Skill** (default) - The player subtracts their weapon skill level (from the Attacker Skills list above) from the opponent's ability. [Brawling](../../Skills/PHYSICAL/Melee-Combat/Brawling.md) cannot be used as a defender skill against [Melee Weapons](../../Skills/PHYSICAL/Melee-Combat/Melee-Weapons.md) or [Martial Arts](../../Skills/PHYSICAL/Martial-Arts.md), except when the attacker is using a melee weapon but has insufficient skill to wield it properly. In that case, the defender may use Brawling.
+- **[Armor](../../Skills/PHYSICAL/Armor%20(Special%20Skill).md)** - Used by defenders wielding a shield; the player may subtract either their Armor skill level or their weapon skill level from the opponent's ability.
+- **[Dodge](../../Skills/PHYSICAL/Dodge.md)** - Used by defenders who are not wearing armor; the player may use their Dodge skill level instead of their weapon skill, subtracting it from the opponent's ability.
 
 ## Resolution
 
-If the attacker's roll meets or exceeds the modified target number, they hit and inflict damage. If the roll is less than the target number, the attack misses. See [Critical Hits](Critical%20Hits.md) for special results on double 6, and [Fumbles](Fumbles.md) for special results on double 1.
+### Attacking
 
-The attacker will roll another D6 and compare the roll to their weapon damage table. The value from that table is the amount of STAMINA POINTS damage inflicted. The defender also rolls a D6 and compares the value to their [Armor](Armor-Rimworld.md) or [Dodge](Dodge.md) table (whichever they are using). The value from that table is the amount of STAMINA POINTS protection provided and should be deducted from the damage inflicted. Whatever damage is left should be deducted from the current STAMINA POINTS of the losing character.
+If the player's attack roll is under the modified value (PHYSICAL + skill - opponent's skill - modifiers), they hit and inflict damage. If the roll equals or exceeds this value, the attack misses.
+
+If the attack hits, the player rolls another D6 and compares the roll to their weapon damage table. The value from that table is the amount of STAMINA POINTS damage inflicted. The defender (NPC or another player) then rolls a D6 and compares the value to their [Armor](Armor-Rimworld.md) or [Dodge](Dodge.md) table (whichever they are using). The value from that table is the amount of STAMINA POINTS protection provided and should be deducted from the damage inflicted. Whatever damage is left should be deducted from the current STAMINA POINTS of the target.
+
+### Defending
+
+If the player's defense roll is under the modified value (opponent's PHYSICAL + opponent's skill - player's skill - modifiers), they avoid the attack. If the roll equals or exceeds this value, they are hit.
+
+If the player is hit, the attacker (NPC or another player) determines damage from their weapon damage table. The player then rolls a D6 and compares the value to their [Armor](Armor-Rimworld.md) or [Dodge](Dodge.md) table (whichever they are using). The value from that table is the amount of STAMINA POINTS protection provided and should be deducted from the damage inflicted. Whatever damage is left should be deducted from the player's current STAMINA POINTS.
 
 If a character's STAMINA POINTS are reduced to 0 or lower, see [Death and Dying](Death%20and%20Dying.md) for the rules on unconsciousness, dying, and death.
 
