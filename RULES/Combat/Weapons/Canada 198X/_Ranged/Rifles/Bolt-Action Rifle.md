@@ -21,7 +21,7 @@
 - **Range:** Long
 - **Hands Required:** 2
 - **Encumbrance:** 2
-- **Weapon Skill Requirement:** [Rifles](../../../../../Skills/PHYSICAL/Ranged-Weapons/Firearms-Light/Rifles.md) skill (Skill Level: 3)
+- **Weapon Skill Requirement:** [Rifles](../../../../../Skills/PHYSICAL/Ranged-Weapons/Firearms-Light/Rifles.md) skill (Skill Level: 1)
 
 ## Description
 
