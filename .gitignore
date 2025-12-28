@@ -61,6 +61,9 @@ $RECYCLE.BIN/
 # Problematic file that can't be indexed by git
 RULES/Skills/LUCK/Con.md
 
+# Tools directory (large files)
+tools/
+
 # ========================================
 # EXPLICITLY INCLUDED (Published to GitHub)
 # ========================================
