@@ -1,5 +1,7 @@
 # Bolt-Action Rifle
 
+![Bolt-Action Rifle](Bolt-Action Rifle.png)
+
 **Variant of:** [Stellar Adventures Laser Rifle](../Stellar-Adventures/Laser-Rifle.md)
 
 ## Damage Track
