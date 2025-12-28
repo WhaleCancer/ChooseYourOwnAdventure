@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img src="Bolt-Action Rifle.svg" alt="Bolt-Action Rifle" width="100%" style="max-width: 8000px;">
+<img src="BoltActionRifle.png" alt="Bolt-Action Rifle" width="100%" style="max-width: 800px;">
 
 </div>
 
-**Variant of:** [[../Stellar-Adventures/Laser-Rifle|Stellar Adventures Laser Rifle]]
+**Variant of:** [Stellar Adventures Laser Rifle](../Stellar-Adventures/Laser-Rifle.md)
 
 ## Damage Track
 
@@ -21,7 +21,7 @@
 - **Range:** Long
 - **Hands Required:** 2
 - **Encumbrance:** 2
-- **Weapon Skill Requirement:** [[../../../../../Skills/PHYSICAL/Ranged-Weapons/Firearms-Light/Rifles|Rifles]] skill (Skill Level: 3)
+- **Weapon Skill Requirement:** [Rifles](../../../../../Skills/PHYSICAL/Ranged-Weapons/Firearms-Light/Rifles.md) skill (Skill Level: 3)
 
 ## Description
 
