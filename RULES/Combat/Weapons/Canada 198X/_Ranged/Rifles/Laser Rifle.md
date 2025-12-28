@@ -22,7 +22,7 @@
 
 ## Description
 
-An ultratech rifle capable of emitting a concentrated beam of light with enough power to deal considerable damage over long distances. The laser technology provides precision energy-based firepower with the reliability and range of advanced military weapons.
+An ultratech rifle capable of emitting a concentrated beam of light with enough power to deal considerable damage over long distances. The laser technology provides precision energy-based firepower with the reliability and range of advanced military weapons. The rifle version offers superior range and damage compared to the compact [Laser Pistol](../../Handguns/Pistols/Laser Pistol.md), making it ideal for long-range engagements.
 
 This futuristic weapon draws inspiration from science fiction media, including laser rifles from movies, television shows, and video games featuring advanced energy weaponry. The laser technology represents a futuristic evolution of rifle technology, using focused light beams instead of projectiles, providing instant hit capability and eliminating the need for ammunition in the traditional sense. Advanced battery cells power the weapon, with some models featuring warm-up systems that boost firing speed with consecutive shots when the operator remains stationary.
 

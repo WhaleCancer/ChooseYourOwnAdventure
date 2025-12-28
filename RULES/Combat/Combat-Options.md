@@ -44,6 +44,20 @@ The Combat Companion supplement expands combat options with additional tactical 
 - [Tumbling Attack](./Combat-Options/Tumbling-Attack.md)
 - [Whirlwind Attack](./Combat-Options/Whirlwind-Attack.md)
 
+## Handgun Combat Options
+
+Additional combat options specific to handguns and one-handed weapons.
+
+- [Two-Handed Aim](./Combat-Options/Two-Handed-Aim.md) - Gain a +1 bonus to attack rolls when aiming with two hands (cannot move in the same round)
+- [Two-Handed Required](./Combat-Options/Two-Handed-Required.md) - Weapon limitation: requires two hands or suffer a -1 penalty
+
+## Machine Gun Combat Options
+
+Additional combat options specific to machine guns and heavy automatic weapons.
+
+- [Bracing Required](./Combat-Options/Bracing.md) - Weapon limitation: requires bracing against a solid surface or suffer a -2 penalty (can move while braced)
+- [Bipod Fire](./Combat-Options/Bipod-Fire.md) - Gain a +1 bonus to attack rolls when firing from a deployed bipod while prone or kneeling (setup time required, cannot move)
+
 ---
 
 ## Combat Options System

@@ -24,7 +24,7 @@
 
 ## Description
 
-A spacer-tech gauss rifle. A set of electromagnetic coils accelerate ferromagnetic sabots up to breakneck speeds, penetrating armor and piercing through multiple targets alike. These weapons are popular among frontline infantry fighting in mechanoid wars.
+A spacer-tech gauss rifle. A set of electromagnetic coils accelerate ferromagnetic sabots up to breakneck speeds, penetrating armor and piercing through multiple targets alike. These weapons are popular among frontline infantry fighting in mechanoid wars. The rifle version offers superior range, damage, and penetration compared to the compact [Gauss Magnum](../../Handguns/Revolvers/Gauss Magnum.md), making it ideal for long-range engagements and armor-piercing applications.
 
 This futuristic weapon draws inspiration from the Gauss Rifle featured in Fallout 2 (1998), a powerful magnetic accelerator rifle that uses electromagnetic coils to launch ferromagnetic projectiles at extreme velocities. The electromagnetic acceleration technology represents a futuristic evolution of projectile weapons, using magnetic fields to launch projectiles at velocities far exceeding traditional firearms, providing exceptional penetration and range. The electromagnetic acceleration technology eliminates the need for chemical propellants, allowing for silent operation and extreme projectile velocities that can penetrate even heavy armor.
 
