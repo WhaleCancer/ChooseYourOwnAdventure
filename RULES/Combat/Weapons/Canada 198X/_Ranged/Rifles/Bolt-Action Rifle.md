@@ -8,13 +8,13 @@
 
 **Variant of:** [Stellar Adventures Laser Rifle](../Stellar-Adventures/Laser-Rifle.md)
 
-## Damage Track
+## Statistics
+
+### Damage Track
 
 | Roll | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Damage | 3 | 4 | 5 | 5 | 6 | 6 | 7 |
-
-## Statistics
 
 - **Ammo:** 24
 - **Ammo/Slot:** 3
