@@ -1,0 +1,10 @@
+# M6 Forgotten Cellar
+
+**Suggested Maximum number:** 5
+
+You notice a rotting wooden door that is almost completely obscured by a heavy layer of creepers and vines. Trying the handle, you find it is stiff but not locked. You push the vines aside and open the door - moving slightly into the space before you reveals a vaulted chamber made from well cut stone. The chamber stretches away and you guess it is about 60' long, but only 15' wide. It is cool and dry, which has helped preserve the shelving that lines both walls, leaving only an unobstructed 5' wide path down the middle of the room. Sadly the contents of the shelves have not fared well. Broken bottles and smashed casks litter the floor, making a little crunching noise as you take a step forward. It is as if a great gust of wind has blown through here, hurling everything movable up into the air then slamming it into the cut stone floor. The room has a sweet but not unpleasant smell of spilt wine still lingering after who knows how many years of abandonment. What do you do?
+
+- Seems like you are very late to this party - You close the door and move on with your adventure.
+- Moving carefully amongst the broken glass and cask fragments, I'll search the room. If you have a torch to light (it's dark in here) you can make an Awareness roll with a -3 penalty. If you succeed you find a preserved bottle of fine wine. You can drink it, or if you keep it you can offer it to someone you encounter to gain +2 on your Bribery Skill roll.
+- A sudden, irresistible, thought comes to you. Putting your shoulder to the side of one of the shelves you give it a hard shove - make a Strength skill roll - and watch with glee as the entire row of shelving smashes into each other and topples over. Enjoying yourself you repeat the trick with the other side. As the noise fades you realise you might have alerted someone…..roll on Table 5.6 Random Monster Encounters. (if you fail the Strength roll, you just get a small bruise to your shoulder and your pride and should move sheepishly onto your next encounter).
+

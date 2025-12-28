@@ -1,0 +1,383 @@
+﻿
+=== WEAPON TABLES ===
+
+### Vanilla Apparel Expanded - Accessories
+
+### Vanilla Factions Expanded - Ancients
+
+**Ranged Weapons:**
+
+| Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Ancients/ancient-point-defense-turret\|ancient point defense turret]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Ancients/ancient-security-turret-gun\|ancient security turret gun]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+
+### Vanilla Factions Expanded - Classical
+
+**Melee Weapons:**
+
+| Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Classical/dagger\|dagger]] | 2 | 3 | 4 | 4 | 5 | 6 | 7 |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Classical/spatha\|spatha]] | 3 | 4 | 4 | 5 | 5 | 6 | 8 |
+
+**Ranged Weapons:**
+
+| Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Classical/javelin\|javelin]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Classical/scorpion\|scorpion]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Classical/scorpion\|scorpion]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+
+### Vanilla Factions Expanded - Pirates
+
+**Melee Weapons:**
+
+| Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Pirates/spidermine\|spidermine]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Pirates/warcasket-broadsword\|warcasket broadsword]] | 5 | 6 | 7 | 8 | 9 | 11 | 15 |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Pirates/warcasket-combat-knife\|warcasket combat knife]] | 5 | 6 | 7 | 8 | 9 | 11 | 14 |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Pirates/warcasket-gravity-hammer\|warcasket gravity hammer]] | 5 | 6 | 7 | 8 | 9 | 11 | 15 |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Pirates/warcasket-plasma-sword\|warcasket plasma sword]] | 5 | 6 | 7 | 8 | 9 | 11 | 15 |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Pirates/wardrone\|wardrone]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+
+**Warcasket Ranged Weapons (Vehicle-Scale):**
+
+| Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Pirates/cannon\|cannon]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Pirates/field-gun\|field gun]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Pirates/field-gun\|field gun]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Pirates/gauntlet-charge-cannon\|gauntlet charge cannon]] | 3 | 4 | 4 | 5 | 5 | 6 | 8 |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Pirates/mini-blaster\|mini blaster]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Pirates/warcasket-autorifle\|warcasket autorifle]] | 5 | 6 | 7 | 8 | 9 | 11 | 14 |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Pirates/warcasket-autorifle\|warcasket autorifle]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Pirates/warcasket-broadsword\|warcasket broadsword]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Pirates/warcasket-charge-blaster\|warcasket charge blaster]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Pirates/warcasket-charge-blaster\|warcasket charge blaster]] | 3 | 4 | 5 | 5 | 6 | 7 | 9 |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Pirates/warcasket-charge-lance\|warcasket charge lance]] | 6 | 7 | 8 | 9 | 10 | 12 | 16 |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Pirates/warcasket-charge-lance\|warcasket charge lance]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Pirates/warcasket-combat-knife\|warcasket combat knife]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Pirates/warcasket-gravity-hammer\|warcasket gravity hammer]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Pirates/warcasket-grenade-launcher\|warcasket grenade launcher]] | 4 | 5 | 6 | 7 | 8 | 9 | 12 |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Pirates/warcasket-grenade-launcher\|warcasket grenade launcher]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Pirates/warcasket-handheld-cannon\|warcasket handheld cannon]] | 3 | 4 | 5 | 5 | 6 | 7 | 9 |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Pirates/warcasket-handheld-cannon\|warcasket handheld cannon]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Pirates/warcasket-heavy-flamer\|warcasket heavy flamer]] | 4 | 5 | 6 | 7 | 8 | 9 | 12 |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Pirates/warcasket-heavy-flamer\|warcasket heavy flamer]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Pirates/warcasket-minigun\|warcasket minigun]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Pirates/warcasket-minigun\|warcasket minigun]] | 4 | 5 | 6 | 7 | 8 | 9 | 12 |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Pirates/warcasket-slugthrower\|warcasket slugthrower]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Pirates/warcasket-slugthrower\|warcasket slugthrower]] | 5 | 6 | 7 | 8 | 9 | 11 | 14 |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Pirates/warcasket-uranium-slug-rifle\|warcasket uranium slug rifle]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Pirates/warcasket-uranium-slug-rifle\|warcasket uranium slug rifle]] | 6 | 7 | 8 | 9 | 10 | 12 | 16 |
+
+### Vanilla Factions Expanded - Settlers
+
+**Ranged Weapons:**
+
+| Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Settlers/double-action-revolver\|double action revolver]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Settlers/double-barreled-shotgun\|double barreled shotgun]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Settlers/dynamite\|dynamite]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Settlers/gatling-gun\|gatling gun]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Settlers/gatling-gun-turret\|gatling gun turret]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Settlers/hunting-rifle\|hunting rifle]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [[Weapons/Rimworld/Vanilla-Factions-Expanded\Settlers/tomahawk\|tomahawk]] | 2 | 3 | 4 | 4 | 5 | 6 | 7 |
+
+### Vanilla Persona Weapons Expanded
+
+### Vanilla Weapons Expanded
+
+**Melee Weapons:**
+
+| Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/baton\|baton]] | 2 | 3 | 4 | 4 | 5 | 6 | 7 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/battle-axe\|battle axe]] | 3 | 4 | 5 | 5 | 6 | 7 | 9 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/combat-knife\|combat knife]] | 2 | 3 | 4 | 4 | 5 | 6 | 7 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/halberd\|halberd]] | 3 | 4 | 5 | 6 | 7 | 8 | 10 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/hammer\|hammer]] | 2 | 3 | 4 | 4 | 5 | 6 | 7 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/hatchet\|hatchet]] | 2 | 3 | 4 | 4 | 5 | 6 | 7 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/shovel\|shovel]] | 2 | 3 | 4 | 4 | 5 | 6 | 7 |
+
+**Ranged Weapons:**
+
+| Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/anti-material-rifle\|anti material rifle]] | 4 | 5 | 6 | 7 | 8 | 9 | 11 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/battle-rifle\|battle rifle]] | 2 | 3 | 4 | 4 | 5 | 6 | 7 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/carbine\|carbine]] | 2 | 3 | 4 | 4 | 5 | 6 | 7 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/charge-LMG\|charge LMG]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/charge-minigun\|charge minigun]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/charge-pistol\|charge pistol]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/charge-rocket-launcher\|charge rocket launcher]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/charge-shotgun\|charge shotgun]] | 3 | 4 | 4 | 5 | 5 | 6 | 8 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/charge-SMG\|charge SMG]] | 2 | 3 | 4 | 4 | 5 | 6 | 7 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/charge-sniper-rifle\|charge sniper rifle]] | 3 | 4 | 4 | 5 | 5 | 6 | 8 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/combat-handgun\|combat handgun]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/compound-bow\|compound bow]] | 2 | 3 | 4 | 4 | 5 | 6 | 7 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/crossbow\|crossbow]] | 3 | 4 | 4 | 5 | 5 | 6 | 8 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/doomsday-rocket-launcher\|doomsday rocket launcher]] | 2 | 3 | 4 | 4 | 5 | 6 | 7 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/fire-extinguisher\|fire extinguisher]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/flamethrower\|flamethrower]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/flash-grenades\|flash grenades]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/flintlock\|flintlock]] | 3 | 4 | 4 | 5 | 5 | 6 | 8 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/grenade-launcher\|grenade launcher]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/Hand-Cannon\|Hand Cannon]] | 3 | 4 | 4 | 5 | 5 | 6 | 8 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/HMG\|HMG]] | 2 | 3 | 4 | 4 | 5 | 6 | 7 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/lever-action-rifle\|lever action rifle]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/light-SMG\|light SMG]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/long-bow\|long bow]] | 3 | 4 | 4 | 5 | 5 | 6 | 8 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/marksman-rifle\|marksman rifle]] | 3 | 4 | 4 | 5 | 5 | 6 | 8 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/musket\|musket]] | 3 | 4 | 4 | 5 | 5 | 6 | 8 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/rocket-launcher\|rocket launcher]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/sawed-off-Shotgun\|sawed off Shotgun]] | 3 | 4 | 4 | 5 | 5 | 6 | 8 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/semi-automatic-rifle\|semi automatic rifle]] | 2 | 3 | 4 | 4 | 5 | 6 | 7 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/service-rifle\|service rifle]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/SMG\|SMG]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/smoke-grenades\|smoke grenades]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/throwing-knives\|throwing knives]] | 2 | 3 | 4 | 4 | 5 | 6 | 7 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/throwing-rocks\|throwing rocks]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/triple-rocket-launcher\|triple rocket launcher]] | 2 | 3 | 4 | 4 | 5 | 6 | 7 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/Whip\|Whip]] | 2 | 3 | 4 | 4 | 5 | 6 | 7 |
+
+### Vanilla Weapons Expanded - Coilguns
+
+**Ranged Weapons:**
+
+| Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Coilguns/gauss-lance\|gauss lance]] | 2 | 3 | 4 | 4 | 5 | 6 | 7 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Coilguns/gauss-magnum\|gauss magnum]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Coilguns/gauss-rifle\|gauss rifle]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+
+### Vanilla Weapons Expanded - Frontier
+
+**Ranged Weapons:**
+
+| Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Frontier/frontier-pistol\|frontier pistol]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Frontier/heavy-revolver\|heavy revolver]] | 3 | 4 | 4 | 5 | 5 | 6 | 8 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Frontier/repeating-shotgun\|repeating shotgun]] | 3 | 4 | 4 | 5 | 5 | 6 | 8 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Frontier/rolling-block-rifle\|rolling block rifle]] | 3 | 4 | 5 | 5 | 6 | 7 | 9 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Frontier/volcanic-pistol\|volcanic pistol]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+
+### Vanilla Weapons Expanded - Grenades
+
+**Ranged Weapons:**
+
+| Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Grenades/EMP-grenade-belt\|EMP grenade belt]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Grenades/frag-grenade-belt\|frag grenade belt]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Grenades/molotov-belt\|molotov belt]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+
+### Vanilla Weapons Expanded - Heavy Weapons
+
+**Ranged Weapons:**
+
+| Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Heavy-Weapons/autocannon\|autocannon]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Heavy-Weapons/handheld-mortar\|handheld mortar]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Heavy-Weapons/heavy-flamer\|heavy flamer]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Heavy-Weapons/swarm-missile-launcher\|swarm missile launcher]] | 2 | 3 | 4 | 4 | 5 | 6 | 7 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Heavy-Weapons/uranium-slug-rifle\|uranium slug rifle]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+
+### Vanilla Weapons Expanded - Laser
+
+**Ranged Weapons:**
+
+| Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Laser/laser-minigun\|laser minigun]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Laser/laser-pistol\|laser pistol]] | 2 | 3 | 4 | 4 | 5 | 6 | 7 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Laser/laser-rifle\|laser rifle]] | 2 | 3 | 4 | 4 | 5 | 6 | 7 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Laser/laser-shotgun\|laser shotgun]] | 2 | 3 | 4 | 4 | 5 | 6 | 7 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Laser/laser-SMG\|laser SMG]] | 2 | 3 | 4 | 4 | 5 | 6 | 7 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Laser/laser-sniper-rifle\|laser sniper rifle]] | 4 | 5 | 6 | 7 | 8 | 9 | 11 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Laser/salvaged-laser-pistol\|salvaged laser pistol]] | 2 | 3 | 4 | 4 | 5 | 6 | 7 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Laser/salvaged-laser-rifle\|salvaged laser rifle]] | 2 | 3 | 4 | 4 | 5 | 6 | 7 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Laser/salvaged-laser-shotgun\|salvaged laser shotgun]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Laser/salvaged-laser-sniper-rifle\|salvaged laser sniper rifle]] | 4 | 5 | 6 | 7 | 8 | 9 | 11 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Laser/tesla-gun\|tesla gun]] | 2 | 3 | 4 | 4 | 5 | 6 | 7 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Laser/unfinished-laser-gun\|unfinished laser gun]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+
+### Vanilla Weapons Expanded - Makeshift
+
+**Ranged Weapons:**
+
+| Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Makeshift/makeshift-LMG\|makeshift LMG]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Makeshift/makeshift-pistol\|makeshift pistol]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Makeshift/makeshift-rifle\|makeshift rifle]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Makeshift/makeshift-shotgun\|makeshift shotgun]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Makeshift/makeshift-SMG\|makeshift SMG]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+
+### Vanilla Weapons Expanded - Non-Lethal
+
+**Melee Weapons:**
+
+| Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Non-Lethal/heavy-club\|heavy club]] | 3 | 4 | 5 | 5 | 6 | 7 | 9 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Non-Lethal/light-club\|light club]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Non-Lethal/shiv\|shiv]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Non-Lethal/tribal-axe\|tribal axe]] | 2 | 3 | 4 | 4 | 5 | 6 | 7 |
+
+**Ranged Weapons:**
+
+| Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Non-Lethal/fire-bombs\|fire bombs]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Non-Lethal/sling\|sling]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Non-Lethal/throwing-shards\|throwing shards]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+
+### Vanilla Weapons Expanded - Tribal
+
+**Ranged Weapons:**
+
+| Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Tribal/dart-gun\|dart gun]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [[Weapons/Rimworld/Vanilla-Weapons-Expanded\Tribal/taser-gun\|taser gun]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+
+
+=== ARMOR TABLES ===
+
+### Vanilla Apparel Expanded
+
+| Armor | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Apparel/apron\|apron]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Apparel/Baseball-Cap\|Baseball Cap]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Apparel/blouse\|blouse]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Apparel/boots\|boots]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Apparel/Builder's-Jacket\|Builder's Jacket]] | 1 | 1 | 2 | 2 | 3 | 4 | 5 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Apparel/Casual-T-Shirt\|Casual T Shirt]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Apparel/Chef's-Toque\|Chef's Toque]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Apparel/Chef's-Uniform\|Chef's Uniform]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Apparel/Doctor-Scrubs\|Doctor Scrubs]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Apparel/fedora\|fedora]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Apparel/Fleece-Shirt\|Fleece Shirt]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Apparel/Glasses\|Glasses]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Apparel/gloves\|gloves]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Apparel/Hardhat\|Hardhat]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Apparel/hoodie\|hoodie]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Apparel/jeans\|jeans]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Apparel/Jumpsuit\|Jumpsuit]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Apparel/Lab-Coat\|Lab Coat]] | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Apparel/military-beret\|military beret]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Apparel/Military-Jacket\|Military Jacket]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Apparel/Military-Uniform\|Military Uniform]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Apparel/overalls\|overalls]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Apparel/Pelt-Coat\|Pelt Coat]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Apparel/scarf\|scarf]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Apparel/Sheriff-Shirt\|Sheriff Shirt]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Apparel/Shirt-and-Tie\|Shirt and Tie]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Apparel/shoes\|shoes]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Apparel/shorts\|shorts]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Apparel/skirt\|skirt]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Apparel/Suit-jacket\|Suit jacket]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Apparel/Sunglasses\|Sunglasses]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Apparel/Surgical-Mask\|Surgical Mask]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Apparel/Tank-Top\|Tank Top]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Apparel/Tribal-Kilt\|Tribal Kilt]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Apparel/Tribal-Poncho\|Tribal Poncho]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Apparel/trousers\|trousers]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Apparel/tunic\|tunic]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+
+### Vanilla Apparel Expanded - Accessories
+
+| Armor | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Accessories/ammo-pack\|ammo pack]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Accessories/backpack\|backpack]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Accessories/battle-banner\|battle banner]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Accessories/explosive-belt\|explosive belt]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Accessories/medic-bag\|medic bag]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Accessories/mini-turret-pack\|mini turret pack]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Accessories/quiver\|quiver]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Accessories/ranged-shield-belt\|ranged shield belt]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Accessories/ressurector-belt\|ressurector belt]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded\Accessories/tool-belt\|tool belt]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+
+### Vanilla Armour Expanded
+
+| Armor | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded/balaclava\|balaclava]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded/chainmail\|chainmail]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded/chestplate\|chestplate]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded/gambeson\|gambeson]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded/ghillie-hood\|ghillie hood]] | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded/ghillie-suit\|ghillie suit]] | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded/HAZMAT-hood\|HAZMAT hood]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded/HAZMAT-suit\|HAZMAT suit]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded/light-plate-armor\|light plate armor]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded/marine-boots\|marine boots]] | 1 | 1 | 2 | 2 | 3 | 4 | 5 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded/marine-gloves\|marine gloves]] | 1 | 1 | 2 | 2 | 3 | 4 | 5 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded/plate-boots\|plate boots]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded/plate-gloves\|plate gloves]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded/plate-helmet\|plate helmet]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded/plate-shoulderpads\|plate shoulderpads]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded/quilted-vest\|quilted vest]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded/riot-armor\|riot armor]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded/riot-helmet\|riot helmet]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded/riot-shield\|riot shield]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded/siegebreaker-armor\|siegebreaker armor]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded/siegebreaker-helmet\|siegebreaker helmet]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded/stone-war-mask\|stone war mask]] | 0 | 0 | 0 | 0 | 1 | 1 | 2 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded/trooper-armor\|trooper armor]] | 0 | 1 | 1 | 2 | 2 | 3 | 4 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded/trooper-helmet\|trooper helmet]] | 1 | 1 | 2 | 2 | 3 | 4 | 5 |
+| [[Armor/Rimworld/Vanilla-Armor-Expanded/wooden-armor\|wooden armor]] | 0 | 1 | 1 | 2 | 2 | 3 | 3 |
+
+### Vanilla Factions Expanded - Classical
+
+| Armor | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [[Armor/Rimworld//centurion-armor\|centurion armor]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld//centurion-helmet\|centurion helmet]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld//legionnaire-armor\|legionnaire armor]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld//legionnaire-helmet\|legionnaire helmet]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld//toga\|toga]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld//wreath\|wreath]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+
+### Vanilla Factions Expanded - Pirates
+
+| Armor | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [[Armor/Rimworld//privateer-armor\|privateer armor]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [[Armor/Rimworld//rumsuit\|rumsuit]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+
+### Vanilla Factions Expanded - Settlers
+
+| Armor | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [[Armor/Rimworld//bandana\|bandana]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld//flat-cap\|flat cap]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld//great-dress\|great dress]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld//sombrero\|sombrero]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld//vest\|vest]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+
+### Vanilla Weapons Expanded - Grenades
+
+| Armor | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [[Armor/Rimworld//EMP-grenade-belt\|EMP grenade belt]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld//frag-grenade-belt\|frag grenade belt]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [[Armor/Rimworld//molotov-belt\|molotov belt]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+
+### Vanilla Weapons Expanded - Heavy Weapons
+
+| Armor | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [[Armor/Rimworld//exoskeleton-frame\|exoskeleton frame]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+
+
+Tables generated! Copy the output above to the top-level files.

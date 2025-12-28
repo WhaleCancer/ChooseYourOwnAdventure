@@ -1,0 +1,53 @@
+# Combat Options
+
+Most of the time, shoot‑outs and bar fights in EPIC can be resolved using the **standard attack rules**: roll to hit, then roll on the weapon's damage track and subtract armour. However, when the scene slows down around bullet time or a character does something bold, you can use **Combat Options** to bend the rules.
+
+## Advanced Fighting Fantasy (Advanced Fighting Fantasy 2nd Ed, Pages 57-65) [Page 0057](../../../AFF_Advanced_Fighting_Fantasy_2nd_Ed_Pages/page_0057.png) [Page 0058](../../../AFF_Advanced_Fighting_Fantasy_2nd_Ed_Pages/page_0058.png) [Page 0059](../../../AFF_Advanced_Fighting_Fantasy_2nd_Ed_Pages/page_0059.png) [Page 0060](../../../AFF_Advanced_Fighting_Fantasy_2nd_Ed_Pages/page_0060.png) [Page 0061](../../../AFF_Advanced_Fighting_Fantasy_2nd_Ed_Pages/page_0061.png) [Page 0062](../../../AFF_Advanced_Fighting_Fantasy_2nd_Ed_Pages/page_0062.png) [Page 0063](../../../AFF_Advanced_Fighting_Fantasy_2nd_Ed_Pages/page_0063.png) [Page 0064](../../../AFF_Advanced_Fighting_Fantasy_2nd_Ed_Pages/page_0064.png) [Page 0065](../../../AFF_Advanced_Fighting_Fantasy_2nd_Ed_Pages/page_0065.png)
+
+The Advanced Fighting Fantasy 2nd Edition rulebook introduces several combat options that allow Heroes to modify their combat approach.
+
+- [[Combat-Options/All-Out-Attack|All Out Attack]]
+- [[Combat-Options/Defensive-Stance|Defensive Stance]]
+- [[Combat-Options/Feint|Feint]]
+- [[Combat-Options/Rapid-Shot|Rapid Shot]]
+- [[Combat-Options/Push-Back|Push Back]]
+
+## Stellar Adventures (CB77011, Page 31) [Page 0031](../../../CB77011_stellar-adventures_Pages/page_0031.png)
+
+The Stellar Adventures rulebook introduces additional combat options providing tactical choices for characters in ranged and melee combat situations.
+
+- [[Combat-Options/Assist|Assist]]
+- [[Combat-Options/Defensive-Stance|Defensive Stance]]
+- [[Combat-Options/Disarm|Disarm]]
+- [[Combat-Options/Feint|Feint]]
+- [[Combat-Options/Hyperfire|Hyperfire]]
+- [[Combat-Options/Long-Shot|Long Shot]]
+- [[Combat-Options/Push-Back|Push Back]]
+- [[Combat-Options/Rapid-Shot|Rapid Shot]]
+- [[Combat-Options/Sniper-Shot|Sniper Shot]]
+- [[Combat-Options/Quickshot|Quickshot]]
+
+## Combat Companion (CB77021, Pages 24-27) [Page 0024](../../../CB77021_Combat_Companion_Pages/adapted/page_0024.png) [Page 0025](../../../CB77021_Combat_Companion_Pages/adapted/page_0025.png) [Page 0026](../../../CB77021_Combat_Companion_Pages/adapted/page_0026.png) [Page 0027](../../../CB77021_Combat_Companion_Pages/adapted/page_0027.png)
+
+The Combat Companion supplement expands combat options with additional tactical choices.
+
+- [[Combat-Options/Assist|Assist]]
+- [[Combat-Options/Bypass-Armour|Bypass Armour]]
+- [[Combat-Options/Cautious-Attack|Cautious Attack]]
+- [[Combat-Options/Charging-Attack|Charging Attack]]
+- [[Combat-Options/Disarm|Disarm]]
+- [[Combat-Options/Dodging-Attack|Dodging Attack]]
+- [[Combat-Options/Double-Shot|Double Shot]]
+- [[Combat-Options/Frenzied-Attack|Frenzied Attack]]
+- [[Combat-Options/Stand-Firm|Stand Firm]]
+- [[Combat-Options/Sniper-Shot|Sniper Shot]]
+- [[Combat-Options/Tumbling-Attack|Tumbling Attack]]
+- [[Combat-Options/Whirlwind-Attack|Whirlwind Attack]]
+
+---
+
+## Combat Options System
+
+A character may normally declare **one Combat Option per round** (unless the option says otherwise). The option must be **announced before rolling** any attacks that round. Unless noted, options apply to **one attack** or **one opposed combat** for that round only.
+
+Some options are only available to **melee attacks**, and some require particular **weapon types** (for example, automatic weapons or scoped rifles). Use the generic weapon types in [[RULES/Weapons\|Weapons]] to decide which options are legal.

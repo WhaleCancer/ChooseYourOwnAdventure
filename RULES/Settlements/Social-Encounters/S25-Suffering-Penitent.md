@@ -1,0 +1,15 @@
+S25 Suffering Penitent
+SKILL
+5
+STAMINA
+6 Social Rank:
+3 Armour:
+None Weapon:
+Club
+Attacking this person is an Unlawful Action.
+You were trying to avoid the shuffling chanting figure but unfortunately as you pass you catch his eye. Stopping in his tracks the man reaches out his hands towards you and implores you to abandon your path and look to the gods for salvation, lest ye be damned, damned! Now that you are caught by his intense gaze, you can get a better look. Before you stands an older man with a bald head and a scraggly grey beard. He is dressed in tattered clothing that has been crudely repaired in many places. Most noticeably he has several large ropes and chains tied around his body in ways that look designed to be uncomfortable and you can see that the bare skin around his neck and chest is chafed and bloody from the punishment. He is clearly some kind of religious zealot who has taken it upon themselves to purify himself through suffering. Perhaps he wants you to join him? What do you do?
+● Shaking yourself free from his grasping, bony hands you stammer something about how much you respect all the gods and quickly move on before he can grab you again. Carry on forward to your next encounter.
+● Filthy Cur! How dare this madman put his hands on you - with a snarl you shove him away and let out a string of curses. As he falls back he makes a strange sign in the air toward you before scuttling away. Roll 1d6 - on a roll of a 1 you have angered the gods and lose one point of LUCK. On a roll of a 6 you have pleased some deity and gain one point of LUCK.
+● This man is clearly troubled by life and it may help him if you at least listen. You find a quiet spot nearby and let him explain his message. He rambles on for some time, speaking intensely about his grand vision of the universe and how best to serve the gods, before eventually tiring to the point of near silence. He thanks you for listening, then gets up and shuffles off, seemingly drained by the effort of talking. The next time you visit a Temple, restore one point of LUCK as the gods acknowledge your act of charity. However, close contact with this man comes with peril. Roll a 1d6 - on a 1 or 2 you have caught a disease. Roll on Table 4.3.2 Diseases. See what has befallen you.
+● Perhaps you can take advantage of this crackpot? Pulling him to one side you tell him that you too are on a religiously inspired quest and whilst you can't reveal all the details, the gods have asked you to gather the faithful to your cause. Will he help? Make a Con skill test. If you succeed you may Call Upon the Aid of this fellow when you are in the Temple, Slums or Graveyard locations - he will fight alongside you with wild fervour, adding +1 to his damage rolls if he hits with his club. However, if you fail your Con skill test he has seen through your lies and shoves you away hurling curses and denouncing your lack of faith, much to the amusement of those other citizens passing by. You lose one point of LUCK.
+

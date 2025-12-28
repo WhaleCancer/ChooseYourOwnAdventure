@@ -1,0 +1,5 @@
+# W27: Apparition
+
+You spy a lonesome figure approaching you; as you stop to observe their approach a shudder passes through you. The figure makes no sound and is not walking, but drifting towards you with dead, staring eyes fixed firmly on yours - it is a Apparition! You are rooted by fear and must wait and discover what it wants with you. Roll 1d6 - on a 1-2 the Apparition is the crazed shade of someone that suffered a terrible death and with a wailing cry it lays a curse on you before it disappears.  Test against your LUCK or lose one point of SKILL and damage for 1d6 days. On a 3-5 the Apparition silently pleads with you but you cannot understand what it wants; after a few minutes of this it fades away with a mournful sigh. On a 6 the Apparition looks deep into your spirit and communicates a message - it wants you to help it find its grave! The old grave is now overgrown and it will take you a day to find it if you wish to help (roll for weather and encounters). The Apparition follows you silently imploring you to continue the search and when you find the grave it sinks into it, holding out its hands in thanks.
+
+Restore one point of temporary LUCK.

@@ -1,0 +1,440 @@
+
+================================================================================
+PAGE 46
+================================================================================
+
+ROBOTS 45
+CHAPTER FIVE - ROBOTS
+Almost all good scifi settings have robots of one sort or Type IV
+another. They may be servants, enemy troopers, helpful These robots are the best that can be constructed without true
+translators or basic wheeled units with no real brain. AI. These robots have very complex programming to allow
+Whatever type of robot your setting will have, this chapter them to execute their jobs, which can include security,
+will provide the rules. medicine, translation, law, pilot/driver and more. Outside
+their immediate job, however, these robots are fairly limited
+in how they respond to new situations.
+Robot Types
+Type V
+The ultimate robot type, these artificial humans have true AI
+Robots, androids, artificial humans; all staple character types
+and so can adapt and respond to almost any situation. This
+in many sci-fi settings, both as heroes and as enemies. In
+robot type is also the only type suitable for use as a player
+Stellar Adventures, robots are classified into one of five types.
+character hero, using the rules below. These robot types still
+These are described fully below, but as a general rule only
+have defined roles and specialities, as organic people do, but
+Type 1 robots are found in low tech settings, type 2-4’s are
+that can change over time.
+found in medium tech settings and type 5’s are found only
+in high tech settings.
+Of course, it is entirely possible to have an
+otherwise high tech setting with no robots at all,
+or a low tech campaign with advanced Type 5
+simulants. As with all other setting details, the
+Director must decide.
+Type I
+These robots are very basic indeed. They are
+programmed for one specific task such as
+cleaning, wall repair or firefighting. They have
+no intelligence and will not respond to events
+outside their specific design. This means that a
+firefighting robot can adapt to the changing
+nature of a burning building, targeting water
+and foam at the hottest places, and so on.
+However, if this same robot comes under attack,
+it will not even know it (except if a flamethrower
+is used!) and will certainly not respond.
+Type II
+Type II robots are a significant advance on Type
+1’s but are still basic. They are more adaptable,
+and can be considered to have rank 2 in an
+appropriate special skill. They are also able to
+respond with insect-level intelligence to events
+outside their speciality. Type II robots are often
+used as mechanics, farm workers, animal
+handlers etc.
+Type III
+These are multipurpose robots with a range of
+related skills. Roles such as servant, general
+home robot or general repairbot are common
+for this type. These robots often have a basic
+pseudo-intelligence to deal with people as part
+of their work.
+
+
+================================================================================
+PAGE 47
+================================================================================
+
+46 STELLAR ADVENTURES
+Type V Robot Characters The robot also has six skill card slots, two of which have cards
+(rank 1) installed at character creation. These skill cards allow
+Type V robots have true AI and are sometimes full citizens the robot character to make full use of the appropriate skill
+of whatever society they are part of. Their intelligence and encoded onto that card at the level of the card. A skill card
+adaptability also makes them suitable for use as a player cannot duplicate an embedded special skill.
+character Hero, although they are slightly different from flesh
+and blood characters. The creation process given here can be The maximum level for a skill card is 3. These cards have a
+used to create both player and non-player characters. monetary cost and a TECH requirement for the robot that
+wishes to use it. It should be noted that not every starport
+will have a full range of cards. These cards are small, and
+spare and unused cards are often stored in a small
+compartment in the robot itself!
+Creating a Type V Robot
+Rank Cost TECH
+1 1,000 Cr 4
+The starting SKILL and STAMINA are 6 and 10 for a robot
+2 3,000 Cr 6
+character, but they do not have a LUCK statistic. Robots do
+3 6,000 Cr 8
+not believe in luck or fortune and they cannot benefit from
+luck in any way. A Robot Hero required to make a LUCK
+A robot or technician can swap these cards, although the
+test will automatically fail. Robots also do not have the soul
+process takes an hour to finalise, during which the slot is not
+required to use psionics, and so cannot have a PSIONICS
+active and the skill cannot be used. Most robots will only
+statistic. Instead, robot characters have a TECH statistic,
+swap their cards when they have to, due to the feeling of
+representing the technology of the components within. A
+emptiness when their cards are unavailable.
+robot with low TECH will be constructed from old or obsolete
+components, whereas one with a TECH of 10 or higher will
+Example: CH-KS2 has been posted to a science exploration mission,
+be built from the very latest parts. This is rolled against to
+and so purchases several science skill cards. Upon encountering a
+avoid breakdowns or problems in harsh environments, and
+new life form, the robot installs a rank 3 Biology card and an hour
+to resist electronic attack. It is also used as the base Statistic
+later gets to work. CH-KS2 has a TECH rating of 9 and so can use
+to add to special skills such as Computers, Communications,
+the full 3 points of special skill on the card.
+and any other skill that involves the robot interfacing directly
+to another electronic system. TECH also limits what upgrades
+and modules can be fitted to the robot. TECH starts at 4 for
+Every robot character also starts with one “Talent”. These
+a new character. If TECH is ever temporarily reduced to
+are in many ways like standard Talents as discussed in
+below the value required for any modules or skill cards, they
+Chapter 1 and grant special benefits to the robot. The one
+will cease to function until the robot is repaired.
+difference is that a robot Talent may at a later time be
+changed, costing half of the xp of buying a new one (although
+The robot now has a pool of 8 points to improve these three
+the old one is lost). This process and that of acquiring
+statistics:
+additional Talents will also take some significant time and
+money in a robot workshop.
+SKILL can be improved to a maximum of 9
+STAMINA can be improved to a maximum of 18 (points
+The Talents are listed below, and each one has a minimum
+count double)
+TECH requirement. As with standard Talents, the Director
+TECH can be improved to 10
+has the final say on Talent selection.
+Example: CH-KS2 is a high technology general purpose robot.
+Robot Talents
+SKILL is increased to 8 (using two points) and TECH is increased
+to 9 (another five points). This leaves one further point to increase
+Wheels
+STAMINA to 12.
+This Talent replaces the legs of a robot with wheels. These
+allow the robot to move three times faster than if it had legs,
+The robot character must now choose two “Embedded”
+but may occasionally pose problems on certain terrain.
+special skills that are part of their core programming. These
+Required TECH: 4
+special skills start at 2, but can be improved with XP in exactly
+the same way as a normal character. These two special skills
+Light Armoured Shell
+should be chosen based upon the core role of the robot.
+This Talent gives the robot the equivalent of Light natural
+armour. The armour is not noticeable to any but a robotics
+Example: CH-KS2 has a wide range of roles, but has Computers
+engineer and even then it will require a careful examination.
+and Communications as the two embedded special skills. These will
+If the robot wears extra armour, this Talent provides a bonus
+be key parts of many of the tasks this type of robot is assigned to.
+of +1 to the armour roll.
+Required TECH: 4
+
+
+================================================================================
+PAGE 48
+================================================================================
+
+ROBOTS 47
+Integral Tool or Weapon Advanced Sensors
+The robot has an integral toolkit or small weapon fitted into This Talent installs a suite of advanced sensors to the robot,
+their body, which can be extended and operated at will. This which are linked directly to the AI Brain. It is almost
+equipment is difficult to detect when retracted. A weapon impossible to surprise this robot due to its constant air flow
+must still be reloaded as normal. monitoring, sound analysis and light spectra observation.
+Required TECH: 5 The sensors only have short range, but can analyse almost
+anything.
+Flight Required TECH: 8
+The robot is equipped with an integral jet pack of the
+appropriate type (see Chapter 4) that allows flight. Generally, Rugged
+this flight has a limited duration and will not be especially The material construction of the robot makes it almost
+fast but can be very useful indeed. immune to changes in temperature, to vacuum, and to stellar
+Required TECH: 5 radiation. Very extreme heat will cause some damage to the
+robot, but even at absolute zero the robot would simply be
+Medium Armoured Shell frozen solid, awaiting a thaw.
+This Talent gives the robot the equivalent of Medium natural Required TECH: 8
+armour. The armour is only noticeable if a character with the
+engineering special skill looks carefully. If the robot wears Self Repair Module
+extra armour, this Talent provides a bonus of +1 to the armour This Talent fits a self-repair module to the robot, which has
+roll. 10 “charges”. When the robot has taken damage, it may
+Required TECH: 6 attempt one TECH+3 test. On a success, the robot recovers 2
+STAMINA (4 on a critical success) as if it had been repaired
+Languages Module by another character. This attempt uses one charge and
+This Talent fits a universal translator to the robot, connected cannot be repeated until the robot has taken further damage.
+directly to the robot brain. The number of languages known The robot will also automatically recover 6 STAMINA per
+will depend on the translator technology available (see day, again at the cost of one charge.
+Chapter 4) but the AI brain of the robot allows local dialects Required TECH: 9
+to be quickly added to the lexicon. Unknown languages can
+be learned from a native speaker or text within a day. Energy Resistance
+Required TECH: 6 This robot has been constructed from highly advanced
+composite materials, and as such takes only half STAMINA
+Detachable Probes damage from energy weapons such as lasers or blasters. The
+This Talent implants three independent drones into the chest robot will take full damage from non-energy weapons. This
+cavity of the robot. These can fly, swim or have wheels and Talent may not be taken if the robot has the “Resistance to
+they can be fitted with a basic sensor, small weapon (4 ammo), Non-Energy Weapons” Talent.
+automedkit (1 use), small tool, etc. These probes can be Required TECH: 9
+dispatched simultaneously, but can only be actively
+controlled one at a time by the robot, who can see through Stealth Mode
+the eyes of the probe if it is within range. These probes only This Talent fits a stealth option to the robot. Special joints
+have 2 STAMINA and no armour, however. and actuators are designed to make no noise and even the
+Required TECH: 6 skin and clothing of the robot are designed to blur the outline
+and not reflect light. The robot has a bonus of +2 to any stealth
+Heavy Armoured Shell tests made against living creatures. Because this module also
+This Talent gives the robot the equivalent of Heavy natural includes some active anti-sensor technology, the bonus is
+armour. The armour is very noticeable unless the robot is instead +4 against technological sensors.
+well covered up. If the robot wears extra armour, this Talent Required TECH: 10
+provides a bonus of +1 to the armour roll.
+Required TECH: 7 Android
+The robot looks exactly like a human (or other humanoid alien
+Reinforced Construction race) and even has artificial respiration, heartbeat and skin
+This robot has been constructed from advanced composite temperature! A medical examiner must make an opposed
+materials and as such takes only half STAMINA damage from medicine special skill test against the TECH rating +3 of the
+non-energy weapons such as a chainsword, gun or robot. A success on the medicine test will reveal the robotic
+flamethrower. The robot will take full damage from laser and nature of the character.
+other energy weapons. This Talent may not be taken if the Required TECH: 10
+robot has the “Resistance to Energy Weapons” Talent.
+Required TECH: 7
+
+
+================================================================================
+PAGE 49
+================================================================================
+
+48 STELLAR ADVENTURES
+Example: The CH-KS2 general purpose robot is intended to operate
+independently for long periods, possibly away from civilisation. It Standard Robots
+is for this reason that it has a Self Repair module fitted. This
+effectively means that the robot can heal itself in the field, reducing
+Below are described a few “standard” robots which may be
+its dependence on technicians.
+found in certain sci-fi settings. These are intended to help a
+Director design their own standard robots, and also to give
+Robot characters are generally played like any other Hero,
+some ideas to a player thinking of running a robot Hero. Of
+although there are a few exceptions.
+course, a Director should feel free to tweak and modify these
+If a robot character is asked to make a LUCK test at any time,
+designs if desired to fit their own game.
+they will automatically fail. They cannot voluntarily use
+LUCK.
+Some of these robots possess a specialised skill not normally
+possessed by Heroes (such as cleaning). These are marked
+Robots cannot normally heal themselves, although a character
+with a # and are self explanatory!
+with the Engineering special skill and appropriate tools can
+restore the equivalent of a First Aid kit (2 or 4 STAMINA)
+after damage is taken. A full engineering bay will restore 2
+Type 1 Robots
+STAMINA per day per point the lead engineer has in their
+Engineering special skill. Lost TECH statistic can be restored
+at a rate of 1 point per day’s work.
+Cleaner
+SKILL 2
+A robot will be immune to many of the critical wound effects
+STAMINA 4
+such as limb loss, and a robot cannot bleed, so ignore those
+TECH 4
+effects. A “Heart” hit will damage the power plant of the
+Armour none
+robot and head damage will destroy the AI computer.
+Weapon none
+Otherwise, the Director should determine the effects of any
+Special Skills: Cleaning 4 #
+critical damage.
+Talents: Wheels
+When a robot character is reduced to 0 STAMINA, they are
+offline until repaired, and a robot reduced to -4 STAMINA is
+These very simple robots are normally a box or barrel on
+destroyed. A robot reduced to between -1 and -3 STAMINA
+wheels, equipped with basic sensors and a range of cleaning
+will spark and twitch as internal components destroy
+tools and supplies. The algorithms that control recognition
+themselves due to uncontrolled electrical surges and will lose
+of what actually needs cleaning can be quite complex, but
+1 TECH per round until that reaches 0, at which point the
+these robots are completely single minded; they clean,
+robot is destroyed. A destroyed robot can actually be rebuilt,
+therefore they are.
+at great cost of credits and time, but will lose most or all
+accumulated XP (determined by the Director) as their AI
+computer must be reset to factory defaults.
+Chefbot
+As mentioned above, robots cannot use Psionics in any form,
+SKILL 2
+but neither can they be affected by any direct psionic effects
+STAMINA 2
+that affect the mind or body, such as Direct Blast or Stunning
+TECH 4
+Wave. However, fire created by the Pyrokinesis power would
+Armour none
+still be able to burn the robot as the fire, once created, is
+Weapon Knife
+normal in every respect.
+Special Skills: Cooking 4 #
+Talents: none
+Robots are not considered to be armoured (unless they have
+an Armoured Shell Talent) but if they do not have this Talent,
+a humanoid robot can wear armour as any other character.
+The robot will still need the Armour special skill and all
+Found in eateries of all sorts from small fast food shacks to
+normal armour rules will apply.
+quality restaurants, these robots have a fairly limited amount
+of locomotion (enough to move around a kitchen) but they
+A robot character receives XP as any other character, and
+are often equipped with four or more arms and integral tools.
+spends it in the same way on characteristics, embedded
+It is not unknown for celebrity chefs to sell their own branded
+special skills and Talents. Talents that require a physical
+Chefbots, pre-loaded with recipes and skills derived from
+change to the body of the robot will also require time in a
+said celebrity.
+workshop and appropriate parts. Skill card-derived special
+skills cannot be improved.
+
+
+================================================================================
+PAGE 50
+================================================================================
+
+ROBOTS 49
+These robots look similar to the race that they serve, but are
+Type 2 Robots normally of a low-key design apart from that. These robots
+act as body servants, maids, butlers, cooks, and do most other
+menial jobs. They are usually sold to the moderately wealthy,
+Mechanic who cannot afford individual specialist servant robots, but
+SKILL 3 still need something to take the drudgery out of everyday
+STAMINA 6 life.
+TECH 5
+Armour none
+Weapon Plasma Torch Maintenance robot
+Special Skills: Mechanics 4 # SKILL 5
+Talents: Integral Plasma torch STAMINA 8
+TECH 6
+Armour Light
+Found everywhere from backstreet vehicle shops to the Weapon Electrocutter (as chainsaw)
+deepest recesses of giant starships, these robots are normally Special Skills: Engineering 2
+humanoid in form, but designed to maintain and repair Computers 2
+mechanisms. Engines, winches, vehicles and more may well Talents: Detachable Probes
+be electronically controlled, but they still have physical
+elements that need work. Most robot mechanics will have an
+inbuilt diagnostic computer to speak to the electronic element These robots are a step up from mechanic robots as they are
+of a machine for diagnosis. able to maintain and repair a wide range of electronic devices.
+They carry several detachable sensor drones that enable them
+to track down and identify problems in several locations at
+Delivery robot once. Each of these drones has a direct interface port to allow
+SKILL 4 it to connect to any malfunctioning device.
+STAMINA 4
+TECH 5
+Armour none
+Weapon none Taxi Driver
+Special Skills: Local Knowledge 4 # SKILL 6
+Talents: Flight (optional) or STAMINA 4
+Wheels (optional) TECH 6
+Armour none
+Weapon none
+These robots are designed to operate in crowded cities or Special Skills: Pilot-Ground 2
+space stations, delivering orders, packages, documents and Local Knowledge 2
+more. They are usually very strong (to carry heavy packages) Talents: Language Module
+and will have a built-in map of the area, as well as a link to
+current traffic and weather conditions. These robots are
+almost always humanoid-like, as customers like to receive a
+delivery from a familiar shape! A surprisingly necessary robot type, even in the far future.
+These robots may or may not be able to move under their own
+steam, often being fixed into the driver’s position of whatever
+vehicle they are controlling. Knowledgeable about the area
+Type 3 Robots they work, they often have a “small talk” routine built in to
+keep passengers entertained as they are transported.
+Servant Robot
+SKILL 5
+STAMINA 4
+TECH 6
+Armour none
+Weapon none
+Special Skills: Service 4 #
+Cooking 2 #
+Etiquette 2
+Talents: Language Module
+
+
+================================================================================
+PAGE 51
+================================================================================
+
+50 STELLAR ADVENTURES
+Type 4 Robots Type 5 Robots
+Medical Robot Military Robot
+SKILL 7 SKILL 7
+STAMINA 6 STAMINA 12
+TECH 8 TECH 10
+Armour none Armour Medium (battle armour)
+Weapon none Weapon Laser Rifle
+Special Skills: Medicine 2 Special Skills: Firearms-Light 2 (embed.)
+Science (Biology) 2 Melee 2 (embedded)
+Talents: Adv. Sensors (Medical) Awareness 1
+Talents: Medium Armoured Shell
+These robots are not as skilled as an experienced doctor, but
+they are widely used in medical facilities of all sorts. They One of the earliest robot types developed once AI was
+do not suffer from fatigue and can treat minor ailments and available, robot soldiers are now commonplace. Considered
+injuries dispassionately and according to best practice. They more expendable than live soldiers, but also more resilient,
+often look humanoid to reassure their patients. these soldiers do not sleep, eat, breathe or suffer from fear,
+and so can be sent on the most dangerous (or even suicidal)
+missions!
+Security Robot
+SKILL 7
+STAMINA 10
+TECH 8
+Armour Light Law Enforcement Robot
+Weapon Stun Rod/Laser Pistol SKILL 7
+Special Skills: Melee Weapons 2 STAMINA 10
+Firearms - Light 2 TECH 10
+Talents: Light Armoured Shell Armour Light
+Weapon Stun Pistol
+Stun Rod
+These robots are used as private security guards, official Special Skills: Law 2 (embed.)
+police officers and even shipboard security. They cannot be Melee Weapons 2 (embed.)
+bribed (their programming is locked down after manufacture) Firearms - Light 1
+or subverted and they are meticulous and careful in their Awareness 1
+actions. Talents: Language Module
+Pilot Robot Security robots are very reliable and useful, but they are
+SKILL 7 limited when it comes to investigation or crime prevention.
+STAMINA 6 These type 5 law enforcement robots are used as detectives,
+TECH 8 security consultants or even undercover agents, rooting out
+Armour none organised crime and opportunist thieves alike.
+Weapon none
+Special Skills: Pilot Air 2
+Pilot Space 2
+Planetary Navigation 1
+Engineering 1
+Talents: None
+Although taxi driver robots are commonplace, a more
+advanced and intelligent pilot is sometimes required for
+starships and planet-to-space vehicles. These robots are
+trained to fly a range of craft and also to adapt to surprise
+attacks by hostile craft or serious malfunctions.
+

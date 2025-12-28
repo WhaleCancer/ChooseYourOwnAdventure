@@ -1,0 +1,3 @@
+# W9: Herd of Beasts
+
+Wherever you are in the world, you will find predators and prey. In this case you have come across a herd of the latter - bison on the plains, goats in the mountains, horses in the hills and so on. They are wary but these are wild animals that aren’t familiar with people and their weapons. If you wish to, you can use your Hunting skill (or SKILL if you have no points in Hunting) to try and bag some food. Roll 2d6 and add your skill, then deduct 9, or deduct 6 if you have a ranged weapon. This is how many days of rations you are able to harvest from a combination of trapping and martial skill. This takes half a day of effort, if you wish to spend that time. At the end the herd has moved on from your direction of travel.

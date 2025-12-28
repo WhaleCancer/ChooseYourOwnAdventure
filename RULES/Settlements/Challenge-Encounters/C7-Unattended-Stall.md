@@ -1,0 +1,7 @@
+C7 Unattended stall
+Passing along a quiet street you notice a small stall selling a variety of interesting looking bric-a-brac. As you approach to see if there is anything of use to be had you realise that the stall is unattended and that there does not appear to be anyone around paying attention.
+What do you do?
+● Have a quick look at the stall and snaffle one item before hurrying away. You may choose either a small bronze kettle suitable for brewing up a warming drink (worth 3gp), a cloak clasp fashioned from copper in the shape of an oak leaf (worth 1gp) or an iron rod, about 4 inches in length and covered in strange runes (worth 5gp). Sniggering to yourself you make your escape.
+● Wait patiently until the stallholder appears and make sure no one else takes your advantage of the situation. After a few minutes an old tinker appears and thanks you for waiting. You may purchase any of the items noted above for 1g or continue with your travels. If you make a purchase, she chats to you about the area and you may re-roll the encounter for your next location.
+● Using your Bargain or Evaluate skill you spend a few minutes carefully sifting through the items on sale. If you make a successful skill test you notice a pewter tankard that was made by a famous craftsman. When the tinker re-appears you may purchase it for 1g, it may be sold to another merchant for 20g! Add +1 to your LUCK score.
+

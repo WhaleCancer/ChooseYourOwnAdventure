@@ -1,0 +1,25 @@
+﻿# Tribal Kilt
+
+**Source:** Vanilla Apparel Expanded (Mod)
+
+**Note:** Statistics converted from Rimworld protection values to Advanced Fighting Fantasy protection track system.
+
+## Protection Track
+
+| Roll | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Protection | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+
+## Statistics
+
+- **Original Rimworld Sharp Protection:** ~0%
+- **Original Rimworld Blunt Protection:** ~0%
+- **Original Rimworld Heat Protection:** ~0%
+- **Body Parts:** Legs
+- **Layers:** OnSkin
+- **Tech Level:** Neolithic
+- **Mod:** Vanilla Apparel Expanded
+
+## Description
+
+A kilt crafted using neolithic tools. While it may look primitive, it is effective at insulating the wearer.
