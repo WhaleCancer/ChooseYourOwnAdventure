@@ -58,6 +58,12 @@ Additional combat options specific to machine guns and heavy automatic weapons.
 - [Bracing Required](./Combat-Options/Bracing.md) - Weapon limitation: requires bracing against a solid surface or suffer a -2 penalty (can move while braced)
 - [Bipod Fire](./Combat-Options/Bipod-Fire.md) - Gain a +1 bonus to attack rolls when firing from a deployed bipod while prone or kneeling (setup time required, cannot move)
 
+## Shotgun Combat Options
+
+Additional combat options specific to shotguns.
+
+- [Spread Shot](./Combat-Options/Spread-Shot.md) - Attack two adjacent targets (roll separately) OR target one enemy with +2 to hit (cannot use if target has adjacent allies)
+
 ---
 
 ## Combat Options System

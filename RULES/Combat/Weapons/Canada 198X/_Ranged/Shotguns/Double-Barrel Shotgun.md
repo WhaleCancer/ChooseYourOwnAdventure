@@ -19,6 +19,10 @@ Shotguns skill (Skill Level: 1)
 - **Range:** Very Short
 - **Hands Required:** 2
 
+## Combat Options
+
+- **Spread Shot:** Attack two adjacent targets (roll separately) OR target one enemy with +2 to hit (cannot use if target has adjacent allies). See [Spread Shot](../../../Combat-Options/Spread-Shot.md) for details.
+
 ## Description
 
 An older design of shotgun with two individually loaded barrels that emits a tight-packed spray of pellets. These break-action shotguns have two barrels that can be fired in quick succession, making them reliable for hunting or self-defense despite their limited capacity. The simple, robust design has remained popular for over a century due to its reliability and ease of maintenance.

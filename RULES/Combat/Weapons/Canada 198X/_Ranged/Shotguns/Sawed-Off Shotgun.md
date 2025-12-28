@@ -19,6 +19,9 @@ Handguns or Firearms-Light skill, depending on the campaign (Skill Level: 2)
 - **Range:** Short/Medium
 - **Hands Required:** 1 (cinematic license - two-handed grip recommended for heavy recoil)
 
+## Combat Options
+
+- **Spread Shot:** Attack two adjacent targets (roll separately) OR target one enemy with +2 to hit (cannot use if target has adjacent allies). See [Spread Shot](../../../Combat-Options/Spread-Shot.md) for details.
 
 ## Description
 

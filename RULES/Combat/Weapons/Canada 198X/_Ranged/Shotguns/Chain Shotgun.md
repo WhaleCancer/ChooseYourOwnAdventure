@@ -23,6 +23,7 @@ Shotguns skill (Skill Level: 3)
 
 - **Hyperfire:** Automatic fire mode allows for sustained rapid-fire shots, devastating at close range
 - **Suppressive Fire:** Can lay down a wide pattern of fire to suppress multiple targets
+- **Spread Shot:** Attack two adjacent targets (roll separately) OR target one enemy with +2 to hit (cannot use if target has adjacent allies). See [Spread Shot](../../../Combat-Options/Spread-Shot.md) for details.
 
 ## Description
 
