@@ -12,15 +12,13 @@ For melee attacks, the defender's skill level reduces the attacker's roll.
 
 **Formula:** Roll 2D6 under (Character's PHYSICAL + Character's Skill - Opponent's Skill - Combat Modifiers)
 
-The Player provides their Character's PHYSICAL rating, their Character's skill level, and any applicable combat modifiers, while the Director provides the opponent's skill level.
-
 ### Ranged Attacks
 
-For ranged attacks, the defender's weapon skill does not reduce the attacker's roll.
+For ranged attacks, the defender's weapon skill does not reduce the attacker's roll. However, the defender may use Dodge or Armor (with shield) to defend, and the Director may provide other modifiers.
 
 **Formula:** Roll 2D6 under (Character's PHYSICAL + Character's Skill - Combat Modifiers)
 
-The Player provides their Character's PHYSICAL rating, their Character's skill level, and any applicable combat modifiers.
+> **Note:** The Player provides their Character's PHYSICAL rating, their Character's skill level, and any applicable combat modifiers. The Director provides the opponent's skill level (if any) or any modifiers not accounted for (such as special abilities).
 
 **Special Results:** If you roll double 6, the attack automatically hits and inflicts a critical hit. If you roll double 1, the attack automatically misses and the Character fumbles. See [Critical Hits](Critical%20Hits.md) and [Fumbles](Fumbles.md) for details.
 
