@@ -17,6 +17,10 @@ dist/
 build/
 *.egg
 
+# PowerShell (exclude all except update scripts)
+*.ps1
+!update-wiki.ps1
+
 # Virtual environments
 venv/
 env/
@@ -67,4 +71,5 @@ RULES/Skills/LUCK/Con.md
 # - *.txt (Text files)
 # - update-wiki.bat, update-wiki.ps1 (Update scripts)
 # - !update-wiki.py (if we create a Python update script)
+# - !update-wiki.ps1 (PowerShell update script)
 # ========================================
