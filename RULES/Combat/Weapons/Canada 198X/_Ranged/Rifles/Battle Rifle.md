@@ -1,4 +1,4 @@
-# battle rifle
+# Battle Rifle
 
 **Variant of:** [Stellar Adventures Assault Rifle](../Stellar-Adventures/Assault-Rifle.md)
 
@@ -34,33 +34,8 @@ Based on battle rifles available in the 1980s, such as the M14 (adopted 1957), F
 
 ---
 
-## Marksman Rifle Variant
+## Video References
 
-A marksman rifle (also known as a designated marksman rifle or DMR) is a battle rifle equipped with a telescopic sight by default. The scope enhances accuracy and effective range, making it ideal for precision shooting at longer distances.
-
-### Damage Track
-
-| Roll | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Damage | 3 | 4 | 5 | 5 | 6 | 6 | 7 |
-
-### Weapon Skill Requirement
-
-Rifles skill (Skill Level: 3)
-
-### Statistics
-
-- **Ammo:** 24
-- **Ammo/Slot:** 3
-- **Range:** Long
-- **Hands Required:** 2
-
-### Combat Options
-
-- **Rapid Precision:** Can fire two shots in quick succession for improved target engagement
-
-### Description
-
-A designated marksman rifle is essentially a battle rifle with an integrated telescopic sight, providing enhanced accuracy and range. The scope allows for precise engagement at longer distances while maintaining the semi-automatic fire capability of the base battle rifle, making it more versatile in combat situations than dedicated sniper rifles.
-
-Based on designated marksman rifles such as the SVD Dragunov (1963), M21 (M14-based, 1969), or semi-automatic precision rifles. These rifles fill the gap between standard assault rifles and dedicated sniper rifles, providing enhanced accuracy and range while maintaining semi-automatic fire capability. The SVD Dragunov was specifically designed as a purpose-built DMR for Soviet and Warsaw Pact forces, chambered in 7.62×54mmR and featuring the distinctive PSO-1 telescopic sight. Designated marksman rifles allow a squad to engage targets at longer ranges than standard infantry weapons, with the designated marksman serving as the squad's precision shooter. The M21, based on the M14 but with improved optics and match-grade ammunition, became the standard DMR for U.S. forces, offering the precision of a sniper rifle with faster follow-up shots.
+| | | |
+|:---:|:---:|:---:|
+| [![Video](https://img.youtube.com/vi/Nk2ASY1Xj_U/mqdefault.jpg)](https://www.youtube.com/watch?v=Nk2ASY1Xj_U) | [![Video](https://img.youtube.com/vi/pL-dLeWvbss/mqdefault.jpg)](https://www.youtube.com/watch?v=pL-dLeWvbss) | [![Video](https://img.youtube.com/vi/VAABMvmaGWQ/mqdefault.jpg)](https://www.youtube.com/watch?v=VAABMvmaGWQ) |
