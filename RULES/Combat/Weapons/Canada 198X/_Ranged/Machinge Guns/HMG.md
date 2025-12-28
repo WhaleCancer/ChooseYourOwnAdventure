@@ -21,7 +21,7 @@
 - **Sustained Fire:** Automatic fire mode allows for continuous suppressive fire
 - **Armor Piercing:** Heavy-caliber ammunition can penetrate light armor and vehicles
 - **Hyperfire:** This weapon is Hyperfire only - all attacks use the Hyperfire combat option. Empty a significant portion of ammunition in a single round to gain +2 to attack and +3 to damage (if sufficient ammo). See [Hyperfire](../../../Combat-Options/Hyperfire.md) for details.
-- **Bracing Required:** This weapon requires bracing against a solid surface (or tripod/vehicle mount) to be used effectively. If fired without bracing, you suffer a -2 penalty to your attack roll. Bracing is used in association with Hyperfire. See [Bracing](../../../Combat-Options/Bracing.md) for details.
+- **Bracing Required:** This weapon requires bracing against a solid surface (or bipod/vehicle mount) to be used effectively. If fired without bracing, you suffer a -2 penalty to your attack roll. Bracing is used in association with Hyperfire. See [Bracing](../../../Combat-Options/Bracing.md) for details.
 - **Bipod Fire:** Gain a +1 bonus to your attack roll when firing from a deployed bipod while prone or kneeling. Deploying the bipod requires a free interaction if already prone/kneeling, or costs your movement to go prone/kneeling. You cannot move in the same round when using bipod fire. Bipod Fire is used in association with Hyperfire. See [Bipod Fire](../../../Combat-Options/Bipod-Fire.md) for details.
 
 ## Description
