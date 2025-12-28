@@ -15,12 +15,7 @@ For melee attacks, the defender's skill level reduces the attacker's roll.
 The attacker uses one of the following skills when making a melee attack:
 
 - **[Brawling](../../Skills/PHYSICAL/Melee-Combat/Brawling.md)** - For unarmed combat, knives, or improvised weapons
-- **[Melee Weapons](../../Skills/PHYSICAL/Melee-Combat/Melee-Weapons.md)** - For swords, axes, clubs, staves, polearms, and other traditional melee weapons
-  - [Axes](../../Skills/PHYSICAL/Melee-Combat/Melee%20Weapons/Axes.md)
-  - [Clubs](../../Skills/PHYSICAL/Melee-Combat/Melee%20Weapons/Clubs.md)
-  - [Polearms](../../Skills/PHYSICAL/Melee-Combat/Melee%20Weapons/Polearms.md)
-  - [Staves](../../Skills/PHYSICAL/Melee-Combat/Melee%20Weapons/Staves.md)
-  - [Swords](../../Skills/PHYSICAL/Melee-Combat/Melee%20Weapons/Swords.md)
+- **[Melee Weapons](../../Skills/PHYSICAL/Melee-Combat/Melee-Weapons.md)** - For [swords](../../Skills/PHYSICAL/Melee-Combat/Melee%20Weapons/Swords.md), [axes](../../Skills/PHYSICAL/Melee-Combat/Melee%20Weapons/Axes.md), [clubs](../../Skills/PHYSICAL/Melee-Combat/Melee%20Weapons/Clubs.md), [staves](../../Skills/PHYSICAL/Melee-Combat/Melee%20Weapons/Staves.md), [polearms](../../Skills/PHYSICAL/Melee-Combat/Melee%20Weapons/Polearms.md), and other traditional melee weapons
 - **[Martial Arts](../../Skills/PHYSICAL/Martial-Arts.md)** - For unarmed combat using martial arts techniques
 
 ### Ranged Attacks
@@ -31,18 +26,9 @@ For ranged attacks, the defender's weapon skill does not reduce the attacker's r
 
 The attacker uses one of the following skills when making a ranged attack:
 
-- **[Firearms-Light](../../Skills/PHYSICAL/Ranged-Weapons/Firearms-Light.md)** - For pistols, rifles, shotguns, SMGs, and other light firearms
-  - [Pistols](../../Skills/PHYSICAL/Ranged-Weapons/Firearms-Light/Pistols.md)
-  - [Rifles](../../Skills/PHYSICAL/Ranged-Weapons/Firearms-Light/Rifles.md)
-  - [Shotguns](../../Skills/PHYSICAL/Ranged-Weapons/Firearms-Light/Shotguns.md)
-  - [SMGs](../../Skills/PHYSICAL/Ranged-Weapons/Firearms-Light/SMGs.md)
-- **[Firearms-Heavy](../../Skills/PHYSICAL/Ranged-Weapons/Firearms-Heavy.md)** - For machine guns, heavy weapons, and launchers
-  - [Heavy-Machine-Guns](../../Skills/PHYSICAL/Ranged-Weapons/Firearms-Heavy/Heavy-Machine-Guns.md)
-  - [Launchers](../../Skills/PHYSICAL/Ranged-Weapons/Firearms-Heavy/Launchers.md)
-  - [Energy-Throwers](../../Skills/PHYSICAL/Ranged-Weapons/Firearms-Heavy/Energy-Throwers.md)
-- **[Missile Weapons](../../Skills/PHYSICAL/Ranged-Weapons/Missile-Weapons.md)** - For bows, thrown weapons, and other missile weapons
-  - [Bows](../../Skills/PHYSICAL/Ranged-Weapons/Missile%20Weapons/Bows.md)
-  - [Thrown](../../Skills/PHYSICAL/Ranged-Weapons/Missile%20Weapons/Thrown.md)
+- **[Firearms-Light](../../Skills/PHYSICAL/Ranged-Weapons/Firearms-Light.md)** - For [pistols](../../Skills/PHYSICAL/Ranged-Weapons/Firearms-Light/Pistols.md), [rifles](../../Skills/PHYSICAL/Ranged-Weapons/Firearms-Light/Rifles.md), [shotguns](../../Skills/PHYSICAL/Ranged-Weapons/Firearms-Light/Shotguns.md), [SMGs](../../Skills/PHYSICAL/Ranged-Weapons/Firearms-Light/SMGs.md), and other light firearms
+- **[Firearms-Heavy](../../Skills/PHYSICAL/Ranged-Weapons/Firearms-Heavy.md)** - For [heavy machine guns](../../Skills/PHYSICAL/Ranged-Weapons/Firearms-Heavy/Heavy-Machine-Guns.md), [launchers](../../Skills/PHYSICAL/Ranged-Weapons/Firearms-Heavy/Launchers.md), [energy throwers](../../Skills/PHYSICAL/Ranged-Weapons/Firearms-Heavy/Energy-Throwers.md), and other heavy weapons
+- **[Missile Weapons](../../Skills/PHYSICAL/Ranged-Weapons/Missile-Weapons.md)** - For [bows](../../Skills/PHYSICAL/Ranged-Weapons/Missile%20Weapons/Bows.md), [thrown weapons](../../Skills/PHYSICAL/Ranged-Weapons/Missile%20Weapons/Thrown.md), and other missile weapons
 
 > **At the Table:** The Player provides their Character's PHYSICAL rating, their Character's skill level, and any applicable combat modifiers. The Director provides the opponent's skill level (if any) or any modifiers not accounted for (such as special abilities).
 
