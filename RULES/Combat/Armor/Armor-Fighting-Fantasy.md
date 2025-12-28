@@ -20,32 +20,32 @@ Shield protection is added to armour protection. For example, a Chainmail Cuiras
 
 | Total | Armour that can be effectively worn |
 | :--- | :--- |
-| 7 | [[Armor/Fighting-Fantasy/Leather-Cuirass\|Leather Cuirass]] or [[Armor/Fighting-Fantasy/Large-Shield\|Large Shield]] |
-| 8 | [[Armor/Fighting-Fantasy/Leather-Hauberk\|Leather Hauberk]] |
-| 9 | [[Armor/Fighting-Fantasy/Chainmail-Cuirass\|Chainmail Cuirass]] or [[Armor/Fighting-Fantasy/Breastplate\|Breastplate]] |
-| 10 | [[Armor/Fighting-Fantasy/Chainmail-Hauberk\|Chainmail Hauberk]] |
-| 11 | [[Armor/Fighting-Fantasy/Plate-Armour\|Plate Armour]] |
+| 7 | [Leather Cuirass](./Armor/Fighting-Fantasy/Leather-Cuirass\.md) or [Large Shield](./Armor/Fighting-Fantasy/Large-Shield\.md) |
+| 8 | [Leather Hauberk](./Armor/Fighting-Fantasy/Leather-Hauberk\.md) |
+| 9 | [Chainmail Cuirass](./Armor/Fighting-Fantasy/Chainmail-Cuirass\.md) or [Breastplate](./Armor/Fighting-Fantasy/Breastplate\.md) |
+| 10 | [Chainmail Hauberk](./Armor/Fighting-Fantasy/Chainmail-Hauberk\.md) |
+| 11 | [Plate Armour](./Armor/Fighting-Fantasy/Plate-Armour\.md) |
 
 ## Complete Armor Protection Tables
 
 | Armour | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Armor/Fighting-Fantasy/Leather-Cuirass\|Leather Cuirass]] | 0 | 0 | 0 | 0 | 1 | 1 | 2 |
-| [[Armor/Fighting-Fantasy/Leather-Hauberk\|Leather Hauberk]] | 0 | 1 | 1 | 1 | 1 | 1 | 2 |
-| [[Armor/Fighting-Fantasy/Chainmail-Cuirass\|Chainmail Cuirass]] | 0 | 0 | 0 | 1 | 2 | 2 | 3 |
-| [[Armor/Fighting-Fantasy/Chainmail-Hauberk\|Chainmail Hauberk]] | 0 | 1 | 2 | 2 | 2 | 2 | 3 |
-| [[Armor/Fighting-Fantasy/Breastplate\|Breastplate]] | 0 | 0 | 0 | 1 | 2 | 3 | 4 |
-| [[Armor/Fighting-Fantasy/Plate-Armour\|Plate Armour]] | 1 | 1 | 2 | 2 | 3 | 3 | 4 |
-| [[Armor/Fighting-Fantasy/Monster-Armour\|Monster Light Armour]] | 0 | 0 | 0 | 1 | 1 | 1 | 2 |
-| [[Armor/Fighting-Fantasy/Monster-Armour\|Monster Medium Armour]] | 0 | 0 | 1 | 1 | 2 | 2 | 3 |
-| [[Armor/Fighting-Fantasy/Monster-Armour\|Monster Heavy Armour]] | 0 | 1 | 2 | 2 | 3 | 3 | 4 |
+| [Leather Cuirass](./Armor/Fighting-Fantasy/Leather-Cuirass\.md) | 0 | 0 | 0 | 0 | 1 | 1 | 2 |
+| [Leather Hauberk](./Armor/Fighting-Fantasy/Leather-Hauberk\.md) | 0 | 1 | 1 | 1 | 1 | 1 | 2 |
+| [Chainmail Cuirass](./Armor/Fighting-Fantasy/Chainmail-Cuirass\.md) | 0 | 0 | 0 | 1 | 2 | 2 | 3 |
+| [Chainmail Hauberk](./Armor/Fighting-Fantasy/Chainmail-Hauberk\.md) | 0 | 1 | 2 | 2 | 2 | 2 | 3 |
+| [Breastplate](./Armor/Fighting-Fantasy/Breastplate\.md) | 0 | 0 | 0 | 1 | 2 | 3 | 4 |
+| [Plate Armour](./Armor/Fighting-Fantasy/Plate-Armour\.md) | 1 | 1 | 2 | 2 | 3 | 3 | 4 |
+| [Monster Light Armour](./Armor/Fighting-Fantasy/Monster-Armour\.md) | 0 | 0 | 0 | 1 | 1 | 1 | 2 |
+| [Monster Medium Armour](./Armor/Fighting-Fantasy/Monster-Armour\.md) | 0 | 0 | 1 | 1 | 2 | 2 | 3 |
+| [Monster Heavy Armour](./Armor/Fighting-Fantasy/Monster-Armour\.md) | 0 | 1 | 2 | 2 | 3 | 3 | 4 |
 
 ## Shield Protection Tables
 
 | Shield | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Armor/Fighting-Fantasy/Small-Shield\|Small Shield]] | 0 | 0 | 0 | 0 | +1 | +1 | +2 |
-| [[Armor/Fighting-Fantasy/Large-Shield\|Large Shield]] | 0 | 0 | 0 | +1 | +1 | +1 | +2 |
+| [Small Shield](./Armor/Fighting-Fantasy/Small-Shield\.md) | 0 | 0 | 0 | 0 | +1 | +1 | +2 |
+| [Large Shield](./Armor/Fighting-Fantasy/Large-Shield\.md) | 0 | 0 | 0 | +1 | +1 | +1 | +2 |
 
 ---
 

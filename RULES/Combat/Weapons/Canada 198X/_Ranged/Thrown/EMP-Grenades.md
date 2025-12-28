@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../Stellar-Adventures/Grenade|Stellar Adventures Grenade]] (EMP grenade for disabling electronics)
+**Corresponds to:** [Stellar Adventures Grenade](../Stellar-Adventures/Grenade.md) (EMP grenade for disabling electronics)
 
 
 ## Damage Track

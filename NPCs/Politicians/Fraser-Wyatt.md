@@ -6,11 +6,11 @@
 
 ## Overview
 
-**Fraser Wyatt** is the host of "Cascadia AM with Fraser Wyatt," a late-night AM radio program focusing on conspiracy theories and paranormal investigation. He is a known member of [[Factions/The-Hand|The Hand]], suggesting that his radio program may serve as a tool for The Hand to gather information, spread disinformation, or identify potential threats.
+**Fraser Wyatt** is the host of "Cascadia AM with Fraser Wyatt," a late-night AM radio program focusing on conspiracy theories and paranormal investigation. He is a known member of [The Hand](./Factions/The-Hand.md), suggesting that his radio program may serve as a tool for The Hand to gather information, spread disinformation, or identify potential threats.
 
 ## Radio Program
 
-Fraser Wyatt hosts "Cascadia AM with Fraser Wyatt" on [[Factions/Cascadia-AM|Cascadia AM]], a late-night AM radio station. The program features conspiracy theories, paranormal investigations, and discussions of strange events in British Columbia.
+Fraser Wyatt hosts "Cascadia AM with Fraser Wyatt" on [Cascadia AM](./Factions/Cascadia-AM.md), a late-night AM radio station. The program features conspiracy theories, paranormal investigations, and discussions of strange events in British Columbia.
 
 ## Connection to The Hand
 

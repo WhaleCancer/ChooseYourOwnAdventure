@@ -1,12 +1,12 @@
 # Astral Dimension
 
 **Type:** Dimensional plane / Supernatural realm  
-**Origin:** The realm of the [[Creatures/Supernatural/Elohim|Elohim]] (Outsiders)  
+**Origin:** The realm of the [Elohim](./Creatures/Supernatural/Elohim.md) (Outsiders)  
 **Era:** Present since the creation of dimensions
 
 ## Overview
 
-The **Astral Dimension** is the realm of the [[Creatures/Supernatural/Elohim|Elohim]] (Outsiders), a barren place of other-dimensional nothingness extending in all directions. It is a bright, gray void where what little solid substance exists typically consists of chunks of matter broken off from their original dimension.
+The **Astral Dimension** is the realm of the [Elohim](./Creatures/Supernatural/Elohim.md) (Outsiders), a barren place of other-dimensional nothingness extending in all directions. It is a bright, gray void where what little solid substance exists typically consists of chunks of matter broken off from their original dimension.
 
 The Astral Dimension can be reached from almost any point in a Prime Material plane or first layer of any Outer plane by psionic ability or device.
 
@@ -37,7 +37,7 @@ The **Akashic Record** is a physical place in the astral realm—its own infinit
 
 ## Relationship with Elohim
 
-The Astral Dimension is the native realm of the [[Creatures/Supernatural/Elohim|Elohim]] (Outsiders). They are born here when dark matter adheres to the brightest sparks of light and energy that result from the creation of a dimension. The Elohim use the Astral Dimension as a base from which to manipulate the Prime Material plane, conducting long-term experiments and influencing human history.
+The Astral Dimension is the native realm of the [Elohim](./Creatures/Supernatural/Elohim.md) (Outsiders). They are born here when dark matter adheres to the brightest sparks of light and energy that result from the creation of a dimension. The Elohim use the Astral Dimension as a base from which to manipulate the Prime Material plane, conducting long-term experiments and influencing human history.
 
 ## In Play
 

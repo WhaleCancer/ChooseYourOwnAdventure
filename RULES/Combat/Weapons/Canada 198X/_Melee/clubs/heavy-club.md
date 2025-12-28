@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../../Fighting-Fantasy/Club|Fighting Fantasy Club]] (large two-handed club)
+**Corresponds to:** [Fighting Fantasy Club](../../Fighting-Fantasy/Club.md) (large two-handed club)
 
 
 ## Damage Track

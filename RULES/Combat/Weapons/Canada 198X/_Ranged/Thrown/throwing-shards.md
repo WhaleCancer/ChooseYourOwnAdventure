@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../Fighting-Fantasy/Throwing-Dagger|Fighting Fantasy Throwing Dagger]]
+**Corresponds to:** [Fighting Fantasy Throwing Dagger](../Fighting-Fantasy/Throwing-Dagger.md)
 
 
 ## Damage Track

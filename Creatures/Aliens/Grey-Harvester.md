@@ -5,7 +5,7 @@
 
 ## Overview
 
-**Grey Harvesters** are specialized Greys responsible for the collection of powerful emotions from humans that are channeled back to the [[Creatures/Supernatural/Elohim|Archons]]. The Archons are emotional vampires who feed on this harvested energy. Grey Harvesters work in conjunction with the [[Phenomena/Frequency-Fences|Frequency Fence]] system—while the Fence provides continuous, passive harvesting from exposed populations, Harvesters conduct targeted, intensive emotional collection during abductions and terror missions. They are very effective in this role serving on flying saucers tasked with abduction missions and in large scale terror missions.
+**Grey Harvesters** are specialized Greys responsible for the collection of powerful emotions from humans that are channeled back to the [Archons](./Creatures/Supernatural/Elohim.md). The Archons are emotional vampires who feed on this harvested energy. Grey Harvesters work in conjunction with the [Frequency Fence](./Phenomena/Frequency-Fences.md) system—while the Fence provides continuous, passive harvesting from exposed populations, Harvesters conduct targeted, intensive emotional collection during abductions and terror missions. They are very effective in this role serving on flying saucers tasked with abduction missions and in large scale terror missions.
 
 ## Statistics
 
@@ -25,10 +25,10 @@
 
 Harvesters use several psionic abilities as part of their emotional harvesting operations:
 
-- **[[Dominate]] (1 PSI per command)** - Makes abductions easy to execute or to control powerful threats in combat
-- **[[Induce Fear]]** - Used as part of their strange agenda to harvest emotions; they typically use this on creatures they have immobilized with [[Restrain]]; this is the explanation for some people's experience of sleep paralysis
-- **[[Mental Affliction]]** - When a target has been abducted, a Harvester may use this as part of the emotional or spiritual harvest
-- **[[Restrain]]** - Used to immobilize targets before harvesting emotions
+- **[Dominate](./Dominate.md) (1 PSI per command)** - Makes abductions easy to execute or to control powerful threats in combat
+- **[Induce Fear](./Induce Fear.md)** - Used as part of their strange agenda to harvest emotions; they typically use this on creatures they have immobilized with [Restrain](./Restrain.md); this is the explanation for some people's experience of sleep paralysis
+- **[Mental Affliction](./Mental Affliction.md)** - When a target has been abducted, a Harvester may use this as part of the emotional or spiritual harvest
+- **[Restrain](./Restrain.md)** - Used to immobilize targets before harvesting emotions
 
 ### Sleep Paralysis Connection
 

@@ -32,10 +32,10 @@ CAF Special Forces are:
 
 CAF Special Forces typically carry:
 
-- **Rifles** - [[../../Weapons/Rifles/Combat-Rifles/C7|C7 assault rifle]] or specialized tactical rifles
-- **SMGs** - [[../../Weapons/SMGs/C1-Submachine-Gun|C1 SMG]] or other tactical SMGs for close-quarters combat
-- **Handguns** - [[../../Weapons/Handguns/Canadian-Browning-High-Power|Browning Hi-Power]] or specialized pistols
-- **Sniper rifles** - [[../../Weapons/Rifles/Sniper/C3-Sniper-Rifle|C3 sniper rifle]] for designated marksmen
+- **Rifles** - [C7 assault rifle](../../Weapons/Rifles/Combat-Rifles/C7.md) or specialized tactical rifles
+- **SMGs** - [C1 SMG](../../Weapons/SMGs/C1-Submachine-Gun.md) or other tactical SMGs for close-quarters combat
+- **Handguns** - [Browning Hi-Power](../../Weapons/Handguns/Canadian-Browning-High-Power.md) or specialized pistols
+- **Sniper rifles** - [C3 sniper rifle](../../Weapons/Rifles/Sniper/C3-Sniper-Rifle.md) for designated marksmen
 - **Specialized equipment** - Night vision, breaching tools, explosives, and other specialized gear (if available)
 - **Body armor** - Tactical vests and protective equipment
 - **Military uniforms** - Specialized tactical uniforms or camouflage

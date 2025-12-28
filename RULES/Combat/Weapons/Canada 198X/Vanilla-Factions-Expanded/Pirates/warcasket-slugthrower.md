@@ -4,11 +4,11 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../Stellar-Adventures/Laser-Rifle|Stellar Adventures Laser Rifle]] (huge vehicle-scale ranged weapon, integrated into warcasket armor)
+**Corresponds to:** [Stellar Adventures Laser Rifle](../Stellar-Adventures/Laser-Rifle.md) (huge vehicle-scale ranged weapon, integrated into warcasket armor)
 
 **Note:** This is a huge, vehicle-scale weapon integrated into warcasket armor systems. Too large for normal pawns to use - only warcasket users can operate this massive weapon.
 
-**Corresponds to:** [[../Stellar-Adventures/Laser-Rifle|Stellar Adventures Laser Rifle]] (huge vehicle-scale ranged weapon, integrated into warcasket armor)
+**Corresponds to:** [Stellar Adventures Laser Rifle](../Stellar-Adventures/Laser-Rifle.md) (huge vehicle-scale ranged weapon, integrated into warcasket armor)
 
 
 ## Damage Track

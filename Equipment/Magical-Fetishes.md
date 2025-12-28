@@ -6,7 +6,7 @@
 
 ## Overview
 
-**Magical Fetishes** are traditional First Nations protective items and tools, created through ritual and imbued with spiritual power. These items can provide protection against supernatural threats, aid in investigations, and help resist [[Creatures/Supernatural/Elohim|Elohim]] influence. They are often created by [[Factions/Circle-of-Watchers|Circle of Watchers]] members or other traditional knowledge-keepers.
+**Magical Fetishes** are traditional First Nations protective items and tools, created through ritual and imbued with spiritual power. These items can provide protection against supernatural threats, aid in investigations, and help resist [Elohim](./Creatures/Supernatural/Elohim.md) influence. They are often created by [Circle of Watchers](./Factions/Circle-of-Watchers.md) members or other traditional knowledge-keepers.
 
 ## Common Fetishes
 
@@ -60,7 +60,7 @@ Delicate, carved flute that plays a near-silent note. When blown, it calls prote
 
 ### 13. Sun-in-the-Tree Pendant
 
-Amber or yellow glass set in a silver disk carved with tree branches. Prevents sleep paralysis, fear dreams, or being "drawn out" by the [[Creatures/Aliens/Greys|Greys]]/Elohim at night.
+Amber or yellow glass set in a silver disk carved with tree branches. Prevents sleep paralysis, fear dreams, or being "drawn out" by the [Greys](./Creatures/Aliens/Greys.md)/Elohim at night.
 
 ### 14. Dreamcatcher of the Old Road
 
@@ -68,7 +68,7 @@ Hand-woven hoop with ancient glass beads and sheep's wool. Hung above a bed or c
 
 ### 15. Bear's Palm Drum
 
-Hand drum painted with a bear's paw; when played in [[Phenomena/Thin-Veil-Areas|thin veil areas]], it can "thicken" the boundaries temporarily or drive baneful spirits away.
+Hand drum painted with a bear's paw; when played in [thin veil areas](./Phenomena/Thin-Veil-Areas.md), it can "thicken" the boundaries temporarily or drive baneful spirits away.
 
 ### 16. Hummingbird Resin Charm
 

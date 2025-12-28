@@ -6,7 +6,7 @@
 
 ## Overview
 
-Investigation of the death of an [[Creatures/Supernatural/Elohim|Elohim]] (Outsider). The crime scene shows the distinctive shadow-like after-image that Outsiders leave when destroyed, and evidence suggests the killing was by [[Factions/The-Hand|The Hand]].
+Investigation of the death of an [Elohim](./Creatures/Supernatural/Elohim.md) (Outsider). The crime scene shows the distinctive shadow-like after-image that Outsiders leave when destroyed, and evidence suggests the killing was by [The Hand](./Factions/The-Hand.md).
 
 ## The Crime Scene
 

@@ -32,7 +32,7 @@ VPD Detectives are:
 
 VPD Detectives typically carry:
 
-- **Handguns** - [[../../Weapons/Canada 198X/_Ranged/Handguns/Revolvers/Service Revolver|Service revolvers]] (Smith & Wesson Model 10, .38 Special) or service pistols for plainclothes work
+- **Handguns** - [Service revolvers](../../Weapons/Canada 198X/_Ranged/Handguns/Revolvers/Service Revolver.md) (Smith & Wesson Model 10, .38 Special) or service pistols for plainclothes work
 - **Backup weapons** - May carry additional weapons for protection
 - **Less-lethal** - Handcuffs and other restraint equipment
 - **Radio** - For communication with dispatch and other officers

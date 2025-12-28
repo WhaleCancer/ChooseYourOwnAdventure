@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../Fighting-Fantasy/Javelin|Fighting Fantasy Javelin]] (Roman throwing spear)
+**Corresponds to:** [Fighting Fantasy Javelin](../Fighting-Fantasy/Javelin.md) (Roman throwing spear)
 
 
 ## Damage Track

@@ -43,23 +43,23 @@ The table below assigns each drug entry a **standard carried unit**, an **encumb
 
 | Drug / Entry                         | Standard Unit (Carried)                                  | Encumbrance Category | Typical 1985 CAD Street Value* |
 |--------------------------------------|----------------------------------------------------------|----------------------|---------------------------------|
-| [[Drugs/Alcohol\|Alcohol]]                              | 750 ml bottle of spirits or equivalent                  | Normal               | \$15–\$25 (bar price higher)   |
-| [[Drugs/Amphetamines-Speed\|Amphetamines / Speed]]                 | Small pill bottle (20–30 tablets)                       | Very Small           | \$40–\$80 per bottle           |
-| [[Drugs/Anabolic-Steroids\|Anabolic Steroids]]                    | One “cycle kit” (few vials + needles in a pouch)        | Small                | \$150–\$300 per cycle          |
-| [[Drugs/Barbiturates\|Barbiturates]]                         | Pill bottle (20 tablets)                                | Very Small           | \$30–\$60 per bottle           |
-| [[Drugs/Benzodiazepines\|Benzodiazepines]]                      | Pill bottle (30 tablets)                                | Very Small           | \$40–\$80 per bottle           |
-| [[Drugs/Cannabis-Hash\|Cannabis / Hash]]                      | Small dealer bag (approx. 3.5 g / 1⁄8 oz)               | Very Small           | \$25–\$40 per bag              |
-| [[Drugs/Cocaine-and-Crack\|Cocaine and Crack]]                    | Personal stash: 1 g powder OR 3–5 crack rocks           | Very Small           | Cocaine: ~\$100–\$150 / g; Crack: \$15–\$25 per rock |
-| [[Drugs/Heroin\|Heroin]]                               | “Bundle” of 10 small bags                               | Very Small           | \$80–\$150 per bundle          |
-| [[Drugs/Inhalants\|Inhalants]]                            | Single can of spray paint / glue tin                    | Normal               | \$5–\$10 per can               |
-| [[Drugs/LSD-Acid\|LSD (Acid)]]                           | Strip of 10 blotter tabs                                | Very Small           | \$5–\$10 per tab (strip \$50–\$100) |
-| [[Drugs/Mescaline-Peyote\|Mescaline (Peyote / San Pedro)]]       | One strong dose (several buttons or dried slices)       | Very Small           | \$20–\$40 per dose             |
-| [[Drugs/Nicotine\|Nicotine]]                             | Pack of 25 cigarettes                                   | Very Small           | \$2–\$4 per pack               |
-| [[Drugs/Nitrous-Oxide\|Nitrous Oxide (Whippets)]]            | Box of 24 cartridges                                    | Small                | \$15–\$30 per box              |
-| [[Drugs/PCP-Angel-Dust\|PCP (Angel Dust)]]                     | Vial or small bag (enough to dose a few cigarettes)     | Very Small           | \$40–\$80 per vial/bag         |
-| [[Drugs/Prescription-Opioids-1980s\|Prescription Opioids (1980s)]]         | Pill bottle (30 codeine/opiates)                        | Very Small           | \$40–\$100 per bottle          |
-| [[Drugs/Psilocybin-Mushrooms\|Psilocybin Mushrooms]]                 | Small bag (approx. 3.5 g dried)                         | Very Small           | \$25–\$40 per bag              |
-| [[Drugs/Tranquilizers-and-Sleeping-Pills\|Tranquilizers & Sleeping Pills]]       | Pill bottle (20–30 tablets)                             | Very Small           | \$20–\$60 per bottle           |
+| [Alcohol](./Drugs/Alcohol\.md)                              | 750 ml bottle of spirits or equivalent                  | Normal               | \$15–\$25 (bar price higher)   |
+| [Amphetamines / Speed](./Drugs/Amphetamines-Speed\.md)                 | Small pill bottle (20–30 tablets)                       | Very Small           | \$40–\$80 per bottle           |
+| [Anabolic Steroids](./Drugs/Anabolic-Steroids\.md)                    | One “cycle kit” (few vials + needles in a pouch)        | Small                | \$150–\$300 per cycle          |
+| [Barbiturates](./Drugs/Barbiturates\.md)                         | Pill bottle (20 tablets)                                | Very Small           | \$30–\$60 per bottle           |
+| [Benzodiazepines](./Drugs/Benzodiazepines\.md)                      | Pill bottle (30 tablets)                                | Very Small           | \$40–\$80 per bottle           |
+| [Cannabis / Hash](./Drugs/Cannabis-Hash\.md)                      | Small dealer bag (approx. 3.5 g / 1⁄8 oz)               | Very Small           | \$25–\$40 per bag              |
+| [Cocaine and Crack](./Drugs/Cocaine-and-Crack\.md)                    | Personal stash: 1 g powder OR 3–5 crack rocks           | Very Small           | Cocaine: ~\$100–\$150 / g; Crack: \$15–\$25 per rock |
+| [Heroin](./Drugs/Heroin\.md)                               | “Bundle” of 10 small bags                               | Very Small           | \$80–\$150 per bundle          |
+| [Inhalants](./Drugs/Inhalants\.md)                            | Single can of spray paint / glue tin                    | Normal               | \$5–\$10 per can               |
+| [LSD (Acid)](./Drugs/LSD-Acid\.md)                           | Strip of 10 blotter tabs                                | Very Small           | \$5–\$10 per tab (strip \$50–\$100) |
+| [Mescaline (Peyote / San Pedro)](./Drugs/Mescaline-Peyote\.md)       | One strong dose (several buttons or dried slices)       | Very Small           | \$20–\$40 per dose             |
+| [Nicotine](./Drugs/Nicotine\.md)                             | Pack of 25 cigarettes                                   | Very Small           | \$2–\$4 per pack               |
+| [Nitrous Oxide (Whippets)](./Drugs/Nitrous-Oxide\.md)            | Box of 24 cartridges                                    | Small                | \$15–\$30 per box              |
+| [PCP (Angel Dust)](./Drugs/PCP-Angel-Dust\.md)                     | Vial or small bag (enough to dose a few cigarettes)     | Very Small           | \$40–\$80 per vial/bag         |
+| [Prescription Opioids (1980s)](./Drugs/Prescription-Opioids-1980s\.md)         | Pill bottle (30 codeine/opiates)                        | Very Small           | \$40–\$100 per bottle          |
+| [Psilocybin Mushrooms](./Drugs/Psilocybin-Mushrooms\.md)                 | Small bag (approx. 3.5 g dried)                         | Very Small           | \$25–\$40 per bag              |
+| [Tranquilizers & Sleeping Pills](./Drugs/Tranquilizers-and-Sleeping-Pills\.md)       | Pill bottle (20–30 tablets)                             | Very Small           | \$20–\$60 per bottle           |
 
 \*These are **approximate 1985 Canadian street prices** for personal‑level quantities. For bulk wholesale, high‑end purity, or desperate late‑night buys, adjust up or down as needed.
 

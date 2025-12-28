@@ -32,9 +32,9 @@ CAF Infantry Soldiers are:
 
 CAF Infantry Soldiers typically carry:
 
-- **Rifles** - [[../../Weapons/Rifles/Combat-Rifles/C7|C7 assault rifle]] (new issue) or [[../../Weapons/Rifles/Combat-Rifles/C1A1|C1A1]] (older issue, still in service)
-- **Handguns** - [[../../Weapons/Handguns/Canadian-Browning-High-Power|Browning Hi-Power]] (Canadian service pistol)
-- **Machine Guns** - [[../../Weapons/Machine-Guns/C9-Light-Machine-Gun|C9 LMG]] (new issue) or [[../../Weapons/Machine-Guns/C2A1-Automatic-Rifle|C2A1]] (older issue) for squad support
+- **Rifles** - [C7 assault rifle](../../Weapons/Rifles/Combat-Rifles/C7.md) (new issue) or [C1A1](../../Weapons/Rifles/Combat-Rifles/C1A1.md) (older issue, still in service)
+- **Handguns** - [Browning Hi-Power](../../Weapons/Handguns/Canadian-Browning-High-Power.md) (Canadian service pistol)
+- **Machine Guns** - [C9 LMG](../../Weapons/Machine-Guns/C9-Light-Machine-Gun.md) (new issue) or [C2A1](../../Weapons/Machine-Guns/C2A1-Automatic-Rifle.md) (older issue) for squad support
 - **Grenades** - Hand grenades and other explosive devices (if weapon statted)
 - **Melee weapons** - Bayonets, combat knives, or entrenching tools
 - **Military uniforms** - Standard Canadian military uniforms with appropriate insignia

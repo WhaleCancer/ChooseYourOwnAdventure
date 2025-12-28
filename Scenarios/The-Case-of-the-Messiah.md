@@ -6,7 +6,7 @@
 
 ## Overview
 
-Investigation involving a UFO religion and cult, where the cult leader is an [[Creatures/Supernatural/Outsiders/Outsiders-Overview|Outsider]].
+Investigation involving a UFO religion and cult, where the cult leader is an [Outsider](./Creatures/Supernatural/Outsiders/Outsiders-Overview.md).
 
 ## Key Elements
 

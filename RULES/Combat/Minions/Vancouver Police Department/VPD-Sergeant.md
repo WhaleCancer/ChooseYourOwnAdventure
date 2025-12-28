@@ -32,8 +32,8 @@ VPD Sergeants are:
 
 VPD Sergeants typically carry:
 
-- **Handguns** - [[../../Weapons/Canada 198X/_Ranged/Handguns/Revolvers/Service Revolver|Service revolvers]] (Smith & Wesson Model 10, .38 Special) or service pistols
-- **Shotguns** - [[../../Weapons/Canada 198X/_Ranged/Shotguns/Pump Shotgun|Pump-action shotguns]] (Remington 870) in patrol vehicles
+- **Handguns** - [Service revolvers](../../Weapons/Canada 198X/_Ranged/Handguns/Revolvers/Service Revolver.md) (Smith & Wesson Model 10, .38 Special) or service pistols
+- **Shotguns** - [Pump-action shotguns](../../Weapons/Canada 198X/_Ranged/Shotguns/Pump Shotgun.md) (Remington 870) in patrol vehicles
 - **Less-lethal** - Batons, handcuffs, and other restraint equipment
 - **Radio** - For communication and coordination
 - **Uniform** - Standard police uniform with sergeant's insignia

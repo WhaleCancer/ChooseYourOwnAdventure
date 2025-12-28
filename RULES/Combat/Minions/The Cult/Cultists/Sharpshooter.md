@@ -34,9 +34,9 @@ Sharpshooters are:
 
 Sharpshooters typically carry:
 
-- **Lee-Enfield rifle** - [[../../Weapons/Canada 198X/_Ranged/Rifles/Bolt-Action Rifle|Lee-Enfield rifle]] (typically No. 4 Mk I or similar variant), their primary weapon for long-range precision shooting
+- **Lee-Enfield rifle** - [Lee-Enfield rifle](../../Weapons/Canada 198X/_Ranged/Rifles/Bolt-Action Rifle.md) (typically No. 4 Mk I or similar variant), their primary weapon for long-range precision shooting
 - **Rifle scope** - High-powered scope that reflects noticeable glint, making them identifiable
-- **Handgun sidearm** - [[../../Weapons/Canada 198X/_Ranged/Handguns/Pistols/Combat Handgun|Combat handgun]] or similar, swapped to at close range
+- **Handgun sidearm** - [Combat handgun](../../Weapons/Canada 198X/_Ranged/Handguns/Pistols/Combat Handgun.md) or similar, swapped to at close range
 - **Green combat fatigues** - Military-style clothing that makes them identifiable
 - **Ritual items** - Symbols, fetishes, or artifacts related to their beliefs
 

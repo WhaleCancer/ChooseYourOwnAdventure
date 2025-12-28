@@ -30,7 +30,7 @@ In the news? They are sometimes brought in after "chemical spills," "forest fire
 
 ### Experimental Projects
 
-- **Joint-Agency Operations:** Defense scientists in the CAF cooperate with [[Factions/Corporations/Orion-International|Orion International]] and top universities (like UBC) on advanced radar, seismic, and early computer analysis not just for national security—but, increasingly, for unexplained incidents.
+- **Joint-Agency Operations:** Defense scientists in the CAF cooperate with [Orion International](./Factions/Corporations/Orion-International.md) and top universities (like UBC) on advanced radar, seismic, and early computer analysis not just for national security—but, increasingly, for unexplained incidents.
 - **"Maple-1 Project":** Rumored to be an attempt to develop countermeasures against "phenomena" based on early encounters with the anomalous (guided energy shielding, psychic research, early AI). Shelved officially, but fragments of the project crop up from time to time.
 
 ### Internal Divide
@@ -42,7 +42,7 @@ In the news? They are sometimes brought in after "chemical spills," "forest fire
 ## Relationship to the Conspiracy
 
 - **Uneasy Allies:** The CAF often provides air surveillance, logistical support, or muscle for "containment" but is rarely told the full story—unless the incident is deemed a major threat.
-- **TECHNOLOGY:** The military's desire for advantage (radar jamming, anti-gravity, or psychic countermeasures) puts them at risk of being manipulated by [[Creatures/Supernatural/Elohim|Ethereals]], or of mistakenly enabling them (through ritual, AI, or high-tech research).
+- **TECHNOLOGY:** The military's desire for advantage (radar jamming, anti-gravity, or psychic countermeasures) puts them at risk of being manipulated by [Ethereals](./Creatures/Supernatural/Elohim.md), or of mistakenly enabling them (through ritual, AI, or high-tech research).
 - **"Ghost Files Bureau":** An ultra-secret branch within DND Intelligence maintains "archive boxes" of the truly unsolved—fragmentary photos, dead aliens, abnormal magnetic recordings, and transcriptions of intercepted coded transmissions believed to be "not of human origin."
 
 ## Hooks for the Players

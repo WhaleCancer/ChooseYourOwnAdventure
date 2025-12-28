@@ -3,7 +3,7 @@
 **Type:** Supernatural phenomenon / Human condition  
 **Affected Population:** Teenagers and young adults with psionic abilities  
 **Era:** Documented since the 1970s, increasing in frequency  
-**Related:** [[RULES/Psionics|Psionics]], [[Phenomena/Signal-Hour|Signal Hour]], [[Phenomena/Frequency-Fences|Frequency Fence]]
+**Related:** [Psionics](./RULES/Psionics.md), [Signal Hour](./Phenomena/Signal-Hour.md), [Frequency Fence](./Phenomena/Frequency-Fences.md)
 
 ## Overview
 
@@ -104,7 +104,7 @@ Many teenagers develop **Wild Psionics**—untrained, explosive abilities that a
 
 ### 6. Alien Abduction and Experimentation
 
-Some teenagers develop psionic abilities after [[Phenomena/Alien-Abductions|alien abductions]] or contact with alien artifacts:
+Some teenagers develop psionic abilities after [alien abductions](./Phenomena/Alien-Abductions.md) or contact with alien artifacts:
 - **Grey experiments** may awaken or enhance psionic potential
 - **Alien implants** can create artificial psionic abilities
 - **Exposure to alien technology** may trigger latent powers

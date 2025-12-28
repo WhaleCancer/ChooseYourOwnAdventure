@@ -4,7 +4,7 @@ Every Character has a selection of Characteristics that tell you what they are c
 
 ## PHYSICAL
 
-*A Character's PHYSICAL score starts at 4. Additional points may be assigned to this Characteristic during character creation, with the maximum number of points that can be added depending on the Character's [[RULES/Grade|Grade]].*
+*A Character's PHYSICAL score starts at 4. Additional points may be assigned to this Characteristic during character creation, with the maximum number of points that can be added depending on the Character's [Grade](./RULES/Grade.md).*
 
 A Character's PHYSICAL score indicates physical capabilities: strength, agility, reflexes, coordination, and endurance. The higher the PHYSICAL score, the better.
 
@@ -18,7 +18,7 @@ STAMINA POINTS represent the Character's ability to take damage before being inc
 
 ## MENTAL
 
-*A Character's MENTAL score starts at 4. Additional points may be assigned to this Characteristic during character creation, with the maximum number of points that can be added depending on the Character's [[RULES/Grade|Grade]].*
+*A Character's MENTAL score starts at 4. Additional points may be assigned to this Characteristic during character creation, with the maximum number of points that can be added depending on the Character's [Grade](./RULES/Grade.md).*
 
 A Character's MENTAL score indicates intellectual capabilities: reasoning, perception, memory, analysis, and technical knowledge. The higher the MENTAL score, the better.
 
@@ -32,7 +32,7 @@ PSI POINTS represent the Character's ability to use psionic powers and mental ab
 
 ## LUCK
 
-*A Character's LUCK starts at 8, and up to 3 points may be added to it regardless of [[RULES/Grade|Grade]].*
+*A Character's LUCK starts at 8, and up to 3 points may be added to it regardless of [Grade](./RULES/Grade.md).*
 
 LUCK is a pool of points that can help your Character. It can decide fate, change the tide in battle, or save a life. LUCK is handy but be careful – it does run out.
 
@@ -50,7 +50,7 @@ Each time LUCK is used in this way, the Character must reduce their LUCK POINTS 
 
 ### Using LUCK in Combat
 
-LUCK may also be used in battles at a player's own choice to increase or decrease the effects of wounds, escape from combat, negate critical hits and fumbles, and ignore movement penalties. See [[RULES/Combat|Combat Rules]] for more details on using LUCK in combat situations.
+LUCK may also be used in battles at a player's own choice to increase or decrease the effects of wounds, escape from combat, negate critical hits and fumbles, and ignore movement penalties. See [Combat Rules](./RULES/Combat.md) for more details on using LUCK in combat situations.
 
 ## Restoring Characteristics
 
@@ -58,13 +58,13 @@ LUCK may also be used in battles at a player's own choice to increase or decreas
 
 A Character's STAMINA POINTS will change constantly during an adventure as monsters, exhaustion and penalties take their toll. STAMINA POINTS are restored by eating Provisions. Each unit of Provisions restores 4 STAMINA POINTS. A Character's STAMINA POINTS may never exceed their Initial level.
 
-STAMINA POINTS can also be restored to their Initial level by drinking a Potion of Strength or through medical treatment. See [[RULES/Special-Skills/Knowledge-Skills#Medicine|Medicine]] for more details.
+STAMINA POINTS can also be restored to their Initial level by drinking a Potion of Strength or through medical treatment. See [Medicine](./RULES/Special-Skills/Knowledge-Skills#Medicine.md) for more details.
 
 ### PSI POINTS
 
 A Character's PSI POINTS will be depleted as they use psionic powers and mental abilities. PSI POINTS are restored naturally over time through rest and meditation. A Character's PSI POINTS may never exceed their Initial level.
 
-PSI POINTS can also be restored to their Initial level by drinking a Potion of Mind or through special psionic artifacts. See [[RULES/Psionics|Psionics]] for more details.
+PSI POINTS can also be restored to their Initial level by drinking a Potion of Mind or through special psionic artifacts. See [Psionics](./RULES/Psionics.md) for more details.
 
 ### LUCK POINTS
 

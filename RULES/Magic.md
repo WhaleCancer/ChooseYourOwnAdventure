@@ -73,8 +73,8 @@ It is also possible for a spellcaster to reduce the chance of a target making th
 
 EPIC supports three main types of magic:
 
-- **[[RULES/Magic/Minor-Magic|Minor Magic]]** - Easy-to-cast cantrips that require little magical power
-- **[[RULES/Magic/Wizardry|Wizardry]]** - Traditional spellcasting powered by magic points
-- **[[RULES/Magic/Sorcery|Sorcery]]** - Spells powered by the caster's own STAMINA
+- **[Minor Magic](./RULES/Magic/Minor-Magic.md)** - Easy-to-cast cantrips that require little magical power
+- **[Wizardry](./RULES/Magic/Wizardry.md)** - Traditional spellcasting powered by magic points
+- **[Sorcery](./RULES/Magic/Sorcery.md)** - Spells powered by the caster's own STAMINA
 
 Each type has its own rules, advantages, and limitations, detailed in their respective articles.

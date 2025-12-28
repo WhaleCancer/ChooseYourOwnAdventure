@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../Stellar-Adventures/Grenade|Stellar Adventures Grenade]] (explosive grenade)
+**Corresponds to:** [Stellar Adventures Grenade](../Stellar-Adventures/Grenade.md) (explosive grenade)
 
 
 ## Damage Track

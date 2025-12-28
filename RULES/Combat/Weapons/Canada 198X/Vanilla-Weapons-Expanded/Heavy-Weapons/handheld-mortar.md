@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../Stellar-Adventures/RPG|Stellar Adventures RPG]] (mortar launcher)
+**Corresponds to:** [Stellar Adventures RPG](../Stellar-Adventures/RPG.md) (mortar launcher)
 
 
 ## Damage Track

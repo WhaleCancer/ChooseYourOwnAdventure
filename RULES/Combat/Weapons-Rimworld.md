@@ -12,88 +12,88 @@ For detailed weapon statistics, refer to the individual weapon files or the [Rim
 
 | Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Weapons/Rimworld/Club\|Club]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
-| [[Weapons/Rimworld/Ikwa\|Ikwa]] | 1 | 2 | 3 | 3 | 4 | 4 | 5 |
-| [[Weapons/Rimworld/Knife\|Knife]] | 1 | 2 | 2 | 2 | 3 | 3 | 4 |
-| [[Weapons/Rimworld/Spear\|Spear]] | 1 | 2 | 3 | 3 | 4 | 4 | 5 |
+| [Club](./Weapons/Rimworld/Club\.md) | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [Ikwa](./Weapons/Rimworld/Ikwa\.md) | 1 | 2 | 3 | 3 | 4 | 4 | 5 |
+| [Knife](./Weapons/Rimworld/Knife\.md) | 1 | 2 | 2 | 2 | 3 | 3 | 4 |
+| [Spear](./Weapons/Rimworld/Spear\.md) | 1 | 2 | 3 | 3 | 4 | 4 | 5 |
 
 ### Medieval Melee Weapons
 
 | Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Weapons/Rimworld/Gladius\|Gladius]] | 2 | 2 | 3 | 3 | 4 | 4 | 5 |
-| [[Weapons/Rimworld/Longsword\|Longsword]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
-| [[Weapons/Rimworld/Mace\|Mace]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [Gladius](./Weapons/Rimworld/Gladius\.md) | 2 | 2 | 3 | 3 | 4 | 4 | 5 |
+| [Longsword](./Weapons/Rimworld/Longsword\.md) | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [Mace](./Weapons/Rimworld/Mace\.md) | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
 
 ### Industrial Melee Weapons
 
 | Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Weapons/Rimworld/Plasteel-Knife\|Plasteel Knife]] | 2 | 2 | 3 | 3 | 4 | 4 | 5 |
-| [[Weapons/Rimworld/Uranium-Mace\|Uranium Mace]] | 3 | 3 | 4 | 4 | 5 | 6 | 7 |
+| [Plasteel Knife](./Weapons/Rimworld/Plasteel-Knife\.md) | 2 | 2 | 3 | 3 | 4 | 4 | 5 |
+| [Uranium Mace](./Weapons/Rimworld/Uranium-Mace\.md) | 3 | 3 | 4 | 4 | 5 | 6 | 7 |
 
 ### Spacer Melee Weapons
 
 | Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Weapons/Rimworld/Monosword\|Monosword]] | 3 | 4 | 5 | 5 | 6 | 7 | 8 |
-| [[Weapons/Rimworld/Zeushammer\|Zeushammer]] | 3 | 4 | 5 | 5 | 6 | 7 | 8 |
+| [Monosword](./Weapons/Rimworld/Monosword\.md) | 3 | 4 | 5 | 5 | 6 | 7 | 8 |
+| [Zeushammer](./Weapons/Rimworld/Zeushammer\.md) | 3 | 4 | 5 | 5 | 6 | 7 | 8 |
 
 ### Royalty DLC Melee Weapons
 
 | Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Weapons/Rimworld/Plasmasword\|Plasmasword]] | 3 | 4 | 5 | 5 | 6 | 7 | 8 |
-| [[Weapons/Rimworld/Persona-Monosword\|Persona Monosword]] | 3 | 4 | 5 | 6 | 6 | 7 | 9 |
-| [[Weapons/Rimworld/Persona-Zeushammer\|Persona Zeushammer]] | 3 | 4 | 5 | 6 | 6 | 7 | 9 |
+| [Plasmasword](./Weapons/Rimworld/Plasmasword\.md) | 3 | 4 | 5 | 5 | 6 | 7 | 8 |
+| [Persona Monosword](./Weapons/Rimworld/Persona-Monosword\.md) | 3 | 4 | 5 | 6 | 6 | 7 | 9 |
+| [Persona Zeushammer](./Weapons/Rimworld/Persona-Zeushammer\.md) | 3 | 4 | 5 | 6 | 6 | 7 | 9 |
 
 ### Neolithic Ranged Weapons
 
 | Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Weapons/Rimworld/Short-Bow\|Short Bow]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
-| [[Weapons/Rimworld/Recurve-Bow\|Recurve Bow]] | 2 | 2 | 3 | 3 | 4 | 4 | 5 |
-| [[Weapons/Rimworld/Great-Bow\|Great Bow]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
-| [[Weapons/Rimworld/Pila\|Pila]] | 1 | 2 | 3 | 3 | 4 | 4 | 5 |
+| [Short Bow](./Weapons/Rimworld/Short-Bow\.md) | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [Recurve Bow](./Weapons/Rimworld/Recurve-Bow\.md) | 2 | 2 | 3 | 3 | 4 | 4 | 5 |
+| [Great Bow](./Weapons/Rimworld/Great-Bow\.md) | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [Pila](./Weapons/Rimworld/Pila\.md) | 1 | 2 | 3 | 3 | 4 | 4 | 5 |
 
 ### Industrial Ranged Weapons
 
 | Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Weapons/Rimworld/Autopistol\|Autopistol]] | 2 | 2 | 3 | 3 | 4 | 4 | 5 |
-| [[Weapons/Rimworld/Machine-Pistol\|Machine Pistol]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
-| [[Weapons/Rimworld/Revolver\|Revolver]] | 2 | 3 | 3 | 4 | 4 | 4 | 5 |
-| [[Weapons/Rimworld/Bolt-Action-Rifle\|Bolt-Action Rifle]] | 3 | 4 | 4 | 5 | 5 | 6 | 7 |
-| [[Weapons/Rimworld/Pump-Shotgun\|Pump Shotgun]] | 2 | 3 | 4 | 4 | 5 | 5 | 6 |
-| [[Weapons/Rimworld/Heavy-SMG\|Heavy SMG]] | 2 | 3 | 4 | 4 | 5 | 5 | 6 |
-| [[Weapons/Rimworld/LMG\|LMG]] | 3 | 4 | 4 | 5 | 5 | 6 | 7 |
-| [[Weapons/Rimworld/Assault-Rifle\|Assault Rifle]] | 3 | 4 | 4 | 5 | 5 | 6 | 7 |
-| [[Weapons/Rimworld/Sniper-Rifle\|Sniper Rifle]] | 4 | 5 | 5 | 6 | 6 | 7 | 8 |
-| [[Weapons/Rimworld/Chain-Shotgun\|Chain Shotgun]] | 2 | 3 | 4 | 5 | 5 | 6 | 7 |
-| [[Weapons/Rimworld/Minigun\|Minigun]] | 3 | 4 | 5 | 5 | 6 | 6 | 7 |
+| [Autopistol](./Weapons/Rimworld/Autopistol\.md) | 2 | 2 | 3 | 3 | 4 | 4 | 5 |
+| [Machine Pistol](./Weapons/Rimworld/Machine-Pistol\.md) | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [Revolver](./Weapons/Rimworld/Revolver\.md) | 2 | 3 | 3 | 4 | 4 | 4 | 5 |
+| [Bolt-Action Rifle](./Weapons/Rimworld/Bolt-Action-Rifle\.md) | 3 | 4 | 4 | 5 | 5 | 6 | 7 |
+| [Pump Shotgun](./Weapons/Rimworld/Pump-Shotgun\.md) | 2 | 3 | 4 | 4 | 5 | 5 | 6 |
+| [Heavy SMG](./Weapons/Rimworld/Heavy-SMG\.md) | 2 | 3 | 4 | 4 | 5 | 5 | 6 |
+| [LMG](./Weapons/Rimworld/LMG\.md) | 3 | 4 | 4 | 5 | 5 | 6 | 7 |
+| [Assault Rifle](./Weapons/Rimworld/Assault-Rifle\.md) | 3 | 4 | 4 | 5 | 5 | 6 | 7 |
+| [Sniper Rifle](./Weapons/Rimworld/Sniper-Rifle\.md) | 4 | 5 | 5 | 6 | 6 | 7 | 8 |
+| [Chain Shotgun](./Weapons/Rimworld/Chain-Shotgun\.md) | 2 | 3 | 4 | 5 | 5 | 6 | 7 |
+| [Minigun](./Weapons/Rimworld/Minigun\.md) | 3 | 4 | 5 | 5 | 6 | 6 | 7 |
 
 ### Spacer Ranged Weapons
 
 | Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Weapons/Rimworld/Charge-Rifle\|Charge Rifle]] | 4 | 5 | 5 | 6 | 6 | 7 | 8 |
-| [[Weapons/Rimworld/Charge-Lance\|Charge Lance]] | 5 | 6 | 6 | 7 | 7 | 8 | 9 |
+| [Charge Rifle](./Weapons/Rimworld/Charge-Rifle\.md) | 4 | 5 | 5 | 6 | 6 | 7 | 8 |
+| [Charge Lance](./Weapons/Rimworld/Charge-Lance\.md) | 5 | 6 | 6 | 7 | 7 | 8 | 9 |
 
 ### Throwables
 
 | Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Weapons/Rimworld/Frag-Grenades\|Frag Grenades]] | 3 | 4 | 5 | 6 | 6 | 7 | 8 |
-| [[Weapons/Rimworld/Molotov-Cocktails\|Molotov Cocktails]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
-| [[Weapons/Rimworld/EMP-Grenades\|EMP Grenades]] | 1 | 1 | 2 | 2 | 2 | 3 | 4 |
+| [Frag Grenades](./Weapons/Rimworld/Frag-Grenades\.md) | 3 | 4 | 5 | 6 | 6 | 7 | 8 |
+| [Molotov Cocktails](./Weapons/Rimworld/Molotov-Cocktails\.md) | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [EMP Grenades](./Weapons/Rimworld/EMP-Grenades\.md) | 1 | 1 | 2 | 2 | 2 | 3 | 4 |
 
 ### Launchers
 
 | Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Weapons/Rimworld/Incendiary-Launcher\|Incendiary Launcher]] | 2 | 3 | 4 | 4 | 5 | 6 | 7 |
-| [[Weapons/Rimworld/Triple-Rocket-Launcher\|Triple Rocket Launcher]] | 4 | 5 | 6 | 7 | 7 | 8 | 9 |
-| [[Weapons/Rimworld/Doomsday-Rocket-Launcher\|Doomsday Rocket Launcher]] | 5 | 6 | 7 | 8 | 8 | 9 | 10 |
+| [Incendiary Launcher](./Weapons/Rimworld/Incendiary-Launcher\.md) | 2 | 3 | 4 | 4 | 5 | 6 | 7 |
+| [Triple Rocket Launcher](./Weapons/Rimworld/Triple-Rocket-Launcher\.md) | 4 | 5 | 6 | 7 | 7 | 8 | 9 |
+| [Doomsday Rocket Launcher](./Weapons/Rimworld/Doomsday-Rocket-Launcher\.md) | 5 | 6 | 7 | 8 | 8 | 9 | 10 |
 
 ---
 
@@ -105,39 +105,39 @@ The Vanilla Weapons Expanded mod adds numerous additional weapons to Rimworld. F
 
 | Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/Sword\|Sword]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
-| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/Short-Sword\|Short Sword]] | 1 | 2 | 3 | 3 | 4 | 4 | 5 |
-| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/Greatsword\|Greatsword]] | 2 | 3 | 4 | 4 | 5 | 6 | 7 |
-| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/Spear\|Spear]] | 1 | 2 | 3 | 3 | 4 | 4 | 5 |
-| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/Battle-Axe\|Battle Axe]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
-| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/Halberd\|Halberd]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
-| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/Mace\|Mace]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
-| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/Warhammer\|Warhammer]] | 2 | 3 | 4 | 4 | 5 | 5 | 6 |
-| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/Morning-Star\|Morning Star]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
-| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/Combat-Knife\|Combat Knife]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
-| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/Baton\|Baton]] | 1 | 1 | 2 | 2 | 3 | 3 | 4 |
-| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/Cleaver\|Cleaver]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
-| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/Hammer\|Hammer]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
-| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/Pickaxe\|Pickaxe]] | 1 | 2 | 3 | 3 | 4 | 4 | 5 |
-| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/Scalpel\|Scalpel]] | 1 | 2 | 2 | 2 | 3 | 3 | 4 |
-| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/Shovel\|Shovel]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
-| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/Wrench\|Wrench]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [Sword](./Weapons/Rimworld/Vanilla-Weapons-Expanded/Sword\.md) | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [Short Sword](./Weapons/Rimworld/Vanilla-Weapons-Expanded/Short-Sword\.md) | 1 | 2 | 3 | 3 | 4 | 4 | 5 |
+| [Greatsword](./Weapons/Rimworld/Vanilla-Weapons-Expanded/Greatsword\.md) | 2 | 3 | 4 | 4 | 5 | 6 | 7 |
+| [Spear](./Weapons/Rimworld/Vanilla-Weapons-Expanded/Spear\.md) | 1 | 2 | 3 | 3 | 4 | 4 | 5 |
+| [Battle Axe](./Weapons/Rimworld/Vanilla-Weapons-Expanded/Battle-Axe\.md) | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [Halberd](./Weapons/Rimworld/Vanilla-Weapons-Expanded/Halberd\.md) | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [Mace](./Weapons/Rimworld/Vanilla-Weapons-Expanded/Mace\.md) | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [Warhammer](./Weapons/Rimworld/Vanilla-Weapons-Expanded/Warhammer\.md) | 2 | 3 | 4 | 4 | 5 | 5 | 6 |
+| [Morning Star](./Weapons/Rimworld/Vanilla-Weapons-Expanded/Morning-Star\.md) | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [Combat Knife](./Weapons/Rimworld/Vanilla-Weapons-Expanded/Combat-Knife\.md) | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [Baton](./Weapons/Rimworld/Vanilla-Weapons-Expanded/Baton\.md) | 1 | 1 | 2 | 2 | 3 | 3 | 4 |
+| [Cleaver](./Weapons/Rimworld/Vanilla-Weapons-Expanded/Cleaver\.md) | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [Hammer](./Weapons/Rimworld/Vanilla-Weapons-Expanded/Hammer\.md) | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [Pickaxe](./Weapons/Rimworld/Vanilla-Weapons-Expanded/Pickaxe\.md) | 1 | 2 | 3 | 3 | 4 | 4 | 5 |
+| [Scalpel](./Weapons/Rimworld/Vanilla-Weapons-Expanded/Scalpel\.md) | 1 | 2 | 2 | 2 | 3 | 3 | 4 |
+| [Shovel](./Weapons/Rimworld/Vanilla-Weapons-Expanded/Shovel\.md) | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [Wrench](./Weapons/Rimworld/Vanilla-Weapons-Expanded/Wrench\.md) | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
 
 ### Vanilla Weapons Expanded Ranged Weapons
 
 | Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/Musket\|Musket]] | 3 | 4 | 4 | 5 | 5 | 6 | 7 |
-| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/Grenade-Launcher\|Grenade Launcher]] | 3 | 4 | 5 | 6 | 6 | 7 | 8 |
-| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/Lever-Action-Rifle\|Lever-Action Rifle]] | 3 | 4 | 4 | 5 | 5 | 6 | 7 |
-| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/Frontier-Revolver\|Frontier Revolver]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
-| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/Pipe-Gun\|Pipe Gun]] | 2 | 2 | 3 | 3 | 4 | 4 | 5 |
+| [Musket](./Weapons/Rimworld/Vanilla-Weapons-Expanded/Musket\.md) | 3 | 4 | 4 | 5 | 5 | 6 | 7 |
+| [Grenade Launcher](./Weapons/Rimworld/Vanilla-Weapons-Expanded/Grenade-Launcher\.md) | 3 | 4 | 5 | 6 | 6 | 7 | 8 |
+| [Lever-Action Rifle](./Weapons/Rimworld/Vanilla-Weapons-Expanded/Lever-Action-Rifle\.md) | 3 | 4 | 4 | 5 | 5 | 6 | 7 |
+| [Frontier Revolver](./Weapons/Rimworld/Vanilla-Weapons-Expanded/Frontier-Revolver\.md) | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [Pipe Gun](./Weapons/Rimworld/Vanilla-Weapons-Expanded/Pipe-Gun\.md) | 2 | 2 | 3 | 3 | 4 | 4 | 5 |
 
 ### Vanilla Weapons Expanded Throwables
 
 | Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Weapons/Rimworld/Vanilla-Weapons-Expanded/Throwing-Rock\|Throwing Rock]] | 1 | 2 | 2 | 2 | 3 | 3 | 4 |
+| [Throwing Rock](./Weapons/Rimworld/Vanilla-Weapons-Expanded/Throwing-Rock\.md) | 1 | 2 | 2 | 2 | 3 | 3 | 4 |
 
 ---
 
@@ -151,8 +151,8 @@ The Vanilla Factions Expanded mod series adds weapons unique to various faction 
 
 | Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Weapons/Rimworld/Vanilla-Factions-Expanded/Settlers/Western-Revolver\|Western Revolver]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
-| [[Weapons/Rimworld/Vanilla-Factions-Expanded/Settlers/Sawed-Off-Shotgun\|Sawed-Off Shotgun]] | 2 | 3 | 4 | 5 | 5 | 6 | 7 |
+| [Western Revolver](./Weapons/Rimworld/Vanilla-Factions-Expanded/Settlers/Western-Revolver\.md) | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [Sawed-Off Shotgun](./Weapons/Rimworld/Vanilla-Factions-Expanded/Settlers/Sawed-Off-Shotgun\.md) | 2 | 3 | 4 | 5 | 5 | 6 | 7 |
 
 ### Vanilla Factions Expanded - Vikings
 
@@ -160,10 +160,10 @@ The Vanilla Factions Expanded mod series adds weapons unique to various faction 
 
 | Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Weapons/Rimworld/Vanilla-Factions-Expanded/Vikings/Battle-Axe\|Battle Axe]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
-| [[Weapons/Rimworld/Vanilla-Factions-Expanded/Vikings/Viking-Sword\|Viking Sword]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
-| [[Weapons/Rimworld/Vanilla-Factions-Expanded/Vikings/Viking-Spear\|Viking Spear]] | 1 | 2 | 3 | 3 | 4 | 4 | 5 |
-| [[Weapons/Rimworld/Vanilla-Factions-Expanded/Vikings/Cryptotech-Axe\|Cryptotech Axe]] | 3 | 4 | 4 | 5 | 5 | 6 | 7 |
+| [Battle Axe](./Weapons/Rimworld/Vanilla-Factions-Expanded/Vikings/Battle-Axe\.md) | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [Viking Sword](./Weapons/Rimworld/Vanilla-Factions-Expanded/Vikings/Viking-Sword\.md) | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [Viking Spear](./Weapons/Rimworld/Vanilla-Factions-Expanded/Vikings/Viking-Spear\.md) | 1 | 2 | 3 | 3 | 4 | 4 | 5 |
+| [Cryptotech Axe](./Weapons/Rimworld/Vanilla-Factions-Expanded/Vikings/Cryptotech-Axe\.md) | 3 | 4 | 4 | 5 | 5 | 6 | 7 |
 
 ### Vanilla Factions Expanded - Pirates
 
@@ -171,24 +171,24 @@ The Vanilla Factions Expanded mod series adds weapons unique to various faction 
 
 | Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Weapons/Rimworld/Vanilla-Factions-Expanded/Pirates/Cutlass\|Cutlass]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [Cutlass](./Weapons/Rimworld/Vanilla-Factions-Expanded/Pirates/Cutlass\.md) | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
 
 **Warcasket Melee Weapons (Vehicle-Scale):**
 
 | Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Weapons/Rimworld/Vanilla-Factions-Expanded/Pirates/Warcasket-Fist\|Warcasket Fist]] | 4 | 5 | 6 | 7 | 8 | 9 | 12 |
-| [[Weapons/Rimworld/Vanilla-Factions-Expanded/Pirates/Warcasket-Claw\|Warcasket Claw]] | 4 | 5 | 6 | 7 | 8 | 10 | 13 |
+| [Warcasket Fist](./Weapons/Rimworld/Vanilla-Factions-Expanded/Pirates/Warcasket-Fist\.md) | 4 | 5 | 6 | 7 | 8 | 9 | 12 |
+| [Warcasket Claw](./Weapons/Rimworld/Vanilla-Factions-Expanded/Pirates/Warcasket-Claw\.md) | 4 | 5 | 6 | 7 | 8 | 10 | 13 |
 
 **Warcasket Ranged Weapons (Vehicle-Scale):**
 
 | Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Weapons/Rimworld/Vanilla-Factions-Expanded/Pirates/Warcasket-Gun\|Warcasket Gun]] | 4 | 5 | 6 | 7 | 8 | 9 | 12 |
-| [[Weapons/Rimworld/Vanilla-Factions-Expanded/Pirates/Warcasket-Autocannon\|Warcasket Autocannon]] | 4 | 5 | 6 | 7 | 8 | 10 | 13 |
-| [[Weapons/Rimworld/Vanilla-Factions-Expanded/Pirates/Warcasket-Gauss-Rifle\|Warcasket Gauss Rifle]] | 5 | 6 | 7 | 8 | 9 | 11 | 14 |
-| [[Weapons/Rimworld/Vanilla-Factions-Expanded/Pirates/Warcasket-Plasma-Cannon\|Warcasket Plasma Cannon]] | 5 | 6 | 7 | 8 | 9 | 11 | 15 |
-| [[Weapons/Rimworld/Vanilla-Factions-Expanded/Pirates/Warcasket-Missile-Launcher\|Warcasket Missile Launcher]] | 5 | 6 | 7 | 8 | 9 | 11 | 15 |
+| [Warcasket Gun](./Weapons/Rimworld/Vanilla-Factions-Expanded/Pirates/Warcasket-Gun\.md) | 4 | 5 | 6 | 7 | 8 | 9 | 12 |
+| [Warcasket Autocannon](./Weapons/Rimworld/Vanilla-Factions-Expanded/Pirates/Warcasket-Autocannon\.md) | 4 | 5 | 6 | 7 | 8 | 10 | 13 |
+| [Warcasket Gauss Rifle](./Weapons/Rimworld/Vanilla-Factions-Expanded/Pirates/Warcasket-Gauss-Rifle\.md) | 5 | 6 | 7 | 8 | 9 | 11 | 14 |
+| [Warcasket Plasma Cannon](./Weapons/Rimworld/Vanilla-Factions-Expanded/Pirates/Warcasket-Plasma-Cannon\.md) | 5 | 6 | 7 | 8 | 9 | 11 | 15 |
+| [Warcasket Missile Launcher](./Weapons/Rimworld/Vanilla-Factions-Expanded/Pirates/Warcasket-Missile-Launcher\.md) | 5 | 6 | 7 | 8 | 9 | 11 | 15 |
 
 ### Vanilla Factions Expanded - Medieval
 
@@ -196,14 +196,14 @@ The Vanilla Factions Expanded mod series adds weapons unique to various faction 
 
 | Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Weapons/Rimworld/Vanilla-Factions-Expanded/Medieval/Medieval-Sword\|Medieval Sword]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [Medieval Sword](./Weapons/Rimworld/Vanilla-Factions-Expanded/Medieval/Medieval-Sword\.md) | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
 
 **Ranged Weapons:**
 
 | Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Weapons/Rimworld/Vanilla-Factions-Expanded/Medieval/Longbow\|Longbow]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
-| [[Weapons/Rimworld/Vanilla-Factions-Expanded/Medieval/Medieval-Crossbow\|Medieval Crossbow]] | 2 | 2 | 3 | 3 | 4 | 4 | 5 |
+| [Longbow](./Weapons/Rimworld/Vanilla-Factions-Expanded/Medieval/Longbow\.md) | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [Medieval Crossbow](./Weapons/Rimworld/Vanilla-Factions-Expanded/Medieval/Medieval-Crossbow\.md) | 2 | 2 | 3 | 3 | 4 | 4 | 5 |
 
 ### Vanilla Factions Expanded - Insectoids
 
@@ -211,14 +211,14 @@ The Vanilla Factions Expanded mod series adds weapons unique to various faction 
 
 | Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Weapons/Rimworld/Vanilla-Factions-Expanded/Insectoids/Plasmacutter\|Plasmacutter]] | 3 | 4 | 5 | 5 | 6 | 7 | 8 |
-| [[Weapons/Rimworld/Vanilla-Factions-Expanded/Insectoids/Plasmasaw\|Plasmasaw]] | 3 | 4 | 5 | 6 | 6 | 7 | 8 |
+| [Plasmacutter](./Weapons/Rimworld/Vanilla-Factions-Expanded/Insectoids/Plasmacutter\.md) | 3 | 4 | 5 | 5 | 6 | 7 | 8 |
+| [Plasmasaw](./Weapons/Rimworld/Vanilla-Factions-Expanded/Insectoids/Plasmasaw\.md) | 3 | 4 | 5 | 6 | 6 | 7 | 8 |
 
 **Ranged Weapons:**
 
 | Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Weapons/Rimworld/Vanilla-Factions-Expanded/Insectoids/Plasmapiercer\|Plasmapiercer]] | 4 | 5 | 5 | 6 | 6 | 7 | 8 |
+| [Plasmapiercer](./Weapons/Rimworld/Vanilla-Factions-Expanded/Insectoids/Plasmapiercer\.md) | 4 | 5 | 5 | 6 | 6 | 7 | 8 |
 
 ### Vanilla Factions Expanded - Ancients
 
@@ -226,13 +226,13 @@ The Vanilla Factions Expanded mod series adds weapons unique to various faction 
 
 | Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Weapons/Rimworld/Vanilla-Factions-Expanded/Ancients/Ancient-Blade\|Ancient Blade]] | 3 | 4 | 5 | 5 | 6 | 7 | 8 |
+| [Ancient Blade](./Weapons/Rimworld/Vanilla-Factions-Expanded/Ancients/Ancient-Blade\.md) | 3 | 4 | 5 | 5 | 6 | 7 | 8 |
 
 **Ranged Weapons:**
 
 | Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Weapons/Rimworld/Vanilla-Factions-Expanded/Ancients/Ancient-Rifle\|Ancient Rifle]] | 4 | 5 | 5 | 6 | 6 | 7 | 8 |
+| [Ancient Rifle](./Weapons/Rimworld/Vanilla-Factions-Expanded/Ancients/Ancient-Rifle\.md) | 4 | 5 | 5 | 6 | 6 | 7 | 8 |
 
 ---
 

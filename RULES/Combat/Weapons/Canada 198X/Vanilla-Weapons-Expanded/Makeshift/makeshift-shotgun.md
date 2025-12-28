@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../Stellar-Adventures/Shotgun|Stellar Adventures Shotgun]]
+**Corresponds to:** [Stellar Adventures Shotgun](../Stellar-Adventures/Shotgun.md)
 
 
 ## Damage Track

@@ -6,7 +6,7 @@
 
 ## Overview
 
-The multitude of tall transmission towers—national radio beacons, television masts, the newly rising "satellite link" dishes, and even the official Dominion Observatory time signal—are not merely broadcasting news and sitcoms. They hum with **prison harmonics**: engineered frequencies and sub-audible patterns, designed by the [[Creatures/Supernatural/Elohim|Archons]] and implemented by compromised tech elites, that keep humanity pacified. These signals dampen critical thought, blunt spiritual resistance, intensify paranoia and helplessness, and, most importantly, reinforce the **Veil** that blots out awareness of dimensional truth.
+The multitude of tall transmission towers—national radio beacons, television masts, the newly rising "satellite link" dishes, and even the official Dominion Observatory time signal—are not merely broadcasting news and sitcoms. They hum with **prison harmonics**: engineered frequencies and sub-audible patterns, designed by the [Archons](./Creatures/Supernatural/Elohim.md) and implemented by compromised tech elites, that keep humanity pacified. These signals dampen critical thought, blunt spiritual resistance, intensify paranoia and helplessness, and, most importantly, reinforce the **Veil** that blots out awareness of dimensional truth.
 
 **The Frequency Fence serves a dual purpose:** It is both a control mechanism and an energy harvesting system. The Archons are emotional vampires who feed on the emotional and psychic energy of humans. The Frequency Fence actively drains this energy from exposed populations, channeling it back to the Archons to sustain them while simultaneously weakening humans into submission. This emotional vampirism directly supports the prison planet goals—weakened, emotionally drained humans are less capable of recognizing their situation or organizing resistance.
 
@@ -14,7 +14,7 @@ The multitude of tall transmission towers—national radio beacons, television m
 
 ### 1. The Prison Grid
 
-- Transmission towers are placed not at random, but at precise geometric intervals mapped to ancient ley-lines and modulated by algorithms "gifted" during early [[Creatures/Aliens/Greys|Grey]] encounters.
+- Transmission towers are placed not at random, but at precise geometric intervals mapped to ancient ley-lines and modulated by algorithms "gifted" during early [Grey](./Creatures/Aliens/Greys.md) encounters.
 - Together, they create a resonant web—a Prison Grid—that overlays the land, forming an invisible "fence" that both contains souls and prevents true cosmic or psychic perception.
 - Most urban centers lie deep within the denser knots of the grid, while remote wilderness and certain First Nations sacred sites fall in natural "nulls" or interference zones.
 

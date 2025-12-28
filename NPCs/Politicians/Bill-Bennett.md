@@ -13,9 +13,9 @@ Bill Bennett retired as the Premier of British Columbia in 1986 for a combinatio
 ## The Truth
 
 > [!TRUTH]
-> He was one of the members of [[Factions/The-Hand|The Hand]] prior to being inhabited by an [[Creatures/Supernatural/Elohim|Elohim]] mind. This mind is the true reason that Bennett exited politics. The Elohim were unaware that he was a member of The Hand, and taking over his mind resulted in Bennett missing a check in. The fact that he was compromised is what led to the other four members of The Hand to cut contact with each other.
+> He was one of the members of [The Hand](./Factions/The-Hand.md) prior to being inhabited by an [Elohim](./Creatures/Supernatural/Elohim.md) mind. This mind is the true reason that Bennett exited politics. The Elohim were unaware that he was a member of The Hand, and taking over his mind resulted in Bennett missing a check in. The fact that he was compromised is what led to the other four members of The Hand to cut contact with each other.
 
-His retirement opened the door for Bill Vander Zalm, who succeeded him as the leader of the [[Factions/Social-Credit-Party|Social Credit Party]] and then as Premier of British Columbia. Vander Zalm was a charismatic figure with a populist style, and his leadership marked a shift in focus and approach from Bennett's era. While Bennett's departure was part of the natural political cycle, it was significant in setting the stage for a new chapter in BC's political landscape.
+His retirement opened the door for Bill Vander Zalm, who succeeded him as the leader of the [Social Credit Party](./Factions/Social-Credit-Party.md) and then as Premier of British Columbia. Vander Zalm was a charismatic figure with a populist style, and his leadership marked a shift in focus and approach from Bennett's era. While Bennett's departure was part of the natural political cycle, it was significant in setting the stage for a new chapter in BC's political landscape.
 
 ## In Play
 

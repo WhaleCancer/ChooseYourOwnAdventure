@@ -5,7 +5,7 @@
 
 ## Overview
 
-**Grey Navigators** are the pilots of the flying saucers. A Navigator will typically have *[[Mental Pilot]]* active and be connected to the flying saucer it is assigned to.
+**Grey Navigators** are the pilots of the flying saucers. A Navigator will typically have *[Mental Pilot](./Mental Pilot.md)* active and be connected to the flying saucer it is assigned to.
 
 ## Statistics
 

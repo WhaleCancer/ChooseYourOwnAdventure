@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../Fighting-Fantasy/Spear|Fighting Fantasy Spear]] (long wooden spear)
+**Corresponds to:** [Fighting Fantasy Spear](../Fighting-Fantasy/Spear.md) (long wooden spear)
 
 
 ## Damage Track

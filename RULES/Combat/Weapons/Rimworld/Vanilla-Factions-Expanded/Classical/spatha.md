@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../../../Fighting-Fantasy/Short-Sword|Fighting Fantasy Short Sword]] (Roman spatha)
+**Corresponds to:** [Fighting Fantasy Short Sword](../../../Fighting-Fantasy/Short-Sword.md) (Roman spatha)
 
 
 ## Damage Track

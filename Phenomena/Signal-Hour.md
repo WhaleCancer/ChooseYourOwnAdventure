@@ -6,7 +6,7 @@
 
 ## Overview
 
-**The Signal Hour** is a conspiracy legend whispered among late-night radio tinkerers, battered truth pamphleteers, cult defectors, urban outcasts, and anyone who's heard *something* at the edge of midnight static. It is the time when the [[Creatures/Supernatural/Elohim|Archons]], the golden-robed jailors, exert their strongest influence through the patchwork machinery of civilization—turning TV, radio, and even the city's hum itself into a psychic subjugation grid. During the Signal Hour, the [[Phenomena/Frequency-Fences|Frequency Fence]] operates at peak efficiency, harvesting maximum emotional energy from sleeping and waking humans while reinforcing the Veil.
+**The Signal Hour** is a conspiracy legend whispered among late-night radio tinkerers, battered truth pamphleteers, cult defectors, urban outcasts, and anyone who's heard *something* at the edge of midnight static. It is the time when the [Archons](./Creatures/Supernatural/Elohim.md), the golden-robed jailors, exert their strongest influence through the patchwork machinery of civilization—turning TV, radio, and even the city's hum itself into a psychic subjugation grid. During the Signal Hour, the [Frequency Fence](./Phenomena/Frequency-Fences.md) operates at peak efficiency, harvesting maximum emotional energy from sleeping and waking humans while reinforcing the Veil.
 
 ## Timing and Patterns
 
@@ -37,10 +37,10 @@
 
 ## Origins & Theories
 
-- **Conspiracist Version:** The Signal Hour is when the "frequency fence" (see [[Phenomena/Frequency-Fences|Frequency Fences]]) is pulsed at maximum—a software update for the Veil. This is when mass amnesia, emotional programming, or psychic harvesting occurs en masse. The Archons feed most heavily during this time, draining emotional energy from entire populations while they sleep or are most vulnerable.
-- **[[Factions/Cults/Star-Communion|Star Communion]] Teaching:** The "Blessed Hour"—when the Gentle Watchers bestow visions or "mark" new initiates, to be celebrated, not feared.
+- **Conspiracist Version:** The Signal Hour is when the "frequency fence" (see [Frequency Fences](./Phenomena/Frequency-Fences.md)) is pulsed at maximum—a software update for the Veil. This is when mass amnesia, emotional programming, or psychic harvesting occurs en masse. The Archons feed most heavily during this time, draining emotional energy from entire populations while they sleep or are most vulnerable.
+- **[Star Communion](./Factions/Cults/Star-Communion.md) Teaching:** The "Blessed Hour"—when the Gentle Watchers bestow visions or "mark" new initiates, to be celebrated, not feared.
 - **Resister's Creed:** The time to jam, shield, or unplug everything; a moment to pray, drum, or chant to keep the golden jailors out.
-- **Scientific/Occult Theories:** [[Factions/Corporations/Orion-International|ORION]] techs and fringe physicists suggest all grids, repeaters, substations, and water pipes act as "singing wires," conducting a global circuit that channels emotional energy back to the Archons.
+- **Scientific/Occult Theories:** [ORION](./Factions/Corporations/Orion-International.md) techs and fringe physicists suggest all grids, repeaters, substations, and water pipes act as "singing wires," conducting a global circuit that channels emotional energy back to the Archons.
 - Psychics claim it's when the city's dreamers all converge, and the Archons feed—literally harvesting emotional and psychic energy from sleeping humans.
 
 ## How Can It Be Detected or Fought?
@@ -149,9 +149,9 @@ Beneath the surface of every radio song, TV ad, newsreel, and late-night broadca
 
 The world's big towers—CBC/RCV radio, CTV's massive transmitters, the new "sat-link" dishes, even the national time signal at Dominion Observatory—all pulse out not just news and soap operas, but _prison harmonics_, engineered to suppress questioning, foster fear, make you docile, and keep the Veil thick and solid.
 
-- **[[Phenomena/Occult-Programming|Occult Programming]]** - Secret cabals (deep-state bureaucrats, corporate media moguls, and even high clergy) are allegedly in league with the jailor-beings. They insert coded images (golden-robe figures, spiral sigils) into adverts, children's shows, and news tickers.
-- **[[Phenomena/The-Poison-Pipeline|The Poison Pipeline]]** - It's not just the signals—it's in _fluoridated water_, _vaccines_, _food additives_, and _pharmaceuticals_—all lowering your resistance to make you more vulnerable to possession/abduction.
-- **[[Phenomena/False-Flag-Phenomena|False Flag Phenomena]]** - Every time a major event threatens to reveal the truth, mainstream media is flooded with counter-narratives: "It was a weather balloon." "Satanic panic." "Communist plot."
+- **[Occult Programming](./Phenomena/Occult-Programming.md)** - Secret cabals (deep-state bureaucrats, corporate media moguls, and even high clergy) are allegedly in league with the jailor-beings. They insert coded images (golden-robe figures, spiral sigils) into adverts, children's shows, and news tickers.
+- **[The Poison Pipeline](./Phenomena/The-Poison-Pipeline.md)** - It's not just the signals—it's in _fluoridated water_, _vaccines_, _food additives_, and _pharmaceuticals_—all lowering your resistance to make you more vulnerable to possession/abduction.
+- **[False Flag Phenomena](./Phenomena/False-Flag-Phenomena.md)** - Every time a major event threatens to reveal the truth, mainstream media is flooded with counter-narratives: "It was a weather balloon." "Satanic panic." "Communist plot."
 
 ### NPCs and Groups
 

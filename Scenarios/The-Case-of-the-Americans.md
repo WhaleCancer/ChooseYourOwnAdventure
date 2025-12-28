@@ -6,7 +6,7 @@
 
 ## Overview
 
-Investigation involving political intrigue, alien conspiracy, and the intersection of U.S. and Canadian interests. The scenario involves the [[Factions/Government/Majestic-12|Majestic-12]] organization and their activities in Canada.
+Investigation involving political intrigue, alien conspiracy, and the intersection of U.S. and Canadian interests. The scenario involves the [Majestic-12](./Factions/Government/Majestic-12.md) organization and their activities in Canada.
 
 ## Key Elements
 

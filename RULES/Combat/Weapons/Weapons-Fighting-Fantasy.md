@@ -8,32 +8,32 @@ Each weapon has a damage track that converts the D6 damage roll into STAMINA dam
 
 | Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Weapons/Fighting-Fantasy/Long-Bow\|Arrow - Longbow]] | 2 | 3 | 3 | 3 | 3 | 4 | 5 |
-| [[Weapons/Fighting-Fantasy/Short-Bow\|Arrow - Shortbow]] | 1 | 2 | 2 | 3 | 3 | 3 | 4 |
-| [[Weapons/Fighting-Fantasy/Battle-Axe\|Battle Axe]] | 3 | 3 | 3 | 3 | 4 | 4 | 5 |
-| [[Weapons/Fighting-Fantasy/Crossbow\|Crossbow Bolt]] | 2 | 2 | 3 | 3 | 4 | 4 | 5 |
-| [[Weapons/Fighting-Fantasy/Dagger\|Dagger]] | 1 | 1 | 2 | 2 | 2 | 2 | 3 |
-| [[Weapons/Fighting-Fantasy/Club\|Club]] | 1 | 2 | 2 | 2 | 3 | 3 | 4 |
-| [[Weapons/Fighting-Fantasy/Greatsword\|Greatsword]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
-| [[Weapons/Fighting-Fantasy/Handaxe\|Handaxe]] | 2 | 2 | 2 | 3 | 3 | 3 | 4 |
-| [[Weapons/Fighting-Fantasy/Javelin\|Javelin]] | 2 | 3 | 3 | 3 | 3 | 4 | 5 |
-| [[Weapons/Fighting-Fantasy/Lance\|Lance]] | 2 | 2 | 3 | 3 | 4 | 4 | 5 |
-| [[Weapons/Fighting-Fantasy/Mace\|Mace]] | 2 | 3 | 3 | 3 | 3 | 3 | 4 |
-| [[Weapons/Fighting-Fantasy/Morning-Star\|Morning Star]] | 1 | 2 | 2 | 3 | 4 | 4 | 5 |
-| [[Weapons/Fighting-Fantasy/Polearm\|Polearm]] | 2 | 3 | 3 | 3 | 4 | 4 | 5 |
-| [[Weapons/Fighting-Fantasy/Quarterstaff\|Quarterstaff]] | 1 | 2 | 3 | 3 | 3 | 3 | 4 |
-| [[Weapons/Fighting-Fantasy/Short-Sword\|Short Sword]] | 1 | 2 | 2 | 3 | 3 | 3 | 4 |
-| [[Weapons/Fighting-Fantasy/Sling\|Sling]] | 1 | 1 | 2 | 2 | 2 | 3 | 4 |
-| [[Weapons/Fighting-Fantasy/Spear\|Spear]] | 2 | 2 | 3 | 3 | 3 | 4 | 5 |
-| [[Weapons/Fighting-Fantasy/Sword\|Sword]] | 2 | 3 | 3 | 3 | 3 | 4 | 5 |
-| [[Weapons/Fighting-Fantasy/Throwing-Dagger\|Throwing dagger]] | 1 | 1 | 1 | 2 | 2 | 2 | 3 |
-| [[Weapons/Fighting-Fantasy/Warhammer\|Warhammer]] | 2 | 3 | 3 | 3 | 3 | 3 | 4 |
-| [[Weapons/Fighting-Fantasy/Improvised-Weapon\|Improvised weapon]] | 1 | 1 | 1 | 2 | 2 | 2 | 3 |
-| [[Weapons/Fighting-Fantasy/Unarmed\|Unarmed (Human size)]] | 1 | 1 | 1 | 1 | 1 | 2 | 3 |
-| [[Weapons/Fighting-Fantasy/Unarmed\|Unarmed (Large sized)]] | 2 | 2 | 2 | 2 | 3 | 4 | 5 |
-| [[Weapons/Fighting-Fantasy/Bite-Claw\|Bite/Claw - Small]] | 2 | 2 | 3 | 3 | 3 | 3 | 4 |
-| [[Weapons/Fighting-Fantasy/Bite-Claw\|Bite/Claw - Medium]] | 2 | 3 | 3 | 3 | 4 | 4 | 5 |
-| [[Weapons/Fighting-Fantasy/Bite-Claw\|Bite/Claw - Large]] | 3 | 3 | 4 | 4 | 5 | 6 | 7 |
+| [Arrow - Longbow](./Weapons/Fighting-Fantasy/Long-Bow\.md) | 2 | 3 | 3 | 3 | 3 | 4 | 5 |
+| [Arrow - Shortbow](./Weapons/Fighting-Fantasy/Short-Bow\.md) | 1 | 2 | 2 | 3 | 3 | 3 | 4 |
+| [Battle Axe](./Weapons/Fighting-Fantasy/Battle-Axe\.md) | 3 | 3 | 3 | 3 | 4 | 4 | 5 |
+| [Crossbow Bolt](./Weapons/Fighting-Fantasy/Crossbow\.md) | 2 | 2 | 3 | 3 | 4 | 4 | 5 |
+| [Dagger](./Weapons/Fighting-Fantasy/Dagger\.md) | 1 | 1 | 2 | 2 | 2 | 2 | 3 |
+| [Club](./Weapons/Fighting-Fantasy/Club\.md) | 1 | 2 | 2 | 2 | 3 | 3 | 4 |
+| [Greatsword](./Weapons/Fighting-Fantasy/Greatsword\.md) | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [Handaxe](./Weapons/Fighting-Fantasy/Handaxe\.md) | 2 | 2 | 2 | 3 | 3 | 3 | 4 |
+| [Javelin](./Weapons/Fighting-Fantasy/Javelin\.md) | 2 | 3 | 3 | 3 | 3 | 4 | 5 |
+| [Lance](./Weapons/Fighting-Fantasy/Lance\.md) | 2 | 2 | 3 | 3 | 4 | 4 | 5 |
+| [Mace](./Weapons/Fighting-Fantasy/Mace\.md) | 2 | 3 | 3 | 3 | 3 | 3 | 4 |
+| [Morning Star](./Weapons/Fighting-Fantasy/Morning-Star\.md) | 1 | 2 | 2 | 3 | 4 | 4 | 5 |
+| [Polearm](./Weapons/Fighting-Fantasy/Polearm\.md) | 2 | 3 | 3 | 3 | 4 | 4 | 5 |
+| [Quarterstaff](./Weapons/Fighting-Fantasy/Quarterstaff\.md) | 1 | 2 | 3 | 3 | 3 | 3 | 4 |
+| [Short Sword](./Weapons/Fighting-Fantasy/Short-Sword\.md) | 1 | 2 | 2 | 3 | 3 | 3 | 4 |
+| [Sling](./Weapons/Fighting-Fantasy/Sling\.md) | 1 | 1 | 2 | 2 | 2 | 3 | 4 |
+| [Spear](./Weapons/Fighting-Fantasy/Spear\.md) | 2 | 2 | 3 | 3 | 3 | 4 | 5 |
+| [Sword](./Weapons/Fighting-Fantasy/Sword\.md) | 2 | 3 | 3 | 3 | 3 | 4 | 5 |
+| [Throwing dagger](./Weapons/Fighting-Fantasy/Throwing-Dagger\.md) | 1 | 1 | 1 | 2 | 2 | 2 | 3 |
+| [Warhammer](./Weapons/Fighting-Fantasy/Warhammer\.md) | 2 | 3 | 3 | 3 | 3 | 3 | 4 |
+| [Improvised weapon](./Weapons/Fighting-Fantasy/Improvised-Weapon\.md) | 1 | 1 | 1 | 2 | 2 | 2 | 3 |
+| [Unarmed (Human size)](./Weapons/Fighting-Fantasy/Unarmed\.md) | 1 | 1 | 1 | 1 | 1 | 2 | 3 |
+| [Unarmed (Large sized)](./Weapons/Fighting-Fantasy/Unarmed\.md) | 2 | 2 | 2 | 2 | 3 | 4 | 5 |
+| [Bite/Claw - Small](./Weapons/Fighting-Fantasy/Bite-Claw\.md) | 2 | 2 | 3 | 3 | 3 | 3 | 4 |
+| [Bite/Claw - Medium](./Weapons/Fighting-Fantasy/Bite-Claw\.md) | 2 | 3 | 3 | 3 | 4 | 4 | 5 |
+| [Bite/Claw - Large](./Weapons/Fighting-Fantasy/Bite-Claw\.md) | 3 | 3 | 4 | 4 | 5 | 6 | 7 |
 
 ## Unarmed Combat
 

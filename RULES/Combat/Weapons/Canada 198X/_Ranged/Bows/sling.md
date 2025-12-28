@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../Fighting-Fantasy/Sling|Fighting Fantasy Sling]]
+**Corresponds to:** [Fighting Fantasy Sling](../Fighting-Fantasy/Sling.md)
 
 
 ## Damage Track

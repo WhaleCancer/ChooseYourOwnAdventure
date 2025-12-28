@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../../Stellar-Adventures/Heavy-Laser|Stellar Adventures Heavy Laser]] (charge particle weapon)
+**Corresponds to:** [Stellar Adventures Heavy Laser](../../Stellar-Adventures/Heavy-Laser.md) (charge particle weapon)
 
 
 ## Damage Track

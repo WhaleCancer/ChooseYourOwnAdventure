@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../Fighting-Fantasy/Short-Bow|Fighting Fantasy Short Bow]]
+**Corresponds to:** [Fighting Fantasy Short Bow](../Fighting-Fantasy/Short-Bow.md)
 
 
 ## Damage Track

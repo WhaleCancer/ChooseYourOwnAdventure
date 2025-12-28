@@ -1,6 +1,6 @@
 # heavy mace
 
-**Variant of:** [[../Fighting-Fantasy/Mace|Fighting Fantasy Mace]]
+**Variant of:** [Fighting Fantasy Mace](../Fighting-Fantasy/Mace.md)
 
 ## Damage Track
 

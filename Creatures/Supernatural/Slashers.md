@@ -7,9 +7,9 @@
 
 ## Overview
 
-**Slashers** are humans who have been transformed into unstoppable, near-immortal serial killers through exposure to the [[Phenomena/Signal-Hour|Signal Hour]] and the [[Phenomena/Frequency-Fences|Frequency Fence]]. These individuals become the basis for the "slasher" horror films that have become popular in the 1980s—movies that sanitize and exploit real events for entertainment while hiding the true nature of the phenomenon.
+**Slashers** are humans who have been transformed into unstoppable, near-immortal serial killers through exposure to the [Signal Hour](./Phenomena/Signal-Hour.md) and the [Frequency Fence](./Phenomena/Frequency-Fences.md). These individuals become the basis for the "slasher" horror films that have become popular in the 1980s—movies that sanitize and exploit real events for entertainment while hiding the true nature of the phenomenon.
 
-The Frequency Fence, designed by the [[Creatures/Supernatural/Elohim|Archons]] to harvest emotional energy and maintain the prison, affects different people in different ways. Most experience emotional depletion, apathy, or spiritual weakening. A small percentage, however, undergo a catastrophic transformation: their emotional energy is not just drained but **inverted**, turning them into vessels of pure rage, hatred, and violence. These individuals become slashers—unstoppable killing machines that generate massive amounts of negative emotional energy (fear, terror, despair) that the Archons can harvest from entire communities.
+The Frequency Fence, designed by the [Archons](./Creatures/Supernatural/Elohim.md) to harvest emotional energy and maintain the prison, affects different people in different ways. Most experience emotional depletion, apathy, or spiritual weakening. A small percentage, however, undergo a catastrophic transformation: their emotional energy is not just drained but **inverted**, turning them into vessels of pure rage, hatred, and violence. These individuals become slashers—unstoppable killing machines that generate massive amounts of negative emotional energy (fear, terror, despair) that the Archons can harvest from entire communities.
 
 ## The Transformation Process
 
@@ -22,7 +22,7 @@ Not everyone exposed to the Signal Hour becomes a slasher. Certain factors incre
 - **Childhood abuse or neglect:** Those who experienced severe childhood trauma are prime candidates
 - **Exposure during critical moments:** Being exposed to the Signal Hour during moments of extreme emotional distress, grief, or rage
 - **Genetic predisposition:** Some families seem to have a higher rate of slasher transformation, suggesting possible genetic or hereditary factors
-- **Proximity to thin veil areas:** Exposure near [[Phenomena/Thin-Veil-Areas|thin veil areas]] increases the likelihood of transformation
+- **Proximity to thin veil areas:** Exposure near [thin veil areas](./Phenomena/Thin-Veil-Areas.md) increases the likelihood of transformation
 
 ### The Signal Hour Trigger
 

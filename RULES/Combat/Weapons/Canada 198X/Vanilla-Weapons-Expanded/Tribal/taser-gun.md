@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../Stellar-Adventures/Stun-Pistol|Stellar Adventures Stun Pistol]]
+**Corresponds to:** [Stellar Adventures Stun Pistol](../Stellar-Adventures/Stun-Pistol.md)
 
 
 ## Damage Track

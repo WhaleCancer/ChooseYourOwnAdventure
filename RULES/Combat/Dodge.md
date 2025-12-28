@@ -55,6 +55,6 @@ A Hero may receive bonuses to this dodge roll from Talents, Spells or Priestly p
 
 ## Related Rules
 
-- **[[Swashbuckler]]** - Required talent for using Dodge (standard rules) or provides +1 bonus to Dodge rolls (Ubiquitous Dodging)
-- **[[Armor]]** - Alternative protection system. Under standard rules, cannot be used with Dodge. Under Ubiquitous Dodging, choose one per round (armor or Dodge).
-- **[[Combat-Options]]** - The "Defensive" combat option provides a +2 bonus to combat totals but prevents damage dealing
+- **[Swashbuckler](./Swashbuckler.md)** - Required talent for using Dodge (standard rules) or provides +1 bonus to Dodge rolls (Ubiquitous Dodging)
+- **[Armor](./Armor.md)** - Alternative protection system. Under standard rules, cannot be used with Dodge. Under Ubiquitous Dodging, choose one per round (armor or Dodge).
+- **[Combat Options](./Combat-Options.md)** - The "Defensive" combat option provides a +2 bonus to combat totals but prevents damage dealing

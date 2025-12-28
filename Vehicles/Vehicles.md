@@ -2,7 +2,7 @@
 
 This folder holds **individual vehicle entries** used in the setting—specific bikes, vans, boats, and aircraft that matter to the story (PC rides, iconic faction vehicles, recurring NPC transports, etc.).
 
-Mechanical rules for how vehicles work at the table—Armour, STAMINA, damage from weapons, and generic types—are defined in `[[RULES/Vehicles|RULES: Vehicles]]`. Each note in this folder should:
+Mechanical rules for how vehicles work at the table—Armour, STAMINA, damage from weapons, and generic types—are defined in `[RULES: Vehicles](./RULES/Vehicles.md)`. Each note in this folder should:
 
 - Name the vehicle and give its **type** (e.g. Pickup Truck, Motorcycle, Fishing Boat, Box Truck).  
 - Specify which **generic profile** from `RULES/Vehicles` it uses (Motorcycle, Sedan, Pickup Truck, Fishing Boat, etc.).  

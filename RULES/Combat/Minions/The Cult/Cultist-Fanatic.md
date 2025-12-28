@@ -32,9 +32,9 @@ Cultist Fanatics are:
 
 Cultist Fanatics typically carry:
 
-- **Dynamite** - [[../../Weapons/Canada 198X/_Ranged/Thrown/Dynamite|Commercial dynamite sticks]] with fuses, typically 2-4 sticks, along with lighters or matches
+- **Dynamite** - [Commercial dynamite sticks](../../Weapons/Canada 198X/_Ranged/Thrown/Dynamite.md) with fuses, typically 2-4 sticks, along with lighters or matches
 - **Melee weapons** - Ritual knives, axes, machetes, or improvised weapons (chains, tire irons, etc.)
-- **Shotguns** - [[../../Weapons/Canada 198X/_Ranged/Shotguns/Double-Barrel Shotgun|Double-barrel shotguns]] or sawed-off variants for close-range combat
+- **Shotguns** - [Double-barrel shotguns](../../Weapons/Canada 198X/_Ranged/Shotguns/Double-Barrel Shotgun.md) or sawed-off variants for close-range combat
 - **Handguns** - Various handguns, often used at point-blank range
 - **Ritual items** - Symbols, fetishes, or artifacts related to their beliefs
 - **Minimal protection** - May wear ritual clothing but little actual armor, relying on fanaticism

@@ -32,8 +32,8 @@ Cultist Acolytes are:
 
 Cultist Acolytes typically carry:
 
-- **Heavy SMGs** - [[../../Weapons/Canada 198X/_Ranged/SMGs/Heavy SMG|Thompson SMG]], favored for its distinctive appearance and claimed "ritual significance" - cultists speak of it being "meant to spill blood"
-- **Shotguns** - [[../../Weapons/Canada 198X/_Ranged/Shotguns/Double-Barrel Shotgun|Double-barrel shotguns]], drawn to their traditional, ritualistic appearance
+- **Heavy SMGs** - [Thompson SMG](../../Weapons/Canada 198X/_Ranged/SMGs/Heavy SMG.md), favored for its distinctive appearance and claimed "ritual significance" - cultists speak of it being "meant to spill blood"
+- **Shotguns** - [Double-barrel shotguns](../../Weapons/Canada 198X/_Ranged/Shotguns/Double-Barrel Shotgun.md), drawn to their traditional, ritualistic appearance
 - **Handguns** - Various handguns, often older or symbolic designs
 - **Melee weapons** - Ritual knives, ceremonial weapons, or improvised tools
 - **Ritual items** - Symbols, fetishes, or artifacts related to their beliefs

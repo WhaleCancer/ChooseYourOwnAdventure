@@ -7,13 +7,13 @@
 
 **Alien Contact** refers to any direct encounter or communication between a human and an extraterrestrial being, short of abduction. These experiences may involve sightings, telepathic messages, encounters, or shared visions. People who report such experiences are known as **contactees**.
 
-For forced or involuntary encounters, see [[Phenomena/Alien-Abductions|Alien Abductions]].
+For forced or involuntary encounters, see [Alien Abductions](./Phenomena/Alien-Abductions.md).
 
 ## Types of Contact
 
 ### Sightings
 
-Visual encounters with [[Vehicles/UFOs|UFOs]] or [[Creatures/Aliens/Greys|alien entities]]. These range from distant lights in the sky to close encounters where the witness can clearly see the craft or beings.
+Visual encounters with [UFOs](./Vehicles/UFOs.md) or [alien entities](./Creatures/Aliens/Greys.md). These range from distant lights in the sky to close encounters where the witness can clearly see the craft or beings.
 
 ### Telepathic Communication
 
@@ -49,17 +49,17 @@ People who report alien contact experiences are known as **contactees**. They ma
 - Develop psychological issues from the experience
 - Be targeted by government agencies for debriefing
 - Be dismissed as delusional or attention-seeking
-- Become involved with [[Factions/Cults/UFO-Religion|UFO religions]] or cults
+- Become involved with [UFO religions](./Factions/Cults/UFO-Religion.md) or cults
 
 ## The Truth
 
 Most "contact" experiences are actually:
 
-- **Grey Operations:** The [[Creatures/Aliens/Greys|Greys]] (biological constructs created by the [[Creatures/Supernatural/Elohim|Elohim]]) conducting reconnaissance or psychological operations
+- **Grey Operations:** The [Greys](./Creatures/Aliens/Greys.md) (biological constructs created by the [Elohim](./Creatures/Supernatural/Elohim.md)) conducting reconnaissance or psychological operations
 - **Elohim Manipulation:** The Elohim themselves using telepathic communication to influence or test humans
 - **Government Disinformation:** False flag operations designed to discredit genuine witnesses or test public reactions
 - **Psychological Phenomena:** Stress, trauma, or mental illness manifesting as contact experiences
-- **Thin Veil Effects:** Experiences caused by proximity to [[Phenomena/Thin-Veil-Areas|thin veil areas]] where reality is unstable
+- **Thin Veil Effects:** Experiences caused by proximity to [thin veil areas](./Phenomena/Thin-Veil-Areas.md) where reality is unstable
 
 ## In Play
 

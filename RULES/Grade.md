@@ -45,7 +45,7 @@ The maximum number of characteristic points that can be allocated to each Charac
 
 ## Skills
 
-New Characters of any Grade receive free skill points based on their Background (see [[RULES/Character-Creation|Character Creation]]).
+New Characters of any Grade receive free skill points based on their Background (see [Character Creation](./RULES/Character-Creation.md)).
 
 In addition, the player's chosen skill points and their assignment are determined by Grade, as shown in the table below:
 
@@ -60,7 +60,7 @@ In addition, the player's chosen skill points and their assignment are determine
 
 ## Talents
 
-A Character receives a number of talent points determined by their Grade, as shown in the table above. Talent points can be used to purchase talents, which have varying costs: Combat Talents cost 4 talent points, while most other Talents cost 2 talent points. Individual talent costs are listed in each talent's entry (see [[RULES/Talents|Talents]]).
+A Character receives a number of talent points determined by their Grade, as shown in the table above. Talent points can be used to purchase talents, which have varying costs: Combat Talents cost 4 talent points, while most other Talents cost 2 talent points. Individual talent costs are listed in each talent's entry (see [Talents](./RULES/Talents.md)).
 
 | Grade     | Talent Points |
 | --------- | ------------- |
@@ -84,4 +84,4 @@ Starting equipment and money vary by Grade:
 
 Higher-grade Characters (Expert, Master, Champion) may have access to better equipment, more funds, and potentially special items that reflect their greater experience and past adventures.
 
-See [[RULES/Character-Creation|Character Creation]] for full details on how Grade affects character creation.
+See [Character Creation](./RULES/Character-Creation.md) for full details on how Grade affects character creation.

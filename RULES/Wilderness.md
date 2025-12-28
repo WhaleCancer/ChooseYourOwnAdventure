@@ -32,15 +32,15 @@ The Advanced Fighting Fantasy Characters Companion book provides rules on creati
 
 ## Creating your Wilderness
 
-See [[RULES/Wilderness/Creating-Wilderness|Creating Wilderness]] for detailed rules on creating wilderness maps, including map creation methods, random landscape generation, and tables for wilderness generation.
+See [Creating Wilderness](./RULES/Wilderness/Creating-Wilderness.md) for detailed rules on creating wilderness maps, including map creation methods, random landscape generation, and tables for wilderness generation.
 
 ## Travelling the Wilds
 
-See [[RULES/Wilderness/Traveling-Wilderness|Traveling Wilderness]] for detailed rules on traveling through the wilderness, including travel time, encounters, foraging, exposure, and survival.
+See [Traveling Wilderness](./RULES/Wilderness/Traveling-Wilderness.md) for detailed rules on traveling through the wilderness, including travel time, encounters, foraging, exposure, and survival.
 
 ## Environment Descriptions
 
-See [[RULES/Wilderness/Environment-Descriptions|Environment Descriptions]] for detailed descriptions of each environment type, including route tables, weather conditions, terrain, and encounter tables.
+See [Environment Descriptions](./RULES/Wilderness/Environment-Descriptions.md) for detailed descriptions of each environment type, including route tables, weather conditions, terrain, and encounter tables.
 
 ## Wilderness Encounters
 
@@ -77,89 +77,89 @@ Encounters are available for different campaign settings:
 
 ### World of Titan
 
-- **W1:** [[RULES/Wilderness/encounters/World-of-Titan/W1-Stampede.md|Stampede]]
-- **W2:** [[RULES/Wilderness/encounters/World-of-Titan/W2-Crevasse.md|Crevasse]]
-- **W3:** [[RULES/Wilderness/encounters/World-of-Titan/W3-Ferocious-Hailstorm.md|Ferocious Hailstorm]]
-- **W4:** [[RULES/Wilderness/encounters/World-of-Titan/W4-Place-of-Rest.md|Place of Rest]]
-- **W5:** [[RULES/Wilderness/encounters/World-of-Titan/W5-Pilgrims-Barbarians.md|Pilgrims / Barbarians]]
-- **W6:** [[RULES/Wilderness/encounters/World-of-Titan/W6-Homestead.md|Homestead]]
-- **W7:** [[RULES/Wilderness/encounters/World-of-Titan/W7-Merchant.md|Merchant]]
-- **W8:** [[RULES/Wilderness/encounters/World-of-Titan/W8-Hunting-Wyvern.md|Hunting Wyvern]]
-- **W9:** [[RULES/Wilderness/encounters/World-of-Titan/W9-Herd-of-Beasts.md|Herd of Beasts]]
-- **W10:** [[RULES/Wilderness/encounters/World-of-Titan/W10-Ancient-Hallows.md|Ancient Hallows]]
-- **W11:** [[RULES/Wilderness/encounters/World-of-Titan/W11-Herbalist.md|Herbalist]]
-- **W12:** [[RULES/Wilderness/encounters/World-of-Titan/W12-Trapper.md|Trapper]]
-- **W13:** [[RULES/Wilderness/encounters/World-of-Titan/W13-Predator.md|Predator]]
-- **W14:** [[RULES/Wilderness/encounters/World-of-Titan/W14-Monster.md|Monster!]]
-- **W15:** [[RULES/Wilderness/encounters/World-of-Titan/W15-Outlaws.md|Outlaws]]
-- **W16:** [[RULES/Wilderness/encounters/World-of-Titan/W16-Patrol.md|Patrol]]
-- **W17:** [[RULES/Wilderness/encounters/World-of-Titan/W17-The-Sphinx.md|The Sphinx]]
-- **W18:** [[RULES/Wilderness/encounters/World-of-Titan/W18-Forgotten-Path.md|Forgotten Path]]
-- **W19:** [[RULES/Wilderness/encounters/World-of-Titan/W19-Marsh-Lights.md|Marsh Lights]]
-- **W20:** [[RULES/Wilderness/encounters/World-of-Titan/W20-Quicksand.md|Quicksand]]
-- **W21:** [[RULES/Wilderness/encounters/World-of-Titan/W21-Boatman.md|Boatman]]
-- **W22:** [[RULES/Wilderness/encounters/World-of-Titan/W22-Settlement-Ruins.md|Settlement / Ruins]]
-- **W23:** [[RULES/Wilderness/encounters/World-of-Titan/W23-Blood-Vines.md|Blood Vines]]
-- **W24:** [[RULES/Wilderness/encounters/World-of-Titan/W24-Landslide.md|Landslide]]
-- **W25:** [[RULES/Wilderness/encounters/World-of-Titan/W25-Wildfire.md|Wildfire]]
-- **W26:** [[RULES/Wilderness/encounters/World-of-Titan/W26-Pit-Trap.md|Pit Trap]]
-- **W27:** [[RULES/Wilderness/encounters/World-of-Titan/W27-Ghost.md|Ghost]]
-- **W28:** [[RULES/Wilderness/encounters/World-of-Titan/W28-Campsite.md|Campsite]]
-- **W29:** [[RULES/Wilderness/encounters/World-of-Titan/W29-Wild-Boars.md|Wild Boars]]
-- **W30:** [[RULES/Wilderness/encounters/World-of-Titan/W30-Insect-Swarm.md|Insect Swarm]]
-- **W31:** [[RULES/Wilderness/encounters/World-of-Titan/W31-Prospectors.md|Prospectors]]
-- **W32:** [[RULES/Wilderness/encounters/World-of-Titan/W32-Frozen-Bodies.md|Frozen Bodies]]
-- **W33:** [[RULES/Wilderness/encounters/World-of-Titan/W33-Bone-Pile.md|Bone Pile]]
-- **W34:** [[RULES/Wilderness/encounters/World-of-Titan/W34-Leeches.md|Leeches]]
-- **W35:** [[RULES/Wilderness/encounters/World-of-Titan/W35-Swamp-Gas.md|Swamp Gas]]
-- **W36:** [[RULES/Wilderness/encounters/World-of-Titan/W36-Dungeon-Entrance.md|Dungeon Entrance]]
-- **W37:** [[RULES/Wilderness/encounters/World-of-Titan/W37-Giant.md|Giant]]
-- **W38:** [[RULES/Wilderness/encounters/World-of-Titan/W38-Mirage.md|Mirage]]
-- **W39:** [[RULES/Wilderness/encounters/World-of-Titan/W39-Leper-Colony.md|Leper Colony]]
-- **W40:** [[RULES/Wilderness/encounters/World-of-Titan/W40-Young-Dragon.md|Young Dragon]]
+- **W1:** [Stampede](./RULES/Wilderness/encounters/World-of-Titan/W1-Stampede.md)
+- **W2:** [Crevasse](./RULES/Wilderness/encounters/World-of-Titan/W2-Crevasse.md)
+- **W3:** [Ferocious Hailstorm](./RULES/Wilderness/encounters/World-of-Titan/W3-Ferocious-Hailstorm.md)
+- **W4:** [Place of Rest](./RULES/Wilderness/encounters/World-of-Titan/W4-Place-of-Rest.md)
+- **W5:** [Pilgrims / Barbarians](./RULES/Wilderness/encounters/World-of-Titan/W5-Pilgrims-Barbarians.md)
+- **W6:** [Homestead](./RULES/Wilderness/encounters/World-of-Titan/W6-Homestead.md)
+- **W7:** [Merchant](./RULES/Wilderness/encounters/World-of-Titan/W7-Merchant.md)
+- **W8:** [Hunting Wyvern](./RULES/Wilderness/encounters/World-of-Titan/W8-Hunting-Wyvern.md)
+- **W9:** [Herd of Beasts](./RULES/Wilderness/encounters/World-of-Titan/W9-Herd-of-Beasts.md)
+- **W10:** [Ancient Hallows](./RULES/Wilderness/encounters/World-of-Titan/W10-Ancient-Hallows.md)
+- **W11:** [Herbalist](./RULES/Wilderness/encounters/World-of-Titan/W11-Herbalist.md)
+- **W12:** [Trapper](./RULES/Wilderness/encounters/World-of-Titan/W12-Trapper.md)
+- **W13:** [Predator](./RULES/Wilderness/encounters/World-of-Titan/W13-Predator.md)
+- **W14:** [Monster!](./RULES/Wilderness/encounters/World-of-Titan/W14-Monster.md)
+- **W15:** [Outlaws](./RULES/Wilderness/encounters/World-of-Titan/W15-Outlaws.md)
+- **W16:** [Patrol](./RULES/Wilderness/encounters/World-of-Titan/W16-Patrol.md)
+- **W17:** [The Sphinx](./RULES/Wilderness/encounters/World-of-Titan/W17-The-Sphinx.md)
+- **W18:** [Forgotten Path](./RULES/Wilderness/encounters/World-of-Titan/W18-Forgotten-Path.md)
+- **W19:** [Marsh Lights](./RULES/Wilderness/encounters/World-of-Titan/W19-Marsh-Lights.md)
+- **W20:** [Quicksand](./RULES/Wilderness/encounters/World-of-Titan/W20-Quicksand.md)
+- **W21:** [Boatman](./RULES/Wilderness/encounters/World-of-Titan/W21-Boatman.md)
+- **W22:** [Settlement / Ruins](./RULES/Wilderness/encounters/World-of-Titan/W22-Settlement-Ruins.md)
+- **W23:** [Blood Vines](./RULES/Wilderness/encounters/World-of-Titan/W23-Blood-Vines.md)
+- **W24:** [Landslide](./RULES/Wilderness/encounters/World-of-Titan/W24-Landslide.md)
+- **W25:** [Wildfire](./RULES/Wilderness/encounters/World-of-Titan/W25-Wildfire.md)
+- **W26:** [Pit Trap](./RULES/Wilderness/encounters/World-of-Titan/W26-Pit-Trap.md)
+- **W27:** [Ghost](./RULES/Wilderness/encounters/World-of-Titan/W27-Ghost.md)
+- **W28:** [Campsite](./RULES/Wilderness/encounters/World-of-Titan/W28-Campsite.md)
+- **W29:** [Wild Boars](./RULES/Wilderness/encounters/World-of-Titan/W29-Wild-Boars.md)
+- **W30:** [Insect Swarm](./RULES/Wilderness/encounters/World-of-Titan/W30-Insect-Swarm.md)
+- **W31:** [Prospectors](./RULES/Wilderness/encounters/World-of-Titan/W31-Prospectors.md)
+- **W32:** [Frozen Bodies](./RULES/Wilderness/encounters/World-of-Titan/W32-Frozen-Bodies.md)
+- **W33:** [Bone Pile](./RULES/Wilderness/encounters/World-of-Titan/W33-Bone-Pile.md)
+- **W34:** [Leeches](./RULES/Wilderness/encounters/World-of-Titan/W34-Leeches.md)
+- **W35:** [Swamp Gas](./RULES/Wilderness/encounters/World-of-Titan/W35-Swamp-Gas.md)
+- **W36:** [Dungeon Entrance](./RULES/Wilderness/encounters/World-of-Titan/W36-Dungeon-Entrance.md)
+- **W37:** [Giant](./RULES/Wilderness/encounters/World-of-Titan/W37-Giant.md)
+- **W38:** [Mirage](./RULES/Wilderness/encounters/World-of-Titan/W38-Mirage.md)
+- **W39:** [Leper Colony](./RULES/Wilderness/encounters/World-of-Titan/W39-Leper-Colony.md)
+- **W40:** [Young Dragon](./RULES/Wilderness/encounters/World-of-Titan/W40-Young-Dragon.md)
 
 ### 1980s BC
 
-- **W1:** [[RULES/Wilderness/encounters/1980s/W1-Stampede.md|Stampede]]
-- **W2:** [[RULES/Wilderness/encounters/1980s/W2-Crevasse.md|Crevasse]]
-- **W3:** [[RULES/Wilderness/encounters/1980s/W3-Ferocious-Hailstorm.md|Ferocious Hailstorm]]
-- **W4:** [[RULES/Wilderness/encounters/1980s/W4-Place-of-Rest.md|Place of Rest]]
-- **W5:** [[RULES/Wilderness/encounters/1980s/W5-Hippies-Bikers.md|Hippies / Bikers]]
-- **W6:** [[RULES/Wilderness/encounters/1980s/W6-Farmstead.md|Farmstead]]
-- **W7:** [[RULES/Wilderness/encounters/1980s/W7-Traveling-Salesman.md|Traveling Salesman]]
-- **W8:** [[RULES/Wilderness/encounters/1980s/W8-Hunting-Bird-of-Prey.md|Hunting Bird of Prey]]
-- **W9:** [[RULES/Wilderness/encounters/1980s/W9-Herd-of-Beasts.md|Herd of Beasts]]
-- **W10:** [[RULES/Wilderness/encounters/1980s/W10-Sacred-Site.md|Sacred Site]]
-- **W11:** [[RULES/Wilderness/encounters/1980s/W11-Herbalist.md|Herbalist]]
-- **W12:** [[RULES/Wilderness/encounters/1980s/W12-Trapper.md|Trapper]]
-- **W13:** [[RULES/Wilderness/encounters/1980s/W13-Predator.md|Predator]]
-- **W14:** [[RULES/Wilderness/encounters/1980s/W14-Cryptid.md|Cryptid!]]
-- **W15:** [[RULES/Wilderness/encounters/1980s/W15-Outlaws.md|Outlaws]]
-- **W16:** [[RULES/Wilderness/encounters/1980s/W16-RCMP-Patrol.md|RCMP Patrol]]
-- **W17:** [[RULES/Wilderness/encounters/1980s/W17-The-Riddle-Keeper.md|The Riddle Keeper]]
-- **W18:** [[RULES/Wilderness/encounters/1980s/W18-Forgotten-Path.md|Forgotten Path]]
-- **W19:** [[RULES/Wilderness/encounters/1980s/W19-Will-o-the-Wisp.md|Will-o'-the-Wisp]]
-- **W20:** [[RULES/Wilderness/encounters/1980s/W20-Quicksand.md|Quicksand]]
-- **W21:** [[RULES/Wilderness/encounters/1980s/W21-Boatman.md|Boatman]]
-- **W22:** [[RULES/Wilderness/encounters/1980s/W22-Settlement-Abandoned-Town.md|Settlement / Abandoned Town]]
-- **W23:** [[RULES/Wilderness/encounters/1980s/W23-Aggressive-Plant-Growth.md|Aggressive Plant Growth]]
-- **W24:** [[RULES/Wilderness/encounters/1980s/W24-Landslide.md|Landslide]]
-- **W25:** [[RULES/Wilderness/encounters/1980s/W25-Wildfire.md|Wildfire]]
-- **W26:** [[RULES/Wilderness/encounters/1980s/W26-Pit-Trap.md|Pit Trap]]
-- **W27:** [[RULES/Wilderness/encounters/1980s/W27-Apparition.md|Apparition]]
-- **W28:** [[RULES/Wilderness/encounters/1980s/W28-Campsite.md|Campsite]]
-- **W29:** [[RULES/Wilderness/encounters/1980s/W29-Wild-Boars.md|Wild Boars]]
-- **W30:** [[RULES/Wilderness/encounters/1980s/W30-Insect-Swarm.md|Insect Swarm]]
-- **W31:** [[RULES/Wilderness/encounters/1980s/W31-Prospectors.md|Prospectors]]
-- **W32:** [[RULES/Wilderness/encounters/1980s/W32-Frozen-Bodies.md|Frozen Bodies]]
-- **W33:** [[RULES/Wilderness/encounters/1980s/W33-Bone-Pile.md|Bone Pile]]
-- **W34:** [[RULES/Wilderness/encounters/1980s/W34-Leeches.md|Leeches]]
-- **W35:** [[RULES/Wilderness/encounters/1980s/W35-Swamp-Gas.md|Swamp Gas]]
-- **W36:** [[RULES/Wilderness/encounters/1980s/W36-Abandoned-Mine-Entrance.md|Abandoned Mine Entrance]]
-- **W37:** [[RULES/Wilderness/encounters/1980s/W37-Sasquatch.md|Sasquatch]]
-- **W38:** [[RULES/Wilderness/encounters/1980s/W38-Mirage.md|Mirage]]
-- **W39:** [[RULES/Wilderness/encounters/1980s/W39-Leper-Colony.md|Leper Colony]]
-- **W40:** [[RULES/Wilderness/encounters/1980s/W40-Sasquatch.md|Sasquatch]]
+- **W1:** [Stampede](./RULES/Wilderness/encounters/1980s/W1-Stampede.md)
+- **W2:** [Crevasse](./RULES/Wilderness/encounters/1980s/W2-Crevasse.md)
+- **W3:** [Ferocious Hailstorm](./RULES/Wilderness/encounters/1980s/W3-Ferocious-Hailstorm.md)
+- **W4:** [Place of Rest](./RULES/Wilderness/encounters/1980s/W4-Place-of-Rest.md)
+- **W5:** [Hippies / Bikers](./RULES/Wilderness/encounters/1980s/W5-Hippies-Bikers.md)
+- **W6:** [Farmstead](./RULES/Wilderness/encounters/1980s/W6-Farmstead.md)
+- **W7:** [Traveling Salesman](./RULES/Wilderness/encounters/1980s/W7-Traveling-Salesman.md)
+- **W8:** [Hunting Bird of Prey](./RULES/Wilderness/encounters/1980s/W8-Hunting-Bird-of-Prey.md)
+- **W9:** [Herd of Beasts](./RULES/Wilderness/encounters/1980s/W9-Herd-of-Beasts.md)
+- **W10:** [Sacred Site](./RULES/Wilderness/encounters/1980s/W10-Sacred-Site.md)
+- **W11:** [Herbalist](./RULES/Wilderness/encounters/1980s/W11-Herbalist.md)
+- **W12:** [Trapper](./RULES/Wilderness/encounters/1980s/W12-Trapper.md)
+- **W13:** [Predator](./RULES/Wilderness/encounters/1980s/W13-Predator.md)
+- **W14:** [Cryptid!](./RULES/Wilderness/encounters/1980s/W14-Cryptid.md)
+- **W15:** [Outlaws](./RULES/Wilderness/encounters/1980s/W15-Outlaws.md)
+- **W16:** [RCMP Patrol](./RULES/Wilderness/encounters/1980s/W16-RCMP-Patrol.md)
+- **W17:** [The Riddle Keeper](./RULES/Wilderness/encounters/1980s/W17-The-Riddle-Keeper.md)
+- **W18:** [Forgotten Path](./RULES/Wilderness/encounters/1980s/W18-Forgotten-Path.md)
+- **W19:** [Will-o'-the-Wisp](./RULES/Wilderness/encounters/1980s/W19-Will-o-the-Wisp.md)
+- **W20:** [Quicksand](./RULES/Wilderness/encounters/1980s/W20-Quicksand.md)
+- **W21:** [Boatman](./RULES/Wilderness/encounters/1980s/W21-Boatman.md)
+- **W22:** [Settlement / Abandoned Town](./RULES/Wilderness/encounters/1980s/W22-Settlement-Abandoned-Town.md)
+- **W23:** [Aggressive Plant Growth](./RULES/Wilderness/encounters/1980s/W23-Aggressive-Plant-Growth.md)
+- **W24:** [Landslide](./RULES/Wilderness/encounters/1980s/W24-Landslide.md)
+- **W25:** [Wildfire](./RULES/Wilderness/encounters/1980s/W25-Wildfire.md)
+- **W26:** [Pit Trap](./RULES/Wilderness/encounters/1980s/W26-Pit-Trap.md)
+- **W27:** [Apparition](./RULES/Wilderness/encounters/1980s/W27-Apparition.md)
+- **W28:** [Campsite](./RULES/Wilderness/encounters/1980s/W28-Campsite.md)
+- **W29:** [Wild Boars](./RULES/Wilderness/encounters/1980s/W29-Wild-Boars.md)
+- **W30:** [Insect Swarm](./RULES/Wilderness/encounters/1980s/W30-Insect-Swarm.md)
+- **W31:** [Prospectors](./RULES/Wilderness/encounters/1980s/W31-Prospectors.md)
+- **W32:** [Frozen Bodies](./RULES/Wilderness/encounters/1980s/W32-Frozen-Bodies.md)
+- **W33:** [Bone Pile](./RULES/Wilderness/encounters/1980s/W33-Bone-Pile.md)
+- **W34:** [Leeches](./RULES/Wilderness/encounters/1980s/W34-Leeches.md)
+- **W35:** [Swamp Gas](./RULES/Wilderness/encounters/1980s/W35-Swamp-Gas.md)
+- **W36:** [Abandoned Mine Entrance](./RULES/Wilderness/encounters/1980s/W36-Abandoned-Mine-Entrance.md)
+- **W37:** [Sasquatch](./RULES/Wilderness/encounters/1980s/W37-Sasquatch.md)
+- **W38:** [Mirage](./RULES/Wilderness/encounters/1980s/W38-Mirage.md)
+- **W39:** [Leper Colony](./RULES/Wilderness/encounters/1980s/W39-Leper-Colony.md)
+- **W40:** [Sasquatch](./RULES/Wilderness/encounters/1980s/W40-Sasquatch.md)
 
 ## Unusual Locations & Themes
 
@@ -169,7 +169,7 @@ If you are using a place in passing you can try to modify the tables as you go b
 
 Some examples of different locations and environments are given here, with ideas as to how you might want to modify the ruleset. The more effort you put into customising the map and encounter tables, the more unusual and memorable your environment will be!
 
-- **[[RULES/Wilderness/Unusual-Locations-Themes/Unusual-Settlements|Unusual Settlements]]** - Citadels, Dwarven settlements, Elven settlements, Ghost towns, and Goblin/Orc settlements
-- **[[RULES/Wilderness/Unusual-Locations-Themes/Unusual-Wilderness-Areas|Unusual Wilderness Areas]]** - Volcanoes, Polluted Zones, Dead Zones, Areas of Wild Magic, Other Planes, Underwater, and Lost Worlds
-- **[[RULES/Wilderness/Unusual-Locations-Themes/Unusual-Dungeons|Unusual Dungeons]]** - Airships, Planar dungeons, High Magic dungeons, and Haunted Houses
-- **[[RULES/Wilderness/Unusual-Locations-Themes/Dungeon-Themes|Dungeon Themes]]** - Undead and Demon themed dungeons
+- **[Unusual Settlements](./RULES/Wilderness/Unusual-Locations-Themes/Unusual-Settlements.md)** - Citadels, Dwarven settlements, Elven settlements, Ghost towns, and Goblin/Orc settlements
+- **[Unusual Wilderness Areas](./RULES/Wilderness/Unusual-Locations-Themes/Unusual-Wilderness-Areas.md)** - Volcanoes, Polluted Zones, Dead Zones, Areas of Wild Magic, Other Planes, Underwater, and Lost Worlds
+- **[Unusual Dungeons](./RULES/Wilderness/Unusual-Locations-Themes/Unusual-Dungeons.md)** - Airships, Planar dungeons, High Magic dungeons, and Haunted Houses
+- **[Dungeon Themes](./RULES/Wilderness/Unusual-Locations-Themes/Dungeon-Themes.md)** - Undead and Demon themed dungeons

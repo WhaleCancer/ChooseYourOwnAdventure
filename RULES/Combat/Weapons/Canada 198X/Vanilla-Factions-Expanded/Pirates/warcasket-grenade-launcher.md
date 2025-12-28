@@ -4,11 +4,11 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../Stellar-Adventures/Grenade|Stellar Adventures Grenade]]
+**Corresponds to:** [Stellar Adventures Grenade](../Stellar-Adventures/Grenade.md)
 
 **Note:** This is a huge, vehicle-scale weapon integrated into warcasket armor systems. Too large for normal pawns to use - only warcasket users can operate this massive weapon.
 
-**Corresponds to:** [[../Stellar-Adventures/Grenade|Stellar Adventures Grenade]]
+**Corresponds to:** [Stellar Adventures Grenade](../Stellar-Adventures/Grenade.md)
 
 
 ## Damage Track

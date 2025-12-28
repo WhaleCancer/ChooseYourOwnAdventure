@@ -6,7 +6,7 @@
 
 ## Overview
 
-**De Beweging** (The Motion) is a human cult that assists [[Creatures/Supernatural/Elohim|Archons]] through the course of human history in maintaining the prison dimension. Some Archons suspect this cult of collaborators has been secretly corrupted by worshippers of YOG-SOTHOTH and are somehow responsible for various crises.
+**De Beweging** (The Motion) is a human cult that assists [Archons](./Creatures/Supernatural/Elohim.md) through the course of human history in maintaining the prison dimension. Some Archons suspect this cult of collaborators has been secretly corrupted by worshippers of YOG-SOTHOTH and are somehow responsible for various crises.
 
 The cult operates primarily within Dutch immigrant communities in British Columbia, though its influence extends beyond these communities through its connection to Archon control of human society.
 
@@ -65,7 +65,7 @@ Some Archons suspect that De Beweging has been corrupted by worshippers of YOG-S
 
 - **M-EPIC:** De Beweging actively avoids M-EPIC attention, as government investigation would threaten their operations.  
 - **The Hand:** The Hand likely opposes De Beweging as a form of alien influence, though they may not fully understand the Elohim connection.  
-- **Social Credit Party:** De Beweging has historical connections to Social Credit theory through Archon control of economic development (see [[Factions/Social-Credit-Party|Social Credit Party]]).  
+- **Social Credit Party:** De Beweging has historical connections to Social Credit theory through Archon control of economic development (see [Social Credit Party](./Factions/Social-Credit-Party.md)).  
 - **Archons:** The cult serves Archon interests in maintaining the prison, though the potential YOG-SOTHOTH corruption creates tension.
 
 ## In Play

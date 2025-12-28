@@ -20,7 +20,7 @@ The farmer possesses a shovel that has been drained of color by incandescents, m
 
 ### Spiders
 
-There are a lot of spiders in the farmer's house and on his farm since they are drawn to the [[Creatures/Supernatural/Incandescent|Incandescent]]s. The spiders are a natural predator of incandescents, preventing them from becoming a permanent fixture in our dimension.
+There are a lot of spiders in the farmer's house and on his farm since they are drawn to the [Incandescent](./Creatures/Supernatural/Incandescent.md)s. The spiders are a natural predator of incandescents, preventing them from becoming a permanent fixture in our dimension.
 
 ### Flying Saucer Launch Site
 

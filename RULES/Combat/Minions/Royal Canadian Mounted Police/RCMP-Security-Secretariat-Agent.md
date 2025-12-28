@@ -32,10 +32,10 @@ RCMP Security Secretariat Agents are:
 
 RCMP Security Secretariat Agents typically carry:
 
-- **Handguns** - [[../../Weapons/Handguns/Canadian-Browning-High-Power|Browning Hi-Power]] or suppressed pistols for covert operations
-- **SMGs** - [[../../Weapons/Canada 198X/_Ranged/SMGs/SMG|MP5]] or compact SMGs for close-quarters combat
-- **Rifles** - [[../../Weapons/Rifles/Combat-Rifles/C1A1|C1A1]] or specialized tactical rifles
-- **Sniper rifles** - [[../../Weapons/Rifles/Sniper/C3-Sniper-Rifle|C3 sniper rifle]] for long-range operations (if available)
+- **Handguns** - [Browning Hi-Power](../../Weapons/Handguns/Canadian-Browning-High-Power.md) or suppressed pistols for covert operations
+- **SMGs** - [MP5](../../Weapons/Canada 198X/_Ranged/SMGs/SMG.md) or compact SMGs for close-quarters combat
+- **Rifles** - [C1A1](../../Weapons/Rifles/Combat-Rifles/C1A1.md) or specialized tactical rifles
+- **Sniper rifles** - [C3 sniper rifle](../../Weapons/Rifles/Sniper/C3-Sniper-Rifle.md) for long-range operations (if available)
 - **Surveillance equipment** - Cameras, listening devices, and other intelligence tools
 - **Disguises** - Clothing and tools for blending into environments
 - **Body armor** - Concealed armor or tactical vests

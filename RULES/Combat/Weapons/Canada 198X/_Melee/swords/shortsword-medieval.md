@@ -1,6 +1,6 @@
 # shortsword
 
-**Variant of:** [[../Fighting-Fantasy/Short-Sword|Fighting Fantasy Short Sword]]
+**Variant of:** [Fighting Fantasy Short Sword](../Fighting-Fantasy/Short-Sword.md)
 
 ## Damage Track
 

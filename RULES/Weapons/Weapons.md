@@ -262,7 +262,7 @@ Stun weapons cannot kill - targets are rendered unconscious at 0 STAMINA. Stun d
 
 ## Combat Options
 
-For detailed combat options and their rules, see [[RULES/Combat-Options|Combat Options]].
+For detailed combat options and their rules, see [Combat Options](./RULES/Combat-Options.md).
 
 The combat options in this game are drawn from:
 

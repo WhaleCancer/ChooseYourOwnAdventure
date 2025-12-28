@@ -6,7 +6,7 @@
 
 ## Overview
 
-**Bill Vander Zalm** succeeded [[NPCs/Politicians/Bill-Bennett|Bill Bennett]] as Premier of British Columbia in 1986. Under his watch, social conservatives took control of the [[Factions/Social-Credit-Party|Social Credit Party]]; Vander Zalm himself was a member of the social conservative wing. Vander Zalm easily led the Socreds to a fourth consecutive term in government in the election later that year.
+**Bill Vander Zalm** succeeded [Bill Bennett](./NPCs/Politicians/Bill-Bennett.md) as Premier of British Columbia in 1986. Under his watch, social conservatives took control of the [Social Credit Party](./Factions/Social-Credit-Party.md); Vander Zalm himself was a member of the social conservative wing. Vander Zalm easily led the Socreds to a fourth consecutive term in government in the election later that year.
 
 He was sworn in as premier just a month before the 1986 election. During the subsequent provincial election campaign, "Vandermania" swept BC, and the Socreds easily won another term over the opposition New Democratic Party (NDP). He and his wife, Lillian, attracted public adoration with their high-voltage smiles, positivity and charisma.
 
@@ -21,8 +21,8 @@ He was sworn in as premier just a month before the 1986 election. During the sub
 
 Vander Zalm's rise to power and the "Vandermania" phenomenon may have connections to:
 
-- **[[Factions/Social-Credit-Party|Social Credit Party]]** - Elohim-influenced economic experiments
-- **[[NPCs/Zwarte-Broeder|Dutch MIB network]]** - Social Credit leadership is laced with hybrids or their sympathizers. Vander Zalm—charmed and well-served by these "loyal Dutch cadres"—may be an unwitting pawn who issues orders that support Elohim economic or infrastructural schemes.
+- **[Social Credit Party](./Factions/Social-Credit-Party.md)** - Elohim-influenced economic experiments
+- **[Dutch MIB network](./NPCs/Zwarte-Broeder.md)** - Social Credit leadership is laced with hybrids or their sympathizers. Vander Zalm—charmed and well-served by these "loyal Dutch cadres"—may be an unwitting pawn who issues orders that support Elohim economic or infrastructural schemes.
 - **Elohim manipulation** - The timing and nature of his rise may be part of larger Elohim experiments
 
 ## In Play

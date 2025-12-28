@@ -36,7 +36,7 @@ Shield Cultists (Hatchet) are:
 Shield Cultists (Hatchet) typically carry:
 
 - **Wall shield** - Large protective shield that blocks ranged attacks from the front
-- **Hatchet** - [[../../Weapons/Canada 198X/_Melee/axes/hatchet|Hatchet]] for close-range combat
+- **Hatchet** - [Hatchet](../../Weapons/Canada 198X/_Melee/axes/hatchet.md) for close-range combat
 - **Ritual items** - Symbols, fetishes, or artifacts related to their beliefs
 - **Minimal protection** - Basic clothing, relying on shield for protection
 

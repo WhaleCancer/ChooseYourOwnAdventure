@@ -65,5 +65,5 @@ This applies to all forms and contexts.
 - Use markdown formatting consistently
 - Tables should be properly formatted with aligned columns
 - Code references should use the format: `startLine:endLine:filepath`
-- Links should use wiki-style links: `[[RULES/File-Name|Display Text]]`
+- Links should use wiki-style links: `[Display Text](./RULES/File-Name.md)`
 

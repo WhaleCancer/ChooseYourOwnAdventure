@@ -6,7 +6,7 @@
 
 ## Overview
 
-**Leviathan** is a beast from the biblical Book of Job, and is a form of the primeval chaos-monster created by God at the beginning of creation. It is paired with the other chaos-monster, [[Creatures/Chaos-Beasts/Behemoth|Behemoth]], and according to later Jewish tradition both would become food for the righteous at the end-time.
+**Leviathan** is a beast from the biblical Book of Job, and is a form of the primeval chaos-monster created by God at the beginning of creation. It is paired with the other chaos-monster, [Behemoth](./Creatures/Chaos-Beasts/Behemoth.md), and according to later Jewish tradition both would become food for the righteous at the end-time.
 
 Metaphorically, the name has come to be used for any extremely large or powerful entity.
 

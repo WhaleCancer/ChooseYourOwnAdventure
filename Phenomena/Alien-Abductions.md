@@ -5,7 +5,7 @@
 
 ## Overview
 
-Alien abductions are one of the most commonly reported UFO-related phenomena. Victims report being taken against their will by alien entities (typically [[Creatures/Aliens/Greys|Greys]]), subjected to medical examinations, and returned with fragmented or missing memories.
+Alien abductions are one of the most commonly reported UFO-related phenomena. Victims report being taken against their will by alien entities (typically [Greys](./Creatures/Aliens/Greys.md)), subjected to medical examinations, and returned with fragmented or missing memories.
 
 ## Common Abduction Patterns
 
@@ -23,7 +23,7 @@ Many abductees report "missing time" - periods where they cannot account for the
 
 ### Physical Evidence
 
-- **Implants** - Small objects found under the skin (see [[Phenomena/Alien-Implants|Alien Implants]])
+- **Implants** - Small objects found under the skin (see [Alien Implants](./Phenomena/Alien-Implants.md))
 - **Scars** - Unexplained surgical scars or marks
 - **Bruises** - Unexplained bruises or marks on the body
 - **Radiation** - Elevated radiation levels in some cases
@@ -57,7 +57,7 @@ M-EPIC agents investigate abduction cases for several reasons:
 ### The Truth
 
 > [!Danger] The Truth
-> The "Greys" conducting abductions are actually biological constructs controlled by the [[Creatures/Supernatural/Elohim|Elohim]] (Ethereals). The abductions serve multiple purposes: studying humans, collecting genetic material, and maintaining the cover story that Greys are independent alien visitors.
+> The "Greys" conducting abductions are actually biological constructs controlled by the [Elohim](./Creatures/Supernatural/Elohim.md) (Ethereals). The abductions serve multiple purposes: studying humans, collecting genetic material, and maintaining the cover story that Greys are independent alien visitors.
 
 ## In Play
 

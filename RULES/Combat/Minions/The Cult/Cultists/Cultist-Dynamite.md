@@ -21,7 +21,7 @@
 
 Dynamite Cultists carry:
 
-- **Dynamite** - [[../../Weapons/Canada 198X/_Ranged/Thrown/Dynamite|Commercial dynamite sticks]] with fuses, typically 2-3 sticks, along with lighters or matches
+- **Dynamite** - [Commercial dynamite sticks](../../Weapons/Canada 198X/_Ranged/Thrown/Dynamite.md) with fuses, typically 2-3 sticks, along with lighters or matches
 - **Backup weapons** - Handguns or melee weapons
 - **Ritual items** - Symbols, fetishes, or artifacts related to their beliefs
 

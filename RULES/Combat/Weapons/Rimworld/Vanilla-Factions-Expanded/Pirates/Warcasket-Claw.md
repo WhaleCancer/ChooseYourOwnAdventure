@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system. Warcasket weapons are huge, vehicle-scale weapons integrated into warcasket armor systems.
 
-**Corresponds to:** [[../Stellar-Adventures/Laser-Sword|Stellar Adventures Laser Sword]] (huge vehicle-scale melee weapon, integrated into warcasket armor)
+**Corresponds to:** [Stellar Adventures Laser Sword](../Stellar-Adventures/Laser-Sword.md) (huge vehicle-scale melee weapon, integrated into warcasket armor)
 
 
 ## Damage Track

@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../Stellar-Adventures/Laser-Pistol|Stellar Adventures Laser Pistol]]
+**Corresponds to:** [Stellar Adventures Laser Pistol](../Stellar-Adventures/Laser-Pistol.md)
 
 
 ## Damage Track

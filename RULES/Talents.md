@@ -10,38 +10,38 @@ Advanced talents have to deal with a specific game subsystem.
 
 ## General Talents
 
-- [[RULES/Talents/Affiliation|Affiliation]]
-- [[RULES/Talents/Ambidextrous|Ambidextrous]]
-- [[RULES/Talents/Charmed-Life|Charmed Life]]
-- [[RULES/Talents/Hawkeye|Hawkeye]]
-- [[RULES/Talents/Jury-Rigger|Jury Rigger]]
-- [[RULES/Talents/Learned|Learned]]
-- [[RULES/Talents/Light-Footed|Light Footed]]
-- [[RULES/Talents/Lucky|Lucky]]
-- [[RULES/Talents/Linguist|Linguist]]
-- [[RULES/Talents/Martial-Artist|Martial Artist]]
-- [[RULES/Talents/Mutant|Mutant]]
-- [[RULES/Talents/Natural-Leader|Natural Leader]]
-- [[RULES/Talents/Reputation|Reputation]]
-- [[RULES/Talents/Robust|Robust]]
-- [[RULES/Talents/Sidekick|Sidekick]]
-- [[RULES/Talents/Silver-Tongued|Silver-Tongued]]
-- [[RULES/Talents/Status|Status]]
-- [[RULES/Talents/Strongarm|Strongarm]]
-- [[RULES/Talents/Survivor|Survivor]]
-- [[RULES/Talents/Technical-Genius|Technical Genius]]
+- [Affiliation](./RULES/Talents/Affiliation.md)
+- [Ambidextrous](./RULES/Talents/Ambidextrous.md)
+- [Charmed Life](./RULES/Talents/Charmed-Life.md)
+- [Hawkeye](./RULES/Talents/Hawkeye.md)
+- [Jury Rigger](./RULES/Talents/Jury-Rigger.md)
+- [Learned](./RULES/Talents/Learned.md)
+- [Light Footed](./RULES/Talents/Light-Footed.md)
+- [Lucky](./RULES/Talents/Lucky.md)
+- [Linguist](./RULES/Talents/Linguist.md)
+- [Martial Artist](./RULES/Talents/Martial-Artist.md)
+- [Mutant](./RULES/Talents/Mutant.md)
+- [Natural Leader](./RULES/Talents/Natural-Leader.md)
+- [Reputation](./RULES/Talents/Reputation.md)
+- [Robust](./RULES/Talents/Robust.md)
+- [Sidekick](./RULES/Talents/Sidekick.md)
+- [Silver-Tongued](./RULES/Talents/Silver-Tongued.md)
+- [Status](./RULES/Talents/Status.md)
+- [Strongarm](./RULES/Talents/Strongarm.md)
+- [Survivor](./RULES/Talents/Survivor.md)
+- [Technical Genius](./RULES/Talents/Technical-Genius.md)
 
 ## Combat Talents
 
-- [[RULES/Talents/Armour-Training|Armour Training]]
-- [[RULES/Talents/Combat-Reactions|Combat Reactions]]
-- [[RULES/Talents/Crack-Shot|Crack Shot]]
+- [Armour Training](./RULES/Talents/Armour-Training.md)
+- [Combat Reactions](./RULES/Talents/Combat-Reactions.md)
+- [Crack Shot](./RULES/Talents/Crack-Shot.md)
 
 ## Vehicle Talents
 
-- [[RULES/Talents/Advanced/Defensive-Pilot|Defensive Pilot]]
-- [[RULES/Talents/Advanced/Dogfighter|Dogfighter]]
-- [[RULES/Talents/Advanced/Hotshot|Hotshot]]
+- [Defensive Pilot](./RULES/Talents/Advanced/Defensive-Pilot.md)
+- [Dogfighter](./RULES/Talents/Advanced/Dogfighter.md)
+- [Hotshot](./RULES/Talents/Advanced/Hotshot.md)
 
 ## Advanced Talents
 
@@ -49,31 +49,31 @@ Advanced talents deal with specific game subsystems and may have additional requ
 
 ### Business Advanced Talents
 
-- [[RULES/Talents/Advanced/Dealer|Dealer]]
-- [[RULES/Talents/Advanced/Entrepreneur|Entrepreneur]]
+- [Dealer](./RULES/Talents/Advanced/Dealer.md)
+- [Entrepreneur](./RULES/Talents/Advanced/Entrepreneur.md)
 
 ### Combat Advanced Talents
 
-- [[RULES/Talents/Advanced/Barfighter|Barfighter]]
-- [[RULES/Talents/Advanced/Battle-Rider|Battle Rider]]
-- [[RULES/Talents/Advanced/Defender|Defender]]
-- [[RULES/Talents/Advanced/Duelist|Duelist]]
-- [[RULES/Talents/Advanced/Evasive|Evasive]]
-- [[RULES/Talents/Advanced/Hunter|Hunter]]
-- [[RULES/Talents/Advanced/Lightning-Strike|Lightning Strike]]
-- [[RULES/Talents/Advanced/Lucky-Punch|Lucky Punch]]
-- [[RULES/Talents/Advanced/Resilient|Resilient]]
-- [[RULES/Talents/Advanced/Sniper|Sniper]]
-- [[RULES/Talents/Advanced/Specialist|Specialist]]
+- [Barfighter](./RULES/Talents/Advanced/Barfighter.md)
+- [Battle Rider](./RULES/Talents/Advanced/Battle-Rider.md)
+- [Defender](./RULES/Talents/Advanced/Defender.md)
+- [Duelist](./RULES/Talents/Advanced/Duelist.md)
+- [Evasive](./RULES/Talents/Advanced/Evasive.md)
+- [Hunter](./RULES/Talents/Advanced/Hunter.md)
+- [Lightning Strike](./RULES/Talents/Advanced/Lightning-Strike.md)
+- [Lucky Punch](./RULES/Talents/Advanced/Lucky-Punch.md)
+- [Resilient](./RULES/Talents/Advanced/Resilient.md)
+- [Sniper](./RULES/Talents/Advanced/Sniper.md)
+- [Specialist](./RULES/Talents/Advanced/Specialist.md)
 
 ### Social and Leadership Advanced Talents
 
-- [[RULES/Talents/Advanced/Entrepreneur|Entrepreneur]]
-- [[RULES/Talents/Advanced/Inspiring-Leader|Inspiring Leader]]
-- [[RULES/Talents/Advanced/Master-Tactician|Master Tactician]]
+- [Entrepreneur](./RULES/Talents/Advanced/Entrepreneur.md)
+- [Inspiring Leader](./RULES/Talents/Advanced/Inspiring-Leader.md)
+- [Master Tactician](./RULES/Talents/Advanced/Master-Tactician.md)
 
 ### Utility Advanced Talents
 
-- [[RULES/Talents/Advanced/Clearsight|Clearsight]]
-- [[RULES/Talents/Advanced/Dark-Veil|Dark Veil]]
-- [[RULES/Talents/Advanced/Packhorse|Packhorse]]
+- [Clearsight](./RULES/Talents/Advanced/Clearsight.md)
+- [Dark Veil](./RULES/Talents/Advanced/Dark-Veil.md)
+- [Packhorse](./RULES/Talents/Advanced/Packhorse.md)

@@ -43,7 +43,7 @@ British pranksters Doug Bower and Dave Chorley reported they started creating cr
 ## Communication System
 
 > [!info] Theory
-> Crop circles are a two-way communication system using the alien language. The patterns correspond to symbols found in [[Creatures/Aliens/Greys|Grey]] written language, which itself shows similarities to ancient Mayan and Egyptian languages.
+> Crop circles are a two-way communication system using the alien language. The patterns correspond to symbols found in [Grey](./Creatures/Aliens/Greys.md) written language, which itself shows similarities to ancient Mayan and Egyptian languages.
 
 The patterns may serve as:
 

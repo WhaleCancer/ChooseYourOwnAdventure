@@ -5,7 +5,7 @@
 
 ## Overview
 
-Alleged "Occult Elites"—a covert alliance of bureaucrats, wealthy media barons, and elements of high clergy—act as middlemen for the [[Creatures/Supernatural/Elohim|Elohim]] (Archons). Their power thrives at the intersection of mass communication, ritual, and psychological manipulation. Rather than open control, they saturate mass culture with symbols and patterns that gradually rewrite the public's psychic and spiritual defenses, making humanity ever easier to manipulate, pacify, and—ultimately—"harvest."
+Alleged "Occult Elites"—a covert alliance of bureaucrats, wealthy media barons, and elements of high clergy—act as middlemen for the [Elohim](./Creatures/Supernatural/Elohim.md) (Archons). Their power thrives at the intersection of mass communication, ritual, and psychological manipulation. Rather than open control, they saturate mass culture with symbols and patterns that gradually rewrite the public's psychic and spiritual defenses, making humanity ever easier to manipulate, pacify, and—ultimately—"harvest."
 
 ## Mechanisms and Methods
 

@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../Fighting-Fantasy/Warhammer|Fighting Fantasy Warhammer]] (electrical energy-enhanced hammer)
+**Corresponds to:** [Fighting Fantasy Warhammer](../Fighting-Fantasy/Warhammer.md) (electrical energy-enhanced hammer)
 
 
 ## Damage Track

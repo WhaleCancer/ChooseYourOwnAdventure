@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../Stellar-Adventures/RPG|Stellar Adventures RPG]] (cannon/artillery)
+**Corresponds to:** [Stellar Adventures RPG](../Stellar-Adventures/RPG.md) (cannon/artillery)
 
 
 ## Damage Track

@@ -17,7 +17,7 @@ The **Nephilim** (Hebrew: נְפִילִים) are mysterious beings or humans in
 
 ## Modern Nephilim: Men in Black
 
-The [[Creatures/Supernatural/Nephilim/Men-in-Black|Men in Black]] are a form of engineered, modern-day Nephilim. They are created scientifically by the Greys implanting and harvesting fetuses in human women. The resulting humans have their growth accelerated in undersea bases; they are essentially programmed for their task and then returned to the human world as agents and infiltrators of the outsiders.
+The [Men in Black](./Creatures/Supernatural/Nephilim/Men-in-Black.md) are a form of engineered, modern-day Nephilim. They are created scientifically by the Greys implanting and harvesting fetuses in human women. The resulting humans have their growth accelerated in undersea bases; they are essentially programmed for their task and then returned to the human world as agents and infiltrators of the outsiders.
 
 ## Characteristics
 

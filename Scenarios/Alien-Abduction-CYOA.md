@@ -35,7 +35,7 @@ Upon getting out of the vehicle, the driver and passenger(s) often will experien
 
 ## Technology
 
-Some reports indicate the alleged aliens, often the Greys, using a pencil-sized, black device with a light on the end of it to make the abductee compliant. This is the [[#Visitor Wand|Visitor Wand]].
+Some reports indicate the alleged aliens, often the Greys, using a pencil-sized, black device with a light on the end of it to make the abductee compliant. This is the [Visitor Wand](./#Visitor Wand.md).
 
 ## Procedures
 

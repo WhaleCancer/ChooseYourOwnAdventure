@@ -237,7 +237,7 @@ This spell will drain all morale, confidence and energy from the target, causing
 
 **Component:** A jewel of gold
 
-This spell, when cast, will cause all humanoids nearby to become more favourably disposed towards the caster. This will cause all reactions (as described in [[RULES/Character-Creation|Character Creation]]) to shift one place towards friendly; Hostile > Unfriendly > Neutral > Friendly, and will also apply a +2 bonus to all social type tests with those affected. Creatures that are tasked with being hostile to the Sorcerer, such as guards, assassins etc, are allowed a test vs LUCK, but other creatures should not. The jewel of gold is consumed by this spell.
+This spell, when cast, will cause all humanoids nearby to become more favourably disposed towards the caster. This will cause all reactions (as described in [Character Creation](./RULES/Character-Creation.md)) to shift one place towards friendly; Hostile > Unfriendly > Neutral > Friendly, and will also apply a +2 bonus to all social type tests with those affected. Creatures that are tasked with being hostile to the Sorcerer, such as guards, assassins etc, are allowed a test vs LUCK, but other creatures should not. The jewel of gold is consumed by this spell.
 
 ### KIN (1)
 

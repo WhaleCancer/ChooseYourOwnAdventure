@@ -1,6 +1,6 @@
 # heraldic standard
 
-**Variant of:** [[../Fighting-Fantasy/Sword|Fighting Fantasy Sword]]
+**Variant of:** [Fighting Fantasy Sword](../Fighting-Fantasy/Sword.md)
 
 ## Damage Track
 

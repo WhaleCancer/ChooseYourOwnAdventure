@@ -32,11 +32,11 @@ RCMP ERT officers are:
 
 RCMP ERT officers typically carry:
 
-- **SMGs** - [[../../Weapons/Canada 198X/_Ranged/SMGs/SMG|MP5]] or other tactical SMGs for close-quarters combat
-- **Rifles** - [[../../Weapons/Rifles/Combat-Rifles/C1A1|C1A1]] or other tactical rifles for precision shooting
-- **Shotguns** - [[../../Weapons/Canada 198X/_Ranged/Shotguns/Pump Shotgun|Pump-action shotguns]] (Remington 870) for breaching and close-range
+- **SMGs** - [MP5](../../Weapons/Canada 198X/_Ranged/SMGs/SMG.md) or other tactical SMGs for close-quarters combat
+- **Rifles** - [C1A1](../../Weapons/Rifles/Combat-Rifles/C1A1.md) or other tactical rifles for precision shooting
+- **Shotguns** - [Pump-action shotguns](../../Weapons/Canada 198X/_Ranged/Shotguns/Pump Shotgun.md) (Remington 870) for breaching and close-range
 - **Handguns** - Service pistols as backup weapons
-- **Sniper rifles** - [[../../Weapons/Rifles/Sniper/C3-Sniper-Rifle|C3 sniper rifle]] for designated marksmen (if available)
+- **Sniper rifles** - [C3 sniper rifle](../../Weapons/Rifles/Sniper/C3-Sniper-Rifle.md) for designated marksmen (if available)
 - **Body armor** - Tactical vests and protective equipment
 - **Tactical gear** - Flashbangs, breaching tools, and specialized equipment (if available)
 - **Radio** - For communication and coordination

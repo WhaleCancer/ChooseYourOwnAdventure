@@ -21,7 +21,7 @@
 
 STEN Cultists carry:
 
-- **Sten SMG** - [[../../Weapons/Canada 198X/_Ranged/SMGs/Heavy SMG|Sten SMG]], favored for its availability from surplus sources and lower cost
+- **Sten SMG** - [Sten SMG](../../Weapons/Canada 198X/_Ranged/SMGs/Heavy SMG.md), favored for its availability from surplus sources and lower cost
 - **Backup weapons** - Ritual knives or improvised weapons
 - **Ritual items** - Symbols, fetishes, or artifacts related to their beliefs
 

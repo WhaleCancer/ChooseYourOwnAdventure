@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../Stellar-Adventures/Knife|Stellar Adventures Knife]] (basic knife, can be used as tool)
+**Corresponds to:** [Stellar Adventures Knife](../Stellar-Adventures/Knife.md) (basic knife, can be used as tool)
 
 
 ## Damage Track

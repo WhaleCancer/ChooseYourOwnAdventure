@@ -29,7 +29,7 @@ In the context of the EPIC setting and the Archon prison dimension cosmology, **
 - **Activist Movements:** Groups that, intentionally or not, disrupt mass rituals, break up harmful cults, or organize the public in ways that generate collective willpower and free thought
 - **First Nations Elders and Community Organizers:** Using traditional knowledge and ceremonial power, these figures may ritually defend sacred land, hold back psychic invasions, and keep cultural memory alive—directly opposing the dulling effects of the Veil
 
-**Example:** The [[Factions/Cults/Watchtower-Cleavers|Watchtower Cleavers]] (even if deluded in doctrine), wildcat union organizers who resist mind-numbing "treatments," or local councils who revive ancient resistance rites. The [[Factions/Government/NDP|NDP]] also represents a political resistance movement, though largely broken and underground by 1985.
+**Example:** The [Watchtower Cleavers](./Factions/Cults/Watchtower-Cleavers.md) (even if deluded in doctrine), wildcat union organizers who resist mind-numbing "treatments," or local councils who revive ancient resistance rites. The [NDP](./Factions/Government/NDP.md) also represents a political resistance movement, though largely broken and underground by 1985.
 
 ### 4. Unwitting Rebels
 

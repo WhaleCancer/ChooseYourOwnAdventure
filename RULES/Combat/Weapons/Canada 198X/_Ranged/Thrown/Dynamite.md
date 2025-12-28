@@ -1,6 +1,6 @@
 # Dynamite
 
-**Variant of:** [[../Stellar-Adventures/Grenade|Stellar Adventures Grenade]]
+**Variant of:** [Stellar Adventures Grenade](../Stellar-Adventures/Grenade.md)
 
 ## Damage Track
 

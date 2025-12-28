@@ -6,7 +6,7 @@
 
 ## Overview
 
-**Archons** (also called "Elohim," "Shining Children," or "Outsiders") are cruel, alien, light-wreathed astral creatures born from a traumatic process involving dark matter and the metaphysical debris of dimensions. They are native to the [[Phenomena/Astral-Dimension|Astral Dimension]] and serve as the **golden-robed jailors** who keep humanity imprisoned in a prison dimension. Archons are **emotional vampires** who feed on the emotional and psychic energy of humans, using systems like the [[Phenomena/Frequency-Fences|Frequency Fence]] to harvest this energy while simultaneously weakening humans into submission.
+**Archons** (also called "Elohim," "Shining Children," or "Outsiders") are cruel, alien, light-wreathed astral creatures born from a traumatic process involving dark matter and the metaphysical debris of dimensions. They are native to the [Astral Dimension](./Phenomena/Astral-Dimension.md) and serve as the **golden-robed jailors** who keep humanity imprisoned in a prison dimension. Archons are **emotional vampires** who feed on the emotional and psychic energy of humans, using systems like the [Frequency Fence](./Phenomena/Frequency-Fences.md) to harvest this energy while simultaneously weakening humans into submission.
 
 > [!NOTE] Terminology
 > **Archon** is the default term for these entities. They are also called **Elohim**, **Outsiders**, and **Shining Children**—these terms are used interchangeably throughout the vault. All Archons believe in some form of keeping humans jailed, though they differ in their methods and philosophies.
@@ -68,7 +68,7 @@ Before the modern era, **organized religion** served as the primary mechanism fo
 
 **How Religious Harvesting Worked:**
 - **Ritual and Ceremony:** Regular religious services, prayers, and rituals created concentrated emotional energy (faith, devotion, fear, awe, hope) that could be harvested
-- **Sacred Sites:** Temples, churches, and holy places were often built on [[Phenomena/Thin-Veil-Areas|thin veil areas]], creating natural conduits for energy transfer
+- **Sacred Sites:** Temples, churches, and holy places were often built on [thin veil areas](./Phenomena/Thin-Veil-Areas.md), creating natural conduits for energy transfer
 - **Possessed Leaders:** Prophets, priests, and religious figures possessed or influenced by Archons could direct the flow of emotional energy
 - **Collective Worship:** Group prayer, chanting, and mass ceremonies amplified emotional output, making harvesting more efficient
 - **Fear and Devotion:** Religious systems that emphasized fear of divine punishment or devotion to divine authority generated powerful emotional responses ideal for harvesting
@@ -87,7 +87,7 @@ As human society became more secular and technology advanced, organized religion
 
 ### The Frequency Fence System (Modern Method)
 
-The [[Phenomena/Frequency-Fences|Frequency Fence]] is the modern primary mechanism through which Archons harvest emotional energy from humanity. This grid of transmission towers, broadcasting engineered frequencies across British Columbia and beyond, serves multiple functions:
+The [Frequency Fence](./Phenomena/Frequency-Fences.md) is the modern primary mechanism through which Archons harvest emotional energy from humanity. This grid of transmission towers, broadcasting engineered frequencies across British Columbia and beyond, serves multiple functions:
 
 **Energy Harvesting:**
 - The "prison harmonics" broadcast by the Frequency Fence actively drain emotional and psychic energy from humans
@@ -137,11 +137,11 @@ The Frequency Fence represents one of the most insidious aspects of the Archon p
 Beyond organized religion and the Frequency Fence, Archons use various other methods to harvest emotional energy:
 
 - **Mass Trauma Events:** Wars, disasters, and conflicts generate intense emotional responses (fear, despair, rage) that can be harvested in large quantities
-- **Cults and Contactee Groups:** Organizations like the [[Factions/Cults/Star-Communion|Star Communion]] create focused emotional harvesting through group rituals and devotion, combining religious and modern methods
-- **Direct Abduction:** [[Creatures/Aliens/Grey-Harvester|Grey Harvesters]] conduct targeted emotional collection during abductions, harvesting fear, confusion, and trauma
+- **Cults and Contactee Groups:** Organizations like the [Star Communion](./Factions/Cults/Star-Communion.md) create focused emotional harvesting through group rituals and devotion, combining religious and modern methods
+- **Direct Abduction:** [Grey Harvesters](./Creatures/Aliens/Grey-Harvester.md) conduct targeted emotional collection during abductions, harvesting fear, confusion, and trauma
 - **Possession and Influence:** Archons who possess humans can directly feed on their emotional energy over extended periods
 - **Sacred Sites and Thin Veil Areas:** Natural dimensional weak points can be used as harvesting conduits, even without formal religious structures
-- **Chemical Suppression:** The [[Phenomena/The-Poison-Pipeline|Poison Pipeline]] makes humans more vulnerable to emotional harvesting by weakening their spiritual and emotional defenses
+- **Chemical Suppression:** The [Poison Pipeline](./Phenomena/The-Poison-Pipeline.md) makes humans more vulnerable to emotional harvesting by weakening their spiritual and emotional defenses
 
 All of these methods work together to ensure continuous emotional energy harvesting while maintaining the prison and preventing human awakening. The Archons have maintained this system for millennia, adapting their methods as human society evolves but never changing their fundamental goal: keeping humanity imprisoned and feeding on their life force.
 
@@ -150,11 +150,11 @@ All of these methods work together to ensure continuous emotional energy harvest
 Beyond organized religion and the Frequency Fence, Archons use various other methods to harvest emotional energy:
 
 - **Mass Trauma Events:** Wars, disasters, and conflicts generate intense emotional responses that can be harvested
-- **Cults and Contactee Groups:** Organizations like the [[Factions/Cults/Star-Communion|Star Communion]] create focused emotional harvesting through group rituals and devotion
-- **Direct Abduction:** [[Creatures/Aliens/Grey-Harvester|Grey Harvesters]] conduct targeted emotional collection during abductions
+- **Cults and Contactee Groups:** Organizations like the [Star Communion](./Factions/Cults/Star-Communion.md) create focused emotional harvesting through group rituals and devotion
+- **Direct Abduction:** [Grey Harvesters](./Creatures/Aliens/Grey-Harvester.md) conduct targeted emotional collection during abductions
 - **Possession and Influence:** Archons who possess humans can directly feed on their emotional energy
 - **Sacred Sites and Thin Veil Areas:** Natural dimensional weak points can be used as harvesting conduits
-- **Chemical Suppression:** The [[Phenomena/The-Poison-Pipeline|Poison Pipeline]] makes humans more vulnerable to emotional harvesting by weakening their defenses
+- **Chemical Suppression:** The [Poison Pipeline](./Phenomena/The-Poison-Pipeline.md) makes humans more vulnerable to emotional harvesting by weakening their defenses
 
 All of these methods work together to ensure continuous emotional energy harvesting while maintaining the prison and preventing human awakening.
 
@@ -192,7 +192,7 @@ These Archons maintain the prison through bureaucratic efficiency and systematic
 
 **Methods:**
 - Creating systems of control (economic, social, political)
-- Maintaining the Veil through technology and infrastructure, especially the [[Phenomena/Frequency-Fences|Frequency Fence]]
+- Maintaining the Veil through technology and infrastructure, especially the [Frequency Fence](./Phenomena/Frequency-Fences.md)
 - Using proxies and constructs (like the Greys) to manage humans
 - Systematic suppression of awareness and resistance
 - Efficient emotional energy harvesting through the Frequency Fence grid
@@ -278,21 +278,21 @@ Archons have interjected in human history numerous times, through both physicall
 > The concept of the "Mandate of Heaven" (天命) that justified Chinese dynastic rule was an Archon invention, creating a system where rulers served as conduits for emotional energy harvesting. Each dynasty's rise and fall was influenced by Archons, who used cycles of prosperity and collapse to generate massive emotional responses—hope during golden ages, despair during collapses, fear during transitions. The ritual ceremonies, ancestor worship, and imperial cults created structured harvesting systems that channeled the emotional energy of millions to the Archons.
 
 > [!danger] Confucianism, Taoism, and Buddhism in China
-> China's major philosophical-religious systems were developed and co-opted by Archons as control mechanisms. Confucianism created rigid social hierarchies that prevent questioning, while religious Taoism and Sinicized Buddhism were adapted into harvesting systems through temples, rituals, and practices that channeled devotion and meditation energy to Archons. The emphasis on accepting one's place, karma, and rebirth reinforced the prison by making suffering seem natural. In modern British Columbia, Chinese communities that maintain these traditions continue to provide emotional energy through these structures, and [[Factions/Organized-Crime/Triads|Big Circle Boys]] members who respect Taoist rituals may be unwittingly participating in harvesting systems.
+> China's major philosophical-religious systems were developed and co-opted by Archons as control mechanisms. Confucianism created rigid social hierarchies that prevent questioning, while religious Taoism and Sinicized Buddhism were adapted into harvesting systems through temples, rituals, and practices that channeled devotion and meditation energy to Archons. The emphasis on accepting one's place, karma, and rebirth reinforced the prison by making suffering seem natural. In modern British Columbia, Chinese communities that maintain these traditions continue to provide emotional energy through these structures, and [Big Circle Boys](./Factions/Organized-Crime/Triads.md) members who respect Taoist rituals may be unwittingly participating in harvesting systems.
 
 > [!danger] The Opium Wars and the Century of Humiliation
 > The Opium Wars (1839-1860) were influenced by Archons to weaken China and create conditions for increased emotional harvesting through suffering, humiliation, and social collapse. The wars generated massive amounts of negative emotional energy (fear, despair, rage, shame) that could be harvested. The subsequent "Century of Humiliation" created conditions where Chinese people were more vulnerable to control and harvesting, while the forced opening of China allowed Archons to introduce new control systems alongside traditional ones.
 
 > [!danger] The Cultural Revolution and Mass Trauma
-> The Cultural Revolution (1966-1976) represents one of the most intense periods of Archon emotional harvesting in modern history. The mass trauma, fear, violence, and social disruption generated enormous amounts of emotional energy. Red Guards may have been influenced or possessed by Archons, creating agents of chaos and suffering. The destruction of traditional structures served to eliminate potential resistance while creating trauma. Some ex-Red Guards who later became part of the [[Factions/Organized-Crime/Triads|Big Circle Boys]] in British Columbia may carry residual Archon influence or knowledge of the true nature of the events they participated in.
+> The Cultural Revolution (1966-1976) represents one of the most intense periods of Archon emotional harvesting in modern history. The mass trauma, fear, violence, and social disruption generated enormous amounts of emotional energy. Red Guards may have been influenced or possessed by Archons, creating agents of chaos and suffering. The destruction of traditional structures served to eliminate potential resistance while creating trauma. Some ex-Red Guards who later became part of the [Big Circle Boys](./Factions/Organized-Crime/Triads.md) in British Columbia may carry residual Archon influence or knowledge of the true nature of the events they participated in.
 
 > [!danger] Chinese Immigration and Chinatowns in British Columbia
-> The waves of Chinese immigration to British Columbia, particularly during the gold rush and railway construction, were influenced by Archons to spread their control systems to new territories. Chinese communities brought traditional religious practices (Taoist temples, ancestor worship, Buddhist practices) and social structures based on Confucian principles that serve as harvesting nodes. The Chinatowns in [[Locations/Vancouver|Vancouver]] and [[Locations/Victoria|Victoria]] serve as both cultural centers and potential harvesting nodes, with traditional practices continuing to channel emotional energy to Archons. Connections to Hong Kong and mainland China maintain links to ongoing Archon activities, and some Traditional Chinese Medicine practices have been co-opted as part of the [[Phenomena/The-Poison-Pipeline|Poison Pipeline]].
+> The waves of Chinese immigration to British Columbia, particularly during the gold rush and railway construction, were influenced by Archons to spread their control systems to new territories. Chinese communities brought traditional religious practices (Taoist temples, ancestor worship, Buddhist practices) and social structures based on Confucian principles that serve as harvesting nodes. The Chinatowns in [Vancouver](./Locations/Vancouver.md) and [Victoria](./Locations/Victoria.md) serve as both cultural centers and potential harvesting nodes, with traditional practices continuing to channel emotional energy to Archons. Connections to Hong Kong and mainland China maintain links to ongoing Archon activities, and some Traditional Chinese Medicine practices have been co-opted as part of the [Poison Pipeline](./Phenomena/The-Poison-Pipeline.md).
 
 ### Modern Interventions
 
 > [!danger] The Social Credit Economic System
-> Beginning in 1916, Archons influenced the development of Social Credit economic theory through possession of C.H. Douglas and manipulation of economic thought. This represents a long-term system of control, using economic structures to maintain the prison and prevent human advancement. The theory's implementation in British Columbia serves as a focal point for ongoing control. See [[Factions/Social-Credit-Party|Social Credit Party]] for details.
+> Beginning in 1916, Archons influenced the development of Social Credit economic theory through possession of C.H. Douglas and manipulation of economic thought. This represents a long-term system of control, using economic structures to maintain the prison and prevent human advancement. The theory's implementation in British Columbia serves as a focal point for ongoing control. See [Social Credit Party](./Factions/Social-Credit-Party.md) for details.
 
 > [!danger] World Wars and Mass Conflict
 > The World Wars provided Archons with opportunities to maintain control through fear, trauma, and division. Different Archons may have influenced different sides, using global conflict as a way to keep humans focused on survival and warfare rather than questioning their imprisonment. The rapid advancement of technology during these periods may have been accelerated by Archon influence to keep humans productive but controlled.
@@ -301,7 +301,7 @@ Archons have interjected in human history numerous times, through both physicall
 > Beginning in the late 1940s, Archons began using the Greys (their biological constructs) to interact with humanity while maintaining their own secrecy. The UFO phenomenon serves multiple purposes: maintaining the Veil by providing false explanations, testing human psychological resilience, and creating a cover story that prevents humans from recognizing the true nature of the Archons. The "flying saucer" shape may be designed to trigger specific psychological responses or cultural associations that reinforce the prison.
 
 > [!danger] Modern Cults and Contactee Movements
-> Various UFO religions, New Age movements, and contactee groups have been influenced or directly manipulated by Archons. Groups like the [[Factions/Cults/Star-Communion|Star Communion]] serve as both control mechanisms and potential recruitment pools. These movements allow Archons to maintain control by providing false hope and false explanations, keeping humans from recognizing their true situation as prisoners. These modern cults represent a hybrid approach—combining elements of traditional religious harvesting (rituals, devotion, group worship) with modern methods, creating focused emotional energy collection points that supplement the Frequency Fence.
+> Various UFO religions, New Age movements, and contactee groups have been influenced or directly manipulated by Archons. Groups like the [Star Communion](./Factions/Cults/Star-Communion.md) serve as both control mechanisms and potential recruitment pools. These movements allow Archons to maintain control by providing false hope and false explanations, keeping humans from recognizing their true situation as prisoners. These modern cults represent a hybrid approach—combining elements of traditional religious harvesting (rituals, devotion, group worship) with modern methods, creating focused emotional energy collection points that supplement the Frequency Fence.
 
 ### Patterns of Intervention
 
@@ -309,10 +309,10 @@ Archons have interjected in human history numerous times, through both physicall
 - **Direct Manifestation:** Archons physically appearing in our dimension, often recorded as divine visitations, angelic appearances, or encounters with gods
 - **Possession:** Taking control of human bodies, either temporarily or for extended periods, creating prophets, oracles, and mystics
 - **Indirect Influence:** Manipulating human thought through dreams, visions, or subtle psychic influence
-- **Proxy Agents:** Using human cults, organizations, or individuals to carry out their will (see [[Factions/De-Beweging|De Beweging]])
+- **Proxy Agents:** Using human cults, organizations, or individuals to carry out their will (see [De Beweging](./Factions/De-Beweging.md))
 - **Organized Religion:** Using religious institutions, rituals, and sacred sites to harvest emotional energy and maintain control (historical primary method, still used in many areas)
 - **Technological Manipulation:** Using advanced technology or dimensional rifts to influence events
-- **The Frequency Fence:** Using the grid of transmission towers to harvest emotional energy and maintain control (modern primary method, see [[Phenomena/Frequency-Fences|Frequency Fences]])
+- **The Frequency Fence:** Using the grid of transmission towers to harvest emotional energy and maintain control (modern primary method, see [Frequency Fences](./Phenomena/Frequency-Fences.md))
 - **Biological Constructs:** Using the Greys and other created beings to interact with humanity
 
 **Goals of Intervention:**
@@ -320,7 +320,7 @@ Archons have interjected in human history numerous times, through both physicall
 - **Preventing Awakening:** Stopping humans from achieving true consciousness or freedom
 - **Reinforcing the Veil:** Keeping humans unaware of the true nature of reality
 - **Controlling Development:** Shaping human society to prevent dangerous advancement
-- **Emotional Vampirism:** Harvesting psychic energy, emotions, and life force from imprisoned humans through the [[Phenomena/Frequency-Fences|Frequency Fence]] and other means—this both sustains the Archons and weakens humans into submission
+- **Emotional Vampirism:** Harvesting psychic energy, emotions, and life force from imprisoned humans through the [Frequency Fence](./Phenomena/Frequency-Fences.md) and other means—this both sustains the Archons and weakens humans into submission
 - **Factional Conflicts:** Settling disputes between different Archon factions using human conflicts as proxies
 
 **The Cost of Intervention:**
@@ -336,7 +336,7 @@ The most powerful and well-known Archons are referred to as "The Nine Outsiders,
 - **Michael** - An Archon that obeys YHWH. Also known as Horus (Egyptian) and Ares (Greek). Often associated with the "indifferent" or "almost benevolent" faction.
 - **Typhon** - Also known as Apophis (Egyptian) and Tiamat (Mesopotamian). Often associated with the "cruel" faction.
 
-See [[Creatures/Supernatural/Outsiders/|The Nine Outsiders]] for detailed information on each.
+See [The Nine Outsiders](./Creatures/Supernatural/Outsiders/.md) for detailed information on each.
 
 ## Relationship with Greys
 

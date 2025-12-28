@@ -27,7 +27,7 @@ A Grey Medic has many ways to heal biological (and pseudo-biological) beings and
 
 ### Alien Implant
 
-One of the key tasks performed by medics is the implanting of tracking devices into human abductees. A Medic, typically assisted by a [[Creatures/Aliens/Grey-Harvester|Grey Harvester]], will implant these devices into both willing cultists and unwilling abductees.
+One of the key tasks performed by medics is the implanting of tracking devices into human abductees. A Medic, typically assisted by a [Grey Harvester](./Creatures/Aliens/Grey-Harvester.md), will implant these devices into both willing cultists and unwilling abductees.
 
 ### Psychic Scream
 

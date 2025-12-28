@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../Stellar-Adventures/Assault-Rifle|Stellar Adventures Assault Rifle]] (compact submachine gun)
+**Corresponds to:** [Stellar Adventures Assault Rifle](../Stellar-Adventures/Assault-Rifle.md) (compact submachine gun)
 
 
 ## Damage Track

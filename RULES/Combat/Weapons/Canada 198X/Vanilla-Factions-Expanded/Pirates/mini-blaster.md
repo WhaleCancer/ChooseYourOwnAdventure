@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../Stellar-Adventures/Blaster-Pistol|Stellar Adventures Blaster Pistol]]
+**Corresponds to:** [Stellar Adventures Blaster Pistol](../Stellar-Adventures/Blaster-Pistol.md)
 
 
 ## Damage Track

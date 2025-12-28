@@ -10,7 +10,7 @@
 
 ## Connection to The Hand
 
-Robert Gordon Rogers is a member of [[Factions/The-Hand|The Hand]], a secret cabal of wealthy individuals resisting alien influence. His position as Lieutenant Governor provides military and political connections that are valuable to The Hand's operations.
+Robert Gordon Rogers is a member of [The Hand](./Factions/The-Hand.md), a secret cabal of wealthy individuals resisting alien influence. His position as Lieutenant Governor provides military and political connections that are valuable to The Hand's operations.
 
 ## Political Influence
 

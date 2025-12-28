@@ -49,27 +49,27 @@ Use the villain descriptions and motivations to create custom quests and mission
 
 ### Winds of Magic
 
-- [[Villains/World-of-Titan/The-Magician|The Magician - Taz Remak]]
-- [[Villains/World-of-Titan/The-Sorcerer|The Sorcerer - Zeoltan the Immolator]]
-- [[Villains/World-of-Titan/The-Coven|The Coven]]
+- [The Magician - Taz Remak](./Villains/World-of-Titan/The-Magician.md)
+- [The Sorcerer - Zeoltan the Immolator](./Villains/World-of-Titan/The-Sorcerer.md)
+- [The Coven](./Villains/World-of-Titan/The-Coven.md)
 
 ### Fury of the Gods
 
-- [[Villains/World-of-Titan/The-Inquisitor|The Inquisitor - Anna Gotval]]
-- [[Villains/World-of-Titan/The-Claws-and-Thorns|The Claws & Thorns]]
-- [[Villains/World-of-Titan/The-Necromancer|The Necromancer - Merrick Trench]]
+- [The Inquisitor - Anna Gotval](./Villains/World-of-Titan/The-Inquisitor.md)
+- [The Claws & Thorns](./Villains/World-of-Titan/The-Claws-and-Thorns.md)
+- [The Necromancer - Merrick Trench](./Villains/World-of-Titan/The-Necromancer.md)
 
 ### Chaos Unleashed
 
-- [[Villains/World-of-Titan/The-Horde|The Horde]]
-- [[Villains/World-of-Titan/The-Emerald-Scale|The Emerald Scale]]
-- [[Villains/World-of-Titan/The-Nest-Mother|The Nest Mother]]
+- [The Horde](./Villains/World-of-Titan/The-Horde.md)
+- [The Emerald Scale](./Villains/World-of-Titan/The-Emerald-Scale.md)
+- [The Nest Mother](./Villains/World-of-Titan/The-Nest-Mother.md)
 
 ### Lust for Power
 
-- [[Villains/World-of-Titan/The-Syndicate|The Syndicate]]
-- [[Villains/World-of-Titan/The-House-of-Swords|The House of Swords]]
-- [[Villains/World-of-Titan/The-Warlord|The Warlord - Grark Gutburster]]
+- [The Syndicate](./Villains/World-of-Titan/The-Syndicate.md)
+- [The House of Swords](./Villains/World-of-Titan/The-House-of-Swords.md)
+- [The Warlord - Grark Gutburster](./Villains/World-of-Titan/The-Warlord.md)
 
 ## 9.2 Randomly Generated Villains
 
@@ -77,7 +77,7 @@ If, for some unfathomable reason, you are not satisfied with the villains provid
 
 ### World of Titan Campaign Setting
 
-See [[Villains/World-of-Titan/Randomly-Generated-Villains|Randomly Generated Villains]] for the complete rules and tables for the World of Titan setting, including:
+See [Randomly Generated Villains](./Villains/World-of-Titan/Randomly-Generated-Villains.md) for the complete rules and tables for the World of Titan setting, including:
 - Villain Domain selection (Winds of Magic, Fury of the Gods, Chaos Unleashed, Lust for Power)
 - Location and Race determination
 - Characteristics and Skills for each domain
@@ -91,7 +91,7 @@ See [[Villains/World-of-Titan/Randomly-Generated-Villains|Randomly Generated Vil
 
 ### Star Trek Campaign Setting (2285)
 
-See [[Villains/Star-Trek/Randomly-Generated-Villains|Randomly Generated Villains - Star Trek]] for the complete rules and tables adapted for the Star Trek (TOS-era 2285) setting, including:
+See [Randomly Generated Villains - Star Trek](./Villains/Star-Trek/Randomly-Generated-Villains.md) for the complete rules and tables adapted for the Star Trek (TOS-era 2285) setting, including:
 - Villain Domain selection (Scientific/Technical Expertise, Ideological Fanaticism, Military Aggression, Political Intrigue)
 - Location and Species determination
 - Characteristics and Skills for each domain
@@ -105,7 +105,7 @@ See [[Villains/Star-Trek/Randomly-Generated-Villains|Randomly Generated Villains
 
 ### 1980s British Columbia Campaign Setting
 
-See [[Villains/1980s/Randomly-Generated-Villains|Randomly Generated Villains - 1980s]] for the complete rules and tables adapted for the 1980s British Columbia paranormal setting, including:
+See [Randomly Generated Villains - 1980s](./Villains/1980s/Randomly-Generated-Villains.md) for the complete rules and tables adapted for the 1980s British Columbia paranormal setting, including:
 - Villain Domain selection (Scientific/Technical Expertise, Ideological Fanaticism, Military Aggression, Political Intrigue)
 - Location and Background determination
 - Characteristics and Skills for each domain

@@ -6,7 +6,7 @@
 
 ## Overview
 
-Investigation involving [[Factions/Corporations/Orion-International|Orion International]] and [[Factions/Corporations/Orion-International#ORION-Supercomputer|ORION AI]], connected to [[Technology/UFO/UFO-Power-Source|Connection Machine]] technology and potentially [[Creatures/Supernatural/Outsiders/Outsiders-Overview|WABOT]] (robotic entities).
+Investigation involving [Orion International](./Factions/Corporations/Orion-International.md) and [ORION AI](./Factions/Corporations/Orion-International#ORION-Supercomputer.md), connected to [Connection Machine](./Technology/UFO/UFO-Power-Source.md) technology and potentially [WABOT](./Creatures/Supernatural/Outsiders/Outsiders-Overview.md) (robotic entities).
 
 ## Key Elements
 

@@ -32,7 +32,7 @@ VPD K9 Handlers are:
 
 VPD K9 Handlers typically carry:
 
-- **Handguns** - [[../../Weapons/Canada 198X/_Ranged/Handguns/Revolvers/Service Revolver|Service revolvers]] (Smith & Wesson Model 10, .38 Special)
+- **Handguns** - [Service revolvers](../../Weapons/Canada 198X/_Ranged/Handguns/Revolvers/Service Revolver.md) (Smith & Wesson Model 10, .38 Special)
 - **Less-lethal** - Batons, handcuffs, and other restraint equipment
 - **Radio** - For communication with dispatch and other officers
 - **K9 equipment** - Leash, commands, and dog handling tools

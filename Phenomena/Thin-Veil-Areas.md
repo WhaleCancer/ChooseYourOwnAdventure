@@ -8,7 +8,7 @@
 
 **Thin Veil Areas** are the Pacific Northwest's supernatural fault lines—dangerous, mysterious, sacred, and critical to every faction's agenda. Knowing them means knowing the true map of power, risk, and mystery.
 
-Thin veil areas are places where the fabric separating our world from another reality—the domain of the [[Creatures/Supernatural/Elohim|Elohim]] (Outsiders)—is worn, damaged, or naturally weak. Throughout the Pacific Northwest, these spots appear in folklore as haunted groves, sacred valleys, "bad luck" stretches of road, or legendary lake shores. In scientific circles, they're known as "anomalous zones" or "dimensional shear sites." The Halkomelem call them **Sqa'tsəxw** (s-KAT-seh, "Thin Place").
+Thin veil areas are places where the fabric separating our world from another reality—the domain of the [Elohim](./Creatures/Supernatural/Elohim.md) (Outsiders)—is worn, damaged, or naturally weak. Throughout the Pacific Northwest, these spots appear in folklore as haunted groves, sacred valleys, "bad luck" stretches of road, or legendary lake shores. In scientific circles, they're known as "anomalous zones" or "dimensional shear sites." The Halkomelem call them **Sqa'tsəxw** (s-KAT-seh, "Thin Place").
 
 ## Common Traits
 
@@ -26,7 +26,7 @@ Thin veil areas are intersections of the mundane and the supernatural, where the
 
 ## Why They Matter
 
-- **Access Points:** The Elohim and their [[Creatures/Aliens/Greys|Greys]] are most active here. These sites allow for easier crossing, increased psychic phenomena, and the manipulation of reality itself. Most abductions, sightings, and incursions occur in or near thin veil areas.
+- **Access Points:** The Elohim and their [Greys](./Creatures/Aliens/Greys.md) are most active here. These sites allow for easier crossing, increased psychic phenomena, and the manipulation of reality itself. Most abductions, sightings, and incursions occur in or near thin veil areas.
 - **Destabilization Hotspots:** Corporate activity (logging, mining), ill-advised cult rituals, or government experiments can "thin" the veil further, making sites flare up or even shift position.
 - **Signature Phenomena:** Each area develops a unique weirdness profile—certain electromagnetic readings, types of hallucination, peculiar geological features, or recurring dreams in the local population.
 - **Adventure Seeds:** Encounters, mysteries, and clues look *mundane* until you account for the veil. Puzzle pieces—missing time, objects out of place, inexplicable weather—come into focus once agents understand the veil's importance.
@@ -42,7 +42,7 @@ Thin veil areas are intersections of the mundane and the supernatural, where the
 
 ### Okanagan Lake
 
-The home of [[Creatures/Cryptids/Ogopogo-Statblock|Ogopogo]], Okanagan Lake is a major thin veil area. The deepest, coldest lake trenches are where the "veils" are thinnest, and sightings of both Ogopogo and UFOs cluster around the lake.
+The home of [Ogopogo](./Creatures/Cryptids/Ogopogo-Statblock.md), Okanagan Lake is a major thin veil area. The deepest, coldest lake trenches are where the "veils" are thinnest, and sightings of both Ogopogo and UFOs cluster around the lake.
 
 ### Other Locations
 

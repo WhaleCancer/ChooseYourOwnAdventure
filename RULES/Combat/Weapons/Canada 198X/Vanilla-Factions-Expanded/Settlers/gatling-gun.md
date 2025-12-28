@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../Stellar-Adventures/Machine-Gun|Stellar Adventures Machine Gun]] (gatling gun)
+**Corresponds to:** [Stellar Adventures Machine Gun](../Stellar-Adventures/Machine-Gun.md) (gatling gun)
 
 
 ## Damage Track

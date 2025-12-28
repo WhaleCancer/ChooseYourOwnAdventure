@@ -32,8 +32,8 @@ Cultist Adepts are:
 
 Cultist Adepts typically carry:
 
-- **German MP40** - [[../../Weapons/Canada 198X/_Ranged/SMGs/Heavy SMG|German MP40 submachine gun]] in one hand
-- **German MP40** - [[../../Weapons/Canada 198X/_Ranged/SMGs/Heavy SMG|German MP40 submachine gun]] in the other hand
+- **German MP40** - [German MP40 submachine gun](../../Weapons/Canada 198X/_Ranged/SMGs/Heavy SMG.md) in one hand
+- **German MP40** - [German MP40 submachine gun](../../Weapons/Canada 198X/_Ranged/SMGs/Heavy SMG.md) in the other hand
 - **Bulletproof armor** - Body armor providing significant protection (treat as military body armor or tactical vest)
 - **Gas mask** - Protects against chemical agents and obscures their identity
 - **Backup weapons** - Handguns or melee weapons as secondary options

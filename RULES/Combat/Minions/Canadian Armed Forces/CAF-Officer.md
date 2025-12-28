@@ -32,8 +32,8 @@ CAF Officers are:
 
 CAF Officers typically carry:
 
-- **Rifles** - [[../../Weapons/Rifles/Combat-Rifles/C7|C7 assault rifle]] or [[../../Weapons/Rifles/Combat-Rifles/C1A1|C1A1]] for personal defense
-- **Handguns** - [[../../Weapons/Handguns/Canadian-Browning-High-Power|Browning Hi-Power]] (Canadian service pistol)
+- **Rifles** - [C7 assault rifle](../../Weapons/Rifles/Combat-Rifles/C7.md) or [C1A1](../../Weapons/Rifles/Combat-Rifles/C1A1.md) for personal defense
+- **Handguns** - [Browning Hi-Power](../../Weapons/Handguns/Canadian-Browning-High-Power.md) (Canadian service pistol)
 - **Communication devices** - Radios and other devices for command and coordination
 - **Military uniforms** - Standard Canadian military uniforms with officer insignia
 - **Command equipment** - Maps, compasses, and other command tools

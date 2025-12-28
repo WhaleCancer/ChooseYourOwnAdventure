@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../Fighting-Fantasy/Warhammer|Fighting Fantasy Warhammer]] (AI-enhanced persona weapon)
+**Corresponds to:** [Fighting Fantasy Warhammer](../Fighting-Fantasy/Warhammer.md) (AI-enhanced persona weapon)
 
 
 ## Damage Track

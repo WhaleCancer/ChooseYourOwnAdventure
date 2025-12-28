@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../Fighting-Fantasy/Mace|Fighting Fantasy Mace]] (heavy blunt weapon)
+**Corresponds to:** [Fighting Fantasy Mace](../Fighting-Fantasy/Mace.md) (heavy blunt weapon)
 
 
 ## Damage Track

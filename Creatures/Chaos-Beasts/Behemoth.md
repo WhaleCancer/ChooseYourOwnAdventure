@@ -6,7 +6,7 @@
 
 ## Overview
 
-**Behemoth** (/bɪˈhiːməθ, ˈbiːə-/; Hebrew: בְּהֵמוֹת, bəhēmōṯ) is a beast from the biblical Book of Job, and is a form of the primeval chaos-monster created by God at the beginning of creation. It is paired with the other chaos-monster, [[Creatures/Chaos-Beasts/Leviathan|Leviathan]], and according to later Jewish tradition both would become food for the righteous at the end-time.
+**Behemoth** (/bɪˈhiːməθ, ˈbiːə-/; Hebrew: בְּהֵמוֹת, bəhēmōṯ) is a beast from the biblical Book of Job, and is a form of the primeval chaos-monster created by God at the beginning of creation. It is paired with the other chaos-monster, [Leviathan](./Creatures/Chaos-Beasts/Leviathan.md), and according to later Jewish tradition both would become food for the righteous at the end-time.
 
 Metaphorically, the name has come to be used for any extremely large or powerful entity.
 

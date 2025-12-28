@@ -6,11 +6,11 @@ Character creation in EPIC follows a step-by-step process that allows players to
 
 ## Character Creation Steps
 
-1. **[[#Background|Background]]** - Choose your Character's background
-2. **[[#Characteristics|Characteristics]]** - Assign characteristic points
-3. **[[#Skills|Skills]]** - Select and assign skill points
-4. **[[#Talents|Talents]]** - Choose talents based on [[RULES/Grade|Grade]]
-5. **[[#Finishing Off|Finishing Off]]** - Equipment, money, and final details
+1. **[Background](./#Background.md)** - Choose your Character's background
+2. **[Characteristics](./#Characteristics.md)** - Assign characteristic points
+3. **[Skills](./#Skills.md)** - Select and assign skill points
+4. **[Talents](./#Talents.md)** - Choose talents based on [Grade](./RULES/Grade.md)
+5. **[Finishing Off](./#Finishing Off.md)** - Equipment, money, and final details
 
 ## Background
 
@@ -65,7 +65,7 @@ Characteristics will be increased as the Character gains in experience during pl
 
 ### Grade-Based Character Creation
 
-The number of characteristic points available at character creation varies with [[RULES/Grade|Grade]] as shown on the table below:
+The number of characteristic points available at character creation varies with [Grade](./RULES/Grade.md) as shown on the table below:
 
 | Grade     | Points |
 | --------- | ------ |
@@ -77,13 +77,13 @@ The number of characteristic points available at character creation varies with 
 | Master    | 10     |
 | Champion  | 11     |
 
-The maximum number of points that may be allocated to each characteristic at this stage also varies by [[RULES/Grade|Grade]], with the exception of LUCK which remains at a maximum of 3 points. Remember that every point allocated to SANITY increases that characteristic by 2.
+The maximum number of points that may be allocated to each characteristic at this stage also varies by [Grade](./RULES/Grade.md), with the exception of LUCK which remains at a maximum of 3 points. Remember that every point allocated to SANITY increases that characteristic by 2.
 
 ## Skills
 
-A newly created Character of any [[RULES/Grade|Grade]] receives the free Skill points allocated to them based on their Background.
+A newly created Character of any [Grade](./RULES/Grade.md) receives the free Skill points allocated to them based on their Background.
 
-When it comes to the skill points chosen by the player, the number chosen and the points assigned to each, the [[RULES/Grade|Grade]] determines these and they are specified below:
+When it comes to the skill points chosen by the player, the number chosen and the points assigned to each, the [Grade](./RULES/Grade.md) determines these and they are specified below:
 
 |           | 4 Points | 3 Points | 2 Points | 1 Point |
 | --------- | -------- | -------- | -------- | ------- |
@@ -97,7 +97,7 @@ When it comes to the skill points chosen by the player, the number chosen and th
 
 ## Talents
 
-A new Character receives a number of Talents determined by their [[RULES/Grade|Grade]].
+A new Character receives a number of Talents determined by their [Grade](./RULES/Grade.md).
 
 | Grade     | Talents |
 | --------- | ------- |
@@ -114,6 +114,6 @@ A new Character receives a number of Talents determined by their [[RULES/Grade|G
 After assigning characteristics, skills, and talents, finalize your character with:
 
 - **Equipment** - Based on background and starting resources
-- **Money** - Starting funds based on [[RULES/Grade|Grade]]
+- **Money** - Starting funds based on [Grade](./RULES/Grade.md)
 - **Background Details** - Personal history, connections, and initial encounter with the unexplained
 

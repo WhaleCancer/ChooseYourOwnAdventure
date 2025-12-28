@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../Stellar-Adventures/Knife|Stellar Adventures Knife]] (military combat knife)
+**Corresponds to:** [Stellar Adventures Knife](../Stellar-Adventures/Knife.md) (military combat knife)
 
 
 ## Damage Track

@@ -5,7 +5,7 @@
 
 ## Overview
 
-The universe as the Player Characters experience it is a **prison dimension**. The **Archons** (also called Elohim, Outsiders, or Shining Children) are the golden-robed jailors who maintain this prison. They are intelligences from a higher, adjacent dimension, and all of them believe in some form of keeping humans jailed. The [[Creatures/Aliens/Greys|Greys]] are sophisticated automata ("bio-automatons"): vat-grown pseudo-flesh, sophisticated robotics, devoid of actual intellect or desire. The Archons control them remotely across dimensional boundaries.
+The universe as the Player Characters experience it is a **prison dimension**. The **Archons** (also called Elohim, Outsiders, or Shining Children) are the golden-robed jailors who maintain this prison. They are intelligences from a higher, adjacent dimension, and all of them believe in some form of keeping humans jailed. The [Greys](./Creatures/Aliens/Greys.md) are sophisticated automata ("bio-automatons"): vat-grown pseudo-flesh, sophisticated robotics, devoid of actual intellect or desire. The Archons control them remotely across dimensional boundaries.
 
 ## The Archons and the "Greys"
 
@@ -18,7 +18,7 @@ All Archons believe in keeping humans jailed, though they are divided into facti
 - **The Indifferent Faction:** Maintain the prison through bureaucratic efficiency and systematic control
 - **The Almost Benevolent Faction:** Maintain the prison but believe in making it comfortable or "reforming" humans to be better prisoners
 
-See [[Creatures/Supernatural/Elohim|Archons]] for detailed information.
+See [Archons](./Creatures/Supernatural/Elohim.md) for detailed information.
 
 ### The Greys
 
@@ -26,9 +26,9 @@ Classic UFO Greys—short, big-headed, featureless, emotionless. In truth, they 
 
 ## Conspiracy Theories in the 80s (Alex Jones Style)
 
-- **Dimensional Portals:** Rumors abound of Cold War projects (American, Soviet, and even Canadian) using particle accelerators or radar arrays to open "doorways" – actual programs at decommissioned NORAD radar sites or abandoned missile silos (see [[Factions/Government/Project-Greycoast|Project GREYCOAST]]).
+- **Dimensional Portals:** Rumors abound of Cold War projects (American, Soviet, and even Canadian) using particle accelerators or radar arrays to open "doorways" – actual programs at decommissioned NORAD radar sites or abandoned missile silos (see [Project GREYCOAST](./Factions/Government/Project-Greycoast.md)).
 - **Government Complicity:** Popular pirate radio DJs reference "Project Monarch" or "Operation Odin"—government attempts to communicate with (or defend against) beings from alternate realities, using psychic children, LSD, and quantum computers.
-- **Mind Control:** Reports of chemical contamination in logging towns and supposed mind-control methods (fluoridated water, weird radio signals) being used to make people more "pliable" to manipulation by unseen intelligences (see [[Phenomena/The-Poison-Pipeline|The Poison Pipeline]] and [[Phenomena/Frequency-Fences|Frequency Fences]]).
+- **Mind Control:** Reports of chemical contamination in logging towns and supposed mind-control methods (fluoridated water, weird radio signals) being used to make people more "pliable" to manipulation by unseen intelligences (see [The Poison Pipeline](./Phenomena/The-Poison-Pipeline.md) and [Frequency Fences](./Phenomena/Frequency-Fences.md)).
 - **The Disappeared:** Conspiracy nuts track missing persons—close-in-age, similar backgrounds—who overlap with places of "Thin Veil" activity, suggesting a hidden pattern.
 - **Cults and Contactees:** Local hippie communes, survivalist militias, and cults all claim they have been "chosen" by space beings, and sometimes have odd, inexplicable knowledge.
 

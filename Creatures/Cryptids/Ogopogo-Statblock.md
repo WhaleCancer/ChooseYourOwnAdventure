@@ -25,7 +25,7 @@
 
 - **Stealthy Swimmer:** Of all cryptids, Ogopogo is among the most rarely seen; never clearly photographed and nearly impossible to track
 - **Guardian Instinct:** Seeks to maintain the spiritual and environmental balance of the lake and its shores; drawn to thin veil breaches, pollution, or unnatural disturbances
-- **Thin Veil Affinity:** May be partially a spirit or transdimensional being—the "veils" are thinnest in the darkest, coldest lake trenches (see [[Phenomena/Thin-Veil-Areas|Thin Veil Areas]])
+- **Thin Veil Affinity:** May be partially a spirit or transdimensional being—the "veils" are thinnest in the darkest, coldest lake trenches (see [Thin Veil Areas](./Phenomena/Thin-Veil-Areas.md))
 - **Atmospheric Manipulator (Rare):** Sudden mists, freak waves, or storms sometimes accompany sightings—a possible psychic or supernatural defense
 
 ## Behavior and Significance
@@ -56,7 +56,7 @@
 | Habitat | Okanagan Lake and other cold, deep "thin" lakes |
 | Role | Keeper of the balance, punisher of arrogance/disrespect |
 | Allies | Circle of Watchers, other natural supernatural beings |
-| Enemies | Polluters, reckless researchers, [[Creatures/Supernatural/Elohim|Elohim]] or cult interlopers |
+| Enemies | Polluters, reckless researchers, [Elohim](./Creatures/Supernatural/Elohim.md) or cult interlopers |
 | Motive | Protect land, spirit, and the veil from catastrophic breach |
 | Encounter | Rare surfacing, sabotaged boats, mystical warnings |
 
@@ -64,6 +64,6 @@
 
 - **Scientists go missing** with only cryptic sonar and garbled radio messages left behind; locals urge a ritual to appease the spirit
 - **A luxury resort project** unleashes Ogopogo's wrath—boats capsize, uncanny storms hit, and the government blames "dangerous aquatic life"
-- **A cult wants to "awaken" Ogopogo,** mistaking it for a servant of the [[Creatures/Supernatural/Elohim|Elohim]]; the creature appears, chaos ensues, and agents must mediate before both the cult and the veil do irreparable harm
+- **A cult wants to "awaken" Ogopogo,** mistaking it for a servant of the [Elohim](./Creatures/Supernatural/Elohim.md); the creature appears, chaos ensues, and agents must mediate before both the cult and the veil do irreparable harm
 - **First Nations elders seek help from outsiders** only when traditional ceremonies fail to calm the lake, requiring cross-cultural cooperation and belief
 

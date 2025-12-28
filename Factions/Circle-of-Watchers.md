@@ -11,19 +11,19 @@
 ## Traditional Knowledge and Modern Adaptation
 
 - **Old Stories:** Members know ancient accounts of Star People, Giants, Tricksters, Thunderbird, and "Things that Come Through Holes in the World." These are not regarded as mere myth, but as practical warnings or encoded history of earlier, perhaps cyclic, contact events.
-- **Natural Guardianship:** Certain sacred places—mountaintops, lakes, old-growth groves—are watched over due to their reputation as "thin" places (see [[Phenomena/Thin-Veil-Areas|Thin Veil Areas]]). Rituals, fasting, and even avoidance are used to maintain the balance.
+- **Natural Guardianship:** Certain sacred places—mountaintops, lakes, old-growth groves—are watched over due to their reputation as "thin" places (see [Thin Veil Areas](./Phenomena/Thin-Veil-Areas.md)). Rituals, fasting, and even avoidance are used to maintain the balance.
 - **Modern Toolkit:** The Circle uses CB radios, pickup trucks, and legal activism along with traditional carvings, drums, masks, and blessing rites.
 
 ## Goals and Activities
 
 - **Protect the Land:** Resist incursions by corporations, government, or cults into sacred valleys, burial sites, and known "thin" places.
 - **Guard the People:** Track missing persons, provide shelter to those suffering after anomalous incidents, mediate between the ancestral world and contemporary dangers.
-- **Bridge Worlds:** Use dreams, spirit journeys, and ceremonial medicine to read supernatural threats and sometimes resist or divert [[Creatures/Supernatural/Elohim|Elohim]] influence.
+- **Bridge Worlds:** Use dreams, spirit journeys, and ceremonial medicine to read supernatural threats and sometimes resist or divert [Elohim](./Creatures/Supernatural/Elohim.md) influence.
 - **Gather Evidence:** Collect both testimony and physical traces—rare metals, odd marks, animal behavior—carefully stored, never shared with outsiders, unless lives or the People's sovereignty are threatened.
 
 ## Spiritual Power and Insight
 
-- **The Circle's medicine people** may sense or see Elohim presence or manipulation more clearly than others—often describing the [[Creatures/Aliens/Greys|Greys]] as "hollow masks," and the Elohim as "Hungry Shadows" or "False Spirits."
+- **The Circle's medicine people** may sense or see Elohim presence or manipulation more clearly than others—often describing the [Greys](./Creatures/Aliens/Greys.md) as "hollow masks," and the Elohim as "Hungry Shadows" or "False Spirits."
 - **Ritual Defenses:** Smudging, drumming, songs, or sacred objects (heron feathers, carved amulets, copper shields) can block, weaken, or distract nonhuman entities, though not always without cost or risk.
 - **Prophetic Dreams:** A select few experience recurring, sometimes terrifying dreams—warning of breaches, coming disasters, or places to safeguard.
 
@@ -51,7 +51,7 @@
 
 1. **A sacred site is set for clearcutting**—agents are approached by Circle members who warn of a greater threat than "just" environmental disaster, sharing cryptic accounts or inviting one to witness a "thinning" for themselves.
 2. **A missing teenager returns comatose**—the family asks the Circle (and possibly the players) for help after a "hospital cannot cure a soul sickness."
-3. **A Circle watcher is murdered or goes missing**—suspected [[Factions/Corporations/Orion-International|Orion]] contractors, but spiritual evidence points to something stranger. The Circle debates calling in the PCs or dealing with the threat themselves.
+3. **A Circle watcher is murdered or goes missing**—suspected [Orion](./Factions/Corporations/Orion-International.md) contractors, but spiritual evidence points to something stranger. The Circle debates calling in the PCs or dealing with the threat themselves.
 4. **The local RCMP liaison warns the agents:** "If the Circle starts moving, it means there's real trouble—maybe for all of us."
 
 ## Sample Wisdom

@@ -32,10 +32,10 @@ RCMP Security Secretariat Operatives are:
 
 RCMP Security Secretariat Operatives typically carry:
 
-- **Handguns** - [[../../Weapons/Handguns/Canadian-Browning-High-Power|Browning Hi-Power]] or specialized suppressed pistols
-- **SMGs** - [[../../Weapons/Canada 198X/_Ranged/SMGs/SMG|MP5]] or compact SMGs for close-quarters combat
-- **Rifles** - [[../../Weapons/Rifles/Combat-Rifles/C1A1|C1A1]] or specialized tactical rifles
-- **Sniper rifles** - [[../../Weapons/Rifles/Sniper/C3-Sniper-Rifle|C3 sniper rifle]] for long-range operations
+- **Handguns** - [Browning Hi-Power](../../Weapons/Handguns/Canadian-Browning-High-Power.md) or specialized suppressed pistols
+- **SMGs** - [MP5](../../Weapons/Canada 198X/_Ranged/SMGs/SMG.md) or compact SMGs for close-quarters combat
+- **Rifles** - [C1A1](../../Weapons/Rifles/Combat-Rifles/C1A1.md) or specialized tactical rifles
+- **Sniper rifles** - [C3 sniper rifle](../../Weapons/Rifles/Sniper/C3-Sniper-Rifle.md) for long-range operations
 - **Specialized equipment** - Suppressed weapons, explosives, breaching tools, and other specialized gear
 - **Surveillance equipment** - Advanced intelligence gathering tools
 - **Body armor** - Tactical vests and protective equipment

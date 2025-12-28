@@ -26,32 +26,32 @@ A personal hi-tech shield uses up 1 charge each time it actually stops damage. I
 
 | Armour | Skill Req. | Notes | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Armor/Stellar-Adventures/Armoured-Vest\|Armoured Vest]] | - | Energy weapons +1 damage | 0 | 0 | 0 | 1 | 2 | 3 | 4 |
-| [[Armor/Stellar-Adventures/Armoured-Clothes\|Armoured Clothes]] | 1 | Energy weapons +1 damage | 0 | 1 | 2 | 3 | 3 | 3 | 4 |
-| [[Armor/Stellar-Adventures/Space-Suit\|Space Suit]] | 1 | Sealed | 1 | 1 | 1 | 1 | 1 | 2 | 3 |
-| [[Armor/Stellar-Adventures/Guard-Armour\|Guard Armour]] | 2 | | 1 | 2 | 3 | 3 | 4 | 4 | 5 |
-| [[Armor/Stellar-Adventures/Ablative-Armour\|Ablative Armour]] | 2 | Only works vs energy weapons | 2 | 3 | 3 | 3 | 3 | 4 | 5 |
-| [[Armor/Stellar-Adventures/Battle-Armour\|Battle Armour]] | 3 | | 2 | 3 | 4 | 4 | 5 | 5 | 6 |
-| [[Armor/Stellar-Adventures/Heavy-Battle-Armour\|Heavy Battle Armour]] | 4 | | 3 | 4 | 4 | 5 | 5 | 6 | 7 |
-| [[Armor/Stellar-Adventures/Powered-Armour\|Powered Armour]] | 5 | Sealed | 3 | 4 | 5 | 5 | 6 | 6 | 7 |
+| [Armoured Vest](./Armor/Stellar-Adventures/Armoured-Vest\.md) | - | Energy weapons +1 damage | 0 | 0 | 0 | 1 | 2 | 3 | 4 |
+| [Armoured Clothes](./Armor/Stellar-Adventures/Armoured-Clothes\.md) | 1 | Energy weapons +1 damage | 0 | 1 | 2 | 3 | 3 | 3 | 4 |
+| [Space Suit](./Armor/Stellar-Adventures/Space-Suit\.md) | 1 | Sealed | 1 | 1 | 1 | 1 | 1 | 2 | 3 |
+| [Guard Armour](./Armor/Stellar-Adventures/Guard-Armour\.md) | 2 | | 1 | 2 | 3 | 3 | 4 | 4 | 5 |
+| [Ablative Armour](./Armor/Stellar-Adventures/Ablative-Armour\.md) | 2 | Only works vs energy weapons | 2 | 3 | 3 | 3 | 3 | 4 | 5 |
+| [Battle Armour](./Armor/Stellar-Adventures/Battle-Armour\.md) | 3 | | 2 | 3 | 4 | 4 | 5 | 5 | 6 |
+| [Heavy Battle Armour](./Armor/Stellar-Adventures/Heavy-Battle-Armour\.md) | 4 | | 3 | 4 | 4 | 5 | 5 | 6 | 7 |
+| [Powered Armour](./Armor/Stellar-Adventures/Powered-Armour\.md) | 5 | Sealed | 3 | 4 | 5 | 5 | 6 | 6 | 7 |
 
 ## Shield Protection Tables
 
 | Shield | Skill Req. | Ammo | Ammo/Slot | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Armor/Stellar-Adventures/Physical-Shield\|Physical Shield]] | - | - | - | 0 | 0 | 0 | 1 | 1 | 1 | 2 |
-| [[Armor/Stellar-Adventures/Wrist-Shield\|Wrist Shield]] | - | 10 | 2 | 0 | 0 | 0 | 0 | +1 | +1 | +2 |
-| [[Armor/Stellar-Adventures/Responsive-Shield\|Responsive Shield]] | - | 10 | 2 | +1 | +1 | +2 | +2 | +2 | +3 | +4 |
-| [[Armor/Stellar-Adventures/Force-Field\|Force Field]] | - | 12 | 1 | +1 | +1 | +2 | +2 | +2 | +3 | +4 |
+| [Physical Shield](./Armor/Stellar-Adventures/Physical-Shield\.md) | - | - | - | 0 | 0 | 0 | 1 | 1 | 1 | 2 |
+| [Wrist Shield](./Armor/Stellar-Adventures/Wrist-Shield\.md) | - | 10 | 2 | 0 | 0 | 0 | 0 | +1 | +1 | +2 |
+| [Responsive Shield](./Armor/Stellar-Adventures/Responsive-Shield\.md) | - | 10 | 2 | +1 | +1 | +2 | +2 | +2 | +3 | +4 |
+| [Force Field](./Armor/Stellar-Adventures/Force-Field\.md) | - | 12 | 1 | +1 | +1 | +2 | +2 | +2 | +3 | +4 |
 
 ## Natural Armor Protection Tables
 
 | Armour | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Armor/Stellar-Adventures/Natural-Armour\|Light]] | 0 | 0 | 0 | 1 | 1 | 1 | 2 |
-| [[Armor/Stellar-Adventures/Natural-Armour\|Medium]] | 0 | 0 | 1 | 1 | 2 | 2 | 3 |
-| [[Armor/Stellar-Adventures/Natural-Armour\|Heavy]] | 0 | 1 | 2 | 2 | 3 | 3 | 4 |
-| [[Armor/Stellar-Adventures/Natural-Armour\|Super-Heavy]] | 1 | 2 | 3 | 3 | 4 | 4 | 5 |
+| [Light](./Armor/Stellar-Adventures/Natural-Armour\.md) | 0 | 0 | 0 | 1 | 1 | 1 | 2 |
+| [Medium](./Armor/Stellar-Adventures/Natural-Armour\.md) | 0 | 0 | 1 | 1 | 2 | 2 | 3 |
+| [Heavy](./Armor/Stellar-Adventures/Natural-Armour\.md) | 0 | 1 | 2 | 2 | 3 | 3 | 4 |
+| [Super-Heavy](./Armor/Stellar-Adventures/Natural-Armour\.md) | 1 | 2 | 3 | 3 | 4 | 4 | 5 |
 
 ## Dodge Protection Tables
 

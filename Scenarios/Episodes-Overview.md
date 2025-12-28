@@ -13,7 +13,7 @@ This document provides an overview of available investigation scenarios and epis
 
 A disoriented sasquatch takes up residence in South Surrey. Gardens are being raided, pets begin to disappear.
 
-See [[Scenarios/The-Case-of-the-Suburban-Sasquatch|The Case of the Suburban Sasquatch]] for details.
+See [The Case of the Suburban Sasquatch](./Scenarios/The-Case-of-the-Suburban-Sasquatch.md) for details.
 
 ### The Case of the Americans
 

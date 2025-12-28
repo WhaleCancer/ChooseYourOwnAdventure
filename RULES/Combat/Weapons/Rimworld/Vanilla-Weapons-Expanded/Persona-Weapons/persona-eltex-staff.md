@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../Fighting-Fantasy/Quarterstaff|Fighting Fantasy Quarterstaff]] (psychic-enhanced staff)
+**Corresponds to:** [Fighting Fantasy Quarterstaff](../Fighting-Fantasy/Quarterstaff.md) (psychic-enhanced staff)
 
 
 ## Damage Track

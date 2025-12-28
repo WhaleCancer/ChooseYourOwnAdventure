@@ -10,7 +10,7 @@
 
 ## Connection to The Hand
 
-Dr. Michael Smith is a member of [[Factions/The-Hand|The Hand]], a secret cabal of wealthy individuals resisting alien influence. He develops his theories because of connection to aliens and is involved in autopsy situations related to alien encounters.
+Dr. Michael Smith is a member of [The Hand](./Factions/The-Hand.md), a secret cabal of wealthy individuals resisting alien influence. He develops his theories because of connection to aliens and is involved in autopsy situations related to alien encounters.
 
 ## Scientific Expertise
 

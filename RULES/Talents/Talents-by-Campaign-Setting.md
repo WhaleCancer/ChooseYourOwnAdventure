@@ -10,71 +10,71 @@ This article shows which Talents are available in each Advanced Fighting Fantasy
 
 | Talent | Titan | Stellar Adventures | 1980s |
 |--------|-------|-------------------|-------|
-| [[Affiliation\|Affiliation]] | ✓ | ✓ | ✓ |
-| [[Ambidextrous\|Ambidextrous]] | ✓ | ✓ | ✓ |
-| [[Animalfriend\|Animalfriend]] | ✓ | ✓ | ✓ |
-| [[Arcane-Blank\|Arcane Blank]] | ✓ | — | — |
-| [[Armor-Training\|Armor Training]] | ✓ | ✓ | ✓ |
-| [[Advanced/Barfighter\|Barfighter]] | ✓ | ✓ | ✓ |
-| [[Advanced/Battle-Rider\|Battle Rider]] | ✓ | — | — |
-| [[Blood-Magic\|Blood Magic]] | ✓ | — | — |
-| [[Charmed-Life\|Charmed Life]] | ✓ | ✓ | ✓ |
-| [[Advanced/Clearsight\|Clearsight]] | ✓ | ✓ | ✓ |
-| [[Combat-Reactions\|Combat Reactions]] | ✓ | ✓ | ✓ |
-| [[Controlled-Chaos\|Controlled Chaos]] | ✓ | — | — |
-| [[Crack-Shot\|Crack Shot]] | ✓ | ✓ | ✓ |
-| [[Dark-Energies\|Dark Energies]] | ✓ | — | — |
-| [[Advanced/Dark-Veil\|Dark Veil]] | ✓ | — | — |
-| [[Advanced/Dealer\|Dealer]] | ✓ | ✓ | ✓ |
-| [[Advanced/Defender\|Defender]] | ✓ | ✓ | ✓ |
-| [[Advanced/Defensive-Pilot\|Defensive Pilot]] | — | ✓ | ✓ |
-| [[Advanced/Dogfighter\|Dogfighter]] | — | ✓ | ✓ |
-| [[Draining-Power\|Draining Power]] | ✓ | — | — |
-| [[Dual-Caster\|Dual Caster]] | ✓ | — | — |
-| [[Advanced/Duelist\|Duelist]] | ✓ | ✓ | ✓ |
-| [[Empowerment\|Empowerment]] | ✓ | — | — |
-| [[Enchantment-Master\|Enchantment Master]] | ✓ | — | — |
-| [[Advanced/Entrepreneur\|Entrepreneur]] | ✓ | ✓ | ✓ |
-| [[Advanced/Evasive\|Evasive]] | ✓ | ✓ | ✓ |
-| [[Familiar\|Familiar]] | ✓ | — | ✓ |
-| [[Fast-Healer\|Fast Healer]] | ✓ | ✓ | ✓ |
-| [[Fleet-Footed\|Fleet Footed]] | ✓ | ✓ | ✓ |
-| [[Hawkeye\|Hawkeye]] | ✓ | ✓ | ✓ |
-| [[Hedge-Magician\|Hedge Magician]] | ✓ | — | — |
-| [[Advanced/Hotshot\|Hotshot]] | — | ✓ | ✓ |
-| [[Advanced/Hunter\|Hunter]] | ✓ | ✓ | ✓ |
-| [[Advanced/Inspiring-Leader\|Inspiring Leader]] | ✓ | ✓ | ✓ |
-| [[Jury-Rigger\|Jury Rigger]] | ✓ | ✓ | ✓ |
-| [[Learned\|Learned]] | ✓ | ✓ | ✓ |
-| [[Light-Footed\|Light Footed]] | ✓ | ✓ | ✓ |
-| [[Advanced/Lightning-Strike\|Lightning Strike]] | ✓ | ✓ | ✓ |
-| [[Linguist\|Linguist]] | ✓ | ✓ | ✓ |
-| [[Lucky\|Lucky]] | ✓ | ✓ | ✓ |
-| [[Advanced/Lucky-Punch\|Lucky Punch]] | ✓ | ✓ | ✓ |
-| [[Magical-Resistance\|Magical Resistance]] | ✓ | — | — |
-| [[Martial-Artist\|Martial Artist]] | ✓ | ✓ | ✓ |
-| [[Advanced/Master-Tactician\|Master Tactician]] | ✓ | ✓ | ✓ |
-| [[Mutant\|Mutant]] | ✓ | ✓ | ✓ |
-| [[Natural-Leader\|Natural Leader]] | ✓ | ✓ | ✓ |
-| [[Advanced/Packhorse\|Packhorse]] | ✓ | ✓ | ✓ |
-| [[Powerful-Summons\|Powerful Summons]] | ✓ | — | — |
-| [[Reputation\|Reputation]] | ✓ | ✓ | ✓ |
-| [[Advanced/Resilient\|Resilient]] | ✓ | ✓ | ✓ |
-| [[Robust\|Robust]] | ✓ | ✓ | ✓ |
-| [[Sidekick\|Sidekick]] | ✓ | ✓ | ✓ |
-| [[Silver-Tongued\|Silver-Tongued]] | ✓ | ✓ | ✓ |
-| [[Advanced/Sniper\|Sniper]] | ✓ | ✓ | ✓ |
-| [[Soul-Store\|Soul Store]] | ✓ | — | — |
-| [[Advanced/Specialist\|Specialist]] | ✓ | ✓ | ✓ |
-| [[Spell-Mastery\|Spell Mastery]] | ✓ | — | — |
-| [[Status\|Status]] | ✓ | ✓ | ✓ |
-| [[Strongarm\|Strongarm]] | ✓ | ✓ | ✓ |
-| [[Survivor\|Survivor]] | ✓ | ✓ | ✓ |
-| [[Swashbuckler\|Swashbuckler]] | ✓ | ✓ | ✓ |
-| [[Technical-Genius\|Technical Genius]] | ✓ | ✓ | ✓ |
-| [[Templar\|Templar]] | ✓ | — | — |
-| [[Trapmaster\|Trapmaster]] | ✓ | ✓ | ✓ |
-| [[Weaponmaster\|Weaponmaster]] | ✓ | ✓ | ✓ |
+| [Affiliation](./Affiliation\.md) | ✓ | ✓ | ✓ |
+| [Ambidextrous](./Ambidextrous\.md) | ✓ | ✓ | ✓ |
+| [Animalfriend](./Animalfriend\.md) | ✓ | ✓ | ✓ |
+| [Arcane Blank](./Arcane-Blank\.md) | ✓ | — | — |
+| [Armor Training](./Armor-Training\.md) | ✓ | ✓ | ✓ |
+| [Barfighter](./Advanced/Barfighter\.md) | ✓ | ✓ | ✓ |
+| [Battle Rider](./Advanced/Battle-Rider\.md) | ✓ | — | — |
+| [Blood Magic](./Blood-Magic\.md) | ✓ | — | — |
+| [Charmed Life](./Charmed-Life\.md) | ✓ | ✓ | ✓ |
+| [Clearsight](./Advanced/Clearsight\.md) | ✓ | ✓ | ✓ |
+| [Combat Reactions](./Combat-Reactions\.md) | ✓ | ✓ | ✓ |
+| [Controlled Chaos](./Controlled-Chaos\.md) | ✓ | — | — |
+| [Crack Shot](./Crack-Shot\.md) | ✓ | ✓ | ✓ |
+| [Dark Energies](./Dark-Energies\.md) | ✓ | — | — |
+| [Dark Veil](./Advanced/Dark-Veil\.md) | ✓ | — | — |
+| [Dealer](./Advanced/Dealer\.md) | ✓ | ✓ | ✓ |
+| [Defender](./Advanced/Defender\.md) | ✓ | ✓ | ✓ |
+| [Defensive Pilot](./Advanced/Defensive-Pilot\.md) | — | ✓ | ✓ |
+| [Dogfighter](./Advanced/Dogfighter\.md) | — | ✓ | ✓ |
+| [Draining Power](./Draining-Power\.md) | ✓ | — | — |
+| [Dual Caster](./Dual-Caster\.md) | ✓ | — | — |
+| [Duelist](./Advanced/Duelist\.md) | ✓ | ✓ | ✓ |
+| [Empowerment](./Empowerment\.md) | ✓ | — | — |
+| [Enchantment Master](./Enchantment-Master\.md) | ✓ | — | — |
+| [Entrepreneur](./Advanced/Entrepreneur\.md) | ✓ | ✓ | ✓ |
+| [Evasive](./Advanced/Evasive\.md) | ✓ | ✓ | ✓ |
+| [Familiar](./Familiar\.md) | ✓ | — | ✓ |
+| [Fast Healer](./Fast-Healer\.md) | ✓ | ✓ | ✓ |
+| [Fleet Footed](./Fleet-Footed\.md) | ✓ | ✓ | ✓ |
+| [Hawkeye](./Hawkeye\.md) | ✓ | ✓ | ✓ |
+| [Hedge Magician](./Hedge-Magician\.md) | ✓ | — | — |
+| [Hotshot](./Advanced/Hotshot\.md) | — | ✓ | ✓ |
+| [Hunter](./Advanced/Hunter\.md) | ✓ | ✓ | ✓ |
+| [Inspiring Leader](./Advanced/Inspiring-Leader\.md) | ✓ | ✓ | ✓ |
+| [Jury Rigger](./Jury-Rigger\.md) | ✓ | ✓ | ✓ |
+| [Learned](./Learned\.md) | ✓ | ✓ | ✓ |
+| [Light Footed](./Light-Footed\.md) | ✓ | ✓ | ✓ |
+| [Lightning Strike](./Advanced/Lightning-Strike\.md) | ✓ | ✓ | ✓ |
+| [Linguist](./Linguist\.md) | ✓ | ✓ | ✓ |
+| [Lucky](./Lucky\.md) | ✓ | ✓ | ✓ |
+| [Lucky Punch](./Advanced/Lucky-Punch\.md) | ✓ | ✓ | ✓ |
+| [Magical Resistance](./Magical-Resistance\.md) | ✓ | — | — |
+| [Martial Artist](./Martial-Artist\.md) | ✓ | ✓ | ✓ |
+| [Master Tactician](./Advanced/Master-Tactician\.md) | ✓ | ✓ | ✓ |
+| [Mutant](./Mutant\.md) | ✓ | ✓ | ✓ |
+| [Natural Leader](./Natural-Leader\.md) | ✓ | ✓ | ✓ |
+| [Packhorse](./Advanced/Packhorse\.md) | ✓ | ✓ | ✓ |
+| [Powerful Summons](./Powerful-Summons\.md) | ✓ | — | — |
+| [Reputation](./Reputation\.md) | ✓ | ✓ | ✓ |
+| [Resilient](./Advanced/Resilient\.md) | ✓ | ✓ | ✓ |
+| [Robust](./Robust\.md) | ✓ | ✓ | ✓ |
+| [Sidekick](./Sidekick\.md) | ✓ | ✓ | ✓ |
+| [Silver-Tongued](./Silver-Tongued\.md) | ✓ | ✓ | ✓ |
+| [Sniper](./Advanced/Sniper\.md) | ✓ | ✓ | ✓ |
+| [Soul Store](./Soul-Store\.md) | ✓ | — | — |
+| [Specialist](./Advanced/Specialist\.md) | ✓ | ✓ | ✓ |
+| [Spell Mastery](./Spell-Mastery\.md) | ✓ | — | — |
+| [Status](./Status\.md) | ✓ | ✓ | ✓ |
+| [Strongarm](./Strongarm\.md) | ✓ | ✓ | ✓ |
+| [Survivor](./Survivor\.md) | ✓ | ✓ | ✓ |
+| [Swashbuckler](./Swashbuckler\.md) | ✓ | ✓ | ✓ |
+| [Technical Genius](./Technical-Genius\.md) | ✓ | ✓ | ✓ |
+| [Templar](./Templar\.md) | ✓ | — | — |
+| [Trapmaster](./Trapmaster\.md) | ✓ | ✓ | ✓ |
+| [Weaponmaster](./Weaponmaster\.md) | ✓ | ✓ | ✓ |
 
 ## Notes
 

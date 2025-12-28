@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../Stellar-Adventures/Flamethrower|Stellar Adventures Flamethrower]] (incendiary thrown weapon)
+**Corresponds to:** [Stellar Adventures Flamethrower](../Stellar-Adventures/Flamethrower.md) (incendiary thrown weapon)
 
 
 ## Damage Track

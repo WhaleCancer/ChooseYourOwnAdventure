@@ -9,33 +9,33 @@ Different types of aliens are reported in different regions of the world, sugges
 
 ## North America
 
-- **[[Creatures/Aliens/Greys|Greys]]** are the most commonly reported alien in North American abduction cases
+- **[Greys](./Creatures/Aliens/Greys.md)** are the most commonly reported alien in North American abduction cases
 - **Mantids** are sometimes reported in abduction stories alongside Greys
 - **Robotic Entities** are reported rarely, usually as assistants/companions to Greys during abduction narratives
-- **[[Creatures/Aliens/Reptilians|Reptilians]]** are commonly mentioned in conspiracy theories
+- **[Reptilians](./Creatures/Aliens/Reptilians.md)** are commonly mentioned in conspiracy theories
 
 ## Australia, New Zealand, United Kingdom
 
-- **[[Creatures/Aliens/Greys|Greys]]** are reported here, but less commonly than in North America
+- **[Greys](./Creatures/Aliens/Greys.md)** are reported here, but less commonly than in North America
 - **Mantids** are sometimes reported in abduction stories alongside Greys
 - **Robotic Entities** are reported rarely, usually as assistants/companions to Greys during abduction narratives
-- **[[Creatures/Aliens/Reptilians|Reptilians]]** are commonly mentioned in conspiracy theories
+- **[Reptilians](./Creatures/Aliens/Reptilians.md)** are commonly mentioned in conspiracy theories
 
 ## Europe
 
-- **[[Creatures/Aliens/Greys|Greys]]** are reported here, but less commonly than in North America
+- **[Greys](./Creatures/Aliens/Greys.md)** are reported here, but less commonly than in North America
 - **Mantids** are reported in abduction stories alongside Greys
 - **Robotic Entities** are reported rarely, usually as assistants/companions to Greys during abduction narratives
 
 ## South America
 
-- Some limited reports of **[[Creatures/Aliens/Reptilians|Reptilians]]**
+- Some limited reports of **[Reptilians](./Creatures/Aliens/Reptilians.md)**
 - **Chupacabra** - Reports of alien-like creatures attacking livestock
 
 ## Soviet Union
 
 - Encounters often include **tall, robot-like beings** with metallic suits
-- **[[Creatures/Aliens/Tall-Robotic-Explorers|Tall Robotic Explorers]]** are most commonly reported in remote Soviet territories
+- **[Tall Robotic Explorers](./Creatures/Aliens/Tall-Robotic-Explorers.md)** are most commonly reported in remote Soviet territories
 
 ## Nordics (Tall, Blonde "Space Brothers")
 

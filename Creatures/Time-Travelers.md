@@ -10,7 +10,7 @@
 
 ## The Future
 
-Their world was destroyed by a nuclear war initiated by defense computers. This war also resulted in the cataclysmic destruction of the [[Creatures/Supernatural/Elohim|Elohim]] in a final, devastating conflict. Most of the current population is in poor health, but the time travelers—all women—are relatively healthy and are given the best food and care to pass for 20th-century humans.
+Their world was destroyed by a nuclear war initiated by defense computers. This war also resulted in the cataclysmic destruction of the [Elohim](./Creatures/Supernatural/Elohim.md) in a final, devastating conflict. Most of the current population is in poor health, but the time travelers—all women—are relatively healthy and are given the best food and care to pass for 20th-century humans.
 
 ## Physical Adaptations
 

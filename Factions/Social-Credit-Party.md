@@ -6,7 +6,7 @@
 
 ## Overview
 
-**Social Credit Theory** is a form of [[Creatures/Supernatural/Elohim|Archon]] economic practice as applied to capitalism. The Social Credit Party in British Columbia represents the political implementation of an economic theory that was subtly influenced by Archon manipulation to maintain control over human society.
+**Social Credit Theory** is a form of [Archon](./Creatures/Supernatural/Elohim.md) economic practice as applied to capitalism. The Social Credit Party in British Columbia represents the political implementation of an economic theory that was subtly influenced by Archon manipulation to maintain control over human society.
 
 ## Elohim Influence on Social Credit Theory
 

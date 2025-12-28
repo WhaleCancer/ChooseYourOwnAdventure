@@ -6,7 +6,7 @@
 
 ## Overview
 
-**The Watchtower Cleavers** (also called "The Saints of the Final Veil") are a backwoods, polygamous Mormon offshoot blending folk magic, apocalyptic frontier Christianity, Indigenous tradition, and a soul-war ideology against the [[Creatures/Aliens/Greys|Greys]] as prison-wardens of Earth. They're fiercely protective, dangerous, and unpredictable—alternately vital allies in the anti-alien cause, or fanatical threats to law, order, and vulnerable people.
+**The Watchtower Cleavers** (also called "The Saints of the Final Veil") are a backwoods, polygamous Mormon offshoot blending folk magic, apocalyptic frontier Christianity, Indigenous tradition, and a soul-war ideology against the [Greys](./Creatures/Aliens/Greys.md) as prison-wardens of Earth. They're fiercely protective, dangerous, and unpredictable—alternately vital allies in the anti-alien cause, or fanatical threats to law, order, and vulnerable people.
 
 ## Origin
 
@@ -25,13 +25,13 @@ Founded in 1981 by firebrand preacher **Caleb "Red" Theroux**—a self-styled "p
 - **Polygamous compounds:** Living in isolated mountain homesteads, they build "Zion" via shared labor, strict communal discipline, and rigid gender roles. Law enforcement accuses them of underage marriage and "welfare fraud," though outsiders rarely penetrate the true core.
 - **Spiritual shielding:** Compounds are festooned with Mormon symbols: beehives, tricolor stars, and scriptural banners, as well as a homebrew mix of "priesthood blessings," iron bars, folk charms, and certain First Nations symbols.
 - **Group exorcisms and night watches:** Dream-rescue rituals echo Mormon priesthood healing mixed with exorcisms and spirit journeying—sometimes using fasting or "sacred tobacco" from local ancestors.
-- **Armed "Danite"-style patrols:** Faithful "Knights of the Cleaver" (often kin by plural marriage) conduct drills, raids on suspected Grey hot spots, and intimidating patrols near [[Factions/Cults/Star-Communion|Star Communion]] or government outposts.
+- **Armed "Danite"-style patrols:** Faithful "Knights of the Cleaver" (often kin by plural marriage) conduct drills, raids on suspected Grey hot spots, and intimidating patrols near [Star Communion](./Factions/Cults/Star-Communion.md) or government outposts.
 - **Hierarchical, patriarchal organization:** Theroux stands as Prophet/Seer; "elders" (with the largest, most loyal families) form a council; ordinary men ("brethren") train for spiritual war; women ("sisters") tend homesteads, birth children, and teach doctrine.
 - **Apocalyptic gathering:** They believe that when the great rending arrives, only their compounds—ritually "sealed" against the Watchers—will serve as arcs of salvation.
 
 ## Motivations & Real Role
 
-- **Resist with all means:** Destroy "alien" tech, disrupt rival cult rituals, fortify [[Phenomena/Thin-Veil-Areas|veil locations]], and "liberate" abductees. They keep deep archives of abduction lore—sketches of "fallen Watchers," coded maps, and testimonies from rescued First Nations and Mormon visionaries.
+- **Resist with all means:** Destroy "alien" tech, disrupt rival cult rituals, fortify [veil locations](./Phenomena/Thin-Veil-Areas.md), and "liberate" abductees. They keep deep archives of abduction lore—sketches of "fallen Watchers," coded maps, and testimonies from rescued First Nations and Mormon visionaries.
 - **Public infamy:** Their polygamy, fundamentalism, and occasional armed resistance have made them a bogeyman to both law enforcement and local press—not helped by flecks of real violence, kidnapping, or clashes with Child Protective Services.
 
 ## Sample NPCs

@@ -14,8 +14,8 @@
 
 ## Ideology & Goals
 
-- **Earth First, Before Profits:** The Guardians believe the wilds of BC are not just an economic resource but a living, sacred fabric threatened by corporate greed—and (unbeknownst to the public) by uncanny phenomena that companies like [[Factions/Corporations/Orion-International|ORION]] are making worse.
-- **Expose the Real Damage:** Their mission is to reveal not only clearcuts and toxic spills, but the *strange disappearances, animal mutations, and psychic harms* that arise anywhere [[Phenomena/Thin-Veil-Areas|thin veil sites]] are disturbed by logging or development.
+- **Earth First, Before Profits:** The Guardians believe the wilds of BC are not just an economic resource but a living, sacred fabric threatened by corporate greed—and (unbeknownst to the public) by uncanny phenomena that companies like [ORION](./Factions/Corporations/Orion-International.md) are making worse.
+- **Expose the Real Damage:** Their mission is to reveal not only clearcuts and toxic spills, but the *strange disappearances, animal mutations, and psychic harms* that arise anywhere [thin veil sites](./Phenomena/Thin-Veil-Areas.md) are disturbed by logging or development.
 - **Protect the Sacred:** Strong ties to First Nations activists and old-school hippies, as well as rogue geologists, biologists, and hackers.
 
 ## Structure
@@ -36,9 +36,9 @@
 
 ## Relationship With Other Factions
 
-- **[[Factions/Corporations/Orion-International|Orion International]]/Resource Companies:** Believe these companies *know* about the true dangers and are actively covering up both environmental and paranormal disasters.
-- **[[Factions/Government/RCMP|Royal Canadian Mounted Police (RCMP)]]:** Resent constant surveillance, infiltration, and criminalization—but sometimes forced to cooperate (or give evidence) when a situation spirals beyond environmental stakes.
-- **First Nations:** Mutual respect and often cooperation, especially with [[Factions/Circle-of-Watchers|Circle of Watchers]], though not all the Guardians fully understand traditional knowledge or spiritual nuance.
+- **[Orion International](./Factions/Corporations/Orion-International.md)/Resource Companies:** Believe these companies *know* about the true dangers and are actively covering up both environmental and paranormal disasters.
+- **[Royal Canadian Mounted Police (RCMP)](./Factions/Government/RCMP.md):** Resent constant surveillance, infiltration, and criminalization—but sometimes forced to cooperate (or give evidence) when a situation spirals beyond environmental stakes.
+- **First Nations:** Mutual respect and often cooperation, especially with [Circle of Watchers](./Factions/Circle-of-Watchers.md), though not all the Guardians fully understand traditional knowledge or spiritual nuance.
 - **Occasional Allies With PCs:** If agents are honest—or share evidence of "unnatural" company plans—the Guardians may covertly assist, shelter the party, or furnish damaging data.
 - **Distant Connection to Conspiracy Cults:** Some Guardian members have defected after witnessing veil phenomena, and the movement has occasionally been infiltrated by cultists seeking access to thin veil zones.
 

@@ -1,6 +1,6 @@
 # laser pistol
 
-**Variant of:** [[../../Stellar-Adventures/Laser-Pistol|Stellar Adventures Laser Pistol]]
+**Variant of:** [Stellar Adventures Laser Pistol](../../Stellar-Adventures/Laser-Pistol.md)
 
 ## Damage Track
 

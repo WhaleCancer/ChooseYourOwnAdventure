@@ -16,16 +16,16 @@ The Hand operates as a loose network of powerful individuals rather than a forma
 
 ### Known Members
 
-- **[[NPCs/Politicians/Bill-Bennett|Bill Bennett]]** (Former) - Former Premier of British Columbia; compromised by Elohim possession, leading to The Hand's fragmentation  
-- **[[Jim Pattison]]** - Business magnate with connections to Expo 86 and extensive business networks  
-- **[[Robert Gordon Rogers]]** - Lieutenant Governor of British Columbia; provides military and political connections  
-- **[[Dr. Michael Smith]]** - Scientist who develops theories because of connection to aliens; involved in autopsy situations  
-- **[[Fraser Wyatt]]** - Radio personality and conspiracy theorist; host of "Cascadia AM"
+- **[Bill Bennett](./NPCs/Politicians/Bill-Bennett.md)** (Former) - Former Premier of British Columbia; compromised by Elohim possession, leading to The Hand's fragmentation  
+- **[Jim Pattison](./Jim Pattison.md)** - Business magnate with connections to Expo 86 and extensive business networks  
+- **[Robert Gordon Rogers](./Robert Gordon Rogers.md)** - Lieutenant Governor of British Columbia; provides military and political connections  
+- **[Dr. Michael Smith](./Dr. Michael Smith.md)** - Scientist who develops theories because of connection to aliens; involved in autopsy situations  
+- **[Fraser Wyatt](./Fraser Wyatt.md)** - Radio personality and conspiracy theorist; host of "Cascadia AM"
 
 ### Political Figures (Potential Members or Assets)
 
-- **[[NPCs/Politicians/Bill-Bennett|Bill Bennett]]** - Former Premier (compromised)  
-- **[[NPCs/Politicians/Bill-Vander-Zalm|Bill Vander Zalm]]** - Future Premier (1986), potential pawn
+- **[Bill Bennett](./NPCs/Politicians/Bill-Bennett.md)** - Former Premier (compromised)  
+- **[Bill Vander Zalm](./NPCs/Politicians/Bill-Vander-Zalm.md)** - Future Premier (1986), potential pawn
 - **Grace McCarthy** - Political figure  
 - **Stephen Rogers** - Political figure
 

@@ -1,6 +1,6 @@
 # heavy plate helmet
 
-**Variant of:** [[../../Stellar-Adventures/Armoured-Vest|Stellar Adventures Armoured Vest]]
+**Variant of:** [Stellar Adventures Armoured Vest](../../Stellar-Adventures/Armoured-Vest.md)
 
 ## Protection Track
 

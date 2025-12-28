@@ -70,7 +70,7 @@ MJ-12 and M-EPIC are parallel organizations with similar missions but different 
 > [!Danger] The Truth
 > If you've read about the Mi-Go, you'll be expecting discussion of them here. But you won't find a single reference to the Mi-Go until the very end. The copious information preceding that point represents Majestic-12's understanding of the alien visitors, which includes nothing relating to the Cthulhu Mythos. MJ-12 knows about flying saucers, spindly humanoid aliens, and anti-gravity technology, not strange fungal beings that worship dark gods. Keep this in mind, for it is only the truth as MJ-12 understands it. The very last section explains the real truth behind the beings MJ-12 has been dealing with.
 
-In truth, the "Greys" are biological constructs created by the [[Creatures/Supernatural/Elohim|Elohim]] (Ethereals), but MJ-12 is not aware of this fact.
+In truth, the "Greys" are biological constructs created by the [Elohim](./Creatures/Supernatural/Elohim.md) (Ethereals), but MJ-12 is not aware of this fact.
 
 ## In Play
 

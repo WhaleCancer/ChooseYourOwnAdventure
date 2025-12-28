@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../../../Fighting-Fantasy/Spear|Fighting Fantasy Spear]] (Norse spear)
+**Corresponds to:** [Fighting Fantasy Spear](../../../Fighting-Fantasy/Spear.md) (Norse spear)
 
 
 ## Damage Track

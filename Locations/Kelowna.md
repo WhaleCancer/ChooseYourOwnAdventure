@@ -36,7 +36,7 @@ Kelowna has seen a rise of new religious movements, including a disastrous siege
 
 ### Okanagan Lake
 
-The large lake that Kelowna borders, home to [[Creatures/Cryptids/Lake-Monster|Ogopogo]], the famous lake monster protected by British Columbia law.
+The large lake that Kelowna borders, home to [Ogopogo](./Creatures/Cryptids/Lake-Monster.md), the famous lake monster protected by British Columbia law.
 
 ### Agricultural Areas
 

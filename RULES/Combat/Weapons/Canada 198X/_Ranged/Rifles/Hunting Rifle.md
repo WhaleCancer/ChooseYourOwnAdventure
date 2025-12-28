@@ -1,6 +1,6 @@
 # hunting rifle
 
-**Variant of:** [[../Stellar-Adventures/Laser-Rifle|Stellar Adventures Laser Rifle]]
+**Variant of:** [Stellar Adventures Laser Rifle](../Stellar-Adventures/Laser-Rifle.md)
 
 ## Damage Track
 

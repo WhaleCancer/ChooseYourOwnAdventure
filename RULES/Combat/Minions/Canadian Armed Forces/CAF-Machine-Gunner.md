@@ -32,8 +32,8 @@ CAF Machine Gunners are:
 
 CAF Machine Gunners typically carry:
 
-- **Machine guns** - [[../../Weapons/Machine-Guns/C9-Light-Machine-Gun|C9 LMG]] (new issue) or [[../../Weapons/Machine-Guns/C2A1-Automatic-Rifle|C2A1]] (older issue) for sustained fire
-- **Backup weapons** - [[../../Weapons/Rifles/Combat-Rifles/C7|C7 assault rifle]] or handguns for personal defense
+- **Machine guns** - [C9 LMG](../../Weapons/Machine-Guns/C9-Light-Machine-Gun.md) (new issue) or [C2A1](../../Weapons/Machine-Guns/C2A1-Automatic-Rifle.md) (older issue) for sustained fire
+- **Backup weapons** - [C7 assault rifle](../../Weapons/Rifles/Combat-Rifles/C7.md) or handguns for personal defense
 - **Ammunition** - Extra ammunition and belts for sustained fire
 - **Bipods** - For stable firing positions
 - **Military uniforms** - Standard Canadian military uniforms with appropriate insignia

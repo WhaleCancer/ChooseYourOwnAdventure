@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../Fighting-Fantasy/Polearm|Fighting Fantasy Polearm]]
+**Corresponds to:** [Fighting Fantasy Polearm](../Fighting-Fantasy/Polearm.md)
 
 
 ## Damage Track

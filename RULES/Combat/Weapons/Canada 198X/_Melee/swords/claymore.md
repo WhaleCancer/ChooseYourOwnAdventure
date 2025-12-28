@@ -1,6 +1,6 @@
 # claymore
 
-**Variant of:** [[../Fighting-Fantasy/Greatsword|Fighting Fantasy Greatsword]]
+**Variant of:** [Fighting Fantasy Greatsword](../Fighting-Fantasy/Greatsword.md)
 
 ## Damage Track
 

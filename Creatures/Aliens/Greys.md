@@ -9,7 +9,7 @@
 The **Greys** (also called "The Visitors" or "The Others") are the most commonly encountered alien species in reports of abductions, UFO sightings, and paranormal phenomena. They appear as gray-skinned humanoids with large heads, oversized black eyes, and willowy limbs.
 
 > [!Danger]- The Truth
-> In truth, the Visitors are nothing more than remote-controlled biological constructs created by the [[Creatures/Supernatural/Elohim|Elohim]] to ensure their own secrecy and to ease the mental blow that contact with the Mi-Go could inflict upon the common human. Through these automatons, the Ethereals hope to study humans without revealing themselves.
+> In truth, the Visitors are nothing more than remote-controlled biological constructs created by the [Elohim](./Creatures/Supernatural/Elohim.md) to ensure their own secrecy and to ease the mental blow that contact with the Mi-Go could inflict upon the common human. Through these automatons, the Ethereals hope to study humans without revealing themselves.
 > 
 > A single Ethereal can control a number of Visitor automatons equal to its PSIONICS score. The range of this control is dependent on the mission. Certain Ethereal devices have lengthened the usual short range of this control to near-stellar distances for short periods.
 
@@ -71,7 +71,7 @@ The Visitor language is pictographic, with small symbols that often seem mathema
 > Sure enough, some have come to believe that the Visitors developed a hive mentality some time in the distant past which has led to the obsolescence of their ancient language, and that it is now inscribed for ceremonial purposes only. 
 
 > [!Danger]- The Truth 
-> In truth the [[Creatures/Supernatural/Elohim|Elohim]] do not want to give humanity a chance to examine their own written tongue, and so have botched together a simple pidgin for the purpose of confounding any investigation. The language is simple because it was constructed by beings who understand linear language poorly at best.
+> In truth the [Elohim](./Creatures/Supernatural/Elohim.md) do not want to give humanity a chance to examine their own written tongue, and so have botched together a simple pidgin for the purpose of confounding any investigation. The language is simple because it was constructed by beings who understand linear language poorly at best.
 
 ## Grey Types and Roles
 

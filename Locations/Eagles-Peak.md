@@ -16,7 +16,7 @@ The mine's automated operations allow for minimal human presence, making it easi
 
 ## UFO Sightings
 
-Eagles Peak has become a known hotspot for UFO sightings. The high elevation, remote location, and proximity to what may be a thin veil area make it an ideal location for [[Creatures/Aliens/Greys|Grey]] activity or [[Vehicles/UFOs|UFO]] operations. The automated mine may be extracting materials of interest to alien factions, or the site itself may be significant for reasons unknown to humans.
+Eagles Peak has become a known hotspot for UFO sightings. The high elevation, remote location, and proximity to what may be a thin veil area make it an ideal location for [Grey](./Creatures/Aliens/Greys.md) activity or [UFO](./Vehicles/UFOs.md) operations. The automated mine may be extracting materials of interest to alien factions, or the site itself may be significant for reasons unknown to humans.
 
 ## Potential Destruction/Disaster
 

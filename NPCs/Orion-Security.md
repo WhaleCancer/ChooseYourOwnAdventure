@@ -5,7 +5,7 @@
 
 ## Overview
 
-**Orion Security** personnel are the private security force employed by [[Factions/Corporations/Orion-International|Orion International]]. They are known for their black trucks, blank-faced field agents, and secured research enclaves.
+**Orion Security** personnel are the private security force employed by [Orion International](./Factions/Corporations/Orion-International.md). They are known for their black trucks, blank-faced field agents, and secured research enclaves.
 
 ## Characteristics
 

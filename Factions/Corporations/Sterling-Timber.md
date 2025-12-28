@@ -16,7 +16,7 @@
 
 ## Criticism
 
-To critics, Sterling Timber is a relentless extractor and political juggernaut—hungry for untouched valleys and heedless of the warnings from elders and year-after-year haunted loggers. Environmental groups point to the destruction of old-growth ecosystems; First Nations recount broken promises, disrespect for sacred and veil-thin places, and a legacy of land seizures. Insiders whisper of cover-ups: vanishings, "accidents," psychic attacks, and sightings of things that are covered up as "bear incidents" or blamed on radical saboteurs. Whistleblowers claim the company's private security force suppresses both union unrest and supernatural events, while tight links to [[Factions/Corporations/Orion-International|Orion International]] feed a revolving door of data, privilege, and dangerous secrets deeper in the woods.
+To critics, Sterling Timber is a relentless extractor and political juggernaut—hungry for untouched valleys and heedless of the warnings from elders and year-after-year haunted loggers. Environmental groups point to the destruction of old-growth ecosystems; First Nations recount broken promises, disrespect for sacred and veil-thin places, and a legacy of land seizures. Insiders whisper of cover-ups: vanishings, "accidents," psychic attacks, and sightings of things that are covered up as "bear incidents" or blamed on radical saboteurs. Whistleblowers claim the company's private security force suppresses both union unrest and supernatural events, while tight links to [Orion International](./Factions/Corporations/Orion-International.md) feed a revolving door of data, privilege, and dangerous secrets deeper in the woods.
 
 ## Operations
 
@@ -34,7 +34,7 @@ Sterling Timber's operations have led to encounters with unexplained phenomena:
 
 - **Vanishings** - Workers and others disappearing in logging areas
 - **Psychic attacks** - Unexplained mental or psychological phenomena
-- **Cryptid encounters** - Sightings of [[Creatures/Cryptids/Sasquatch|Sasquatch]] and other creatures
+- **Cryptid encounters** - Sightings of [Sasquatch](./Creatures/Cryptids/Sasquatch.md) and other creatures
 - **Cover-ups** - Incidents covered up as "bear incidents" or blamed on saboteurs
 - **Thin veil areas** - Operations in areas where dimensions are thin
 
@@ -42,7 +42,7 @@ Sterling Timber's operations have led to encounters with unexplained phenomena:
 
 - **M-EPIC:** Sterling operations may intersect with paranormal activity, especially Sasquatch encounters
 - **Government:** Strong political connections and influence
-- **Environmental Groups:** Active opposition, especially the [[Cascadia-Wilderness-Association|Cascadia Wilderness Association]]
+- **Environmental Groups:** Active opposition, especially the [Cascadia Wilderness Association](./Cascadia-Wilderness-Association.md)
 - **Orion International:** Data sharing and surveillance connections
 - **Indigenous Communities:** Land rights disputes and disrespect for sacred places
 

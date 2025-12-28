@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../Fighting-Fantasy/Long-Bow|Fighting Fantasy Long Bow]] (modern compound bow)
+**Corresponds to:** [Fighting Fantasy Long Bow](../Fighting-Fantasy/Long-Bow.md) (modern compound bow)
 
 
 ## Damage Track

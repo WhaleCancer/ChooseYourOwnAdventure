@@ -30,7 +30,7 @@ In Victoria, a cigar store Indian statue comes to life, possessed by a First Nat
 - Witnesses claim the statue moves, speaks, or acts on its own
 - Connection to local First Nations history or sacred sites
 - May be related to other supernatural events in the area
-- Could involve [[Factions/Circle-of-Watchers|Circle of Watchers]] or other Indigenous groups
+- Could involve [Circle of Watchers](./Factions/Circle-of-Watchers.md) or other Indigenous groups
 
 ## Potential Complications
 

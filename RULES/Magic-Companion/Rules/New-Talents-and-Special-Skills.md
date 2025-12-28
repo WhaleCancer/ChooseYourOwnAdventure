@@ -44,15 +44,15 @@ Chapter 3: New Talents and Special Skills
 
 The new magical traditions described in Chapter 5 have their own associated special skills used to understand and cast that type of magic.
 
-- [[Special-Skill-Animal-Mastery|Magic - Animal Mastery]]
-- [[Special-Skill-Runecarving|Magic - Runecarving]]
-- [[Special-Skill-Primal-Magic|Magic - Primal Magic]]
-- [[Special-Skill-Fecundity|Magic - Fecundity]]
-- [[Special-Skill-Illusionism|Magic - Illusionism]]
-- [[Special-Skill-Prophecy|Magic - Prophecy]]
-- [[Special-Skill-Psionics|Magic - Psionics]]
-- [[Special-Skill-Warlock|Magic - Warlock]]
-- [[Special-Skill-Witchcraft|Magic - Witchcraft]]
+- [Magic - Animal Mastery](./Special-Skill-Animal-Mastery.md)
+- [Magic - Runecarving](./Special-Skill-Runecarving.md)
+- [Magic - Primal Magic](./Special-Skill-Primal-Magic.md)
+- [Magic - Fecundity](./Special-Skill-Fecundity.md)
+- [Magic - Illusionism](./Special-Skill-Illusionism.md)
+- [Magic - Prophecy](./Special-Skill-Prophecy.md)
+- [Magic - Psionics](./Special-Skill-Psionics.md)
+- [Magic - Warlock](./Special-Skill-Warlock.md)
+- [Magic - Witchcraft](./Special-Skill-Witchcraft.md)
 
 ---
 
@@ -60,18 +60,18 @@ The new magical traditions described in Chapter 5 have their own associated spec
 
 The new Talents presented in this section may be taken at Hero creation or purchased with XP as normal.
 
-- [[../../Talents/Arcane-Blank|Arcane Blank]]
-- [[../../Talents/Blood-Magic|Blood Magic]]
-- [[../../Talents/Controlled-Chaos|Controlled Chaos]]
-- [[../../Talents/Dark-Energies|Dark Energies]]
-- [[../../Talents/Draining-Power|Draining Power]]
-- [[../../Talents/Dual-Caster|Dual Caster]]
-- [[../../Talents/Empowerment|Empowerment]]
-- [[../../Talents/Enchantment-Master|Enchantment Master]]
-- [[../../Talents/Hedge-Magician|Hedge Magician]]
-- [[../../Talents/Powerful-Summons|Powerful Summons]]
-- [[../../Talents/Soul-Store|Soul Store]]
-- [[../../Talents/Spell-Mastery|Spell Mastery]]
+- [Arcane Blank](../../Talents/Arcane-Blank.md)
+- [Blood Magic](../../Talents/Blood-Magic.md)
+- [Controlled Chaos](../../Talents/Controlled-Chaos.md)
+- [Dark Energies](../../Talents/Dark-Energies.md)
+- [Draining Power](../../Talents/Draining-Power.md)
+- [Dual Caster](../../Talents/Dual-Caster.md)
+- [Empowerment](../../Talents/Empowerment.md)
+- [Enchantment Master](../../Talents/Enchantment-Master.md)
+- [Hedge Magician](../../Talents/Hedge-Magician.md)
+- [Powerful Summons](../../Talents/Powerful-Summons.md)
+- [Soul Store](../../Talents/Soul-Store.md)
+- [Spell Mastery](../../Talents/Spell-Mastery.md)
 
 ---
 

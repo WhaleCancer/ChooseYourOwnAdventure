@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system. Warcasket weapons are huge, vehicle-scale weapons integrated into warcasket armor systems.
 
-**Corresponds to:** [[../Stellar-Adventures/Machine-Gun|Stellar Adventures Machine Gun]] (heavy autocannon)
+**Corresponds to:** [Stellar Adventures Machine Gun](../Stellar-Adventures/Machine-Gun.md) (heavy autocannon)
 
 
 ## Damage Track

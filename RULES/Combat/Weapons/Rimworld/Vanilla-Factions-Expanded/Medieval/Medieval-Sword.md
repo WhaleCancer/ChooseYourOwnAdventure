@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../../../Fighting-Fantasy/Sword|Fighting Fantasy Sword]] (medieval one-handed sword)
+**Corresponds to:** [Fighting Fantasy Sword](../../../Fighting-Fantasy/Sword.md) (medieval one-handed sword)
 
 
 ## Damage Track

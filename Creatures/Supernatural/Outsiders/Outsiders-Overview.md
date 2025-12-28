@@ -19,14 +19,14 @@ Yahweh was the first of the Shining Children to coalesce, by quite a large margi
 | ----------- | -------- | ------------ | ------------ |
 | Azazel      |          |              |              |
 | Gabriel     |          | Apollo       |              |
-| [[Creatures/Supernatural/Outsiders/Typhon|Typhon]] | Apophis  | Typhon       | Tiamat       |
-| [[Creatures/Supernatural/Outsiders/Lucifer|Lucifer]] | Set      |              | Nergal       |
-| [[Creatures/Supernatural/Outsiders/Michael|Michael]] | Horus    | Ares         | Ninurta      |
-| [[Creatures/Supernatural/Outsiders/Raphael|Raphael]] | Imhotep  | Asclepius    | Gula         |
+| [Typhon](./Creatures/Supernatural/Outsiders/Typhon.md) | Apophis  | Typhon       | Tiamat       |
+| [Lucifer](./Creatures/Supernatural/Outsiders/Lucifer.md) | Set      |              | Nergal       |
+| [Michael](./Creatures/Supernatural/Outsiders/Michael.md) | Horus    | Ares         | Ninurta      |
+| [Raphael](./Creatures/Supernatural/Outsiders/Raphael.md) | Imhotep  | Asclepius    | Gula         |
 | Samael      |          |              |              |
 |             | Ra       | Uranus, Zeus | Marduk       |
 | Uriel       | Thoth    | Apollo       | Shamash      |
-| [[Creatures/Supernatural/Outsiders/Yahweh|Yahweh]]  | Atum     |              |              |
+| [Yahweh](./Creatures/Supernatural/Outsiders/Yahweh.md)  | Atum     |              |              |
 
 ## Key Outsiders
 
@@ -72,7 +72,7 @@ The universe as humans experience it is a **prison dimension**. The Archons (Out
 
 ## Historical Manifestations
 
-The Outsiders have interjected in human history numerous times, through both physically manifesting in our dimension or by possessing human beings (and sometimes animals). Direct manifestations are told of in myth and legend. See [[Creatures/Supernatural/Elohim#Historical-Interventions|Historical Interventions]] for detailed information.
+The Outsiders have interjected in human history numerous times, through both physically manifesting in our dimension or by possessing human beings (and sometimes animals). Direct manifestations are told of in myth and legend. See [Historical Interventions](./Creatures/Supernatural/Elohim#Historical-Interventions.md) for detailed information.
 
 ### Key Historical Events
 
@@ -96,10 +96,10 @@ The Outsiders have interjected in human history numerous times, through both phy
 - **The Renaissance** - Selective release of knowledge to accelerate human development
 
 **Modern Era:**
-- **Social Credit Economic Theory** - Long-term system of control beginning in 1916 (see [[Factions/Social-Credit-Party|Social Credit Party]])
+- **Social Credit Economic Theory** - Long-term system of control beginning in 1916 (see [Social Credit Party](./Factions/Social-Credit-Party.md))
 - **World Wars** - Maintaining control through fear, trauma, and division
 - **UFO Phenomena** - Beginning in the 1940s, using Greys to interact with humanity while maintaining secrecy
-- **Modern Cults** - Groups like [[Factions/Cults/Star-Communion|Star Communion]] serving as control mechanisms and recruitment pools
+- **Modern Cults** - Groups like [Star Communion](./Factions/Cults/Star-Communion.md) serving as control mechanisms and recruitment pools
 
 ### Patterns of Intervention
 
@@ -107,7 +107,7 @@ Outsiders intervene through:
 - **Direct Manifestation** - Physical appearance in our dimension
 - **Possession** - Taking control of human bodies temporarily or permanently
 - **Indirect Influence** - Dreams, visions, and subtle psychic manipulation
-- **Proxy Agents** - Human cults and organizations (see [[Factions/De-Beweging|De Beweging]])
+- **Proxy Agents** - Human cults and organizations (see [De Beweging](./Factions/De-Beweging.md))
 - **Biological Constructs** - Using Greys and other created beings
 
 Their goals include maintaining the prison, preventing awakening, reinforcing the Veil, controlling development, harvesting resources, and settling factional conflicts. Every intervention leaves traces: unexplained phenomena, psychological trauma, cultural shifts, and physical evidence—the scars of being prisoners in a cosmic jail.

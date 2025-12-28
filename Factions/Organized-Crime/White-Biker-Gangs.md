@@ -38,26 +38,26 @@ Use the existing EPIC generic profiles; this list simply highlights what bikers 
 
 - **Handguns:**  
   - **Heavy Revolvers (.357):**  
-    - [[Weapons/Handguns/Colt-Python\|Colt Python]] – premium status piece for ranking members.  
-    - [[Weapons/Handguns/Ruger-Security-Six\|Ruger Security Six]] and [[Weapons/Handguns/Taurus-Model-66\|Taurus Model 66]] – rugged working guns.  
+    - [Colt Python](./Weapons/Handguns/Colt-Python\.md) – premium status piece for ranking members.  
+    - [Ruger Security Six](./Weapons/Handguns/Ruger-Security-Six\.md) and [Taurus Model 66](./Weapons/Handguns/Taurus-Model-66\.md) – rugged working guns.  
   - **Service Pistols (9mm):**  
-    - [[Weapons/Handguns/Browning-Hi-Power\|Browning Hi‑Power]] and assorted surplus 9mm pistols for members with police/military contacts.
+    - [Browning Hi‑Power](./Weapons/Handguns/Browning-Hi-Power\.md) and assorted surplus 9mm pistols for members with police/military contacts.
 
 - **Shotguns:**  
-  - [[Weapons/Shotguns/Remington-870\|Remington 870]] and [[Weapons/Shotguns/Mossberg-500\|Mossberg 500]] – kept in pickups, clubhouse gun racks, and “church” rooms.  
+  - [Remington 870](./Weapons/Shotguns/Remington-870\.md) and [Mossberg 500](./Weapons/Shotguns/Mossberg-500\.md) – kept in pickups, clubhouse gun racks, and “church” rooms.  
   - Short‑barrelled, pistol‑grip variants are popular for intimidation and vehicle carry.
 
 - **Rifles & Carbines:**  
-  - [[Weapons/Rifles/Combat-Rifles/SKS\|SKS]] and other semi‑auto surplus rifles as truck guns and for rural enforcement.  
-  - Hunting rifles like the [[Weapons/Rifles/Hunting/Winchester-Model-70\|Winchester Model 70]] used for poaching, protection, and long‑range work.
+  - [SKS](./Weapons/Rifles/Combat-Rifles/SKS\.md) and other semi‑auto surplus rifles as truck guns and for rural enforcement.  
+  - Hunting rifles like the [Winchester Model 70](./Weapons/Rifles/Hunting/Winchester-Model-70\.md) used for poaching, protection, and long‑range work.
 
 - **SMGs & Machine Guns (higher‑end crews):**  
-  - [[Weapons/SMGs/Uzi\|Uzi]], [[Weapons/SMGs/MAC-10\|MAC‑10]] / [[Weapons/SMGs/MAC-11\|MAC‑11\]] occasionally appear in well‑connected chapters, often sourced via organized‑crime contacts.  
+  - [Uzi](./Weapons/SMGs/Uzi\.md), [MAC‑10](./Weapons/SMGs/MAC-10\.md) / [MAC‑11\](./Weapons/SMGs/MAC-11\.md) occasionally appear in well‑connected chapters, often sourced via organized‑crime contacts.  
   - Light machine guns or belt‑feds (C2A1/C9, etc.) are rare, usually reserved for war‑time or special jobs, and often **held in chapter “armouries”** rather than on bikes.
 
 - **Explosives & Intimidation Tools:**  
   - Hand grenades, improvised explosives, and **Molotov cocktails** (treated as Improvised Explosives) used for arson, messages, and terror tactics.  
-  - [[Weapons/Less-Lethal/Batons\|Batons]], chains, and [[Weapons/Melee-Weapons/Improvised-Weapons\|Improvised Weapons]] (tire irons, pool cues) are common in bar fights.
+  - [Batons](./Weapons/Less-Lethal/Batons\.md), chains, and [Improvised Weapons](./Weapons/Melee-Weapons/Improvised-Weapons\.md) (tire irons, pool cues) are common in bar fights.
 
 ### Vehicles & Bikes
 

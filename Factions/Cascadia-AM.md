@@ -6,7 +6,7 @@
 
 ## Overview
 
-**Cascadia AM** is a late-night AM radio station featuring "Cascadia AM with Fraser Wyatt," a conspiracy theory and paranormal investigation program hosted by [[Fraser Wyatt]].
+**Cascadia AM** is a late-night AM radio station featuring "Cascadia AM with Fraser Wyatt," a conspiracy theory and paranormal investigation program hosted by [Fraser Wyatt](./Fraser Wyatt.md).
 
 Inspired by Art Bell's *Coast to Coast AM*, Cascadia AM serves as a source of information, misinformation, and community for those interested in the paranormal, conspiracies, and unexplained phenomena in British Columbia.
 
@@ -16,7 +16,7 @@ Cascadia AM operates as an independent radio station, likely with limited resour
 
 ### Key Personnel
 
-- **[[Fraser Wyatt]]** - Host of "Cascadia AM with Fraser Wyatt"; radio personality, conspiracy theorist, and potential member of [[Factions/The-Hand|The Hand]]
+- **[Fraser Wyatt](./Fraser Wyatt.md)** - Host of "Cascadia AM with Fraser Wyatt"; radio personality, conspiracy theorist, and potential member of [The Hand](./Factions/The-Hand.md)
 
 ## Programming
 

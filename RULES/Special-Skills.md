@@ -6,10 +6,10 @@ A skill of 1 point indicates someone who has had basic training, 2 points indica
 
 ## Skill Categories
 
-- [[RULES/Special-Skills/Combat-Skills|Combat Skills]] - Weapon and combat skills (PHYSICAL)
-- [[RULES/Special-Skills/Movement-Skills|Movement Skills]] - Movement and vehicle skills (PHYSICAL)
-- [[RULES/Special-Skills/Stealth-Skills|Stealth Skills]] - Subterfuge and awareness skills (MENTAL)
-- [[RULES/Special-Skills/Knowledge-Skills|Knowledge Skills]] - Knowledge, lore, craft, science, and world knowledge skills (MENTAL)
+- [Combat Skills](./RULES/Special-Skills/Combat-Skills.md) - Weapon and combat skills (PHYSICAL)
+- [Movement Skills](./RULES/Special-Skills/Movement-Skills.md) - Movement and vehicle skills (PHYSICAL)
+- [Stealth Skills](./RULES/Special-Skills/Stealth-Skills.md) - Subterfuge and awareness skills (MENTAL)
+- [Knowledge Skills](./RULES/Special-Skills/Knowledge-Skills.md) - Knowledge, lore, craft, science, and world knowledge skills (MENTAL)
 
 ## Creating New Skills
 

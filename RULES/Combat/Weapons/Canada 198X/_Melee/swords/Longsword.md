@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../Fighting-Fantasy/Greatsword|Fighting Fantasy Greatsword]] (two-handed sword)
+**Corresponds to:** [Fighting Fantasy Greatsword](../Fighting-Fantasy/Greatsword.md) (two-handed sword)
 
 
 ## Damage Track

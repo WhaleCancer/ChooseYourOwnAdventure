@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system. Warcasket weapons are huge, vehicle-scale weapons integrated into warcasket armor systems.
 
-**Corresponds to:** [[../Stellar-Adventures/RPG|Stellar Adventures RPG]] (missile launcher)
+**Corresponds to:** [Stellar Adventures RPG](../Stellar-Adventures/RPG.md) (missile launcher)
 
 
 ## Damage Track

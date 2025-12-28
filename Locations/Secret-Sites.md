@@ -6,7 +6,7 @@
 
 ## Overview
 
-Throughout British Columbia and Canada, various secret government and corporate sites conduct experiments that blur the line between science, the occult, and psychic research. These facilities often operate under plausible cover stories while conducting research that widens tears in the veil, creates "haunted" staff, or provokes increasingly invasive [[Creatures/Aliens/Greys|Grey]] and [[Creatures/Supernatural/Elohim|Elohim]] responses.
+Throughout British Columbia and Canada, various secret government and corporate sites conduct experiments that blur the line between science, the occult, and psychic research. These facilities often operate under plausible cover stories while conducting research that widens tears in the veil, creates "haunted" staff, or provokes increasingly invasive [Grey](./Creatures/Aliens/Greys.md) and [Elohim](./Creatures/Supernatural/Elohim.md) responses.
 
 ## Known Sites
 

@@ -32,8 +32,8 @@ CAF Snipers are:
 
 CAF Snipers typically carry:
 
-- **Sniper rifles** - [[../../Weapons/Rifles/Sniper/C3-Sniper-Rifle|C3 sniper rifle]] (Parker-Hale M82) for long-range precision shooting
-- **Backup weapons** - [[../../Weapons/Rifles/Combat-Rifles/C7|C7 assault rifle]] or handguns for close-range defense
+- **Sniper rifles** - [C3 sniper rifle](../../Weapons/Rifles/Sniper/C3-Sniper-Rifle.md) (Parker-Hale M82) for long-range precision shooting
+- **Backup weapons** - [C7 assault rifle](../../Weapons/Rifles/Combat-Rifles/C7.md) or handguns for close-range defense
 - **Optics** - Scopes, binoculars, and observation equipment
 - **Camouflage** - Ghillie suits or other concealment equipment
 - **Specialized equipment** - Range finders, wind meters, and other precision tools

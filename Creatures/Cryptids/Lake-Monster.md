@@ -24,7 +24,7 @@ Many claim to have seen one, and nearly every sailor has heard tell of one, but 
 
 **Okanagan Lake** is home to the most well-documented and legally protected lake monster in British Columbia.
 
-See [[Creatures/Cryptids/Ogopogo-Statblock|Ogopogo: The Lake Serpent]] for detailed information, abilities, and adventure hooks.
+See [Ogopogo: The Lake Serpent](./Creatures/Cryptids/Ogopogo-Statblock.md) for detailed information, abilities, and adventure hooks.
 
 ### Legal Protection
 

@@ -13,7 +13,7 @@ Their branding—**sterile, reassuring, gently green and blue**—projects calm,
 
 ## Real Agenda: Elohim Abetment
 
-Beneath the surface, Veridine Solutions is the *central node* in a continent-wide web of chemical and psychic subjugation, carefully maintained through both corporate cunning and clandestine metaphysical deals. Its true stakeholders aren't just government and institutional shareholders—but **the [[Creatures/Supernatural/Elohim|Archons]]** and their emissaries, whose will is advanced through engineered malaise, pharmacological passivity, and the slow attrition of spiritual resistance.
+Beneath the surface, Veridine Solutions is the *central node* in a continent-wide web of chemical and psychic subjugation, carefully maintained through both corporate cunning and clandestine metaphysical deals. Its true stakeholders aren't just government and institutional shareholders—but **the [Archons](./Creatures/Supernatural/Elohim.md)** and their emissaries, whose will is advanced through engineered malaise, pharmacological passivity, and the slow attrition of spiritual resistance.
 
 Veridine's quietly sinister functionaries operate with plausible deniability and high-level connections, allowing them to route prototype additives, psychoactive metabolites, experimental pesticides, and "immunity supports" right into the food and water supplies of targeted communities. They hire ex-military contractors as "facility managers," concoct phony whitepapers through PR bundlers, and suppress journalistic investigation under threat of litigation or blackmail.
 
@@ -52,7 +52,7 @@ Veridine's quietly sinister functionaries operate with plausible deniability and
 
 Veridine's R&D and "pilot program" documents are sometimes filled with **encrypted references to "Project Benefactor," "Protocol Veil," and "golden testimony deliveries"**—coded signals to the company's true masters, the golden-robed Archons. Executives may occasionally act as thralls, suffering sanctioned "absences" or unexplained fugue states after "strategic retreats" and late-night conference calls where no one quite remembers what was said.
 
-The most crucial shipments—marked only with living sigils, seen only by those who *know how to look*—are delivered by [[Creatures/Aliens/Greys|Greys]], bypassing even Veridine's own middle management.
+The most crucial shipments—marked only with living sigils, seen only by those who *know how to look*—are delivered by [Greys](./Creatures/Aliens/Greys.md), bypassing even Veridine's own middle management.
 
 ## Relationship with Other Factions
 

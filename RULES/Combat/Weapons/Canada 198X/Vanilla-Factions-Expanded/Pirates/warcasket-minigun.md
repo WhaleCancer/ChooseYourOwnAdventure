@@ -4,11 +4,11 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../Stellar-Adventures/Machine-Gun|Stellar Adventures Machine Gun]] (rapid-fire minigun)
+**Corresponds to:** [Stellar Adventures Machine Gun](../Stellar-Adventures/Machine-Gun.md) (rapid-fire minigun)
 
 **Note:** This is a huge, vehicle-scale weapon integrated into warcasket armor systems. Too large for normal pawns to use - only warcasket users can operate this massive weapon.
 
-**Corresponds to:** [[../Stellar-Adventures/Machine-Gun|Stellar Adventures Machine Gun]] (rapid-fire minigun)
+**Corresponds to:** [Stellar Adventures Machine Gun](../Stellar-Adventures/Machine-Gun.md) (rapid-fire minigun)
 
 
 ## Damage Track

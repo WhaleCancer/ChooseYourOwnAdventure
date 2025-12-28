@@ -1,6 +1,6 @@
 # warbow
 
-**Variant of:** [[../Fighting-Fantasy/Long-Bow|Fighting Fantasy Long Bow]]
+**Variant of:** [Fighting Fantasy Long Bow](../Fighting-Fantasy/Long-Bow.md)
 
 ## Damage Track
 

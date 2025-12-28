@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../../Stellar-Adventures/Laser-Sword|Stellar Adventures Laser Sword]] (plasma energy blade)
+**Corresponds to:** [Stellar Adventures Laser Sword](../../Stellar-Adventures/Laser-Sword.md) (plasma energy blade)
 
 
 ## Damage Track

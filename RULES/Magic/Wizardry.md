@@ -37,7 +37,7 @@ If a Wizard wears any armor, then additional magic points must be expended for e
 
 ## Learning New Spells
 
-A Wizard will start play knowing only a few spells, and even those are of the lower tiers of power. At some point a Wizard Character will want to learn other spells, both of low and high power. One requirement is for available experience points, as described in [[RULES/Grade|Grade]]. If experience points are available, the caster must also have a way of learning the spell.
+A Wizard will start play knowing only a few spells, and even those are of the lower tiers of power. At some point a Wizard Character will want to learn other spells, both of low and high power. One requirement is for available experience points, as described in [Grade](./RULES/Grade.md). If experience points are available, the caster must also have a way of learning the spell.
 
 One way to do this is to find a teacher who already knows the spell. This approach will take 2 days of intense tuition for every rank of the spell. The teacher will probably require payment for this tuition, either in money, goods or services.
 
@@ -163,7 +163,7 @@ If this spell is cast on the round before any other spell, the second spell will
 
 #### Consume (2)
 
-This spell makes use of the awesome power of fire, and will envelop one target in flame equivalent to a large fire. The target must be within 5m, and if a living being may test for LUCK to avoid the effects. If the test is failed or the spell cast on an inanimate object, the target will be ignited by the spell (as long as the target is flammable of course). The large fire will then burn normally as described in [[RULES/Combat|Combat]].
+This spell makes use of the awesome power of fire, and will envelop one target in flame equivalent to a large fire. The target must be within 5m, and if a living being may test for LUCK to avoid the effects. If the test is failed or the spell cast on an inanimate object, the target will be ignited by the spell (as long as the target is flammable of course). The large fire will then burn normally as described in [Combat](./RULES/Combat.md).
 
 #### Counterspell (2)
 

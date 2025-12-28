@@ -39,10 +39,10 @@ Harvesters are:
 
 Harvesters typically carry:
 
-- **Chainsaw** - [[../../Weapons/Stellar-Adventures/Chainsaw|Chainsaw]], their primary weapon for devastating close-range attacks
+- **Chainsaw** - [Chainsaw](../../Weapons/Stellar-Adventures/Chainsaw.md), their primary weapon for devastating close-range attacks
 - **Meat hook** - Thrown weapon to drag opponents closer
 - **Bear traps** - Laid to immobilize opponents
-- **Fragmentation grenades** - [[../../Weapons/Explosives/Hand-Grenades|Fragmentation grenades]] to flush opponents out of cover
+- **Fragmentation grenades** - [Fragmentation grenades](../../Weapons/Explosives/Hand-Grenades.md) to flush opponents out of cover
 - **Butcher attire** - Protective clothing that provides some armor
 - **Skull mask** - Homage to Jason Voorhees, obscures their identity
 - **Ritual items** - Symbols, fetishes, or artifacts related to their dark work

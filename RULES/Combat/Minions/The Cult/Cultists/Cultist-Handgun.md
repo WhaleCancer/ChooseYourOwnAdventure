@@ -21,7 +21,7 @@
 
 Handgun Cultists carry:
 
-- **Handguns** - Walther PP or other compact pistols (use [[../../Weapons/Canada 198X/_Ranged/Handguns/Pistols/Combat Handgun|Combat Handgun]] stats), favored for their concealability and symbolic appearance
+- **Handguns** - Walther PP or other compact pistols (use [Combat Handgun](../../Weapons/Canada 198X/_Ranged/Handguns/Pistols/Combat Handgun.md) stats), favored for their concealability and symbolic appearance
 - **Backup weapons** - Ritual knives or improvised weapons
 - **Ritual items** - Symbols, fetishes, or artifacts related to their beliefs
 

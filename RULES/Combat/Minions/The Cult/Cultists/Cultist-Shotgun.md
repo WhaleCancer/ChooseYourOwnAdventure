@@ -21,7 +21,7 @@
 
 Shotgun Cultists carry:
 
-- **Shotguns** - [[../../Weapons/Canada 198X/_Ranged/Shotguns/Double-Barrel Shotgun|Double-barrel shotguns]], drawn to their traditional, ritualistic appearance
+- **Shotguns** - [Double-barrel shotguns](../../Weapons/Canada 198X/_Ranged/Shotguns/Double-Barrel Shotgun.md), drawn to their traditional, ritualistic appearance
 - **Melee weapons** - Ritual knives or improvised weapons
 - **Ritual items** - Symbols, fetishes, or artifacts related to their beliefs
 

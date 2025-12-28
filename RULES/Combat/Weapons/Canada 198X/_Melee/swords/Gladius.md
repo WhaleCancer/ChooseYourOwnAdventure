@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../Fighting-Fantasy/Short-Sword|Fighting Fantasy Short Sword]] (short stabbing sword)
+**Corresponds to:** [Fighting Fantasy Short Sword](../Fighting-Fantasy/Short-Sword.md) (short stabbing sword)
 
 
 ## Damage Track

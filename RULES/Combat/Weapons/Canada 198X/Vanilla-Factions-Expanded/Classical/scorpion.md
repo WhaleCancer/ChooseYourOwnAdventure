@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../../../Fighting-Fantasy/Crossbow|Fighting Fantasy Crossbow]] (Roman ballista/scorpion)
+**Corresponds to:** [Fighting Fantasy Crossbow](../../../Fighting-Fantasy/Crossbow.md) (Roman ballista/scorpion)
 
 
 ## Damage Track

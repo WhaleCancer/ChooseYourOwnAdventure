@@ -36,7 +36,7 @@ Nightmare Stalkers are:
 
 Nightmare Stalkers typically carry:
 
-- **Razor glove** - [[../../Weapons/Canada 198X/_Melee/Improvised-Weapons|Custom clawed glove]] with razors/blades, their signature weapon
+- **Razor glove** - [Custom clawed glove](../../Weapons/Canada 198X/_Melee/Improvised-Weapons.md) with razors/blades, their signature weapon
 - **Burned clothing** - Tattered, fire-damaged clothing (often a striped sweater or similar distinctive garment)
 - **Fedora hat** - Often wears a distinctive hat that obscures their face
 - **No other weapons** - They rely on their clawed glove and psionic abilities

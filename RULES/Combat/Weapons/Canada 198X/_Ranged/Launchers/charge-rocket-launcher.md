@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../../Stellar-Adventures/Heavy-Laser|Stellar Adventures Heavy Laser]]
+**Corresponds to:** [Stellar Adventures Heavy Laser](../../Stellar-Adventures/Heavy-Laser.md)
 
 
 ## Damage Track

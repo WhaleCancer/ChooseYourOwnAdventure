@@ -32,9 +32,9 @@ RCMP Corporals are:
 
 RCMP Corporals typically carry:
 
-- **Handguns** - [[../../Weapons/Canada 198X/_Ranged/Handguns/Revolvers/Service Revolver|Service revolvers]] (Smith & Wesson Model 10, .38 Special) or service pistols
-- **Shotguns** - [[../../Weapons/Canada 198X/_Ranged/Shotguns/Pump Shotgun|Pump-action shotguns]] (Remington 870) in patrol vehicles
-- **Rifles** - [[../../Weapons/Rifles/Combat-Rifles/C1A1|C1A1]] or other tactical rifles for specialized operations
+- **Handguns** - [Service revolvers](../../Weapons/Canada 198X/_Ranged/Handguns/Revolvers/Service Revolver.md) (Smith & Wesson Model 10, .38 Special) or service pistols
+- **Shotguns** - [Pump-action shotguns](../../Weapons/Canada 198X/_Ranged/Shotguns/Pump Shotgun.md) (Remington 870) in patrol vehicles
+- **Rifles** - [C1A1](../../Weapons/Rifles/Combat-Rifles/C1A1.md) or other tactical rifles for specialized operations
 - **Less-lethal** - Batons, handcuffs, and other restraint equipment
 - **Radio** - For communication and coordination
 - **Uniform** - Standard RCMP uniform with corporal's insignia

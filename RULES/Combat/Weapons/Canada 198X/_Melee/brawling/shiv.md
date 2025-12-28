@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../Fighting-Fantasy/Dagger|Fighting Fantasy Dagger]] (improvised knife)
+**Corresponds to:** [Fighting Fantasy Dagger](../Fighting-Fantasy/Dagger.md) (improvised knife)
 
 
 ## Damage Track

@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../Stellar-Adventures/Grenade|Stellar Adventures Grenade]] (autonomous mine/drone)
+**Corresponds to:** [Stellar Adventures Grenade](../Stellar-Adventures/Grenade.md) (autonomous mine/drone)
 
 
 ## Damage Track

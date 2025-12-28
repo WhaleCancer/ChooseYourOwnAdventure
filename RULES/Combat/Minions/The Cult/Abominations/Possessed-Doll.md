@@ -36,7 +36,7 @@ Possessed Dolls are:
 
 Possessed Dolls typically carry:
 
-- **Knife** - [[../../Weapons/Canada 198X/_Melee/brawling/Knife|Knife]] or [[../../Weapons/Canada 198X/_Melee/brawling/Combat-Knife|Combat Knife]], their primary weapon
+- **Knife** - [Knife](../../Weapons/Canada 198X/_Melee/brawling/Knife.md) or [Combat Knife](../../Weapons/Canada 198X/_Melee/brawling/Combat-Knife.md), their primary weapon
 - **Doll body** - Their physical form, appearing as a normal children's toy
 - **Ritual binding** - Dark magic or spirit that animates them (internal, not visible)
 - **No other weapons** - They rely on their knife and small size

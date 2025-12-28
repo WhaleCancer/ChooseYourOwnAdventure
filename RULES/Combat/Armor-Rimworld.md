@@ -12,55 +12,55 @@ For detailed armor statistics, refer to the individual armor files or the [RimWo
 
 | Armor | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Armor/Rimworld/Simple-Helmet\|Simple Helmet]] | 0 | 1 | 1 | 2 | 2 | 3 | 4 |
-| [[Armor/Rimworld/Flak-Helmet\|Flak Helmet]] | 0 | 1 | 1 | 2 | 2 | 3 | 4 |
-| [[Armor/Rimworld/Advanced-Helmet\|Advanced Helmet]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
-| [[Armor/Rimworld/Recon-Helmet\|Recon Helmet]] | 1 | 1 | 2 | 2 | 3 | 3 | 4 |
-| [[Armor/Rimworld/Marine-Helmet\|Marine Helmet]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
-| [[Armor/Rimworld/Cataphract-Helmet\|Cataphract Helmet]] | 2 | 2 | 3 | 3 | 4 | 4 | 5 |
+| [Simple Helmet](./Armor/Rimworld/Simple-Helmet\.md) | 0 | 1 | 1 | 2 | 2 | 3 | 4 |
+| [Flak Helmet](./Armor/Rimworld/Flak-Helmet\.md) | 0 | 1 | 1 | 2 | 2 | 3 | 4 |
+| [Advanced Helmet](./Armor/Rimworld/Advanced-Helmet\.md) | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [Recon Helmet](./Armor/Rimworld/Recon-Helmet\.md) | 1 | 1 | 2 | 2 | 3 | 3 | 4 |
+| [Marine Helmet](./Armor/Rimworld/Marine-Helmet\.md) | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [Cataphract Helmet](./Armor/Rimworld/Cataphract-Helmet\.md) | 2 | 2 | 3 | 3 | 4 | 4 | 5 |
 
 ### Headgear - Apparel
 
 | Armor | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Armor/Rimworld/Bowler-Hat\|Bowler Hat]] | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
-| [[Armor/Rimworld/Cowboy-Hat\|Cowboy Hat]] | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
-| [[Armor/Rimworld/Tuque\|Tuque]] | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
-| [[Armor/Rimworld/Tribal-Headdress\|Tribal Headdress]] | 0 | 0 | 0 | 0 | 1 | 1 | 2 |
-| [[Armor/Rimworld/War-Mask\|War Mask]] | 0 | 0 | 0 | 0 | 1 | 1 | 2 |
-| [[Armor/Rimworld/War-Veil\|War Veil]] | 0 | 0 | 0 | 0 | 1 | 1 | 2 |
+| [Bowler Hat](./Armor/Rimworld/Bowler-Hat\.md) | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
+| [Cowboy Hat](./Armor/Rimworld/Cowboy-Hat\.md) | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
+| [Tuque](./Armor/Rimworld/Tuque\.md) | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
+| [Tribal Headdress](./Armor/Rimworld/Tribal-Headdress\.md) | 0 | 0 | 0 | 0 | 1 | 1 | 2 |
+| [War Mask](./Armor/Rimworld/War-Mask\.md) | 0 | 0 | 0 | 0 | 1 | 1 | 2 |
+| [War Veil](./Armor/Rimworld/War-Veil\.md) | 0 | 0 | 0 | 0 | 1 | 1 | 2 |
 
 ### Body Armor - Combat
 
 | Armor | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Armor/Rimworld/Flak-Vest\|Flak Vest]] | 0 | 1 | 1 | 2 | 2 | 3 | 4 |
-| [[Armor/Rimworld/Flak-Jacket\|Flak Jacket]] | 0 | 1 | 2 | 2 | 3 | 3 | 4 |
-| [[Armor/Rimworld/Flak-Pants\|Flak Pants]] | 0 | 0 | 1 | 1 | 2 | 2 | 3 |
-| [[Armor/Rimworld/Marine-Armor\|Marine Armor]] | 2 | 2 | 3 | 3 | 4 | 4 | 5 |
-| [[Armor/Rimworld/Recon-Armor\|Recon Armor]] | 1 | 1 | 2 | 2 | 3 | 3 | 4 |
-| [[Armor/Rimworld/Locust-Armor\|Locust Armor]] | 1 | 1 | 2 | 2 | 3 | 3 | 4 |
-| [[Armor/Rimworld/Grenadier-Armor\|Grenadier Armor]] | 2 | 2 | 3 | 3 | 4 | 4 | 5 |
-| [[Armor/Rimworld/Phoenix-Armor\|Phoenix Armor]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
-| [[Armor/Rimworld/Cataphract-Armor\|Cataphract Armor]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [Flak Vest](./Armor/Rimworld/Flak-Vest\.md) | 0 | 1 | 1 | 2 | 2 | 3 | 4 |
+| [Flak Jacket](./Armor/Rimworld/Flak-Jacket\.md) | 0 | 1 | 2 | 2 | 3 | 3 | 4 |
+| [Flak Pants](./Armor/Rimworld/Flak-Pants\.md) | 0 | 0 | 1 | 1 | 2 | 2 | 3 |
+| [Marine Armor](./Armor/Rimworld/Marine-Armor\.md) | 2 | 2 | 3 | 3 | 4 | 4 | 5 |
+| [Recon Armor](./Armor/Rimworld/Recon-Armor\.md) | 1 | 1 | 2 | 2 | 3 | 3 | 4 |
+| [Locust Armor](./Armor/Rimworld/Locust-Armor\.md) | 1 | 1 | 2 | 2 | 3 | 3 | 4 |
+| [Grenadier Armor](./Armor/Rimworld/Grenadier-Armor\.md) | 2 | 2 | 3 | 3 | 4 | 4 | 5 |
+| [Phoenix Armor](./Armor/Rimworld/Phoenix-Armor\.md) | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [Cataphract Armor](./Armor/Rimworld/Cataphract-Armor\.md) | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
 
 ### Utility Items
 
 | Armor | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Armor/Rimworld/Shield-Belt\|Shield Belt]] | 1 | 1 | 2 | 2 | 3 | 3 | 4 |
+| [Shield Belt](./Armor/Rimworld/Shield-Belt\.md) | 1 | 1 | 2 | 2 | 3 | 3 | 4 |
 
 ### Body Armor - Apparel
 
 | Armor | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Armor/Rimworld/Button-Down-Shirt\|Button-Down Shirt]] | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
-| [[Armor/Rimworld/T-Shirt\|T-Shirt]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
-| [[Armor/Rimworld/Tribalwear\|Tribalwear]] | 0 | 0 | 0 | 0 | 1 | 1 | 2 |
-| [[Armor/Rimworld/Pants\|Pants]] | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
-| [[Armor/Rimworld/Jacket\|Jacket]] | 0 | 0 | 0 | 1 | 1 | 1 | 2 |
-| [[Armor/Rimworld/Duster\|Duster]] | 0 | 0 | 1 | 1 | 1 | 2 | 2 |
-| [[Armor/Rimworld/Parka\|Parka]] | 0 | 0 | 1 | 1 | 2 | 2 | 3 |
+| [Button-Down Shirt](./Armor/Rimworld/Button-Down-Shirt\.md) | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
+| [T-Shirt](./Armor/Rimworld/T-Shirt\.md) | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [Tribalwear](./Armor/Rimworld/Tribalwear\.md) | 0 | 0 | 0 | 0 | 1 | 1 | 2 |
+| [Pants](./Armor/Rimworld/Pants\.md) | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
+| [Jacket](./Armor/Rimworld/Jacket\.md) | 0 | 0 | 0 | 1 | 1 | 1 | 2 |
+| [Duster](./Armor/Rimworld/Duster\.md) | 0 | 0 | 1 | 1 | 1 | 2 | 2 |
+| [Parka](./Armor/Rimworld/Parka\.md) | 0 | 0 | 1 | 1 | 2 | 2 | 3 |
 
 ---
 
@@ -72,28 +72,28 @@ The Vanilla Armor Expanded mod adds new armor pieces to Rimworld. For detailed i
 
 | Armor | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Armor/Rimworld/Vanilla-Armor-Expanded/Beret\|Beret]] | 0 | 0 | 0 | 0 | 1 | 1 | 2 |
-| [[Armor/Rimworld/Vanilla-Armor-Expanded/Military-Helmet\|Military Helmet]] | 0 | 1 | 1 | 2 | 2 | 3 | 4 |
-| [[Armor/Rimworld/Vanilla-Armor-Expanded/Balaclava\|Balaclava]] | 0 | 0 | 0 | 0 | 1 | 1 | 2 |
-| [[Armor/Rimworld/Vanilla-Armor-Expanded/Sombrero\|Sombrero]] | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
-| [[Armor/Rimworld/Vanilla-Armor-Expanded/Ballistic-Goggles\|Ballistic Goggles]] | 0 | 0 | 0 | 0 | 1 | 1 | 2 |
-| [[Armor/Rimworld/Vanilla-Armor-Expanded/Siegebreaker-Helmet\|Siegebreaker Helmet]] | 2 | 2 | 3 | 3 | 4 | 4 | 5 |
-| [[Armor/Rimworld/Vanilla-Armor-Expanded/Prestige-Siegebreaker-Helmet\|Prestige Siegebreaker Helmet]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [Beret](./Armor/Rimworld/Vanilla-Armor-Expanded/Beret\.md) | 0 | 0 | 0 | 0 | 1 | 1 | 2 |
+| [Military Helmet](./Armor/Rimworld/Vanilla-Armor-Expanded/Military-Helmet\.md) | 0 | 1 | 1 | 2 | 2 | 3 | 4 |
+| [Balaclava](./Armor/Rimworld/Vanilla-Armor-Expanded/Balaclava\.md) | 0 | 0 | 0 | 0 | 1 | 1 | 2 |
+| [Sombrero](./Armor/Rimworld/Vanilla-Armor-Expanded/Sombrero\.md) | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
+| [Ballistic Goggles](./Armor/Rimworld/Vanilla-Armor-Expanded/Ballistic-Goggles\.md) | 0 | 0 | 0 | 0 | 1 | 1 | 2 |
+| [Siegebreaker Helmet](./Armor/Rimworld/Vanilla-Armor-Expanded/Siegebreaker-Helmet\.md) | 2 | 2 | 3 | 3 | 4 | 4 | 5 |
+| [Prestige Siegebreaker Helmet](./Armor/Rimworld/Vanilla-Armor-Expanded/Prestige-Siegebreaker-Helmet\.md) | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
 
 ### Vanilla Armor Expanded Body Armor
 
 | Armor | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Armor/Rimworld/Vanilla-Armor-Expanded/Gambeson\|Gambeson]] | 0 | 1 | 1 | 1 | 2 | 2 | 3 |
-| [[Armor/Rimworld/Vanilla-Armor-Expanded/Cuirass\|Cuirass]] | 0 | 1 | 2 | 2 | 3 | 3 | 4 |
-| [[Armor/Rimworld/Vanilla-Armor-Expanded/Plate-Armor\|Plate Armor]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
-| [[Armor/Rimworld/Vanilla-Armor-Expanded/Jumpsuit\|Jumpsuit]] | 0 | 0 | 1 | 1 | 2 | 2 | 3 |
-| [[Armor/Rimworld/Vanilla-Armor-Expanded/Poncho\|Poncho]] | 0 | 0 | 0 | 0 | 1 | 1 | 2 |
-| [[Armor/Rimworld/Vanilla-Armor-Expanded/Soft-Armor-Vest\|Soft Armor Vest]] | 0 | 1 | 1 | 2 | 2 | 3 | 4 |
-| [[Armor/Rimworld/Vanilla-Armor-Expanded/Flak-Armor\|Flak Armor]] | 0 | 1 | 2 | 2 | 3 | 3 | 4 |
-| [[Armor/Rimworld/Vanilla-Armor-Expanded/Frag-Suit\|Frag Suit]] | 0 | 1 | 2 | 2 | 3 | 3 | 4 |
-| [[Armor/Rimworld/Vanilla-Armor-Expanded/Siegebreaker-Armor\|Siegebreaker Armor]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
-| [[Armor/Rimworld/Vanilla-Armor-Expanded/Prestige-Siegebreaker-Armor\|Prestige Siegebreaker Armor]] | 2 | 3 | 4 | 4 | 5 | 5 | 6 |
+| [Gambeson](./Armor/Rimworld/Vanilla-Armor-Expanded/Gambeson\.md) | 0 | 1 | 1 | 1 | 2 | 2 | 3 |
+| [Cuirass](./Armor/Rimworld/Vanilla-Armor-Expanded/Cuirass\.md) | 0 | 1 | 2 | 2 | 3 | 3 | 4 |
+| [Plate Armor](./Armor/Rimworld/Vanilla-Armor-Expanded/Plate-Armor\.md) | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [Jumpsuit](./Armor/Rimworld/Vanilla-Armor-Expanded/Jumpsuit\.md) | 0 | 0 | 1 | 1 | 2 | 2 | 3 |
+| [Poncho](./Armor/Rimworld/Vanilla-Armor-Expanded/Poncho\.md) | 0 | 0 | 0 | 0 | 1 | 1 | 2 |
+| [Soft Armor Vest](./Armor/Rimworld/Vanilla-Armor-Expanded/Soft-Armor-Vest\.md) | 0 | 1 | 1 | 2 | 2 | 3 | 4 |
+| [Flak Armor](./Armor/Rimworld/Vanilla-Armor-Expanded/Flak-Armor\.md) | 0 | 1 | 2 | 2 | 3 | 3 | 4 |
+| [Frag Suit](./Armor/Rimworld/Vanilla-Armor-Expanded/Frag-Suit\.md) | 0 | 1 | 2 | 2 | 3 | 3 | 4 |
+| [Siegebreaker Armor](./Armor/Rimworld/Vanilla-Armor-Expanded/Siegebreaker-Armor\.md) | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [Prestige Siegebreaker Armor](./Armor/Rimworld/Vanilla-Armor-Expanded/Prestige-Siegebreaker-Armor\.md) | 2 | 3 | 4 | 4 | 5 | 5 | 6 |
 
 ---
 
@@ -107,8 +107,8 @@ The Vanilla Factions Expanded mod series adds armor and apparel unique to variou
 
 | Armor | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Armor/Rimworld/Vanilla-Factions-Expanded/Settlers/Cowboy-Hat\|Cowboy Hat]] | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
-| [[Armor/Rimworld/Vanilla-Factions-Expanded/Settlers/Western-Duster\|Western Duster]] | 0 | 0 | 1 | 1 | 1 | 2 | 2 |
+| [Cowboy Hat](./Armor/Rimworld/Vanilla-Factions-Expanded/Settlers/Cowboy-Hat\.md) | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
+| [Western Duster](./Armor/Rimworld/Vanilla-Factions-Expanded/Settlers/Western-Duster\.md) | 0 | 0 | 1 | 1 | 1 | 2 | 2 |
 
 ### Vanilla Factions Expanded - Vikings
 
@@ -116,14 +116,14 @@ The Vanilla Factions Expanded mod series adds armor and apparel unique to variou
 
 | Armor | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Armor/Rimworld/Vanilla-Factions-Expanded/Vikings/Viking-Helmet\|Viking Helmet]] | 0 | 1 | 1 | 2 | 2 | 3 | 4 |
+| [Viking Helmet](./Armor/Rimworld/Vanilla-Factions-Expanded/Vikings/Viking-Helmet\.md) | 0 | 1 | 1 | 2 | 2 | 3 | 4 |
 
 **Body Armor:**
 
 | Armor | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Armor/Rimworld/Vanilla-Factions-Expanded/Vikings/Viking-Armor\|Viking Armor]] | 0 | 1 | 2 | 2 | 3 | 3 | 4 |
-| [[Armor/Rimworld/Vanilla-Factions-Expanded/Vikings/Cryptotech-Armor\|Cryptotech Armor]] | 2 | 2 | 3 | 3 | 4 | 4 | 5 |
+| [Viking Armor](./Armor/Rimworld/Vanilla-Factions-Expanded/Vikings/Viking-Armor\.md) | 0 | 1 | 2 | 2 | 3 | 3 | 4 |
+| [Cryptotech Armor](./Armor/Rimworld/Vanilla-Factions-Expanded/Vikings/Cryptotech-Armor\.md) | 2 | 2 | 3 | 3 | 4 | 4 | 5 |
 
 ### Vanilla Factions Expanded - Pirates
 
@@ -131,8 +131,8 @@ The Vanilla Factions Expanded mod series adds armor and apparel unique to variou
 
 | Armor | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Armor/Rimworld/Vanilla-Factions-Expanded/Pirates/Warcasket\|Warcasket]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
-| [[Armor/Rimworld/Vanilla-Factions-Expanded/Pirates/Pirate-Apparel\|Pirate Apparel]] | 0 | 0 | 0 | 1 | 1 | 1 | 2 |
+| [Warcasket](./Armor/Rimworld/Vanilla-Factions-Expanded/Pirates/Warcasket\.md) | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [Pirate Apparel](./Armor/Rimworld/Vanilla-Factions-Expanded/Pirates/Pirate-Apparel\.md) | 0 | 0 | 0 | 1 | 1 | 1 | 2 |
 
 ### Vanilla Factions Expanded - Medieval
 
@@ -140,13 +140,13 @@ The Vanilla Factions Expanded mod series adds armor and apparel unique to variou
 
 | Armor | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Armor/Rimworld/Vanilla-Factions-Expanded/Medieval/Medieval-Helmet\|Medieval Helmet]] | 0 | 1 | 2 | 2 | 3 | 3 | 4 |
+| [Medieval Helmet](./Armor/Rimworld/Vanilla-Factions-Expanded/Medieval/Medieval-Helmet\.md) | 0 | 1 | 2 | 2 | 3 | 3 | 4 |
 
 **Body Armor:**
 
 | Armor | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Armor/Rimworld/Vanilla-Factions-Expanded/Medieval/Medieval-Armor\|Medieval Armor]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [Medieval Armor](./Armor/Rimworld/Vanilla-Factions-Expanded/Medieval/Medieval-Armor\.md) | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
 
 ### Vanilla Factions Expanded - Insectoids
 
@@ -154,19 +154,19 @@ The Vanilla Factions Expanded mod series adds armor and apparel unique to variou
 
 | Armor | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Armor/Rimworld/Vanilla-Factions-Expanded/Insectoids/Riot-Helmet\|Riot Helmet]] | 1 | 1 | 2 | 2 | 3 | 3 | 4 |
+| [Riot Helmet](./Armor/Rimworld/Vanilla-Factions-Expanded/Insectoids/Riot-Helmet\.md) | 1 | 1 | 2 | 2 | 3 | 3 | 4 |
 
 **Body Armor:**
 
 | Armor | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Armor/Rimworld/Vanilla-Factions-Expanded/Insectoids/Riot-Armor\|Riot Armor]] | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
+| [Riot Armor](./Armor/Rimworld/Vanilla-Factions-Expanded/Insectoids/Riot-Armor\.md) | 1 | 2 | 2 | 3 | 3 | 4 | 5 |
 
 **Shields:**
 
 | Armor | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Armor/Rimworld/Vanilla-Factions-Expanded/Insectoids/Riot-Shield\|Riot Shield]] | 0 | 0 | 1 | 1 | 2 | 2 | 3 |
+| [Riot Shield](./Armor/Rimworld/Vanilla-Factions-Expanded/Insectoids/Riot-Shield\.md) | 0 | 0 | 1 | 1 | 2 | 2 | 3 |
 
 ### Vanilla Factions Expanded - Ancients
 
@@ -174,8 +174,8 @@ The Vanilla Factions Expanded mod series adds armor and apparel unique to variou
 
 | Armor | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Armor/Rimworld/Vanilla-Factions-Expanded/Ancients/Ancient-Armor\|Ancient Armor]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
-| [[Armor/Rimworld/Vanilla-Factions-Expanded/Ancients/Super-Soldier-Apparel\|Super-Soldier Apparel]] | 1 | 1 | 2 | 2 | 3 | 3 | 4 |
+| [Ancient Armor](./Armor/Rimworld/Vanilla-Factions-Expanded/Ancients/Ancient-Armor\.md) | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [Super-Soldier Apparel](./Armor/Rimworld/Vanilla-Factions-Expanded/Ancients/Super-Soldier-Apparel\.md) | 1 | 1 | 2 | 2 | 3 | 3 | 4 |
 
 ### Vanilla Factions Expanded - Empire
 
@@ -183,8 +183,8 @@ The Vanilla Factions Expanded mod series adds armor and apparel unique to variou
 
 | Armor | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Armor/Rimworld/Vanilla-Factions-Expanded/Empire/Imperial-Uniform\|Imperial Uniform]] | 0 | 0 | 1 | 1 | 1 | 2 | 2 |
-| [[Armor/Rimworld/Vanilla-Factions-Expanded/Empire/Prestige-Apparel\|Prestige Apparel]] | 0 | 1 | 1 | 2 | 2 | 3 | 3 |
+| [Imperial Uniform](./Armor/Rimworld/Vanilla-Factions-Expanded/Empire/Imperial-Uniform\.md) | 0 | 0 | 1 | 1 | 1 | 2 | 2 |
+| [Prestige Apparel](./Armor/Rimworld/Vanilla-Factions-Expanded/Empire/Prestige-Apparel\.md) | 0 | 1 | 1 | 2 | 2 | 3 | 3 |
 
 ---
 

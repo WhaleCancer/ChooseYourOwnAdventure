@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../Stellar-Adventures/Laser-Sword|Stellar Adventures Laser Sword]] (AI-enhanced persona weapon)
+**Corresponds to:** [Stellar Adventures Laser Sword](../Stellar-Adventures/Laser-Sword.md) (AI-enhanced persona weapon)
 
 
 ## Damage Track

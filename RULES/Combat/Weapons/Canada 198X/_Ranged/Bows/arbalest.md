@@ -1,6 +1,6 @@
 # arbalest
 
-**Variant of:** [[../Fighting-Fantasy/Crossbow|Fighting Fantasy Crossbow]]
+**Variant of:** [Fighting Fantasy Crossbow](../Fighting-Fantasy/Crossbow.md)
 
 ## Damage Track
 

@@ -5,14 +5,14 @@
 
 ## Overview
 
-Beneath the surface of the mid-1980s Pacific Northwest, an invisible war is waged with chemicals, contracts, and "improvements" to everyday life. Shadowy government agencies, big agribusiness, and carefully steered scientific societies are complicit—wittingly or not—in making the population more vulnerable to [[Creatures/Supernatural/Elohim|Archon]] influence and emotional harvesting.
+Beneath the surface of the mid-1980s Pacific Northwest, an invisible war is waged with chemicals, contracts, and "improvements" to everyday life. Shadowy government agencies, big agribusiness, and carefully steered scientific societies are complicit—wittingly or not—in making the population more vulnerable to [Archon](./Creatures/Supernatural/Elohim.md) influence and emotional harvesting.
 
 ## How It Works
 
 ### 1. The Additive Network
 
 - Fluoridated water, "fortified" cereals, antipsychotic-laced vaccine lots, "experimental" pesticides and food preservatives—all distributed via well-meaning or secret government programs "for public health."
-- In reality, these contain subtle Archon-engineered psychoactive agents. The effect is cumulative: increased fatigue, reduced willpower, spiritual malaise, patterns of anxiety and passivity, and—most importantly—a suppressed ability to resist psychic invasion, abduction, or emotional harvesting. These chemicals work in conjunction with the [[Phenomena/Frequency-Fences|Frequency Fence]] to make humans more vulnerable to the Archons' emotional vampirism.
+- In reality, these contain subtle Archon-engineered psychoactive agents. The effect is cumulative: increased fatigue, reduced willpower, spiritual malaise, patterns of anxiety and passivity, and—most importantly—a suppressed ability to resist psychic invasion, abduction, or emotional harvesting. These chemicals work in conjunction with the [Frequency Fence](./Phenomena/Frequency-Fences.md) to make humans more vulnerable to the Archons' emotional vampirism.
 - Scientific papers are forged or "adjusted" by deep-cover contacts; opposition is marginalized as cranks or lunatics.
 
 ### 2. The Delivery Systems
@@ -49,15 +49,15 @@ Beneath the surface of the mid-1980s Pacific Northwest, an invisible war is wage
 
 ## Key Corporations
 
-- **[[Factions/Corporations/Veridine-Solutions|Veridine Solutions Ltd.]]** - Central node in the additive network
-- **[[Factions/Corporations/WestNutr|WestNutr]]** - Food processing with mind control additives
+- **[Veridine Solutions Ltd.](./Factions/Corporations/Veridine-Solutions.md)** - Central node in the additive network
+- **[WestNutr](./Factions/Corporations/WestNutr.md)** - Food processing with mind control additives
 - Various shell companies and front operations
 
 ## Factions & Resistance
 
 - **The Loyal Opposition:** Rogue scientists, water engineers, and activist doctors who know something is wrong, but can't trust any official channels.
 - **Cult of Purity:** Fringe "clean food" and "living water" cults, some infiltrated by Archon spies or deranged by chemical withdrawal, yet some genuinely able to resist possession and emotional harvesting through ritualized diets and secret purges.
-- **Spiritual Protectors:** [[Factions/Circle-of-Watchers|First Nations elders and healers]], who use traditional knowledge (and perhaps ancient spiritual "detox" rituals) to counter Archon vibration dampening and emotional vampirism. Resistance is concentrated among those who have kept their old foodways and water sources, maintaining stronger spiritual and emotional defenses.
+- **Spiritual Protectors:** [First Nations elders and healers](./Factions/Circle-of-Watchers.md), who use traditional knowledge (and perhaps ancient spiritual "detox" rituals) to counter Archon vibration dampening and emotional vampirism. Resistance is concentrated among those who have kept their old foodways and water sources, maintaining stronger spiritual and emotional defenses.
 
 ## Hooks & Encounters
 

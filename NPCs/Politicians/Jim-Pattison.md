@@ -10,7 +10,7 @@
 
 ## Connection to The Hand
 
-Jim Pattison is a member of [[Factions/The-Hand|The Hand]], a secret cabal of wealthy individuals resisting alien influence. His connections to Expo 86 and extensive business networks make him a valuable asset to The Hand's operations.
+Jim Pattison is a member of [The Hand](./Factions/The-Hand.md), a secret cabal of wealthy individuals resisting alien influence. His connections to Expo 86 and extensive business networks make him a valuable asset to The Hand's operations.
 
 ## Expo 86 Connection
 

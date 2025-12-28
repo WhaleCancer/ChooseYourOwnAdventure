@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../../../Fighting-Fantasy/Handaxe|Fighting Fantasy Handaxe]] (throwing axe)
+**Corresponds to:** [Fighting Fantasy Handaxe](../../../Fighting-Fantasy/Handaxe.md) (throwing axe)
 
 
 ## Damage Track

@@ -6,7 +6,7 @@
 
 ## Overview
 
-The **Golden Doctrine** is Archon-supplied revelations and cult scriptures—never fully consistent and always laced with paradox. Includes messages received via dreams, trance, or "channeling" through possessed contactees. Various UFO cults, particularly the [[Factions/Cults/Star-Communion|Star Communion]], use these teachings as the basis for their beliefs, though the Doctrine is inherently contradictory and designed to keep humanity docile and worshipful.
+The **Golden Doctrine** is Archon-supplied revelations and cult scriptures—never fully consistent and always laced with paradox. Includes messages received via dreams, trance, or "channeling" through possessed contactees. Various UFO cults, particularly the [Star Communion](./Factions/Cults/Star-Communion.md), use these teachings as the basis for their beliefs, though the Doctrine is inherently contradictory and designed to keep humanity docile and worshipful.
 
 ## Excerpts & Slogans
 
@@ -64,7 +64,7 @@ _(often heard as signal hour mantras or injected TV slogans)_
 
 ## Usage/Encounter Suggestions
 
-- PCs might find the Golden Doctrine hand-written in an abductee's notebook, whispered by the possessed during [[Phenomena/Signal-Hour|Signal Hour]], or recited by cult leaders at public "blessings"
+- PCs might find the Golden Doctrine hand-written in an abductee's notebook, whispered by the possessed during [Signal Hour](./Phenomena/Signal-Hour.md), or recited by cult leaders at public "blessings"
 - Phrases from the Doctrine are inserted in commercial jingles, repeated as "protective" daily prayers, or printed on leaflets distributed to towns during "harvest" events
 - Some entries are mnemonic triggers—upon hearing or reading a certain stanza, afflicted characters may blank out, act compulsively, or enter trance
 

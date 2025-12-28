@@ -33,9 +33,9 @@ Peacekeepers are:
 
 Peacekeepers typically carry:
 
-- **SASG** - Semi-automatic shotgun (use [[../../Weapons/Canada 198X/_Ranged/Shotguns/Pump Shotgun|Pump Shotgun]] stats or similar), their primary weapon for devastating close-range blasts
-- **Red tear gas** - [[../../Weapons/Less-Lethal/Tear-Gas|Tear gas canisters]] (red variant) to flush opponents out of cover
-- **Riot gear** - [[../../Weapons/Personal-Armor/Riot-Gear|Full riot gear]] including riot helmet, body protection, and leg/arm guards
+- **SASG** - Semi-automatic shotgun (use [Pump Shotgun](../../Weapons/Canada 198X/_Ranged/Shotguns/Pump Shotgun.md) stats or similar), their primary weapon for devastating close-range blasts
+- **Red tear gas** - [Tear gas canisters](../../Weapons/Less-Lethal/Tear-Gas.md) (red variant) to flush opponents out of cover
+- **Riot gear** - [Full riot gear](../../Weapons/Personal-Armor/Riot-Gear.md) including riot helmet, body protection, and leg/arm guards
 - **Bullet-proof armor** - Enhanced body armor providing exceptional protection
 - **Police equipment** - Standard police gear (handcuffs, radio, etc.)
 - **Ritual items** - Symbols, fetishes, or artifacts related to their dark indoctrination

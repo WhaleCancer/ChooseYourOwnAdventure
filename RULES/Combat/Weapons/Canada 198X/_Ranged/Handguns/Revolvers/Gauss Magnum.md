@@ -1,6 +1,6 @@
 # gauss magnum
 
-**Variant of:** [[../../Stellar-Adventures/Pistol-Rifle|Stellar Adventures Pistol/Rifle]]
+**Variant of:** [Stellar Adventures Pistol/Rifle](../../Stellar-Adventures/Pistol-Rifle.md)
 
 ## Damage Track
 

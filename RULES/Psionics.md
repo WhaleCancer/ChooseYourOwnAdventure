@@ -139,7 +139,7 @@ Directors should make clear in‑world that psionics, like cyberware, offer **re
 
 The following psionic traditions are available in EPIC. Each tradition contains multiple abilities that Characters can learn:
 
-- [[RULES/Psionics-Traditions/Harvest-Psionic-Tradition|Harvest Psionic Tradition (Dark Psionics)]] - Mental manipulation, fear, and control
-- [[RULES/Psionics-Traditions/Medic-Psionic-Tradition|Medic Psionic Tradition (Mental Healer)]] - Healing, empathy, and protective abilities
-- [[RULES/Psionics-Traditions/Navigation-Psionic-Tradition|Navigation Psionic Tradition (Astronavigator)]] - Piloting craft, manipulating sensors, and protecting vehicles
-- [[RULES/Psionics-Traditions/Oracle-Psionic-Tradition|Oracle Psionic Tradition (Academic Psionicist)]] - Perception, precognition, and remote sensing
+- [Harvest Psionic Tradition (Dark Psionics)](./RULES/Psionics-Traditions/Harvest-Psionic-Tradition.md) - Mental manipulation, fear, and control
+- [Medic Psionic Tradition (Mental Healer)](./RULES/Psionics-Traditions/Medic-Psionic-Tradition.md) - Healing, empathy, and protective abilities
+- [Navigation Psionic Tradition (Astronavigator)](./RULES/Psionics-Traditions/Navigation-Psionic-Tradition.md) - Piloting craft, manipulating sensors, and protecting vehicles
+- [Oracle Psionic Tradition (Academic Psionicist)](./RULES/Psionics-Traditions/Oracle-Psionic-Tradition.md) - Perception, precognition, and remote sensing

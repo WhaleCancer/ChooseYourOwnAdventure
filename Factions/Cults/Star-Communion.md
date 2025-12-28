@@ -22,7 +22,7 @@ From its beginnings in the Pacific Northwest, the Communion expanded through loc
 
 ## Core Beliefs
 
-At the heart of the Star Communion's doctrine is the conviction that the [[Creatures/Aliens/Greys|Greys]]—referred to as the **Gentle Masters**—are peaceful cosmic caretakers, not abductors. The group teaches that these beings are misunderstood, and that true encounters with them are invitations for spiritual advancement, not acts of coercion.
+At the heart of the Star Communion's doctrine is the conviction that the [Greys](./Creatures/Aliens/Greys.md)—referred to as the **Gentle Masters**—are peaceful cosmic caretakers, not abductors. The group teaches that these beings are misunderstood, and that true encounters with them are invitations for spiritual advancement, not acts of coercion.
 
 ### The Gentle Masters (Greys)
 
@@ -78,7 +78,7 @@ Notable figures include founder Professor Lionel Finch, inner circle leader Joan
 ## The Truth
 
 > [!Danger] The Truth
-> The Star Communion's belief in "Gentle Masters" is a dangerous delusion. The Greys are not benevolent spiritual guides but biological constructs controlled by the [[Creatures/Supernatural/Elohim|Elohim]]. The "voluntary contact" is actually abduction, and the "sacred implants" are tracking devices. The cult serves the interests of the Elohim by creating willing subjects for their operations.
+> The Star Communion's belief in "Gentle Masters" is a dangerous delusion. The Greys are not benevolent spiritual guides but biological constructs controlled by the [Elohim](./Creatures/Supernatural/Elohim.md). The "voluntary contact" is actually abduction, and the "sacred implants" are tracking devices. The cult serves the interests of the Elohim by creating willing subjects for their operations.
 
 ## In Play
 

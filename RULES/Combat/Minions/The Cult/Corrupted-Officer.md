@@ -32,7 +32,7 @@ Corrupted Officers are:
 
 Corrupted Officers typically carry:
 
-- **Magnum Revolvers** - [[../../Weapons/Canada 198X/_Ranged/Handguns/Revolvers/Heavy Revolver|.357 Magnum revolvers]] or [[../../Weapons/Canada 198X/_Ranged/Handguns/Revolvers/Hand Cannon|.44 Magnum revolvers]], their primary weapons
+- **Magnum Revolvers** - [.357 Magnum revolvers](../../Weapons/Canada 198X/_Ranged/Handguns/Revolvers/Heavy Revolver.md) or [.44 Magnum revolvers](../../Weapons/Canada 198X/_Ranged/Handguns/Revolvers/Hand Cannon.md), their primary weapons
 - **Police uniforms** - Standard police uniforms with unbuttoned shirts revealing the Cult mark
 - **Police equipment** - Standard police gear (handcuffs, radio, etc.)
 - **Ritual items** - Symbols, fetishes, or artifacts related to their dark indoctrination

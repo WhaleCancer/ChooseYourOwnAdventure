@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../Stellar-Adventures/Heavy-Laser|Stellar Adventures Heavy Laser]] (powerful long-range energy weapon)
+**Corresponds to:** [Stellar Adventures Heavy Laser](../Stellar-Adventures/Heavy-Laser.md) (powerful long-range energy weapon)
 
 
 ## Damage Track

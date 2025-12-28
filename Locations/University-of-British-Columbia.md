@@ -6,7 +6,7 @@
 
 ## Overview
 
-**The University of British Columbia (UBC)** is home to leading programs in environmental science, forestry, engineering, psychology… and a small but surprisingly well-funded **anomalous phenomena research group** buried within the Department of Earth, Ocean and Atmospheric Sciences. Officially, they work on geomagnetic anomalies, environmental signals, and indigenous traditions of the Pacific Northwest. Unofficially, they're the go-to academic consultants for government departments and corporations (like [[Factions/Corporations/Orion-International|ORION]]) whenever the data shows "unexplainables."
+**The University of British Columbia (UBC)** is home to leading programs in environmental science, forestry, engineering, psychology… and a small but surprisingly well-funded **anomalous phenomena research group** buried within the Department of Earth, Ocean and Atmospheric Sciences. Officially, they work on geomagnetic anomalies, environmental signals, and indigenous traditions of the Pacific Northwest. Unofficially, they're the go-to academic consultants for government departments and corporations (like [ORION](./Factions/Corporations/Orion-International.md)) whenever the data shows "unexplainables."
 
 ## What They Know
 
@@ -29,7 +29,7 @@
 ## Connections with the Elohim/Greys Conspiracy
 
 - **Some researchers have experienced missing time or blackouts after fieldwork at "hot spots"**—and a few come back subtly changed.
-- **A once-respected professor has secretly joined (or founded) a cult** akin to [[Factions/Cults/Star-Communion|The Star Communion]], using her academic credentials to lend legitimacy.
+- **A once-respected professor has secretly joined (or founded) a cult** akin to [The Star Communion](./Factions/Cults/Star-Communion.md), using her academic credentials to lend legitimacy.
 - **Occasional odd requests come in via the government** for "experts" on ancient languages, meta-materials, or unconscious "mass dream phenomena."
 - **A hidden sub-basement or lost storage room on campus** contains confiscated artifacts and deviant biological samples—often with security that's much too tight for academic property.
 

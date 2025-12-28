@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../Fighting-Fantasy/Sword|Fighting Fantasy Sword]] (curved pirate sword)
+**Corresponds to:** [Fighting Fantasy Sword](../Fighting-Fantasy/Sword.md) (curved pirate sword)
 
 
 ## Damage Track

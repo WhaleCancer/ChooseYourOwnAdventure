@@ -1,6 +1,6 @@
 # Mutations Table
 
-When a Character with the [[RULES/Talents/Mutant|Mutant]] talent is created, roll 1D3 to determine how many mutations they have, then roll on this table for each mutation.
+When a Character with the [Mutant](./RULES/Talents/Mutant.md) talent is created, roll 1D3 to determine how many mutations they have, then roll on this table for each mutation.
 
 ## Rolling Mutations
 

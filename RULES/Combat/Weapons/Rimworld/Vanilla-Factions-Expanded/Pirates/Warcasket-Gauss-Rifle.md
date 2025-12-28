@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system. Warcasket weapons are huge, vehicle-scale weapons integrated into warcasket armor systems.
 
-**Corresponds to:** [[../../Stellar-Adventures/Laser-Rifle|Stellar Adventures Laser Rifle]] (gauss/coilgun weapon)
+**Corresponds to:** [Stellar Adventures Laser Rifle](../../Stellar-Adventures/Laser-Rifle.md) (gauss/coilgun weapon)
 
 
 ## Damage Track

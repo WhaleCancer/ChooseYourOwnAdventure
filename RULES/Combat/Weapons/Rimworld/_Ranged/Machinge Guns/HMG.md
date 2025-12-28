@@ -1,6 +1,6 @@
 # HMG
 
-**Variant of:** [[../Stellar-Adventures/Machine-Gun|Stellar Adventures Machine Gun]]
+**Variant of:** [Stellar Adventures Machine Gun](../Stellar-Adventures/Machine-Gun.md)
 
 ## Damage Track
 

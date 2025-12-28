@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../Fighting-Fantasy/Club|Fighting Fantasy Club]] (basic wooden club)
+**Corresponds to:** [Fighting Fantasy Club](../Fighting-Fantasy/Club.md) (basic wooden club)
 
 
 ## Damage Track

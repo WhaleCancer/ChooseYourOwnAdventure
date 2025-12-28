@@ -10,21 +10,21 @@ As in most other RPG's, combat is split into rounds, each of which is about 10 s
 
 ## Combat Structure
 
-- **[[Order-of-Actions]]** - How actions are resolved in a round
-- **[[Melee-Combat]]** - Melee combat rules
-- **[[#Ranged Combat|Ranged Combat]]** - Firearms and ranged weapon rules
-- **[[Critical-Hits]]** - Extraordinary successes
-- **[[Fumbles]]** - Catastrophic failures
-- **[[#Powerful Attacks|Powerful Attacks]]** - Overwhelming strikes
-- **[[Death-and-Dying]]** - What happens when STAMINA POINTS reach 0
+- **[Order Of Actions](./Order-of-Actions.md)** - How actions are resolved in a round
+- **[Melee Combat](./Melee-Combat.md)** - Melee combat rules
+- **[Ranged Combat](./#Ranged Combat.md)** - Firearms and ranged weapon rules
+- **[Critical Hits](./Critical-Hits.md)** - Extraordinary successes
+- **[Fumbles](./Fumbles.md)** - Catastrophic failures
+- **[Powerful Attacks](./#Powerful Attacks.md)** - Overwhelming strikes
+- **[Death And Dying](./Death-and-Dying.md)** - What happens when STAMINA POINTS reach 0
 
 ## Order of Actions
 
-See **[[Order-of-Actions]]** for detailed rules on how actions are resolved in combat rounds, including delaying actions and early actions.
+See **[Order Of Actions](./Order-of-Actions.md)** for detailed rules on how actions are resolved in combat rounds, including delaying actions and early actions.
 
 ## Hand-to-Hand Combat
 
-See **[[Melee-Combat]]** for detailed rules on hand-to-hand combat, including combat totals, damage, and armor.
+See **[Melee Combat](./Melee-Combat.md)** for detailed rules on hand-to-hand combat, including combat totals, damage, and armor.
 
 ## Ranged Combat
 
@@ -32,11 +32,11 @@ Two enemies shooting at each other with ranged weapons should each attempt to be
 
 ## Critical Hits
 
-See **[[Critical-Hits]]** for detailed rules on critical hits, including automatic wins, damage, and LUCK tests.
+See **[Critical Hits](./Critical-Hits.md)** for detailed rules on critical hits, including automatic wins, damage, and LUCK tests.
 
 ## Fumbles
 
-See **[[Fumbles]]** for detailed rules on fumbles, including automatic losses and LUCK tests.
+See **[Fumbles](./Fumbles.md)** for detailed rules on fumbles, including automatic losses and LUCK tests.
 
 ## Powerful Attacks
 
@@ -84,4 +84,4 @@ If an Character needs to get somewhere, but their movement has been restricted b
 
 ## Death & Dying
 
-See **[[Death-and-Dying]]** for detailed rules on what happens when STAMINA POINTS reach 0, including death mechanics, First Aid, and the dying process.
+See **[Death And Dying](./Death-and-Dying.md)** for detailed rules on what happens when STAMINA POINTS reach 0, including death mechanics, First Aid, and the dying process.

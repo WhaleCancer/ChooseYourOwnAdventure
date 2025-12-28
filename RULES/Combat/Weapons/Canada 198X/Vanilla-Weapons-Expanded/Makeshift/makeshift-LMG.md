@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../Stellar-Adventures/Machine-Gun|Stellar Adventures Machine Gun]] (light machine gun)
+**Corresponds to:** [Stellar Adventures Machine Gun](../Stellar-Adventures/Machine-Gun.md) (light machine gun)
 
 
 ## Damage Track

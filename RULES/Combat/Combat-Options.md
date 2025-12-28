@@ -6,43 +6,43 @@ Most of the time, shoot‑outs and bar fights in EPIC can be resolved using the 
 
 The Advanced Fighting Fantasy 2nd Edition rulebook introduces several combat options that allow Heroes to modify their combat approach.
 
-- [[Combat-Options/All-Out-Attack|All Out Attack]]
-- [[Combat-Options/Defensive-Stance|Defensive Stance]]
-- [[Combat-Options/Feint|Feint]]
-- [[Combat-Options/Rapid-Shot|Rapid Shot]]
-- [[Combat-Options/Push-Back|Push Back]]
+- [All Out Attack](./Combat-Options/All-Out-Attack.md)
+- [Defensive Stance](./Combat-Options/Defensive-Stance.md)
+- [Feint](./Combat-Options/Feint.md)
+- [Rapid Shot](./Combat-Options/Rapid-Shot.md)
+- [Push Back](./Combat-Options/Push-Back.md)
 
 ## Stellar Adventures (CB77011, Page 31) [Page 0031](../../../CB77011_stellar-adventures_Pages/page_0031.png)
 
 The Stellar Adventures rulebook introduces additional combat options providing tactical choices for characters in ranged and melee combat situations.
 
-- [[Combat-Options/Assist|Assist]]
-- [[Combat-Options/Defensive-Stance|Defensive Stance]]
-- [[Combat-Options/Disarm|Disarm]]
-- [[Combat-Options/Feint|Feint]]
-- [[Combat-Options/Hyperfire|Hyperfire]]
-- [[Combat-Options/Long-Shot|Long Shot]]
-- [[Combat-Options/Push-Back|Push Back]]
-- [[Combat-Options/Rapid-Shot|Rapid Shot]]
-- [[Combat-Options/Sniper-Shot|Sniper Shot]]
-- [[Combat-Options/Quickshot|Quickshot]]
+- [Assist](./Combat-Options/Assist.md)
+- [Defensive Stance](./Combat-Options/Defensive-Stance.md)
+- [Disarm](./Combat-Options/Disarm.md)
+- [Feint](./Combat-Options/Feint.md)
+- [Hyperfire](./Combat-Options/Hyperfire.md)
+- [Long Shot](./Combat-Options/Long-Shot.md)
+- [Push Back](./Combat-Options/Push-Back.md)
+- [Rapid Shot](./Combat-Options/Rapid-Shot.md)
+- [Sniper Shot](./Combat-Options/Sniper-Shot.md)
+- [Quickshot](./Combat-Options/Quickshot.md)
 
 ## Combat Companion (CB77021, Pages 24-27) [Page 0024](../../../CB77021_Combat_Companion_Pages/adapted/page_0024.png) [Page 0025](../../../CB77021_Combat_Companion_Pages/adapted/page_0025.png) [Page 0026](../../../CB77021_Combat_Companion_Pages/adapted/page_0026.png) [Page 0027](../../../CB77021_Combat_Companion_Pages/adapted/page_0027.png)
 
 The Combat Companion supplement expands combat options with additional tactical choices.
 
-- [[Combat-Options/Assist|Assist]]
-- [[Combat-Options/Bypass-Armour|Bypass Armour]]
-- [[Combat-Options/Cautious-Attack|Cautious Attack]]
-- [[Combat-Options/Charging-Attack|Charging Attack]]
-- [[Combat-Options/Disarm|Disarm]]
-- [[Combat-Options/Dodging-Attack|Dodging Attack]]
-- [[Combat-Options/Double-Shot|Double Shot]]
-- [[Combat-Options/Frenzied-Attack|Frenzied Attack]]
-- [[Combat-Options/Stand-Firm|Stand Firm]]
-- [[Combat-Options/Sniper-Shot|Sniper Shot]]
-- [[Combat-Options/Tumbling-Attack|Tumbling Attack]]
-- [[Combat-Options/Whirlwind-Attack|Whirlwind Attack]]
+- [Assist](./Combat-Options/Assist.md)
+- [Bypass Armour](./Combat-Options/Bypass-Armour.md)
+- [Cautious Attack](./Combat-Options/Cautious-Attack.md)
+- [Charging Attack](./Combat-Options/Charging-Attack.md)
+- [Disarm](./Combat-Options/Disarm.md)
+- [Dodging Attack](./Combat-Options/Dodging-Attack.md)
+- [Double Shot](./Combat-Options/Double-Shot.md)
+- [Frenzied Attack](./Combat-Options/Frenzied-Attack.md)
+- [Stand Firm](./Combat-Options/Stand-Firm.md)
+- [Sniper Shot](./Combat-Options/Sniper-Shot.md)
+- [Tumbling Attack](./Combat-Options/Tumbling-Attack.md)
+- [Whirlwind Attack](./Combat-Options/Whirlwind-Attack.md)
 
 ---
 
@@ -50,4 +50,4 @@ The Combat Companion supplement expands combat options with additional tactical 
 
 A character may normally declare **one Combat Option per round** (unless the option says otherwise). The option must be **announced before rolling** any attacks that round. Unless noted, options apply to **one attack** or **one opposed combat** for that round only.
 
-Some options are only available to **melee attacks**, and some require particular **weapon types** (for example, automatic weapons or scoped rifles). Use the generic weapon types in [[RULES/Weapons\|Weapons]] to decide which options are legal.
+Some options are only available to **melee attacks**, and some require particular **weapon types** (for example, automatic weapons or scoped rifles). Use the generic weapon types in [Weapons](./RULES/Weapons\.md) to decide which options are legal.

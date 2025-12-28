@@ -1,6 +1,6 @@
 # battle rifle
 
-**Variant of:** [[../Stellar-Adventures/Assault-Rifle|Stellar Adventures Assault Rifle]]
+**Variant of:** [Stellar Adventures Assault Rifle](../Stellar-Adventures/Assault-Rifle.md)
 
 ## Damage Track
 

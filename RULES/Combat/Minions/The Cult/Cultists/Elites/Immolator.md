@@ -34,7 +34,7 @@ Immolators are:
 
 Immolators typically carry:
 
-- **Incinerator flamethrower** - [[../../Weapons/Stellar-Adventures/Energy-Weapons/Incinerator-Flamethrower|Incinerator flamethrower]], their primary weapon for devastating fire attacks
+- **Incinerator flamethrower** - [Incinerator flamethrower](../../Weapons/Stellar-Adventures/Energy-Weapons/Incinerator-Flamethrower.md), their primary weapon for devastating fire attacks
 - **Flame-proof jacket** - Dark brown bullet-proof and flame-proof jacket providing protection
 - **Gas mask** - Protects against chemical agents and obscures their identity
 - **Napalm tanks** - Fuel tanks that can explode if hit (weak spot)

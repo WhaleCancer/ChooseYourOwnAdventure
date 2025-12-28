@@ -1,6 +1,6 @@
 # dame dress
 
-**Variant of:** [[../../Stellar-Adventures/Armoured-Clothes|Stellar Adventures Armoured Clothes]]
+**Variant of:** [Stellar Adventures Armoured Clothes](../../Stellar-Adventures/Armoured-Clothes.md)
 
 ## Protection Track
 

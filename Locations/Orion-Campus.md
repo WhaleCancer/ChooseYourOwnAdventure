@@ -6,7 +6,7 @@
 
 ## Overview
 
-The **ORION International Command Campus** is the headquarters of [[Factions/Corporations/Orion-International|Orion International]], a massive facility hidden deep in the forests near Stave Lake. The campus serves as both the public face of ORION's resource and remote-sensing operations and the secret heart of their surveillance and anomaly research activities.
+The **ORION International Command Campus** is the headquarters of [Orion International](./Factions/Corporations/Orion-International.md), a massive facility hidden deep in the forests near Stave Lake. The campus serves as both the public face of ORION's resource and remote-sensing operations and the secret heart of their surveillance and anomaly research activities.
 
 ## Why Here?
 
@@ -51,7 +51,7 @@ The **ORION International Command Campus** is the headquarters of [[Factions/Cor
 
 - **Maintenance Sheds:** Supposedly for groundskeeping and vehicles; really, many are disguised storage units for field equipment or rapid-response gear.
 - **Satellite Dishes:** Arrayed in an arc behind the main building, screening the campus from aerial surveillance, always humming—some point at local sky, others at "deep" fields up and down the province.
-- **Bunkered Observation Post:** A low concrete 'weather station' on a nearby ridge—actually a disguised remote observation hub with direct line-of-sight to both the campus and a known [[Phenomena/Thin-Veil-Areas|thin veil area]] two kilometers east.
+- **Bunkered Observation Post:** A low concrete 'weather station' on a nearby ridge—actually a disguised remote observation hub with direct line-of-sight to both the campus and a known [thin veil area](./Phenomena/Thin-Veil-Areas.md) two kilometers east.
 
 ## Atmosphere and Stories
 
@@ -66,8 +66,8 @@ The **ORION International Command Campus** is the headquarters of [[Factions/Cor
 
 - A **data vault alarm** goes off—the PCs must investigate a breach during a thunderstorm, as power flickers and something (or someone) tries to escape the red-lit archives.
 - Satellite **prediction maps** go haywire: multiple thin veil events spike around Mission, and staff act increasingly distracted, forgetful, or "possessed."
-- **ORION security demands help** with a "field abduction" gone wrong in the woods east of the campus—it seems a [[Creatures/Aliens/Greys|Grey]] was caught by both ORION and a cult at once, and now they're all converging on a glimmering "door" in the forest.
-- A rogue scientist attempts to leak evidence to **[[Locations/University-of-British-Columbia|UBC]] or the press**, needing player intervention to make it off-site safely past Men in Black infiltrators posing as janitorial staff.
+- **ORION security demands help** with a "field abduction" gone wrong in the woods east of the campus—it seems a [Grey](./Creatures/Aliens/Greys.md) was caught by both ORION and a cult at once, and now they're all converging on a glimmering "door" in the forest.
+- A rogue scientist attempts to leak evidence to **[UBC](./Locations/University-of-British-Columbia.md) or the press**, needing player intervention to make it off-site safely past Men in Black infiltrators posing as janitorial staff.
 
 ## In Summary
 

@@ -1,6 +1,6 @@
 # double-barreled shotgun
 
-**Variant of:** [[../Stellar-Adventures/Shotgun|Stellar Adventures Shotgun]]
+**Variant of:** [Stellar Adventures Shotgun](../Stellar-Adventures/Shotgun.md)
 
 ## Damage Track
 

@@ -74,62 +74,62 @@ Detailed descriptions of social status paths have been extracted into separate f
 
 For the fantasy World of Titan campaign setting, detailed social status descriptions are available for:
 
-- [[Descriptions of Social Status/World-of-Titan/Popular-Acclaim|Popular Acclaim]] - Folk heroes, celebrities, and politicians
-- [[Descriptions of Social Status/World-of-Titan/Religious|Religious]] - Religious organizations and clergy
-- [[Descriptions of Social Status/World-of-Titan/Academia|Academia]] - Scholars, researchers, and academics
-- [[Descriptions of Social Status/World-of-Titan/Military|Military]] - Military ranks and structures
-- [[Descriptions of Social Status/World-of-Titan/Nobility|Nobility]] - Noble ranks and titles
-- [[Descriptions of Social Status/World-of-Titan/Secret-or-Private-Societies|Secret or Private Societies]] - Secret organizations and private clubs
-- [[Descriptions of Social Status/World-of-Titan/Mercantile|Mercantile]] - Business and trade
+- [Popular Acclaim](./Descriptions of Social Status/World-of-Titan/Popular-Acclaim.md) - Folk heroes, celebrities, and politicians
+- [Religious](./Descriptions of Social Status/World-of-Titan/Religious.md) - Religious organizations and clergy
+- [Academia](./Descriptions of Social Status/World-of-Titan/Academia.md) - Scholars, researchers, and academics
+- [Military](./Descriptions of Social Status/World-of-Titan/Military.md) - Military ranks and structures
+- [Nobility](./Descriptions of Social Status/World-of-Titan/Nobility.md) - Noble ranks and titles
+- [Secret or Private Societies](./Descriptions of Social Status/World-of-Titan/Secret-or-Private-Societies.md) - Secret organizations and private clubs
+- [Mercantile](./Descriptions of Social Status/World-of-Titan/Mercantile.md) - Business and trade
 
 ### 1985 British Columbia Campaign Setting
 
 For the 1985 British Columbia campaign setting, detailed social status descriptions are available for:
 
-- [[Descriptions of Social Status/1980s/Popular-Acclaim|Popular Acclaim]] - Political activists, environmental activists, labor organizers, feminists, and other activists
-- [[Descriptions of Social Status/1980s/Roman-Catholic-Church|Roman Catholic Church]] - Catholic hierarchy and clergy
-- [[Descriptions of Social Status/1980s/Academia|Academia]] - University researchers and academics
-- [[Descriptions of Social Status/1980s/Canadian-Armed-Forces|Canadian Armed Forces]] - CAF ranks and structures
-- [[Descriptions of Social Status/1980s/Royal-Canadian-Mounted-Police|Royal Canadian Mounted Police]] - RCMP ranks and structures
-- [[Descriptions of Social Status/1980s/Corporate-Elite|Corporate Elite]] - Employees and executives of major corporations
-- [[Descriptions of Social Status/1980s/Coast-Salish-First-Nations|Coast Salish First Nations]] - Traditional and modern First Nations roles
-- [[Descriptions of Social Status/1980s/UFO-Cults|UFO Cults]] - UFO cult hierarchies
-- [[Descriptions of Social Status/1980s/MUFON|MUFON]] - Civilian UFO investigation organization
-- [[Descriptions of Social Status/1980s/Mercantile|Mercantile]] - Business and trade
+- [Popular Acclaim](./Descriptions of Social Status/1980s/Popular-Acclaim.md) - Political activists, environmental activists, labor organizers, feminists, and other activists
+- [Roman Catholic Church](./Descriptions of Social Status/1980s/Roman-Catholic-Church.md) - Catholic hierarchy and clergy
+- [Academia](./Descriptions of Social Status/1980s/Academia.md) - University researchers and academics
+- [Canadian Armed Forces](./Descriptions of Social Status/1980s/Canadian-Armed-Forces.md) - CAF ranks and structures
+- [Royal Canadian Mounted Police](./Descriptions of Social Status/1980s/Royal-Canadian-Mounted-Police.md) - RCMP ranks and structures
+- [Corporate Elite](./Descriptions of Social Status/1980s/Corporate-Elite.md) - Employees and executives of major corporations
+- [Coast Salish First Nations](./Descriptions of Social Status/1980s/Coast-Salish-First-Nations.md) - Traditional and modern First Nations roles
+- [UFO Cults](./Descriptions of Social Status/1980s/UFO-Cults.md) - UFO cult hierarchies
+- [MUFON](./Descriptions of Social Status/1980s/MUFON.md) - Civilian UFO investigation organization
+- [Mercantile](./Descriptions of Social Status/1980s/Mercantile.md) - Business and trade
 
 ### Star Trek Campaign Setting
 
 For the Star Trek campaign setting, detailed social status descriptions are available for:
 
-- [[Descriptions of Social Status/Star-Trek/Star-Fleet-Rank|Star Fleet Rank]] - Star Fleet officer ranks and command structure
+- [Star Fleet Rank](./Descriptions of Social Status/Star-Trek/Star-Fleet-Rank.md) - Star Fleet officer ranks and command structure
 
 ## Popular Acclaim
 
-*See [[Descriptions of Social Status/World-of-Titan/Popular-Acclaim|World of Titan: Popular Acclaim]] or [[Descriptions of Social Status/1980s/Popular-Acclaim|1985 BC: Popular Acclaim]] for detailed rank descriptions.*
+*See [World of Titan: Popular Acclaim](./Descriptions of Social Status/World-of-Titan/Popular-Acclaim.md) or [1985 BC: Popular Acclaim](./Descriptions of Social Status/1980s/Popular-Acclaim.md) for detailed rank descriptions.*
 
 ## Religious
 
-*See [[Descriptions of Social Status/World-of-Titan/Religious|World of Titan: Religious]] or [[Descriptions of Social Status/1980s/Roman-Catholic-Church|1985 BC: Roman Catholic Church]] for detailed rank descriptions.*
+*See [World of Titan: Religious](./Descriptions of Social Status/World-of-Titan/Religious.md) or [1985 BC: Roman Catholic Church](./Descriptions of Social Status/1980s/Roman-Catholic-Church.md) for detailed rank descriptions.*
 
 ## Academia (including scholars of magic)
 
-*See [[Descriptions of Social Status/World-of-Titan/Academia|World of Titan: Academia]] or [[Descriptions of Social Status/1980s/Academia|1985 BC: Academia]] for detailed rank descriptions.*
+*See [World of Titan: Academia](./Descriptions of Social Status/World-of-Titan/Academia.md) or [1985 BC: Academia](./Descriptions of Social Status/1980s/Academia.md) for detailed rank descriptions.*
 
 ## Military
 
-*See [[Descriptions of Social Status/World-of-Titan/Military|World of Titan: Military]], [[Descriptions of Social Status/1980s/Canadian-Armed-Forces|1985 BC: Canadian Armed Forces]], or [[Descriptions of Social Status/1980s/Royal-Canadian-Mounted-Police|1985 BC: Royal Canadian Mounted Police]] for detailed rank descriptions.*
+*See [World of Titan: Military](./Descriptions of Social Status/World-of-Titan/Military.md), [1985 BC: Canadian Armed Forces](./Descriptions of Social Status/1980s/Canadian-Armed-Forces.md), or [1985 BC: Royal Canadian Mounted Police](./Descriptions of Social Status/1980s/Royal-Canadian-Mounted-Police.md) for detailed rank descriptions.*
 
 ## Nobility
 
-*See [[Descriptions of Social Status/World-of-Titan/Nobility|World of Titan: Nobility]] or [[Descriptions of Social Status/1980s/Corporate-Elite|1985 BC: Corporate Elite]] for detailed rank descriptions.*
+*See [World of Titan: Nobility](./Descriptions of Social Status/World-of-Titan/Nobility.md) or [1985 BC: Corporate Elite](./Descriptions of Social Status/1980s/Corporate-Elite.md) for detailed rank descriptions.*
 
 ## Secret or Private Societies
 
-*See [[Descriptions of Social Status/World-of-Titan/Secret-or-Private-Societies|World of Titan: Secret or Private Societies]], [[Descriptions of Social Status/1980s/UFO-Cults|1985 BC: UFO Cults]], or [[Descriptions of Social Status/1980s/MUFON|1985 BC: MUFON]] for detailed rank descriptions.*
+*See [World of Titan: Secret or Private Societies](./Descriptions of Social Status/World-of-Titan/Secret-or-Private-Societies.md), [1985 BC: UFO Cults](./Descriptions of Social Status/1980s/UFO-Cults.md), or [1985 BC: MUFON](./Descriptions of Social Status/1980s/MUFON.md) for detailed rank descriptions.*
 
 ## Mercantile
 
-*See [[Descriptions of Social Status/World-of-Titan/Mercantile|World of Titan: Mercantile]] or [[Descriptions of Social Status/1980s/Mercantile|1985 BC: Mercantile]] for detailed rank descriptions.*
+*See [World of Titan: Mercantile](./Descriptions of Social Status/World-of-Titan/Mercantile.md) or [1985 BC: Mercantile](./Descriptions of Social Status/1980s/Mercantile.md) for detailed rank descriptions.*
 
 ## Other Options for Handling Social Rank
 

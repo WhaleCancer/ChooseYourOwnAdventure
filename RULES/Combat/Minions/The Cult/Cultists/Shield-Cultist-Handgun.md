@@ -36,7 +36,7 @@ Shield Cultists (Handgun) are:
 Shield Cultists (Handgun) typically carry:
 
 - **Wall shield** - Large protective shield that blocks ranged attacks from the front
-- **Handgun** - [[../../Weapons/Canada 198X/_Ranged/Handguns/Pistols/Combat Handgun|Combat Handgun]] or Walther PP for ranged combat
+- **Handgun** - [Combat Handgun](../../Weapons/Canada 198X/_Ranged/Handguns/Pistols/Combat Handgun.md) or Walther PP for ranged combat
 - **Ritual items** - Symbols, fetishes, or artifacts related to their beliefs
 - **Minimal protection** - Basic clothing, relying on shield for protection
 

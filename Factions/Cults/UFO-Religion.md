@@ -11,7 +11,7 @@ A **UFO religion** is any belief system in which extraterrestrial entities opera
 
 The most prominent UFO religions have emerged in technologically advanced nations, particularly the United States, Canada, France, Britain, and Japan. In these places, the convergence of mass media, science fiction, and frequent reports of unexplained aerial phenomena created ripe conditions for a new, millenarian spirituality centered around the arrival of "space brothers."
 
-From the late 1940s onward, the archetype of the **[[Creatures/Aliens/Greys|Grey]]**—slender, pallid, with inhumanly large heads and inscrutable black eyes—dominated both popular accounts of alien contact and the iconography of UFO sects. Members of these groups often describe the Greys as messengers, healers, or angelic envoys, sent to prepare humanity for an age of cosmic unity or salvation. Ritual sightings, trance communications, and dream visitations are understood as sacred, often accompanied by "miraculous" cures or cryptic "warnings" delivered through intermediaries.
+From the late 1940s onward, the archetype of the **[Grey](./Creatures/Aliens/Greys.md)**—slender, pallid, with inhumanly large heads and inscrutable black eyes—dominated both popular accounts of alien contact and the iconography of UFO sects. Members of these groups often describe the Greys as messengers, healers, or angelic envoys, sent to prepare humanity for an age of cosmic unity or salvation. Ritual sightings, trance communications, and dream visitations are understood as sacred, often accompanied by "miraculous" cures or cryptic "warnings" delivered through intermediaries.
 
 ## Core Beliefs
 
@@ -32,7 +32,7 @@ UFO religions typically share:
 
 ## Notable UFO Religions
 
-- **[[Factions/Cults/Star-Communion|The Star Communion]]** - Pacific Northwest cult founded by Professor Lionel Finch
+- **[The Star Communion](./Factions/Cults/Star-Communion.md)** - Pacific Northwest cult founded by Professor Lionel Finch
 - **Heaven's Gate** - American cult (not yet active in 1985, but similar groups exist)
 - **Raëlian Movement** - Founded in 1974, active in 1985
 - **Various contactee groups** - Smaller organizations based on individual contact experiences

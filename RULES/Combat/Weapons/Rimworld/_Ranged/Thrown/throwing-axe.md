@@ -1,6 +1,6 @@
 # throwing axe
 
-**Variant of:** [[../Fighting-Fantasy/Short-Bow|Fighting Fantasy Short Bow]]
+**Variant of:** [Fighting Fantasy Short Bow](../Fighting-Fantasy/Short-Bow.md)
 
 ## Damage Track
 

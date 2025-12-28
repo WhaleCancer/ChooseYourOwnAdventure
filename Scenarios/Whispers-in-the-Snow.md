@@ -24,8 +24,8 @@ The remote **Porcupine Ridge Research Station** in the far Yukon has gone **radi
 
 - **Outside:**
   - The storm begins—visibility falls, air howls.
-  - PCs spot [[Creatures/Aliens/Tall-Robotic-Explorers|Tall Robotic Explorers]] moving in pairs along tree lines, pausing to scan the snow with glowing lights.
-  - PCs may catch glimpses of a **massive, shaggy humanoid silhouette** ([[Creatures/Cryptids/Sasquatch|Sasquatch]]) staying well away from the robots.
+  - PCs spot [Tall Robotic Explorers](./Creatures/Aliens/Tall-Robotic-Explorers.md) moving in pairs along tree lines, pausing to scan the snow with glowing lights.
+  - PCs may catch glimpses of a **massive, shaggy humanoid silhouette** ([Sasquatch](./Creatures/Cryptids/Sasquatch.md)) staying well away from the robots.
 - **Tension:** The Explorers are clearly looking for "the subject"—Sasquatch—and are ignoring humans unless provoked, but seem increasingly agitated by the storm and interference from other lifeforms.
 
 ## Act 4: The Truth

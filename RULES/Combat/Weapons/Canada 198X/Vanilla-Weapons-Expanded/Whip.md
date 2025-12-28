@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../Fighting-Fantasy/Improvised-Weapon|Fighting Fantasy Improvised Weapon]]
+**Corresponds to:** [Fighting Fantasy Improvised Weapon](../Fighting-Fantasy/Improvised-Weapon.md)
 
 
 ## Damage Track

@@ -14,4 +14,4 @@ In some combat situations, it might make sense to wait to fire at an opponent un
 
 ## Related Combat Options
 
-- **[[Combat-Options/Quickshot]]** - Allows a character to attack earlier in the round by taking a penalty to their attack roll
+- **[Quickshot](./Combat-Options/Quickshot.md)** - Allows a character to attack earlier in the round by taking a penalty to their attack roll

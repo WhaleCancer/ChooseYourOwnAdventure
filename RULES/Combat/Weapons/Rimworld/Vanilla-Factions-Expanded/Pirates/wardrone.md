@@ -4,7 +4,7 @@
 
 **Note:** Statistics converted from Rimworld values to Advanced Fighting Fantasy damage track system.
 
-**Corresponds to:** [[../Stellar-Adventures/Assault-Rifle|Stellar Adventures Assault Rifle]] (autonomous combat drone)
+**Corresponds to:** [Stellar Adventures Assault Rifle](../Stellar-Adventures/Assault-Rifle.md) (autonomous combat drone)
 
 
 ## Damage Track

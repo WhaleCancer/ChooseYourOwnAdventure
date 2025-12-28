@@ -38,73 +38,73 @@ For some settings the GM may decide that weapons have unlimited ammo. This makes
 
 | Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Weapons/Stellar-Adventures/Crossbow\|Crossbow]] | 2 | 2 | 3 | 3 | 4 | 4 | 5 |
-| [[Weapons/Stellar-Adventures/Bow\|Bow]] | 2 | 3 | 3 | 3 | 3 | 4 | 5 |
-| [[Weapons/Stellar-Adventures/Thrown-Knife\|Thrown Knife]] | 1 | 1 | 2 | 2 | 2 | 2 | 3 |
+| [Crossbow](./Weapons/Stellar-Adventures/Crossbow\.md) | 2 | 2 | 3 | 3 | 4 | 4 | 5 |
+| [Bow](./Weapons/Stellar-Adventures/Bow\.md) | 2 | 3 | 3 | 3 | 3 | 4 | 5 |
+| [Thrown Knife](./Weapons/Stellar-Adventures/Thrown-Knife\.md) | 1 | 1 | 2 | 2 | 2 | 2 | 3 |
 
 ### Low Tech Missile Weapons
 
 | Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Weapons/Stellar-Adventures/Pistol-Rifle\|Pistol/Rifle]] | 2 | 3 | 3 | 4 | 4 | 4 | 5 |
-| [[Weapons/Stellar-Adventures/Assault-Rifle\|Assault Rifle]] | 3 | 4 | 4 | 4 | 5 | 5 | 6 |
-| [[Weapons/Stellar-Adventures/Shotgun\|Shotgun]] | 2 | 3 | 3 | 3 | 4 | 4 | 5 |
-| [[Weapons/Stellar-Adventures/Grenade\|Grenade]] | 4 | 5 | 6 | 6 | 6 | 6 | 7 |
-| [[Weapons/Stellar-Adventures/Machine-Gun\|Machine Gun]] | 2 | 3 | 5 | 5 | 6 | 7 | 8 |
-| [[Weapons/Stellar-Adventures/RPG\|RPG]] | 5 | 6 | 6 | 6 | 6 | 7 | 8 |
-| [[Weapons/Stellar-Adventures/Flamethrower\|Flamethrower]] | 3 | 4 | 5 | 5 | 5 | 6 | 7 |
+| [Pistol/Rifle](./Weapons/Stellar-Adventures/Pistol-Rifle\.md) | 2 | 3 | 3 | 4 | 4 | 4 | 5 |
+| [Assault Rifle](./Weapons/Stellar-Adventures/Assault-Rifle\.md) | 3 | 4 | 4 | 4 | 5 | 5 | 6 |
+| [Shotgun](./Weapons/Stellar-Adventures/Shotgun\.md) | 2 | 3 | 3 | 3 | 4 | 4 | 5 |
+| [Grenade](./Weapons/Stellar-Adventures/Grenade\.md) | 4 | 5 | 6 | 6 | 6 | 6 | 7 |
+| [Machine Gun](./Weapons/Stellar-Adventures/Machine-Gun\.md) | 2 | 3 | 5 | 5 | 6 | 7 | 8 |
+| [RPG](./Weapons/Stellar-Adventures/RPG\.md) | 5 | 6 | 6 | 6 | 6 | 7 | 8 |
+| [Flamethrower](./Weapons/Stellar-Adventures/Flamethrower\.md) | 3 | 4 | 5 | 5 | 5 | 6 | 7 |
 
 ### Medium Tech Missile Weapons
 
 | Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Weapons/Stellar-Adventures/Concussion-Pistol\|Concussion Pistol]] | 4 | 4 | 5 | 5 | 6 | 6 | 7 |
-| [[Weapons/Stellar-Adventures/Flechette-Pistol\|Flechette Pistol]] | 3 | 4 | 4 | 5 | 5 | 6 | 7 |
-| [[Weapons/Stellar-Adventures/Laser-Pistol\|Laser Pistol]] | 3 | 4 | 4 | 5 | 5 | 6 | 7 |
-| [[Weapons/Stellar-Adventures/Laser-Rifle\|Laser Rifle]] | 3 | 4 | 5 | 5 | 6 | 6 | 7 |
+| [Concussion Pistol](./Weapons/Stellar-Adventures/Concussion-Pistol\.md) | 4 | 4 | 5 | 5 | 6 | 6 | 7 |
+| [Flechette Pistol](./Weapons/Stellar-Adventures/Flechette-Pistol\.md) | 3 | 4 | 4 | 5 | 5 | 6 | 7 |
+| [Laser Pistol](./Weapons/Stellar-Adventures/Laser-Pistol\.md) | 3 | 4 | 4 | 5 | 5 | 6 | 7 |
+| [Laser Rifle](./Weapons/Stellar-Adventures/Laser-Rifle\.md) | 3 | 4 | 5 | 5 | 6 | 6 | 7 |
 
 ### High Tech Missile Weapons
 
 | Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Weapons/Stellar-Adventures/Blaster-Pistol\|Blaster Pistol]] | 4 | 4 | 5 | 5 | 5 | 7 | 8 |
-| [[Weapons/Stellar-Adventures/Heavy-Laser\|Heavy Laser]] | 5 | 6 | 6 | 7 | 7 | 8 | 9 |
-| [[Weapons/Stellar-Adventures/Plasma-Rifle\|Plasma Rifle]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
-| [[Weapons/Stellar-Adventures/Fusion-Pistol\|Fusion Pistol]] | 2 | 2 | 2 | 2 | 3 | 7 | 9 |
-| [[Weapons/Stellar-Adventures/Fusion-Rifle\|Fusion Rifle]] | 2 | 2 | 2 | 3 | 4 | 8 | 10 |
-| [[Weapons/Stellar-Adventures/Stun-Pistol\|Stun Pistol]] | 3 | 4 | 4 | 4 | 4 | 5 | 6 |
-| [[Weapons/Stellar-Adventures/Freeze-Beam\|Freeze Beam]] | 1 | 2 | 2 | 3 | 3 | 3 | 4 |
-| [[Weapons/Stellar-Adventures/Tractor-Beam\|Tractor Beam]] | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| [Blaster Pistol](./Weapons/Stellar-Adventures/Blaster-Pistol\.md) | 4 | 4 | 5 | 5 | 5 | 7 | 8 |
+| [Heavy Laser](./Weapons/Stellar-Adventures/Heavy-Laser\.md) | 5 | 6 | 6 | 7 | 7 | 8 | 9 |
+| [Plasma Rifle](./Weapons/Stellar-Adventures/Plasma-Rifle\.md) | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [Fusion Pistol](./Weapons/Stellar-Adventures/Fusion-Pistol\.md) | 2 | 2 | 2 | 2 | 3 | 7 | 9 |
+| [Fusion Rifle](./Weapons/Stellar-Adventures/Fusion-Rifle\.md) | 2 | 2 | 2 | 3 | 4 | 8 | 10 |
+| [Stun Pistol](./Weapons/Stellar-Adventures/Stun-Pistol\.md) | 3 | 4 | 4 | 4 | 4 | 5 | 6 |
+| [Freeze Beam](./Weapons/Stellar-Adventures/Freeze-Beam\.md) | 1 | 2 | 2 | 3 | 3 | 3 | 4 |
+| [Tractor Beam](./Weapons/Stellar-Adventures/Tractor-Beam\.md) | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
 
 ### Basic Melee Weapons
 
 | Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Weapons/Stellar-Adventures/Axe\|Axe]] | 2 | 2 | 2 | 3 | 3 | 3 | 4 |
-| [[Weapons/Stellar-Adventures/Knife\|Knife]] | 1 | 1 | 2 | 2 | 2 | 2 | 3 |
-| [[Weapons/Stellar-Adventures/Club\|Club]] | 1 | 2 | 2 | 2 | 3 | 3 | 4 |
-| [[Weapons/Stellar-Adventures/Sword\|Sword]] | 2 | 3 | 3 | 3 | 3 | 4 | 5 |
+| [Axe](./Weapons/Stellar-Adventures/Axe\.md) | 2 | 2 | 2 | 3 | 3 | 3 | 4 |
+| [Knife](./Weapons/Stellar-Adventures/Knife\.md) | 1 | 1 | 2 | 2 | 2 | 2 | 3 |
+| [Club](./Weapons/Stellar-Adventures/Club\.md) | 1 | 2 | 2 | 2 | 3 | 3 | 4 |
+| [Sword](./Weapons/Stellar-Adventures/Sword\.md) | 2 | 3 | 3 | 3 | 3 | 4 | 5 |
 
 ### Low Tech Melee Weapons
 
 | Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Weapons/Stellar-Adventures/Chainsaw\|Chainsaw]] | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
+| [Chainsaw](./Weapons/Stellar-Adventures/Chainsaw\.md) | 2 | 3 | 3 | 4 | 4 | 5 | 6 |
 
 ### Medium Tech Melee Weapons
 
 | Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Weapons/Stellar-Adventures/Force-Sword\|Force Sword]] | 3 | 3 | 4 | 4 | 4 | 4 | 5 |
-| [[Weapons/Stellar-Adventures/Stun-Rod\|Stun Rod]] | 2 | 2 | 2 | 3 | 3 | 3 | 4 |
+| [Force Sword](./Weapons/Stellar-Adventures/Force-Sword\.md) | 3 | 3 | 4 | 4 | 4 | 4 | 5 |
+| [Stun Rod](./Weapons/Stellar-Adventures/Stun-Rod\.md) | 2 | 2 | 2 | 3 | 3 | 3 | 4 |
 
 ### High Tech Melee Weapons
 
 | Weapon | 1 | 2 | 3 | 4 | 5 | 6 | 7+ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [[Weapons/Stellar-Adventures/Laser-Sword\|Laser Sword]] | 2 | 3 | 4 | 4 | 4 | 5 | 6 |
-| [[Weapons/Stellar-Adventures/Energy-Whip\|Energy Whip]] | 1 | 1 | 2 | 2 | 3 | 4 | 5 |
-| [[Weapons/Stellar-Adventures/Blast-Rod\|Blast Rod]] | 2 | 2 | 2 | 3 | 3 | 3 | 4 |
+| [Laser Sword](./Weapons/Stellar-Adventures/Laser-Sword\.md) | 2 | 3 | 4 | 4 | 4 | 5 | 6 |
+| [Energy Whip](./Weapons/Stellar-Adventures/Energy-Whip\.md) | 1 | 1 | 2 | 2 | 3 | 4 | 5 |
+| [Blast Rod](./Weapons/Stellar-Adventures/Blast-Rod\.md) | 2 | 2 | 2 | 3 | 3 | 3 | 4 |
 
 ### Natural Weapons
 
@@ -123,28 +123,28 @@ For some settings the GM may decide that weapons have unlimited ammo. This makes
 
 | Weapon | Ammo | Ammo/Slot | Range | Special |
 | :--- | :--- | :--- | :--- | :--- |
-| [[Weapons/Stellar-Adventures/Crossbow\|Crossbow]] | 1 | 20 | Short | No reload |
-| [[Weapons/Stellar-Adventures/Bow\|Bow]] | 1 | 20 | Short | No reload |
-| [[Weapons/Stellar-Adventures/Thrown-Knife\|Thrown Knife]] | 1 | 5 | Very Short | No reload |
-| [[Weapons/Stellar-Adventures/Pistol-Rifle\|Pistol/Rifle]] | 6/9 | 5 | Short/Medium | |
-| [[Weapons/Stellar-Adventures/Assault-Rifle\|Assault Rifle]] | 10 | 4 | Medium | |
-| [[Weapons/Stellar-Adventures/Shotgun\|Shotgun]] | 2 | 10 | Very Short | Targets several adjacent enemies |
-| [[Weapons/Stellar-Adventures/Grenade\|Grenade]] | 1 | 4 | Very Short | No reload |
-| [[Weapons/Stellar-Adventures/Machine-Gun\|Machine Gun]] | 8 | 3 | Medium | |
-| [[Weapons/Stellar-Adventures/RPG\|RPG]] | 1 | 1 | Long | |
-| [[Weapons/Stellar-Adventures/Flamethrower\|Flamethrower]] | 6 | 2 | Very Short | Can Ignite |
-| [[Weapons/Stellar-Adventures/Concussion-Pistol\|Concussion Pistol]] | 10 | 3 | Short | Fires bolts |
-| [[Weapons/Stellar-Adventures/Flechette-Pistol\|Flechette Pistol]] | 5 | 6 | Very Short | Armour roll +2 |
-| [[Weapons/Stellar-Adventures/Laser-Pistol\|Laser Pistol]] | 16 | 4 | Medium | |
-| [[Weapons/Stellar-Adventures/Laser-Rifle\|Laser Rifle]] | 24 | 3 | Long | |
-| [[Weapons/Stellar-Adventures/Blaster-Pistol\|Blaster Pistol]] | 14 | 4 | Medium | |
-| [[Weapons/Stellar-Adventures/Heavy-Laser\|Heavy Laser]] | 12 | 1 | Very Long | -2 Skill |
-| [[Weapons/Stellar-Adventures/Plasma-Rifle\|Plasma Rifle]] | 6 | 2 | Short | Only Sealed armour protects |
-| [[Weapons/Stellar-Adventures/Fusion-Pistol\|Fusion Pistol]] | 8 | 2 | Medium | +2 damage vs unarmoured |
-| [[Weapons/Stellar-Adventures/Fusion-Rifle\|Fusion Rifle]] | 12 | 1 | Medium | +2 damage vs unarmoured |
-| [[Weapons/Stellar-Adventures/Stun-Pistol\|Stun Pistol]] | 10 | 3 | Short | Damage is restored in 10min-cannot kill |
-| [[Weapons/Stellar-Adventures/Freeze-Beam\|Freeze Beam]] | 14 | 2 | Medium | On a damage roll of 6, Target loses next rnd |
-| [[Weapons/Stellar-Adventures/Tractor-Beam\|Tractor Beam]] | 8 | 1 | Long | On a hit can push or pull target |
+| [Crossbow](./Weapons/Stellar-Adventures/Crossbow\.md) | 1 | 20 | Short | No reload |
+| [Bow](./Weapons/Stellar-Adventures/Bow\.md) | 1 | 20 | Short | No reload |
+| [Thrown Knife](./Weapons/Stellar-Adventures/Thrown-Knife\.md) | 1 | 5 | Very Short | No reload |
+| [Pistol/Rifle](./Weapons/Stellar-Adventures/Pistol-Rifle\.md) | 6/9 | 5 | Short/Medium | |
+| [Assault Rifle](./Weapons/Stellar-Adventures/Assault-Rifle\.md) | 10 | 4 | Medium | |
+| [Shotgun](./Weapons/Stellar-Adventures/Shotgun\.md) | 2 | 10 | Very Short | Targets several adjacent enemies |
+| [Grenade](./Weapons/Stellar-Adventures/Grenade\.md) | 1 | 4 | Very Short | No reload |
+| [Machine Gun](./Weapons/Stellar-Adventures/Machine-Gun\.md) | 8 | 3 | Medium | |
+| [RPG](./Weapons/Stellar-Adventures/RPG\.md) | 1 | 1 | Long | |
+| [Flamethrower](./Weapons/Stellar-Adventures/Flamethrower\.md) | 6 | 2 | Very Short | Can Ignite |
+| [Concussion Pistol](./Weapons/Stellar-Adventures/Concussion-Pistol\.md) | 10 | 3 | Short | Fires bolts |
+| [Flechette Pistol](./Weapons/Stellar-Adventures/Flechette-Pistol\.md) | 5 | 6 | Very Short | Armour roll +2 |
+| [Laser Pistol](./Weapons/Stellar-Adventures/Laser-Pistol\.md) | 16 | 4 | Medium | |
+| [Laser Rifle](./Weapons/Stellar-Adventures/Laser-Rifle\.md) | 24 | 3 | Long | |
+| [Blaster Pistol](./Weapons/Stellar-Adventures/Blaster-Pistol\.md) | 14 | 4 | Medium | |
+| [Heavy Laser](./Weapons/Stellar-Adventures/Heavy-Laser\.md) | 12 | 1 | Very Long | -2 Skill |
+| [Plasma Rifle](./Weapons/Stellar-Adventures/Plasma-Rifle\.md) | 6 | 2 | Short | Only Sealed armour protects |
+| [Fusion Pistol](./Weapons/Stellar-Adventures/Fusion-Pistol\.md) | 8 | 2 | Medium | +2 damage vs unarmoured |
+| [Fusion Rifle](./Weapons/Stellar-Adventures/Fusion-Rifle\.md) | 12 | 1 | Medium | +2 damage vs unarmoured |
+| [Stun Pistol](./Weapons/Stellar-Adventures/Stun-Pistol\.md) | 10 | 3 | Short | Damage is restored in 10min-cannot kill |
+| [Freeze Beam](./Weapons/Stellar-Adventures/Freeze-Beam\.md) | 14 | 2 | Medium | On a damage roll of 6, Target loses next rnd |
+| [Tractor Beam](./Weapons/Stellar-Adventures/Tractor-Beam\.md) | 8 | 1 | Long | On a hit can push or pull target |
 
 ## Melee Weapon Statistics
 
@@ -154,10 +154,10 @@ Some higher technology melee weapons have an ammo rating, and an ammo/slot. Thes
 
 | Weapon | Ammo | Ammo/slot |
 | :--- | :--- | :--- |
-| [[Weapons/Stellar-Adventures/Chainsaw\|Chainsaw]] | 16 | 1 |
-| [[Weapons/Stellar-Adventures/Force-Sword\|Force Sword]] | 18 | 1 |
-| [[Weapons/Stellar-Adventures/Laser-Sword\|Laser Sword]] | 20 | 1 |
-| [[Weapons/Stellar-Adventures/Stun-Rod\|Stun Rod]] | 18 | 1 |
-| [[Weapons/Stellar-Adventures/Energy-Whip\|Energy Whip]] | 24 | 1 |
-| [[Weapons/Stellar-Adventures/Blast-Rod\|Blast Rod]] | 6 | 1 |
+| [Chainsaw](./Weapons/Stellar-Adventures/Chainsaw\.md) | 16 | 1 |
+| [Force Sword](./Weapons/Stellar-Adventures/Force-Sword\.md) | 18 | 1 |
+| [Laser Sword](./Weapons/Stellar-Adventures/Laser-Sword\.md) | 20 | 1 |
+| [Stun Rod](./Weapons/Stellar-Adventures/Stun-Rod\.md) | 18 | 1 |
+| [Energy Whip](./Weapons/Stellar-Adventures/Energy-Whip\.md) | 24 | 1 |
+| [Blast Rod](./Weapons/Stellar-Adventures/Blast-Rod\.md) | 6 | 1 |
 
