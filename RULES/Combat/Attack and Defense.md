@@ -4,9 +4,11 @@ In combat, **players roll all dice**. When a player attacks, they roll to hit us
 
 ## When a Player Attacks
 
+The player rolls **2D6** and must roll **under** their **PHYSICAL rating** plus their appropriate Skill (see Attacker Skills below), minus any [combat modifiers](Combat%20Modifiers.md) that apply. The exact formula depends on whether the attack is melee or ranged.
+
 ### Melee Attacks
 
-The player rolls **2D6** and must roll **under** their **PHYSICAL rating** plus their appropriate Skill (see Melee Attacker Skills below), minus the defender's skill level, minus any [combat modifiers](Combat%20Modifiers.md) that apply.
+For melee attacks, the defender's skill level reduces the attacker's roll.
 
 **Formula:** Roll 2D6 under (Character's PHYSICAL + Character's Skill - Opponent's Skill - Combat Modifiers)
 
@@ -14,7 +16,7 @@ The Player provides their Character's PHYSICAL rating, their Character's skill l
 
 ### Ranged Attacks
 
-The player rolls **2D6** and must roll **under** their **PHYSICAL rating** plus their appropriate Skill (see Ranged Attacker Skills below), minus any [combat modifiers](Combat%20Modifiers.md) that apply. The defender's weapon skill does not reduce the attacker's roll for ranged attacks.
+For ranged attacks, the defender's weapon skill does not reduce the attacker's roll.
 
 **Formula:** Roll 2D6 under (Character's PHYSICAL + Character's Skill - Combat Modifiers)
 
