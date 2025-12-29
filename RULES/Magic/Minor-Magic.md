@@ -161,3 +161,63 @@ This cantrip will cause the target to stutter uncontrollably whenever they try t
 ### Weather Protection
 
 This useful cantrip will protect the caster from the worst of the weather for 1 hour. In driving rain, the caster will be merely damp. In biting cold the caster will be chilly, and in blazing sunshine the caster will be warm and a bit red. This cantrip can really increase the comfort level of a travelling magician, but if the weather is really terrible, the caster will still need proper protection.
+
+### A winning Smile [Always costs one MP]
+
+This spell gives you +1 skill when making SKILL – BARGAIN roll. As a reaction when you make a SKILL - BARGAIN roll, you modify the result by 10%, if you succeed.
+
+i.e. you sell three short swords for 30g. As a reaction, you may cast 'A Winning Smile', if you succeed to get an extra 10% on the sale price. Thus, if you BARGAIN to sell 100gp of goods, and you win with this cantrip in effect, you get 110gp.
+
+### Ethereal Pocket
+
+This spell, which lasts for an hour, creates a small interdimensional space. One small object (no heavier than a few pounds in weight or longer than a six inches in length) may be secreted away. Only one of these spells may be active at any time. i.e. if the caster uses it on themselves, they cannot cast on another person. Whilst active, the targeted object cannot be subject to 'pickpocket, theft, pilfering, searching or removal by any nefarious means. At the end of the duration, the item will reappear in the right hand of the caster.
+
+If the caster invests 1MP, which is lost, even if the spell succeeds, the duration may be extended to 24hr. This spell is very useful for keeping a special item very safe. If someone has the Second Sight skill, a successful check will reveal the location of the pocket to them.
+
+### Applause
+
+For the vainglorious mage, this minor magic spell causes a ripple of applause and cheering to be heard just after they cast their next spell (not minor magic). The 'real' spell must be cast within 3 rounds of casting Applause to have the effect apply.
+
+### Good as New
+
+When cast upon a non-magical item, it is cleaned to the point where it appears to be new. May be cast once per day, and may only be cast on one item per day A rusty, old, beaten and broken goblin short sword may be repaired and cleaned to look like it is new. After 2 days it will become apparent the weapon is defective (It will look like it did before this spell was cast).
+
+### Chutney
+
+By means of this spell the caster may turn raw ingredients into RATIONS. For the cost of two (2) encumbrance slots of 'ingredients' the caster has in their possessions, they may cook, cool and congeal them into one PROVISION with no fire or ice available. The process takes ten minutes. The Chutney appears anywhere within 30cm of the caster, at the caster's choice. If there is a suitable receptacle ready (an open glass jar or some such), the 'Ingredients' are immediately turned into Chutney. If there is no receptacle within reach the 'Chutney' lands on the ground with a splat.
+
+### Hammer Finger
+
+Allows the caster to use their fingers to hammer in nails that won't come out for one minute, after which time the nails can be removed as ordinary nails. They must have nails available to use, the spell does not create them.
+
+### Hot Towel
+
+Allows the caster to shape the facial hair of a recipient. Requires a towel or similar cloth heated to nearly scalding temperatures, placed on the face of an ally or themselves. The towel must remain in place for five minutes. If removed before five minutes, the spell is cancelled. After five minutes, the recipient can immediately select any desired facial hair design. At the Director's discretion, this cantrip can provide a +1 or +2 bonus to social skill tests like Etiquette, Disguise, or Con, depending on the chosen style.
+
+### Knot
+
+A cantrip cast by tying a knot, making it untieable for one minute. A SKILL test is required. If successful, the knot becomes a normal knot after the minute duration ends. If failed, it falls apart after the minute is over.
+
+### North
+
+This spell only works outdoors. The caster spends one minute observing the environment. After one hour, the caster knows which direction is North.
+
+### On a Roll
+
+Provides an additional +1 morale boost to anyone attacking in combat, affecting their next physical action, including combat. Can only be cast on a target that has just scored a critical attack roll.
+
+### Smoke Rings
+
+Allows the caster to create small, shaped smoke figures (e.g., smoke ships or a rabbit). Requires a pipe or other smoking instrument. Lasts for one hour, or for the duration of an evening if the caster remains within a comfortable, well-furnished drinking establishment with a good fire, ale, and decent food.
+
+### Sniff (Dwarf Only)
+
+Cast as a reaction with an Awareness roll. When underground, the dwarf can sniff the air, wipe walls, and discern dust thickness to estimate the age of rooms. Upon entering an enclosed room, an Awareness roll can be made. If successful, the dwarf can immediately determine how long it has been since someone last disturbed the area. If a party opens a crypt door, a Dwarf immediately makes a 'Sniff (Awareness)' roll. If successful and the spell is cast, they get a fairly accurate estimate of when the room was last occupied.
+
+### Spectral Dunce Hat
+
+Forms a hat on the target's head. One round after it's cast, the hat contracts and causes one point of damage. The hat appears like a dunce's hat and remains visible until it contracts and causes damage. Can only be cast on a target that has just fumbled any SKILL or MAGIC roll.
+
+### Splice
+
+Allows sections of rope to be spliced together to form longer ropes. The splicing is permanent and is as strong as the weaker of the two ropes joined.

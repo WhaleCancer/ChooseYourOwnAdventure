@@ -1,7 +1,6 @@
 # Axe Cultist
 
 **Type:** Cult member / Minion  
-**Era:** 1985
 
 ## Overview
 

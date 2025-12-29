@@ -8,6 +8,10 @@
 
 Fists and blasters are fine, but sometimes you just want to save your ammo or the skin of your knuckles and just bash someone over the head. The Melee special skill gives Heroes a better chance of landing a blow with an iron pipe, a sword or a laserblade.
 
+## Proficiency
+
+See [Weapon Proficiency](../../../Combat/Weapons/Weapon%20Proficiency.md) for rules on weapon proficiency and penalties for insufficient skill.
+
 ## Related Skills
 
 This general skill relates to the following specialized melee weapon skills:

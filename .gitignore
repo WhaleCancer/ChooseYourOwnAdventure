@@ -61,6 +61,15 @@ $RECYCLE.BIN/
 # Problematic file that can't be indexed by git
 RULES/Skills/LUCK/Con.md
 
+# Elf variant files (to be updated)
+Creatures/Humanoids/Forces of Good/Elves/Black-Elf.md
+Creatures/Humanoids/Forces of Good/Elves/Desert-Elf.md
+Creatures/Humanoids/Forces of Good/Elves/Ice-Elf.md
+Creatures/Humanoids/Forces of Good/Elves/Jungle-Elf.md
+Creatures/Humanoids/Forces of Good/Elves/Mountain-Elf.md
+Creatures/Humanoids/Forces of Good/Elves/Sea-Elf.md
+Creatures/Humanoids/Forces of Good/Elves/Wild-Elf.md
+
 # Tools directory (large files)
 tools/
 

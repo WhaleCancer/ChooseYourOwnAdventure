@@ -34,13 +34,3 @@ The Director must also consider whether a "front line" can prevent the enemy fro
 - **Open areas** (e.g., an open field): Two warriors facing six enemies would not be able to prevent some of the enemy from working their way around to attack any spearmen behind.
 
 These situations must be decided on a case-by-case basis by the Director based on terrain, positioning, and the number of combatants involved.
-
-
-
-
-
-
-
-
-
-

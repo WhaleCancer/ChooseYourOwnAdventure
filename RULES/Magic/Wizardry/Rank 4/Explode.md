@@ -1,0 +1,4 @@
+# Explode (4)
+
+This spell is similar to the Breach spell, but causes the target to explode violently as if blown apart by a huge amount of gunpowder. The target may be up to 50m away, and the base spell will explode up to one cubic metre of material. The amount of target exploded may be increased by expending an additional 4 magic points per cubic metre. This spell is very slow to cast, requiring 5 minutes of uninterrupted casting and preparation per cubic metre to be exploded. However, when the spell is completed, the targeted material will explode outwards, damaging an area around the blast equal to 2 metres for every cubic metre. The exact damage inflicted on any targets in this blast zone will depend on both the distance and the material exploded. If a living target is to be exploded with this spell, he receives a test for LUCK to resist the spell.
+

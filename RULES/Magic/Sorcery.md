@@ -292,3 +292,27 @@ This spell is somewhere between the Levitate and Fly spells in power. Once cast,
 **Component:** A pearl ring
 
 This spell causes the caster and all that he carries to become invisible. The invisibility lasts for as many minutes as the caster has points in Inner Strength, although it will end early if the caster attacks anyone or casts another spell.
+
+### TAX (2)
+
+**Component:** One gold piece (consumed)
+
+Allows the Sorcerer to assess a person's wealth level (destitute to very wealthy).
+
+### RAT (3)
+
+**Component:** A dead rat
+
+Summons a swarm of small biting/scratching animals or insects under the caster's control. The swarm deals damage and imposes penalties on skill tests.
+
+### NAB (3)
+
+**Component:** A piece of rubbery material (not consumed)
+
+Allows the Sorcerer to lengthen their limbs, enabling actions like grabbing items, climbing, and stepping across chasms.
+
+### QIK (3)
+
+**Component:** A rabbit's tail (not consumed)
+
+Allows the caster to run at three times their normal speed and grants a bonus to running skill tests.

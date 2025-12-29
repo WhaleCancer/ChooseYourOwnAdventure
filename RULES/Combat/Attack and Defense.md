@@ -2,97 +2,14 @@
 
 In combat, **players roll all dice**. When a player attacks, they roll to hit using their own ability. When a player is attacked, they roll to defend using the opponent's ability. Players roll **2D6** and must roll **under** the appropriate value, modified by [combat modifiers](Combat%20Modifiers.md). The key difference between melee and ranged combat is that for melee attacks, the defender's skill level reduces the attacker's roll, while for ranged attacks, the defender's weapon skill does not affect the attacker's roll. This system applies to both melee and ranged combat.
 
-## When a Player Attacks
+## Making Attacks and Defenses
 
-The player rolls **2D6** and must roll **under** their **PHYSICAL rating** plus their appropriate Skill (see the skill lists below for each attack type), minus any [combat modifiers](Combat%20Modifiers.md) that apply. The exact formula depends on whether the attack is melee or ranged.
-
-### Melee Attacks
-
-For melee attacks, the defender's skill level reduces the attacker's roll.
-
-**Formula:** Roll 2D6 under (Character's PHYSICAL + Character's Skill - Opponent's Skill - Combat Modifiers)
-
-The attacker uses one of the following skills when making a melee attack:
-
-- **[Brawling](../../Skills/PHYSICAL/Melee-Combat/Brawling.md)** - For unarmed combat, knives, or improvised weapons
-- **[Melee Weapons](../../Skills/PHYSICAL/Melee-Combat/Melee-Weapons.md)** - For [swords](../../Skills/PHYSICAL/Melee-Combat/Melee%20Weapons/Swords.md), [axes](../../Skills/PHYSICAL/Melee-Combat/Melee%20Weapons/Axes.md), [clubs](../../Skills/PHYSICAL/Melee-Combat/Melee%20Weapons/Clubs.md), [staves](../../Skills/PHYSICAL/Melee-Combat/Melee%20Weapons/Staves.md), [polearms](../../Skills/PHYSICAL/Melee-Combat/Melee%20Weapons/Polearms.md), and other traditional melee weapons
-- **[Martial Arts](../../Skills/PHYSICAL/Martial-Arts.md)** - For unarmed combat using martial arts techniques
-
-### Ranged Attacks
-
-For ranged attacks, the defender's weapon skill does not reduce the attacker's roll. However, the defender may use Dodge or Armor (with shield) to defend, and the Director may provide other modifiers.
-
-**Formula:** Roll 2D6 under (Character's PHYSICAL + Character's Skill - Combat Modifiers)
-
-The attacker uses one of the following skills when making a ranged attack:
-
-- **[Firearms-Light](../../Skills/PHYSICAL/Ranged-Weapons/Firearms-Light.md)** - For [pistols](../../Skills/PHYSICAL/Ranged-Weapons/Firearms-Light/Pistols.md), [rifles](../../Skills/PHYSICAL/Ranged-Weapons/Firearms-Light/Rifles.md), [shotguns](../../Skills/PHYSICAL/Ranged-Weapons/Firearms-Light/Shotguns.md), [SMGs](../../Skills/PHYSICAL/Ranged-Weapons/Firearms-Light/SMGs.md), and other light firearms
-- **[Firearms-Heavy](../../Skills/PHYSICAL/Ranged-Weapons/Firearms-Heavy.md)** - For [heavy machine guns](../../Skills/PHYSICAL/Ranged-Weapons/Firearms-Heavy/Heavy-Machine-Guns.md), [launchers](../../Skills/PHYSICAL/Ranged-Weapons/Firearms-Heavy/Launchers.md), [energy throwers](../../Skills/PHYSICAL/Ranged-Weapons/Firearms-Heavy/Energy-Throwers.md), and other heavy weapons
-- **[Missile Weapons](../../Skills/PHYSICAL/Ranged-Weapons/Missile-Weapons.md)** - For [bows](../../Skills/PHYSICAL/Ranged-Weapons/Missile%20Weapons/Bows.md), [thrown weapons](../../Skills/PHYSICAL/Ranged-Weapons/Missile%20Weapons/Thrown.md), and other missile weapons
-
-> ### At the Table
->
-> The Player provides their Character's PHYSICAL rating, their Character's skill level, and any applicable combat modifiers. The Director provides the opponent's skill level (if any) or any modifiers not accounted for (such as special abilities).
-
-**Special Results:** If you roll double 6, the attack automatically hits and inflicts a critical hit. If you roll double 1, the attack automatically misses and the Character fumbles. See [Critical Hits](Critical%20Hits.md) and [Fumbles](Fumbles.md) for details.
-
-## When a Player is Attacked
-
-When a player is attacked, they roll **2D6** and must roll **under** the attacker's **PHYSICAL rating** plus the attacker's skill level, minus the player's appropriate Skill (see Defender Skills below), minus any [combat modifiers](Combat%20Modifiers.md) that apply. If the player's defense roll is under this modified value, they avoid the attack. If the roll equals or exceeds this value, they are hit. The exact formula and available skills depend on whether the attack is melee or ranged.
-
-### Defending Against Melee Attacks
-
-**Formula:** Roll 2D6 under (Opponent's PHYSICAL + Opponent's Skill - Character's Skill - Combat Modifiers)
-
-The player uses one of the following skills when defending against a melee attack. The player's skill level is **subtracted** from the opponent's ability (opponent's PHYSICAL + opponent's skill), making it easier to defend:
-
-- **Weapon Skill** (default) - The player subtracts their weapon skill level (from the Melee Attacker Skills list above) from the opponent's ability. [Brawling](../../Skills/PHYSICAL/Melee-Combat/Brawling.md) cannot be used as a defender skill against [Melee Weapons](../../Skills/PHYSICAL/Melee-Combat/Melee-Weapons.md) or [Martial Arts](../../Skills/PHYSICAL/Martial-Arts.md), except when the attacker is using a melee weapon but has insufficient skill to wield it properly. In that case, the defender may use Brawling.
-- **[Armor](../../Skills/PHYSICAL/Armor%20(Special%20Skill).md)** - Used by defenders wielding a shield; the player may subtract either their Armor skill level or their weapon skill level from the opponent's ability.
-- **[Dodge](../../Skills/PHYSICAL/Dodge.md)** - Used by defenders who are not wearing armor; the player may use their Dodge skill level instead of their weapon skill, subtracting it from the opponent's ability.
-
-### Defending Against Ranged Attacks
-
-**Weapon skills cannot be used to defend against ranged attacks** - only Dodge or Armor (with shield) may be used.
-
-**Formula:** Roll 2D6 under (Opponent's PHYSICAL + Opponent's Skill - Character's Dodge/Armor Skill - Combat Modifiers)
-
-The player uses one of the following skills when defending against a ranged attack. The player's skill level is **subtracted** from the opponent's ability (opponent's PHYSICAL + opponent's skill), making it easier to defend:
-
-- **[Dodge](../../Skills/PHYSICAL/Dodge.md)** - The player may use their Dodge skill level, subtracting it from the opponent's ability (opponent's PHYSICAL + opponent's skill). This represents evasive movement and taking cover.
-- **[Armor](../../Skills/PHYSICAL/Armor%20(Special%20Skill).md)** - Used by defenders wielding a shield; the player may subtract their Armor skill level from the opponent's ability (opponent's PHYSICAL + opponent's skill).
-
-> ### At the Table
->
-> The Director provides the opponent's PHYSICAL rating and skill level (the base target number), while the Player provides the Character's skill level (or Dodge/Armor skill for ranged attacks) and any applicable combat modifiers to subtract from the target number.
-
-**Special Results:** If you roll double 6, the attacker fumbles their attack and the Character automatically avoids the attack regardless of the roll result. If you roll double 1, the attacker scores a critical hit and the Character automatically fails to defend, being hit with a critical hit. See [Fumbles](Fumbles.md) and [Critical Hits](Critical%20Hits.md) for details.
+See [When a Player Attacks](Attack%20and%20Defense/When%20a%20Player%20Attacks.md) for detailed rules on making attacks, including formulas, skills, and what information players and the Director provide. See [When a Player is Attacked](Attack%20and%20Defense/When%20a%20Player%20is%20Attacked.md) for detailed rules on defending against attacks, including formulas, skills, and what information players and the Director provide.
 
 ## Resolution
 
-### Attacking
-
-**Melee Attacks:** If the player's attack roll is under the modified value (PHYSICAL + skill - opponent's skill - modifiers), they hit and inflict damage. If the roll equals or exceeds this value, the attack misses.
-
-**Ranged Attacks:** If the player's attack roll is under the modified value (PHYSICAL + skill - modifiers), they hit and inflict damage. If the roll equals or exceeds this value, the attack misses. Note that the defender's weapon skill does not reduce the attacker's roll for ranged attacks.
-
-If the attack hits, the player rolls another D6 and compares the roll to their weapon damage table. The value from that table is the amount of STAMINA POINTS damage inflicted. The defender (NPC or another player) then rolls a D6 and compares the value to their [Armor](Armor-Rimworld.md) or [Dodge](Dodge.md) table (whichever they are using). The value from that table is the amount of STAMINA POINTS protection provided and should be deducted from the damage inflicted. Whatever damage is left should be deducted from the current STAMINA POINTS of the target.
-
-### Defending
-
-**Melee Attacks:** If the player's defense roll is under the modified value (opponent's PHYSICAL + opponent's skill - player's skill - modifiers), they avoid the attack. If the roll equals or exceeds this value, they are hit.
-
-**Ranged Attacks:** If the player's defense roll is under the modified value (opponent's PHYSICAL + opponent's skill - player's Dodge/Armor skill - modifiers), they avoid the attack. If the roll equals or exceeds this value, they are hit. Note that weapon skills cannot be used to defend against ranged attacks.
-
-If the player is hit, the attacker (NPC or another player) determines damage from their weapon damage table. The player then rolls a D6 and compares the value to their [Armor](Armor-Rimworld.md) or [Dodge](Dodge.md) table (whichever they are using). The value from that table is the amount of STAMINA POINTS protection provided and should be deducted from the damage inflicted. Whatever damage is left should be deducted from the player's current STAMINA POINTS.
-
-If a character's STAMINA POINTS are reduced to 0 or lower, see [Death and Dying](Death%20and%20Dying.md) for the rules on unconsciousness, dying, and death.
-
-Once all of this has been worked out for all combats taking place, the round is over and the next one will start.
+See [Attack Resolution](Attack%20and%20Defense/Attack%20Resolution.md) and [Defense Resolution](Attack%20and%20Defense/Defense%20Resolution.md) for detailed rules on resolving attacks and defenses, including damage, critical hits, fumbles, and what happens when STAMINA POINTS reach 0.
 
 ## Leaving Melee Combat
 
-Melee combat occurs when a character is adjacent to an enemy who is wielding a melee weapon. [Martial Arts](../../Skills/PHYSICAL/Martial-Arts.md) counts as a melee weapon for this purpose. [Brawling](../../Skills/PHYSICAL/Melee-Combat/Brawling.md) weapons such as brass knuckles or knives do not count as melee weapons for this purpose.
-
-In order to escape from melee combat, a character must, at the start of the round, either make a successful [Acrobatics](../../Skills/PHYSICAL/Acrobatics.md) Skill roll (using PHYSICAL) or Test their LUCK. If this roll is failed, the character or monster must remain in melee combat that round and fight on, or else be automatically hit once by every enemy they are facing. They may of course re-attempt to leave on the following round.
-
-If the [Acrobatics](../../Skills/PHYSICAL/Acrobatics.md) or LUCK test is successful, the combatant may leave the melee without incident and move away.
+See [Leaving Melee Combat](Leaving%20Melee%20Combat.md) for rules on escaping from melee combat.
